@@ -1,59 +1,53 @@
 import numpy as np
-import cv2
-import mss
 import mss.tools
-
-# import mss.tools
-from PIL import Image
+import cv2
 import pytesseract
-import time
+from PIL import Image
+import ocr_local
+import process_image, ocr_local, ocr_online
+import serpapi
 
-q_bb = {'top': 140, 'left': 30, 'width': 160, 'height': 110}
-qp_bb = {'top': 270, 'left': 30, 'width': 160, 'height': 130}
-# a_bb = {'top': 270, 'left': 30, 'width': 160, 'height': 130}
+def printarray(array):
+    for i in array:
+        print(i)
 
+#Create initial question window
+q_bb = {'top': 230, 'left': 35, 'width': 300, 'height': 175}
 sct = mss.mss()
 output = "sct-{top}x{left}_{width}x{height}.png".format(**q_bb)
+
+#Define File Names
 q_image = "q.png"
 pq_image = "pq.png"
 
+#Arrange Window Locaitions
 cv2.namedWindow("Question")
-cv2.moveWindow("Question", 220, 0)
-
+cv2.moveWindow("Question", 360, 0)
 cv2.namedWindow("Question (Processed)")
-cv2.moveWindow("Question (Processed)", 220, 250)
-
-# cv2.namedWindow("Question (Processed)")
-# cv2.moveWindow("Question (Processed)", 220, 250)
-
-# cv2.resizeWindow("Question", 2000, 1000)
+cv2.moveWindow("Question (Processed)", 360, 380)
 
 while True:
+    #Get question, Display and save it
     q = sct.grab(q_bb)
     cv2.imshow('Question', np.array(q))
     mss.tools.to_png(q.rgb, q.size, output=q_image)
 
-    q_temp = cv2.imread(q_image)
-    pq = cv2.cvtColor(q_temp, cv2.COLOR_BGR2GRAY)
-    (thresh, pq) = cv2.threshold(pq, 127, 255, cv2.THRESH_BINARY)
-    blur = 5
-    pq = cv2.medianBlur(pq, blur)
-    cv2.imshow('Question (Processed)', pq)
-    cv2.imwrite(pq_image, pq)
+    #OCR the text from the saved files
+    print("Perfoming OCR...")
+    method = "online"
+    if method == "online":
+         ocr_text = ocr_online.ocrify(q_image)
+    elif method == "local":
+        ocr_text = ocr_local.ocrify(q_image)
+    # print("\"" + ocr_text + "\"")
 
-    ocr_text = pytesseract.image_to_string(Image.open(pq_image));
-    print("---OCR--- Blur: " + str(blur) + " \n")
-    ocr_text = ocr_text.replace("\n"," ")
-    ocr_text = ocr_text.replace("  ", " ")
-    print(ocr_text)
-    time.sleep(1)
+    print("Perfoming Online Search...")
+    site_links = serpapi.do_search(ocr_text)
+    printarray(site_links)
 
+    break
+
+    #Establish Exit Key
     if (cv2.waitKey(1) & 0xFF) == ord('q'):
         cv2.destroyAllWindows()
         break
-
-    if (cv2.waitKey(1) & 0xFF) == ord('x'):
-        ocr_text = pytesseract.image_to_string(Image.open(pq_image));
-        print("---OCR--- \n" + ocr_text)
-
-time.sleep(1);

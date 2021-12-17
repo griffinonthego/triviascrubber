@@ -1,8 +1,8 @@
 import requests
 import json
+import time
 
 def jprint(obj):
-    # create a formatted string of the Python JSON object
     text = json.dumps(obj, sort_keys=True, indent=4)
     print(text)
 
@@ -13,16 +13,20 @@ def fixtext(text):
     return text
 
 def ocrify(q_image):
-    api_key = "12739a035188957"
-    data = {"apikey": api_key}
+    ocr_apikey = "12739a035188957"
+    data = {"apikey": ocr_apikey}
     file = {'file': open('saved_ref.png', 'rb')}
 
-    response = requests.post("https://api.ocr.space/parse/image",data,files=file)
-    data = response.json()
-    # COMMENT THIS LINE vv AND UNCOMMED THAT LINE ^^ FOR ONLINE USE
-    # data = json.load(open('test_json.json'))
+    method = "JSON"
+    if (method == "JSON"):
+        data = json.load(open('test_json.json'))
+        time.sleep(1)
+    elif (method == "ONLINE"):
+        response = requests.post("https://api.ocr.space/parse/image",data,files=file)
+        data = response.json()
 
     # jprint(data)
+    print("Method: " + method)
 
     ocr_text = str(data['ParsedResults'][0]['ParsedText'])
     ocr_text = fixtext(ocr_text)
