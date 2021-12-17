@@ -1,9 +1,6 @@
 import numpy as np
 import mss.tools
 import cv2
-import pytesseract
-from PIL import Image
-import ocr_local
 import process_image, ocr_local, ocr_online
 import serpapi
 
@@ -41,9 +38,11 @@ while True:
         ocr_text = ocr_local.ocrify(q_image)
     # print("\"" + ocr_text + "\"")
 
-    print("Perfoming Online Search...")
+    print("Perfoming Google Search...")
     site_links = serpapi.do_search(ocr_text)
     printarray(site_links)
+    print("Searching Sites...")
+    search_sites.do_search(site_links)
 
     break
 
