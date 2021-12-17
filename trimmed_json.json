@@ -1,432 +1,528 @@
 {
+    "search_metadata": {
+        "id": "61bd1899224db162b64ddf87",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/0bf94d2aa186dd64/61bd1899224db162b64ddf87.json",
+        "created_at": "2021-12-17 23:09:13 UTC",
+        "processed_at": "2021-12-17 23:09:13 UTC",
+        "google_url": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&oq=which+chess+piece+has+more+than+one+common+name%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/0bf94d2aa186dd64/61bd1899224db162b64ddf87.html",
+        "total_time_taken": 1.21
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "which chess piece has more than one common name?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "which chess piece has more than one common name?",
+        "total_results": 132000000,
+        "time_taken_displayed": 0.77
+    },
     "inline_people_also_search_for": [
         {
+            "title": "Chess pieces names and pictures",
             "items": [
                 {
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfXHdcQMdf62N0bGEkkgVooigmTewT5n81xLjY-c3OWM498aD-3YmE&s=0",
-                    "link": "https://www.google.com/search?q=Software+Testing&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDdLyTPiLaksSC1WyE9TKEktLoliAZGnGOHypxg5QUzDqrKMEijbyDDDzAgmXpBkngxlp1tkmGWfYuQCqzGrNDWrgHEKMjLSjWG6swsqsqAWpGXlWP5i5A1BdkEDC-MiVoHg_LSS8sSiVIUQoFBmXvotNkmGGzO5TOMmGcUfeFK1_73e_Jt31t3lORSQ5AQAP0-_ls8AAAA&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQs9oBKAB6BAgpEAM",
-                    "name": "Software Testing",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Software+Testing&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDdLyTPiLaksSC1WyE9TKEktLoliAZGnGOHypxg5QUzDqrKMEijbyDDDzAgmXpBkngxlp1tkmGWfYuQCqzGrNDWrgHEKMjLSjWG6swsqsqAWpGXlWP5i5A1BdkEDC-MiVoHg_LSS8sSiVIUQoFBmXvotNkmGGzO5TOMmGcUfeFK1_73e_Jt31t3lORSQ5AQAP0-_ls8AAAA"
+                    "name": "Rook",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKj6Y3JemsiqNevi26g5sjKgvl4bVx7aD5XAzNGp_BSWTNwrMuRE1p&s=0",
+                    "link": "https://www.google.com/search?q=Rook+(chess)&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC6ONzCST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxjhhiOYWTBmiUExnGmMUGCQB2eal_9ilHfG76gGFsZFrDxB-fnZChpgh2neYpNkuDGTy_TLJb8zN3m4Gb74Hc5o-f0k6sMFh24AdRuQivAAAAA&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQs9oBKAB6BAg9EAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rook+%28chess%29&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC6ONzCST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxjhhiOYWTBmiUExnGmMUGCQB2eal_9ilHfG76gGFsZFrDxB-fnZChpgh2neYpNkuDGTy_TLJb8zN3m4Gb74Hc5o-f0k6sMFh24AdRuQivAAAAA"
                 },
                 {
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT9LN8ebu31J6uPRqxb-j0e7TEuCSWLgah9ko-AooonlH2caV_veDE&s=0",
-                    "link": "https://www.google.com/search?q=Integration+testing&stick=H4sIAAAAAAAAAOOQUeLUz9U3MKwqyygx4i2pLEgtVshPUyhJLS6JYgGRpxg5QArMzVLyTjEi1ELZRoYZZkYw8YIk82QoO90iwyz7FCMXWI1ZpalZBYxTkJGRbgzTnV1QkQW1IC0rx_IXI28IsgsaWBgXsQp75pWkphcllmTm54FFM_PSb7FJMtyYyWUaN8ko_sCTqv3v9ebfvLPuLs-hgCQnAAqJP-fTAAAA&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQs9oBKAF6BAgpEAQ",
-                    "name": "Integration testing",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Integration+testing&stick=H4sIAAAAAAAAAOOQUeLUz9U3MKwqyygx4i2pLEgtVshPUyhJLS6JYgGRpxg5QArMzVLyTjEi1ELZRoYZZkYw8YIk82QoO90iwyz7FCMXWI1ZpalZBYxTkJGRbgzTnV1QkQW1IC0rx_IXI28IsgsaWBgXsQp75pWkphcllmTm54FFM_PSb7FJMtyYyWUaN8ko_sCTqv3v9ebfvLPuLs-hgCQnAAqJP-fTAAAA"
+                    "name": "Bishop",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFhT0Q42WPXbFAHQJjQ329CuxxtPgTey48-3PHjn8CjfcYMX4Fzvud&s=0",
+                    "link": "https://www.google.com/search?q=Bishop+(chess)&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC6OzzKST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxhhhhsgmFkwZolBMZxpjFBgkAdnmpf_YpR3xu-oBhbGRax8TpnFGfkFChpgp2neYpNkuDGTy_TLJb8zN3m4Gb74Hc5o-f0k6sMFh24AAsZ2UvIAAAA&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQs9oBKAF6BAg9EAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bishop+%28chess%29&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC6OzzKST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxhhhhsgmFkwZolBMZxpjFBgkAdnmpf_YpR3xu-oBhbGRax8TpnFGfkFChpgp2neYpNkuDGTy_TLJb8zN3m4Gb74Hc5o-f0k6sMFh24AAsZ2UvIAAAA"
                 },
                 {
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2tU3qOil2FBCF5q_pCUFXN53OtzxudEGjFKq6N2QL4x2TS3nwgezS&s=0",
-                    "link": "https://www.google.com/search?q=Load+testing&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDLMMDMy4i2pLEgtVshPUyhJLS6JYgGRpxg5QArMzVLyTjGC1RpWlWWUQNlgfTDxgiTzZCg73SLDLPsUIxdYjVmlqVkFjFOQkZFuDNOdXVCRBbUgLSvH8hcjbwiyCxpYGBex8vjkJ6aAuZl56bfYJBluzOQyjZtkFH_gSdX-93rzb95Zd5fnUECSEwCa4JCAzAAAAA&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQs9oBKAJ6BAgpEAU",
-                    "name": "Load testing",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Load+testing&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDLMMDMy4i2pLEgtVshPUyhJLS6JYgGRpxg5QArMzVLyTjGC1RpWlWWUQNlgfTDxgiTzZCg73SLDLPsUIxdYjVmlqVkFjFOQkZFuDNOdXVCRBbUgLSvH8hcjbwiyCxpYGBex8vjkJ6aAuZl56bfYJBluzOQyjZtkFH_gSdX-93rzb95Zd5fnUECSEwCa4JCAzAAAAA"
+                    "name": "Knight",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQneRZw2R7LFmPGUsf7dxPvbczKwrVOsbwxTDfPz7yWwY0hRQqxjQRR&s=0",
+                    "link": "https://www.google.com/search?q=Knight+(chess)&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC4xKDaST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxghhhfHGyCYWTAm0Eo40xihwCAPzjQv_8Uo74zfUQ0sjItY-bzzMtMzShQ0wE7TvMUmyXBjJpfpl0t-Z27ycDN88Tuc0fL7SdSHCw7dAAaqq13yAAAA&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQs9oBKAJ6BAg9EAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Knight+%28chess%29&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC4xKDaST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxghhhfHGyCYWTAm0Eo40xihwCAPzjQv_8Uo74zfUQ0sjItY-bzzMtMzShQ0wE7TvMUmyXBjJpfpl0t-Z27ycDN88Tuc0fL7SdSHCw7dAAaqq13yAAAA"
                 },
                 {
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQXtc0AoNaOgoFc9ZIlAiXb-gSO_FdC_AHqrxfMCSSD22TnwPC8r5j&s=0",
-                    "link": "https://www.google.com/search?q=Black-box+testing&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCxIMk824i2pLEgtVshPUyhJLS6JYgGRpxg5QArMzVLyTjFC1FaVZZRA2UaGGWZGMHGQGVB2ukWGWfYpRi6wGrNKU7MKGKcgIyPdGKY7u6AiC2pBWlaO5S9G3hBkFzSwMC5iFXTKSUzO1k3KrwCLZeal32KTZLgxk8s0bpJR_IEnVfvf682_eWfdXZ5DAUlOALLCqOTRAAAA&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQs9oBKAN6BAgpEAY",
-                    "name": "Black\u2011box testing",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Black-box+testing&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCxIMk824i2pLEgtVshPUyhJLS6JYgGRpxg5QArMzVLyTjFC1FaVZZRA2UaGGWZGMHGQGVB2ukWGWfYpRi6wGrNKU7MKGKcgIyPdGKY7u6AiC2pBWlaO5S9G3hBkFzSwMC5iFXTKSUzO1k3KrwCLZeal32KTZLgxk8s0bpJR_IEnVfvf682_eWfdXZ5DAUlOALLCqOTRAAAA"
+                    "name": "Pawn",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVi_ymevf3sNQSPqqqgXkIm14dCUIDZ8xLj2vnw59ju-A7VVjVN1yQ&s=0",
+                    "link": "https://www.google.com/search?q=Pawn+(chess)&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC4xNjCST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxghhhfHGyCYWTBmiUExnGmMUGCQB2eal_9ilHfG76gGFsZFrDwBieV5Chpgh2neYpNkuDGTy_TLJb8zN3m4Gb74Hc5o-f0k6sMFh24Av_EJ7PAAAAA&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQs9oBKAN6BAg9EAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pawn+%28chess%29&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC4xNjCST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxghhhfHGyCYWTBmiUExnGmMUGCQB2eal_9ilHfG76gGFsZFrDwBieV5Chpgh2neYpNkuDGTy_TLJb8zN3m4Gb74Hc5o-f0k6sMFh24Av_EJ7PAAAAA"
                 },
                 {
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoI5fwGIfs7Bx0rhvjR8Rjsw2RAquQXiHNmLAI5CVzBjGa9_QJW4kt&s=0",
-                    "link": "https://www.google.com/search?q=Formative+assessment&stick=H4sIAAAAAAAAAOOQUeLUz9U3SLfIMMs24i2pLEgtVshPUyhJLS6JYgGRpxg5QArMzVLyTjGC1RpWlWWUQNlGhhlmRjDxgiTzZCgbbN4pRi6wGrNKU7MKGKcgIyPdGKY7u6AiC2pBWlaO5S9G3hBkFzSwMC5iFXHLL8pNLMksS1VILC5OLS7OTc0rucUmyXBjJpdp3CSj-ANPqva_15t_8866uzyHApKcACxx3-bUAAAA&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQs9oBKAR6BAgpEAc",
-                    "name": "Formative assessment",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Formative+assessment&stick=H4sIAAAAAAAAAOOQUeLUz9U3SLfIMMs24i2pLEgtVshPUyhJLS6JYgGRpxg5QArMzVLyTjGC1RpWlWWUQNlGhhlmRjDxgiTzZCgbbN4pRi6wGrNKU7MKGKcgIyPdGKY7u6AiC2pBWlaO5S9G3hBkFzSwMC5iFXHLL8pNLMksS1VILC5OLS7OTc0rucUmyXBjJpdp3CSj-ANPqva_15t_8866uzyHApKcACxx3-bUAAAA"
+                    "name": "King",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-JBHHROErPcmbUM0v22nhuL-51Y02dbD_lVHwgtfVGdxrLmNuq9j&s=0",
+                    "link": "https://www.google.com/search?q=King+(chess)&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC42yDOST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxihhscbIJhZMGaJQTGcaYxQYJAHZ5qX_2KUd8bvqAYWxkWsPN6ZeekKGmCHad5ik2S4MZPL9MslvzM3ebgZvvgdzmj5_STqwwWHbgBRNdkM8AAAAA&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQs9oBKAR6BAg9EAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=King+%28chess%29&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC42yDOST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxihhscbIJhZMGaJQTGcaYxQYJAHZ5qX_2KUd8bvqAYWxkWsPN6ZeekKGmCHad5ik2S4MZPL9MslvzM3ebgZvvgdzmj5_STqwwWHbgBRNdkM8AAAAA"
                 },
                 {
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_EBqBLzIrO3tIs5T75skmHHQySXhziAioJt4dWcDX5fPwuwlRjDOg&s=0",
-                    "link": "https://www.google.com/search?q=Graphical+user+interface+testing&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDKrNDWrMOItqSxILVbIT1MoSS0uiWIBkacYOUAqzM1S8k4xcoKYhlVlGSVQtpFhhpkRTLwgyTwZyk63yDDLPsWIZDiMU5CRkW4M051dUJEFtSAtK8fyFyNvCLILGlgYF7EquBclFmRkJifmKJQWpxYpZOaVpBalJSangpVk5qXfYpNkuDGTyzRuklH8gSdV-9_rzb95Z91dnkMBSU4ASobkbeEAAAA&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQs9oBKAV6BAgpEAg",
-                    "name": "Graphical user interface t...",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Graphical+user+interface+testing&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDKrNDWrMOItqSxILVbIT1MoSS0uiWIBkacYOUAqzM1S8k4xcoKYhlVlGSVQtpFhhpkRTLwgyTwZyk63yDDLPsWIZDiMU5CRkW4M051dUJEFtSAtK8fyFyNvCLILGlgYF7EquBclFmRkJifmKJQWpxYpZOaVpBalJSangpVk5qXfYpNkuDGTyzRuklH8gSdV-9_rzb95Z91dnkMBSU4ASobkbeEAAAA"
+                    "name": "Queen",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH754BmB_MUGQfUppob7E2X8uTKWi_FToYn9ZwOKw7q2QhiU85PcEL&s=0",
+                    "link": "https://www.google.com/search?q=Queen+(chess)&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC42LzeST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxihhscbIJhZMGaJQTGcaYxQYJAHZ5qX_2KUd8bvqAYWxkWsvIGlqal5Chpgl2neYpNkuDGTy_TLJb8zN3m4Gb74Hc5o-f0k6sMFh24A6Meh8vEAAAA&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQs9oBKAV6BAg9EAg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Queen+%28chess%29&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC42LzeST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxihhscbIJhZMGaJQTGcaYxQYJAHZ5qX_2KUd8bvqAYWxkWsvIGlqal5Chpgl2neYpNkuDGTy_TLJb8zN3m4Gb74Hc5o-f0k6sMFh24A6Meh8vEAAAA"
                 }
             ],
-            "see_more_link": "https://www.google.com/search?q=Types+of+test&stick=H4sIAAAAAAAAAOOQMeItqSxILVbIT1MoSS0uiWIBkacYOfRz9Q3MzVLyTjFygpiGVWUZJVC2kWGGmRFMvCDJPBnKTrfIMMs-xcgFVmNWaWpWAeMUZGSkG8N0ZxdUZEEtSMvKsfzFyBuC7IIGFsZFrKhCt9gkGW7M5DKNm2QUf-BJ1f73evNv3ll3l-dQQJITAGRrEh3CAAAA&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ4qYDegQIKRAJ",
-            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Types+of+test&stick=H4sIAAAAAAAAAOOQMeItqSxILVbIT1MoSS0uiWIBkacYOfRz9Q3MzVLyTjFygpiGVWUZJVC2kWGGmRFMvCDJPBnKTrfIMMs-xcgFVmNWaWpWAeMUZGSkG8N0ZxdUZEEtSMvKsfzFyBuC7IIGFsZFrKhCt9gkGW7M5DKNm2QUf-BJ1f73evNv3ll3l-dQQJITAGRrEh3CAAAA",
-            "title": "Types of test"
+            "see_more_link": "https://www.google.com/search?q=Chess+pieces+names+and+pictures&stick=H4sIAAAAAAAAAOOQMZJPzkgtLlYoyExNTi1WyEvMBZKJeSlAgeSS0qLU4ij98ozM5AwFJGUKGYnFCrn5RakKJRmJeQr5eakKyfm5ufl5YO2nGDn0c_UNkovjDRDMLBizxKAYzjRGKDDIgzPNy38xyjvjd1QDC-MiVkKKbrFJMtyYyWX65ZLfmZs83Axf_A5ntPx-EvXhgkM3ADMDjnn5AAAA&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ4qYDegQIPRAJ",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Chess+pieces+names+and+pictures&stick=H4sIAAAAAAAAAOOQMZJPzkgtLlYoyExNTi1WyEvMBZKJeSlAgeSS0qLU4ij98ozM5AwFJGUKGYnFCrn5RakKJRmJeQr5eakKyfm5ufl5YO2nGDn0c_UNkovjDRDMLBizxKAYzjRGKDDIgzPNy38xyjvjd1QDC-MiVkKKbrFJMtyYyWX65ZLfmZs83Axf_A5ntPx-EvXhgkM3ADMDjnn5AAAA"
         }
     ],
-    "inline_videos": [
+    "related_questions": [
         {
-            "channel": "MSNBC",
-            "date": "1 hour ago",
-            "duration": "3:04",
-            "link": "https://www.youtube.com/watch?v=ktUZpeu_SHA",
-            "platform": "YouTube",
-            "position": 1,
-            "thumbnail": "https://i.ytimg.com/vi/ktUZpeu_SHA/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lTqp3AWTBvZhf-hM1W7B5TNYRZsg",
-            "title": "How The Biden Administration's 'Test-To-Stay' Policy Aims To ..."
+            "question": "Do chess pieces have names?",
+            "snippet": "Well the names of all the chess pieces are the King, Queen, Rook, Bishop, Knight and Pawn. The Rook, Bishop and knight come in pairs, meanwhile there are 8 pawns in total and one King and one Queen to complete the royal family.",
+            "title": "What Are The Names Of All The Chess Pieces",
+            "link": "https://herculeschess.com/names-of-all-the-chess-pieces/",
+            "displayed_link": "https://herculeschess.com \u203a Guides"
         },
         {
-            "channel": "Pinkbike",
-            "date": "2 hours ago",
-            "duration": "17:31",
-            "link": "https://www.youtube.com/watch?v=mrqfHDDmWMI",
-            "platform": "YouTube",
-            "position": 2,
-            "thumbnail": "https://i.ytimg.com/vi/mrqfHDDmWMI/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3npZ9LD2eC6rBMaxWlp-a3dhH5G6A",
-            "title": "2022 Scor 4060 ST Review: Fast & Filthy | 2021 Fall Field Test"
+            "question": "What is the most popular chess piece?",
+            "snippet": "Queen. There's no disputing that the queen is the most mobile and therefore most powerful piece on the board. Combining the movements of the bishop and the rook, the queen can reach almost any square on the board very quickly, often by multiple routes.Sep 23, 2014",
+            "title": "Queen",
+            "link": "https://www.chess.com/article/view/chess-pieces-ranked",
+            "displayed_link": "https://www.chess.com \u203a view \u203a chess-pieces-ranked"
         },
         {
-            "channel": "Kelley Blue Book",
-            "date": "14 hours ago",
-            "duration": "8:59",
-            "link": "https://www.youtube.com/watch?v=7dg8xbH9IvA",
-            "platform": "YouTube",
-            "position": 3,
-            "thumbnail": "https://i.ytimg.com/vi/7dg8xbH9IvA/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3n4EfJsEpZLks3x5wUy4zJmmLMGCQ",
-            "title": "2022 Hyundai IONIQ 5 | Review & Road Test"
+            "question": "What is another name for the chess piece?",
+            "title": "What is another word for chesspiece?",
+            "link": "https://www.wordhippo.com/what-is/another-word-for/chesspiece.html",
+            "displayed_link": "https://www.wordhippo.com \u203a what-is \u203a chesspiece"
+        },
+        {
+            "question": "What chess piece was originally called the Elephant?",
+            "snippet": "The bishop's predecessor in medieval chess, shatranj (originally chaturanga), was the alfil, meaning \"elephant\", which could leap two squares along any diagonal, and could jump over an intervening piece.",
+            "title": "alfil",
+            "link": "https://en.wikipedia.org/wiki/Bishop_(chess)",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Bishop_(chess)"
         }
     ],
     "organic_results": [
         {
-            "about_page_link": "https://www.google.com/search?q=About+https://www.speedtest.net/&tbm=ilp&ilps=AOR-xxs833xouv7j350IeK7xeKaAi_0bSA",
-            "about_this_result": {
-                "keywords": [
-                    "test"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ],
-                "source": {
-                    "description": "Speedtest.net, also known as Speedtest by Ookla, is a web service that provides free analysis of Internet access performance metrics, such as connection data rate and latency.",
-                    "icon": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/a8c14a9f6b4b4ae1375358b70987ddc79a6d165a4d0d3aa38d9eac64e0544c2398a8b5f24f6f4a1ea8191d7a16e56166.png",
-                    "security": "secure",
-                    "source_info_link": "https://en.wikipedia.org/wiki/Speedtest.net"
-                }
-            },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5RD1THTfC6wJ:https://www.speedtest.net/+&cd=1&hl=en&ct=clnk&gl=us",
-            "displayed_link": "https://www.speedtest.net",
-            "link": "https://www.speedtest.net/",
             "position": 1,
-            "snippet": "Use Speedtest on all your devices with our free desktop and mobile apps.",
-            "title": "Speedtest by Ookla - The Global Broadband Speed Test"
-        },
-        {
-            "about_page_link": "https://www.google.com/search?q=About+https://www.merriam-webster.com/dictionary/test&tbm=ilp&ilps=AOR-xxuSgfJFpTN7E7oaMs723ZRfaSpP5w",
+            "title": "Empress (chess) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Empress_(chess)",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Empress_(chess)",
+            "snippet": "The empress is one of the most simply described fairy chess pieces and as such has a long history and has gone by many names. A generic name would be the ...",
             "about_this_result": {
-                "keywords": [
-                    "test"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ],
-                "source": {
-                    "description": "Merriam-Webster, Inc. is an American company that publishes reference books and is especially known for its dictionaries. It is the oldest dictionary publisher in the United States.\nIn 1831, George and Charles Merriam founded the company as G & C Merriam Co. in Springfield, Massachusetts.",
-                    "icon": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/a8c14a9f6b4b4ae1375358b70987ddc74dcdac987aecb9eedd465c2ee1a24a6e51f5ebee930317cf3edff63cf355a65e.png",
-                    "security": "secure",
-                    "source_info_link": "https://en.wikipedia.org/wiki/Merriam-Webster"
-                }
-            },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TGnEwn1_tb0J:https://www.merriam-webster.com/dictionary/test+&cd=9&hl=en&ct=clnk&gl=us",
-            "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a test",
-            "link": "https://www.merriam-webster.com/dictionary/test",
-            "position": 2,
-            "related_pages_link": "https://www.google.com/search?q=related:https://www.merriam-webster.com/dictionary/test+test",
-            "snippet": "1 : a critical examination, observation, evaluation, or trial specifically : the procedure of submitting a statement to such conditions or operations as will ...",
-            "title": "Test Definition & Meaning - Merriam-Webster"
-        },
-        {
-            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Test&tbm=ilp&ilps=AOR-xxuYQsZkhfamXuWVTTCKWNjv4j_zCg",
-            "about_this_result": {
-                "keywords": [
-                    "test"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ],
                 "source": {
                     "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
-                    "icon": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/a8c14a9f6b4b4ae1375358b70987ddc7a85c74631cf778924cd40a842ddc94a4f4b5b49e946ffe3109d4026382c83575.png",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
                     "security": "secure",
-                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia"
-                }
-            },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:R94CAo00wOYJ:https://en.wikipedia.org/wiki/Test+&cd=10&hl=en&ct=clnk&gl=us",
-            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Test",
-            "link": "https://en.wikipedia.org/wiki/Test",
-            "position": 3,
-            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Test+test",
-            "snippet": "Test (assessment), an educational assessment intended to measure the respondents' knowledge or other abilities. Contents. 1 Arts and entertainment; 2 Computing ...",
-            "title": "Test - Wikipedia"
-        },
-        {
-            "about_page_link": "https://www.google.com/search?q=About+https://en.wiktionary.org/wiki/test&tbm=ilp&ilps=AOR-xxvyWy7fbh8ghnAJ6mYK1QcdzEunfg",
-            "about_this_result": {
+                    "icon": "https://serpapi.com/searches/61bd1899224db162b64ddf87/images/d35d92c64f8c34ee62a644d4a7cb819f3273f630628a4688429c9668dfca83596a735ded58238986de761a159c043931.png"
+                },
                 "keywords": [
-                    "test"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ],
-                "source": {
-                    "description": "Wiktionary is a multilingual, web-based project to create a free content dictionary of terms in all natural languages and in a number of artificial languages.",
-                    "icon": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/a8c14a9f6b4b4ae1375358b70987ddc71c1cae286aef29273b0e976758c723de825948bae875f524998095509a30d291.png",
-                    "security": "secure",
-                    "source_info_link": "https://en.wikipedia.org/wiki/Wiktionary"
-                }
-            },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MOAdxo6g5IgJ:https://en.wiktionary.org/wiki/test+&cd=11&hl=en&ct=clnk&gl=us",
-            "displayed_link": "https://en.wiktionary.org \u203a wiki \u203a test",
-            "link": "https://en.wiktionary.org/wiki/test",
-            "position": 4,
-            "related_pages_link": "https://www.google.com/search?q=related:https://en.wiktionary.org/wiki/test+test",
-            "snippet": "From Middle English test, teste, from Old French test, teste (\u201can earthen vessel, especially a pot in which metals were tried\u201d), from Latin testum (\u201cthe lid ...",
-            "title": "test - Wiktionary"
-        },
-        {
-            "about_page_link": "https://www.google.com/search?q=About+https://fast.com/&tbm=ilp&ilps=AOR-xxtjcXDeDUUOttWN_BSbJm14TgkrBA",
-            "about_this_result": {
-                "keywords": [
-                    "test"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ],
-                "source": {
-                    "description": "fast.com was first indexed by Google more than 10 years ago",
-                    "icon": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/a8c14a9f6b4b4ae1375358b70987ddc785f1a5725b2d2f65445f0f9b18b8af69cc6c46c70c9b652f51157df66b4ee5ed.png",
-                    "security": "secure"
-                }
-            },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:C4odSFX1SA4J:https://fast.com/+&cd=12&hl=en&ct=clnk&gl=us",
-            "displayed_link": "https://fast.com",
-            "link": "https://fast.com/",
-            "position": 5,
-            "related_pages_link": "https://www.google.com/search?q=related:https://fast.com/+test",
-            "snippet": "How fast is your download speed? In seconds, FAST.com's simple Internet speed test will estimate your ISP speed.",
-            "title": "Fast.com: Internet Speed Test"
-        },
-        {
-            "about_page_link": "https://www.google.com/search?q=About+https://www.washingtonpost.com/education/2021/12/17/school-covid-test-cdc-quarantine/&tbm=ilp&ilps=AOR-xxvt1y-Nlpg-M-9luIZVMoadMGdT3Q",
-            "about_this_result": {
-                "keywords": [
-                    "test"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
+                    "which",
+                    "chess",
+                    "piece",
+                    "has",
+                    "more",
+                    "than",
+                    "one",
+                    "common",
+                    "name"
                 ],
                 "related_keywords": [
-                    "tests"
+                    "pieces",
+                    "the most",
+                    "generic",
+                    "names"
                 ],
-                "source": {
-                    "description": "The Washington Post is an American daily newspaper published in Washington, D.C. It is the most-widely circulated newspaper within the Washington metropolitan area, and has a large national audience. Daily broadsheet editions are printed for D.C., Maryland, and Virginia.",
-                    "icon": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/a8c14a9f6b4b4ae1375358b70987ddc79b5b3c5f2e9aa0aa0bda503fe25d6336b2adfa52cf2eb75aa02d34dbd16b1e84.png",
-                    "security": "secure",
-                    "source_info_link": "https://en.wikipedia.org/wiki/The_Washington_Post"
-                }
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
             },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2pjW8nuH10YJ:https://www.washingtonpost.com/education/2021/12/17/school-covid-test-cdc-quarantine/+&cd=13&hl=en&ct=clnk&gl=us",
-            "date": "4 hours ago",
-            "displayed_link": "https://www.washingtonpost.com \u203a 2021/12/17 \u203a schoo...",
-            "link": "https://www.washingtonpost.com/education/2021/12/17/school-covid-test-cdc-quarantine/",
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Empress_(chess)&tbm=ilp&ilps=AOR-xxuAVZ20MNIHXo3Q6e5FtaAwIGUpZg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HPsDMKoLf_YJ:https://en.wikipedia.org/wiki/Empress_(chess)+&cd=1&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Empress_(chess)+which+chess+piece+has+more+than+one+common+name%3F",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Princess (chess) - Wikipedia",
+                    "link": "https://en.wikipedia.org/wiki/Princess_(chess)",
+                    "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Princess_(chess)",
+                    "snippet": "The princess is one of the most simply described fairy chess pieces and as such has a long history and has gone by many names. A generic name would be the ...",
+                    "about_this_result": {
+                        "source": {
+                            "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                            "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                            "security": "secure",
+                            "icon": "https://serpapi.com/searches/61bd1899224db162b64ddf87/images/d35d92c64f8c34ee62a644d4a7cb819f1f307b9f18c89c680103d914ba59bbde731647e7e1c79a688bb025a694cd775f16301d38b7a1ffd3c9f9783e72e77a4ec9a7ea0beee91760.png"
+                        },
+                        "keywords": [
+                            "which",
+                            "chess",
+                            "piece",
+                            "has",
+                            "more",
+                            "than",
+                            "one",
+                            "common",
+                            "name"
+                        ],
+                        "related_keywords": [
+                            "pieces",
+                            "the most",
+                            "generic",
+                            "names"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Princess_(chess)&tbm=ilp&ilps=AOR-xxvdbSKovmfDdLJ7HdFs-pKYcAbigg",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BcHFq_HOubYJ:https://en.wikipedia.org/wiki/Princess_(chess)+&cd=2&hl=en&ct=clnk&gl=us",
+                    "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Princess_(chess)+which+chess+piece+has+more+than+one+common+name%3F"
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Chess Pieces Names, Moves & Values",
+            "link": "https://www.chess.com/terms/chess-pieces",
+            "displayed_link": "https://www.chess.com \u203a Chess Terms",
+            "date": "Aug 18, 2008",
+            "snippet": "Learn all about the chess pieces! All of the information you need to know about how the pawn, bishop, knight, rook, queen, and king move, and more!",
+            "about_this_result": {
+                "source": {
+                    "description": "Chess.com is an internet chess server, internet forum and social networking website. The site has a freemium model in which some features are available for free, and others for accounts with subscriptions.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Chess.com",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61bd1899224db162b64ddf87/images/d35d92c64f8c34ee62a644d4a7cb819fa7a55a3577808e261e5fb31aa7ba53a91c212bd9ce129e83b177b21af870dcae.png"
+                },
+                "keywords": [
+                    "chess",
+                    "piece",
+                    "has",
+                    "more",
+                    "than",
+                    "one"
+                ],
+                "related_keywords": [
+                    "pieces",
+                    "then",
+                    "names"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.chess.com/terms/chess-pieces&tbm=ilp&ilps=AOR-xxuhBMMuHAVK_gspPvvb9PcT6j7kpA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QR1YhsTeKcoJ:https://www.chess.com/terms/chess-pieces+&cd=15&hl=en&ct=clnk&gl=us",
+            "missing": [
+                "common"
+            ],
+            "must_include": {
+                "word": "common",
+                "link": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+%22common%22+name?&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ5t4CegQICBAB"
+            },
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "What is the name of ... this piece? - Chess Forums",
+                    "link": "https://www.chess.com/forum/view/general/what-is-the-name-of--this-piece",
+                    "displayed_link": "https://www.chess.com \u203a forum \u203a view \u203a general \u203a what...",
+                    "date": "Aug 18, 2008",
+                    "snippet": "Although the game is the same, the chess pieces do not have the same names in all countries. We can call them \"King\", \"Bishop\" or \"Rook\", ...",
+                    "about_this_result": {
+                        "source": {
+                            "description": "Chess.com is an internet chess server, internet forum and social networking website. The site has a freemium model in which some features are available for free, and others for accounts with subscriptions.",
+                            "source_info_link": "https://en.wikipedia.org/wiki/Chess.com",
+                            "security": "secure",
+                            "icon": "https://serpapi.com/searches/61bd1899224db162b64ddf87/images/d35d92c64f8c34ee62a644d4a7cb819f3d580f10996704709cbc03e6c19bd604cb7c398b91b5f750e1b438847f4e47765608df0aab48d4b12f7b829a0960d175abd2c7054dd37c87.png"
+                        },
+                        "keywords": [
+                            "which",
+                            "chess",
+                            "piece",
+                            "has",
+                            "more",
+                            "one",
+                            "name"
+                        ],
+                        "related_keywords": [
+                            "what",
+                            "longer",
+                            "then",
+                            "general",
+                            "names"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://www.chess.com/forum/view/general/what-is-the-name-of--this-piece&tbm=ilp&ilps=AOR-xxsWvN1wj9Abt3N484qmY1AiPP19sQ",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:DPteesHy4q4J:https://www.chess.com/forum/view/general/what-is-the-name-of--this-piece+&cd=16&hl=en&ct=clnk&gl=us",
+                    "related_pages_link": "https://www.google.com/search?q=related:https://www.chess.com/forum/view/general/what-is-the-name-of--this-piece+which+chess+piece+has+more+than+one+common+name%3F"
+                }
+            ]
+        },
+        {
+            "position": 3,
+            "title": "Chess 101: All the Chess Piece Names and Moves to Know",
+            "link": "https://www.masterclass.com/articles/chess-piece-guide",
+            "displayed_link": "https://www.masterclass.com \u203a articles \u203a chess-piece-guide",
+            "date": "Jun 17, 2021",
+            "snippet": "The rook is considered a major piece valued at five pawns, two more than a bishop or knight and slightly less than two bishops or two knights.",
+            "about_this_result": {
+                "source": {
+                    "description": "Yanka Industries, Inc., doing business as MasterClass, is an American online education subscription platform on which students can access tutorials and lectures pre-recorded by experts in various fields.\nThe concept for MasterClass was conceived by David Rogier and developed with Aaron Rasmussen.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/MasterClass",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61bd1899224db162b64ddf87/images/d35d92c64f8c34ee62a644d4a7cb819fdb5a91e01fe0d6cd3a1919a1db05f0bf7995177b195384ffa3ba8eef4d9e975d.png"
+                },
+                "keywords": [
+                    "which",
+                    "chess",
+                    "piece",
+                    "has",
+                    "more",
+                    "than",
+                    "one",
+                    "common"
+                ],
+                "related_keywords": [
+                    "board",
+                    "names"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.masterclass.com/articles/chess-piece-guide&tbm=ilp&ilps=AOR-xxsmFD5Qwh4EJ5N5IWZBs9eyrOu1XA"
+        },
+        {
+            "position": 4,
+            "title": "What Are The Names Of All The Chess Pieces",
+            "link": "https://herculeschess.com/names-of-all-the-chess-pieces/",
+            "displayed_link": "https://herculeschess.com \u203a Guides",
+            "snippet": "Well the names of all the chess pieces are the King, Queen, Rook, Bishop, ... two squares in one direction, and then one more box at a right angle.",
+            "about_this_result": {
+                "source": {
+                    "description": "herculeschess.com was first indexed by Google in March 2020",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61bd1899224db162b64ddf87/images/d35d92c64f8c34ee62a644d4a7cb819fad0823611c22accb569dd60eb3c3d66daa79055c90b0477dec6cd35c75ee3855.png"
+                },
+                "keywords": [
+                    "which",
+                    "chess",
+                    "piece",
+                    "has",
+                    "more",
+                    "than",
+                    "one",
+                    "name"
+                ],
+                "related_keywords": [
+                    "what",
+                    "pieces",
+                    "then",
+                    "names"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://herculeschess.com/names-of-all-the-chess-pieces/&tbm=ilp&ilps=AOR-xxvSaR7fQ7W_LAtaLGSttLbak3uciQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PZOaTGg577AJ:https://herculeschess.com/names-of-all-the-chess-pieces/+&cd=18&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Chess Rules",
+            "link": "https://www.chesshouse.com/pages/chess-rules",
+            "displayed_link": "https://www.chesshouse.com \u203a pages \u203a chess-rules",
+            "snippet": "For starters, let's go over how many pieces there are in chess, plus the chess piece names. Each player has 16 pieces: chess pieces. 1 King; 1 Queen; 2 Rooks ( ...",
+            "about_this_result": {
+                "source": {
+                    "description": "chesshouse.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61bd1899224db162b64ddf87/images/d35d92c64f8c34ee62a644d4a7cb819fdd7919b07baeb02c54734deedaed45e9e29263677e32169020e4d6fe818d081a.png"
+                },
+                "keywords": [
+                    "which",
+                    "chess",
+                    "piece",
+                    "has",
+                    "more",
+                    "than",
+                    "one",
+                    "name"
+                ],
+                "related_keywords": [
+                    "pieces",
+                    "names"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.chesshouse.com/pages/chess-rules&tbm=ilp&ilps=AOR-xxt2iQ1qEogip6jIBkuJAMNNH2tp_Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pWC1r99x5DoJ:https://www.chesshouse.com/pages/chess-rules+&cd=19&hl=en&ct=clnk&gl=us",
+            "missing": [
+                "common"
+            ],
+            "must_include": {
+                "word": "common",
+                "link": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+%22common%22+name?&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ5t4CegQIOxAB"
+            }
+        },
+        {
             "position": 6,
-            "snippet": "But test-to-stay requires significant resources. There is a shortage of the rapid tests used by schools. And these programs require school ...",
-            "title": "Coronavirus-exposed children can stay in school if tested ..."
-        },
-        {
-            "about_page_link": "https://www.google.com/search?q=About+https://www.dictionary.com/browse/test&tbm=ilp&ilps=AOR-xxvvSJoVGaRVr85-_7U4fB2s-N-Law",
+            "title": "bishop | chess | Britannica",
+            "link": "https://www.britannica.com/topic/bishop-chess",
+            "displayed_link": "https://www.britannica.com \u203a topic \u203a bishop-chess",
+            "snippet": "They also often exchanged their good bishop, the one less encumbered\u2026 ... More than 500 different patterns of chess pieces have been recorded.",
             "about_this_result": {
-                "keywords": [
-                    "test"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ],
                 "source": {
-                    "description": "Dictionary.com is an online dictionary whose domain was first registered on May 14, 1995. The content for Dictionary.com is based on the latest version of Random House Unabridged Dictionary, with editors for the site providing new and updated definitions.",
-                    "icon": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/a8c14a9f6b4b4ae1375358b70987ddc70cda5e578d68c99dfcef079fd26988f09a215778dcca5fedc560aad4ba24a678.png",
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
                     "security": "secure",
-                    "source_info_link": "https://en.wikipedia.org/wiki/Dictionary.com"
-                }
-            },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ehs-vkj0YGEJ:https://www.dictionary.com/browse/test+&cd=14&hl=en&ct=clnk&gl=us",
-            "displayed_link": "https://www.dictionary.com \u203a browse \u203a test",
-            "link": "https://www.dictionary.com/browse/test",
-            "position": 7,
-            "snippet": "More generally, test refers to a trial, experiment, or examination that is designed to determine the qualities or characteristics of someone or something. As a ...",
-            "title": "Test Definition & Meaning | Dictionary.com"
-        },
-        {
-            "about_page_link": "https://www.google.com/search?q=About+https://www.16personalities.com/free-personality-test&tbm=ilp&ilps=AOR-xxsls0srKAi_4jsCg3DGEQdnrKfbQQ",
-            "about_this_result": {
+                    "icon": "https://serpapi.com/searches/61bd1899224db162b64ddf87/images/d35d92c64f8c34ee62a644d4a7cb819fce5836701176eef5e29f06eb09c1a3a5b77ef3967f4de4fda11349289f1c6455.png"
+                },
                 "keywords": [
-                    "test"
+                    "which",
+                    "chess",
+                    "piece",
+                    "has",
+                    "more",
+                    "than",
+                    "one"
+                ],
+                "related_keywords": [
+                    "pieces"
                 ],
                 "languages": [
                     "English"
                 ],
                 "regions": [
                     "the United States"
-                ],
-                "source": {
-                    "description": "16personalities.com was first indexed by Google more than 10 years ago",
-                    "icon": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/a8c14a9f6b4b4ae1375358b70987ddc796eb80c389747a7807648f7d30c06211d410b88c10d5172aa3b3fa02d0698fc8.png",
-                    "security": "secure"
-                }
+                ]
             },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:SQzntHUEffkJ:https://www.16personalities.com/free-personality-test+&cd=18&hl=en&ct=clnk&gl=us",
-            "displayed_link": "https://www.16personalities.com \u203a free-personality-test",
-            "link": "https://www.16personalities.com/free-personality-test",
+            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/topic/bishop-chess&tbm=ilp&ilps=AOR-xxvXLbqthf8ylGkoYwplvMCEZYvDYA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1XviAiDlVhEJ:https://www.britannica.com/topic/bishop-chess+&cd=20&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.britannica.com/topic/bishop-chess+which+chess+piece+has+more+than+one+common+name%3F"
+        },
+        {
+            "position": 7,
+            "title": "Learn to Play Chess - The United States Chess Federation",
+            "link": "http://www.uschess.org/index.php/Learn-About-Chess/Learn-to-Play-Chess.html",
+            "displayed_link": "http://www.uschess.org \u203a New to Chess?",
+            "snippet": "1. The Rook: Let's start with the moststraightforward piece. ... If no pawns or pieces have been traded for more than 50 moves, a game is determined to be a ...",
+            "about_this_result": {
+                "source": {
+                    "description": "The United States Chess Federation is the governing body for chess competition in the United States and represents the U.S. in FIDE, the World Chess Federation.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/United_States_Chess_Federation",
+                    "security": "not secure"
+                },
+                "keywords": [
+                    "which",
+                    "chess",
+                    "piece",
+                    "has",
+                    "more",
+                    "than",
+                    "one",
+                    "common",
+                    "name"
+                ],
+                "related_keywords": [
+                    "pieces"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+http://www.uschess.org/index.php/Learn-About-Chess/Learn-to-Play-Chess.html&tbm=ilp&ilps=AOR-xxvfFBTN0MLHYuACyD2L54vb_DZLSA",
+            "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:32Puin0jMsoJ:www.uschess.org/index.php/Learn-About-Chess/Learn-to-Play-Chess.html+&cd=21&hl=en&ct=clnk&gl=us"
+        },
+        {
             "position": 8,
-            "related_pages_link": "https://www.google.com/search?q=related:https://www.16personalities.com/free-personality-test+test",
-            "snippet": "Free personality test - take it to find out why our readers say that this personality test is so accurate, \u201cit's a little bit creepy.",
-            "title": "Free Personality Test | 16Personalities"
+            "title": "Chess Variants - Page 178 - Google Books Result",
+            "link": "https://books.google.com/books?id=q5e2Inv8pJIC&pg=PA178&lpg=PA178&dq=which+chess+piece+has+more+than+one+common+name?&source=bl&ots=TKooSXLtrf&sig=ACfU3U3O72bt5LfCQqhfyjYnXnFymvG0Ng&hl=en&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ6AF6BAgsEAM",
+            "displayed_link": "https://books.google.com \u203a books",
+            "snippet": "Marine pieces have names alluding to the sea and its myths, e.g., ... By game Some classes of pieces come from a certain game; often these have a common set ..."
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "what are the 16 pieces in chess called?",
+            "link": "https://www.google.com/search?q=What+are+the+16+pieces+in+chess+called&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "chess pieces and equipment names",
+            "link": "https://www.google.com/search?q=Chess+pieces+and+equipment+names&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "chess pieces names",
+            "link": "https://www.google.com/search?q=Chess+pieces+names&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "chess pieces names and moves",
+            "link": "https://www.google.com/search?q=Chess+pieces+names+and+moves&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ1QJ6BAg3EAE"
+        },
+        {
+            "query": "prince chess piece",
+            "link": "https://www.google.com/search?q=Prince+chess+piece&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "chess pieces names and functions",
+            "link": "https://www.google.com/search?q=Chess+pieces+names+and+functions&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ1QJ6BAguEAE"
+        },
+        {
+            "query": "chess pieces names in english",
+            "link": "https://www.google.com/search?q=Chess+pieces+names+in+English&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ1QJ6BAgtEAE"
         }
     ],
     "pagination": {
         "current": 1,
-        "next": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=10&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8NMDegQIARBJ",
+        "next": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=10&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8NMDegQIARBJ",
         "other_pages": {
-            "10": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=90&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARBH",
-            "2": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=10&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARA3",
-            "3": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=20&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARA5",
-            "4": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=30&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARA7",
-            "5": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=40&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARA9",
-            "6": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=50&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARA_",
-            "7": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=60&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARBB",
-            "8": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=70&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARBD",
-            "9": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=80&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARBF"
+            "2": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=10&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=20&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=30&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=40&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=50&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=60&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=70&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=80&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=90&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARBH"
         }
-    },
-    "related_searches": [
-        {
-            "link": "https://www.google.com/search?q=Test+2&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ1QJ6BAgqEAE",
-            "query": "test 2"
-        },
-        {
-            "link": "https://www.google.com/search?q=Test+synonym&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ1QJ6BAgrEAE",
-            "query": "test synonym"
-        },
-        {
-            "link": "https://www.google.com/search?q=Google+speed+test&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ1QJ6BAgsEAE",
-            "query": "google speed test"
-        },
-        {
-            "link": "https://www.google.com/search?q=Ping+test&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ1QJ6BAglEAE",
-            "query": "ping test"
-        },
-        {
-            "link": "https://www.google.com/search?q=Fast+speed+test&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ1QJ6BAgoEAE",
-            "query": "fast speed test"
-        },
-        {
-            "link": "https://www.google.com/search?q=Test+assessment&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ1QJ6BAguEAE",
-            "query": "test assessment"
-        },
-        {
-            "link": "https://www.google.com/search?q=What+is+test+in+education&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ1QJ6BAgtEAE",
-            "query": "what is test in education"
-        }
-    ],
-    "search_information": {
-        "organic_results_state": "Results for exact spelling",
-        "query_displayed": "test",
-        "time_taken_displayed": 0.41,
-        "total_results": 6880000000
-    },
-    "search_metadata": {
-        "created_at": "2021-12-17 19:55:59 UTC",
-        "google_url": "https://www.google.com/search?q=test&oq=test&sourceid=chrome&ie=UTF-8",
-        "id": "61bceb4f2348848ebd1a29a8",
-        "json_endpoint": "https://serpapi.com/searches/096ad87d165dc98e/61bceb4f2348848ebd1a29a8.json",
-        "processed_at": "2021-12-17 19:55:59 UTC",
-        "raw_html_file": "https://serpapi.com/searches/096ad87d165dc98e/61bceb4f2348848ebd1a29a8.html",
-        "status": "Success",
-        "total_time_taken": 5.81
-    },
-    "search_parameters": {
-        "device": "desktop",
-        "engine": "google",
-        "google_domain": "google.com",
-        "q": "test"
     },
     "serpapi_pagination": {
         "current": 1,
-        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=10",
-        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=10",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=10",
         "other_pages": {
-            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=90",
-            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=10",
-            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=20",
-            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=30",
-            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=40",
-            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=50",
-            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=60",
-            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=70",
-            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=80"
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=90"
         }
-    },
-    "top_stories": [
-        {
-            "date": "17 hours ago",
-            "link": "https://www.espn.com/nfl/story/_/id/32884411/sources-cleveland-browns-qb-case-keenum-tests-positive-covid-19",
-            "source": "ESPN",
-            "thumbnail": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/c695a8b2006b27ab3d2448690f24eb5a7a9075583c2fd16e.jpeg",
-            "title": "Sources - Cleveland Browns QB Case Keenum tests positive for COVID-19"
-        },
-        {
-            "date": "42 mins ago",
-            "link": "https://wtop.com/nfl/2021/12/ap-source-clowney-latest-browns-player-to-test-positive/",
-            "source": "WTOP",
-            "thumbnail": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/c695a8b2006b27ab54ddeb672392e21d71a88abbbf8e6d29.jpeg",
-            "title": "AP source: Clowney latest Browns player to test positive"
-        },
-        {
-            "date": "22 hours ago",
-            "link": "https://sports.yahoo.com/as-nfl-locks-down-covid-testing-changes-are-being-made-to-get-infected-players-back-quickly-215303757.html",
-            "source": "Yahoo! Sports",
-            "thumbnail": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/c695a8b2006b27ab02aa8f152f201e2a6c67748909956a1c.jpeg",
-            "title": "As COVID forces NFL into lockdown, testing changes are being made to get infected players back quickly"
-        },
-        {
-            "date": "21 hours ago",
-            "link": "https://www.nfl.com/news/browns-case-keenum-covid",
-            "source": "NFL.com",
-            "thumbnail": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/c695a8b2006b27abddd12d9a15d1fbca8d0eff6636bab1e0.jpeg",
-            "title": "Browns QB Case Keenum tests positive for COVID-19"
-        },
-        {
-            "date": "8 hours ago",
-            "link": "https://www.milehighreport.com/2021/12/17/22840647/bengals-provide-big-test-for-broncos-on-sunday",
-            "source": "Mile High Report",
-            "thumbnail": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/c695a8b2006b27ab883613375f8c81dc13d06224b4bba1e4.jpeg",
-            "title": "Bengals provide big test for Broncos on Sunday"
-        },
-        {
-            "date": "2 hours ago",
-            "link": "https://www.nbcnews.com/health/health-news/biden-administration-push-test-stay-policy-keep-kids-school-rcna3190",
-            "source": "NBC News",
-            "thumbnail": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/c695a8b2006b27abbc6223af8f0e3a65b7fadc52cc11979c.jpeg",
-            "title": "Biden administration unveils push for 'test-to-stay' policy to keep kids in school"
-        },
-        {
-            "date": "3 hours ago",
-            "link": "https://www.washingtonpost.com/education/2021/12/17/school-covid-test-cdc-quarantine/",
-            "source": "The Washington Post",
-            "thumbnail": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/c695a8b2006b27abff70860e73614fac58c5b95cacd334e8.jpeg",
-            "title": "Coronavirus-exposed children can stay in school if tested, CDC says"
-        }
-    ],
-    "top_stories_link": "https://www.google.com/search?q=test&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQt8YBegQIFBAG",
-    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&tbm=nws"
+    }
 }

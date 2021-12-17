@@ -12,14 +12,17 @@ def do_search(search_term):
     data = {"engine":search_engine, "apikey": serp_apikey, "q": search_term}
 
     method = "SERPAPI"
-    print("\tResponse Source: " + method  + "\n\tSearch Phrase: \"" + search_term + "\"")
+    print("\t> Response Source: " + method)
     if (method == "JSON"):
-        search_term = "test"
+        search_term = "the music of rick astley played a direct role in bringing down the leader of what country?"
         data = json.load(open('google_test_json.json'))
         time.sleep(1)
     elif (method == "SERPAPI"):
         response = requests.get("https://serpapi.com/search", data)
         data = response.json()
+
+        with open('trimmed_json.json','w') as outfile:
+            json.dump(data, outfile, indent=4)
 
     site_links = [""] * 10
     ct = 0
@@ -27,7 +30,8 @@ def do_search(search_term):
     for i in data['organic_results']:
         site_links[ct] = i['link']
         ct = ct + 1
+    print("\t> Links Result: " + str(site_links))
+
     return(site_links)
 
-    # with open('trimmed_json.json','w') as outfile:
-    #     json.dump(data, outfile, indent=4)
+

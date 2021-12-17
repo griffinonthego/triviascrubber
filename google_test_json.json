@@ -1,432 +1,528 @@
 {
-    "inline_people_also_search_for": [
-        {
-            "items": [
-                {
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfXHdcQMdf62N0bGEkkgVooigmTewT5n81xLjY-c3OWM498aD-3YmE&s=0",
-                    "link": "https://www.google.com/search?q=Software+Testing&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDdLyTPiLaksSC1WyE9TKEktLoliAZGnGOHypxg5QUzDqrKMEijbyDDDzAgmXpBkngxlp1tkmGWfYuQCqzGrNDWrgHEKMjLSjWG6swsqsqAWpGXlWP5i5A1BdkEDC-MiVoHg_LSS8sSiVIUQoFBmXvotNkmGGzO5TOMmGcUfeFK1_73e_Jt31t3lORSQ5AQAP0-_ls8AAAA&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQs9oBKAB6BAgpEAM",
-                    "name": "Software Testing",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Software+Testing&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDdLyTPiLaksSC1WyE9TKEktLoliAZGnGOHypxg5QUzDqrKMEijbyDDDzAgmXpBkngxlp1tkmGWfYuQCqzGrNDWrgHEKMjLSjWG6swsqsqAWpGXlWP5i5A1BdkEDC-MiVoHg_LSS8sSiVIUQoFBmXvotNkmGGzO5TOMmGcUfeFK1_73e_Jt31t3lORSQ5AQAP0-_ls8AAAA"
-                },
-                {
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT9LN8ebu31J6uPRqxb-j0e7TEuCSWLgah9ko-AooonlH2caV_veDE&s=0",
-                    "link": "https://www.google.com/search?q=Integration+testing&stick=H4sIAAAAAAAAAOOQUeLUz9U3MKwqyygx4i2pLEgtVshPUyhJLS6JYgGRpxg5QArMzVLyTjEi1ELZRoYZZkYw8YIk82QoO90iwyz7FCMXWI1ZpalZBYxTkJGRbgzTnV1QkQW1IC0rx_IXI28IsgsaWBgXsQp75pWkphcllmTm54FFM_PSb7FJMtyYyWUaN8ko_sCTqv3v9ebfvLPuLs-hgCQnAAqJP-fTAAAA&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQs9oBKAF6BAgpEAQ",
-                    "name": "Integration testing",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Integration+testing&stick=H4sIAAAAAAAAAOOQUeLUz9U3MKwqyygx4i2pLEgtVshPUyhJLS6JYgGRpxg5QArMzVLyTjEi1ELZRoYZZkYw8YIk82QoO90iwyz7FCMXWI1ZpalZBYxTkJGRbgzTnV1QkQW1IC0rx_IXI28IsgsaWBgXsQp75pWkphcllmTm54FFM_PSb7FJMtyYyWUaN8ko_sCTqv3v9ebfvLPuLs-hgCQnAAqJP-fTAAAA"
-                },
-                {
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2tU3qOil2FBCF5q_pCUFXN53OtzxudEGjFKq6N2QL4x2TS3nwgezS&s=0",
-                    "link": "https://www.google.com/search?q=Load+testing&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDLMMDMy4i2pLEgtVshPUyhJLS6JYgGRpxg5QArMzVLyTjGC1RpWlWWUQNlgfTDxgiTzZCg73SLDLPsUIxdYjVmlqVkFjFOQkZFuDNOdXVCRBbUgLSvH8hcjbwiyCxpYGBex8vjkJ6aAuZl56bfYJBluzOQyjZtkFH_gSdX-93rzb95Zd5fnUECSEwCa4JCAzAAAAA&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQs9oBKAJ6BAgpEAU",
-                    "name": "Load testing",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Load+testing&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDLMMDMy4i2pLEgtVshPUyhJLS6JYgGRpxg5QArMzVLyTjGC1RpWlWWUQNlgfTDxgiTzZCg73SLDLPsUIxdYjVmlqVkFjFOQkZFuDNOdXVCRBbUgLSvH8hcjbwiyCxpYGBex8vjkJ6aAuZl56bfYJBluzOQyjZtkFH_gSdX-93rzb95Zd5fnUECSEwCa4JCAzAAAAA"
-                },
-                {
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQXtc0AoNaOgoFc9ZIlAiXb-gSO_FdC_AHqrxfMCSSD22TnwPC8r5j&s=0",
-                    "link": "https://www.google.com/search?q=Black-box+testing&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCxIMk824i2pLEgtVshPUyhJLS6JYgGRpxg5QArMzVLyTjFC1FaVZZRA2UaGGWZGMHGQGVB2ukWGWfYpRi6wGrNKU7MKGKcgIyPdGKY7u6AiC2pBWlaO5S9G3hBkFzSwMC5iFXTKSUzO1k3KrwCLZeal32KTZLgxk8s0bpJR_IEnVfvf682_eWfdXZ5DAUlOALLCqOTRAAAA&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQs9oBKAN6BAgpEAY",
-                    "name": "Black\u2011box testing",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Black-box+testing&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCxIMk824i2pLEgtVshPUyhJLS6JYgGRpxg5QArMzVLyTjFC1FaVZZRA2UaGGWZGMHGQGVB2ukWGWfYpRi6wGrNKU7MKGKcgIyPdGKY7u6AiC2pBWlaO5S9G3hBkFzSwMC5iFXTKSUzO1k3KrwCLZeal32KTZLgxk8s0bpJR_IEnVfvf682_eWfdXZ5DAUlOALLCqOTRAAAA"
-                },
-                {
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoI5fwGIfs7Bx0rhvjR8Rjsw2RAquQXiHNmLAI5CVzBjGa9_QJW4kt&s=0",
-                    "link": "https://www.google.com/search?q=Formative+assessment&stick=H4sIAAAAAAAAAOOQUeLUz9U3SLfIMMs24i2pLEgtVshPUyhJLS6JYgGRpxg5QArMzVLyTjGC1RpWlWWUQNlGhhlmRjDxgiTzZCgbbN4pRi6wGrNKU7MKGKcgIyPdGKY7u6AiC2pBWlaO5S9G3hBkFzSwMC5iFXHLL8pNLMksS1VILC5OLS7OTc0rucUmyXBjJpdp3CSj-ANPqva_15t_8866uzyHApKcACxx3-bUAAAA&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQs9oBKAR6BAgpEAc",
-                    "name": "Formative assessment",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Formative+assessment&stick=H4sIAAAAAAAAAOOQUeLUz9U3SLfIMMs24i2pLEgtVshPUyhJLS6JYgGRpxg5QArMzVLyTjGC1RpWlWWUQNlGhhlmRjDxgiTzZCgbbN4pRi6wGrNKU7MKGKcgIyPdGKY7u6AiC2pBWlaO5S9G3hBkFzSwMC5iFXHLL8pNLMksS1VILC5OLS7OTc0rucUmyXBjJpdp3CSj-ANPqva_15t_8866uzyHApKcACxx3-bUAAAA"
-                },
-                {
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_EBqBLzIrO3tIs5T75skmHHQySXhziAioJt4dWcDX5fPwuwlRjDOg&s=0",
-                    "link": "https://www.google.com/search?q=Graphical+user+interface+testing&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDKrNDWrMOItqSxILVbIT1MoSS0uiWIBkacYOUAqzM1S8k4xcoKYhlVlGSVQtpFhhpkRTLwgyTwZyk63yDDLPsWIZDiMU5CRkW4M051dUJEFtSAtK8fyFyNvCLILGlgYF7EquBclFmRkJifmKJQWpxYpZOaVpBalJSangpVk5qXfYpNkuDGTyzRuklH8gSdV-9_rzb95Z91dnkMBSU4ASobkbeEAAAA&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQs9oBKAV6BAgpEAg",
-                    "name": "Graphical user interface t...",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Graphical+user+interface+testing&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDKrNDWrMOItqSxILVbIT1MoSS0uiWIBkacYOUAqzM1S8k4xcoKYhlVlGSVQtpFhhpkRTLwgyTwZyk63yDDLPsWIZDiMU5CRkW4M051dUJEFtSAtK8fyFyNvCLILGlgYF7EquBclFmRkJifmKJQWpxYpZOaVpBalJSangpVk5qXfYpNkuDGTyzRuklH8gSdV-9_rzb95Z91dnkMBSU4ASobkbeEAAAA"
-                }
-            ],
-            "see_more_link": "https://www.google.com/search?q=Types+of+test&stick=H4sIAAAAAAAAAOOQMeItqSxILVbIT1MoSS0uiWIBkacYOfRz9Q3MzVLyTjFygpiGVWUZJVC2kWGGmRFMvCDJPBnKTrfIMMs-xcgFVmNWaWpWAeMUZGSkG8N0ZxdUZEEtSMvKsfzFyBuC7IIGFsZFrKhCt9gkGW7M5DKNm2QUf-BJ1f73evNv3ll3l-dQQJITAGRrEh3CAAAA&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ4qYDegQIKRAJ",
-            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Types+of+test&stick=H4sIAAAAAAAAAOOQMeItqSxILVbIT1MoSS0uiWIBkacYOfRz9Q3MzVLyTjFygpiGVWUZJVC2kWGGmRFMvCDJPBnKTrfIMMs-xcgFVmNWaWpWAeMUZGSkG8N0ZxdUZEEtSMvKsfzFyBuC7IIGFsZFrKhCt9gkGW7M5DKNm2QUf-BJ1f73evNv3ll3l-dQQJITAGRrEh3CAAAA",
-            "title": "Types of test"
-        }
-    ],
+    "search_metadata": {
+        "id": "61bd11063e86ac74ca7b8ebb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/6fdefd1051ecb415/61bd11063e86ac74ca7b8ebb.json",
+        "created_at": "2021-12-17 22:36:54 UTC",
+        "processed_at": "2021-12-17 22:36:54 UTC",
+        "google_url": "https://www.google.com/search?q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&oq=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/6fdefd1051ecb415/61bd11063e86ac74ca7b8ebb.html",
+        "total_time_taken": 3.69
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "the music of rick astley played a direct role in bringing down the leader of what country?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "the music of rick astley played a direct role in bringing down the leader of what country?",
+        "total_results": 906000,
+        "time_taken_displayed": 0.87
+    },
     "inline_videos": [
         {
-            "channel": "MSNBC",
-            "date": "1 hour ago",
-            "duration": "3:04",
-            "link": "https://www.youtube.com/watch?v=ktUZpeu_SHA",
-            "platform": "YouTube",
             "position": 1,
-            "thumbnail": "https://i.ytimg.com/vi/ktUZpeu_SHA/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3lTqp3AWTBvZhf-hM1W7B5TNYRZsg",
-            "title": "How The Biden Administration's 'Test-To-Stay' Policy Aims To ..."
+            "title": "Rick Astley - Never Gonna Give You Up (Official Music Video)",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "thumbnail": "https://serpapi.com/searches/61bd11063e86ac74ca7b8ebb/images/73d4c8bee338762a8269d901f263e7b38749ed67d0f7919bfea467f73607bfa5.jpeg",
+            "channel": "Rick Astley",
+            "duration": "3:33",
+            "platform": "YouTube",
+            "date": "Oct 25, 2009"
         },
         {
-            "channel": "Pinkbike",
-            "date": "2 hours ago",
-            "duration": "17:31",
-            "link": "https://www.youtube.com/watch?v=mrqfHDDmWMI",
-            "platform": "YouTube",
             "position": 2,
-            "thumbnail": "https://i.ytimg.com/vi/mrqfHDDmWMI/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3npZ9LD2eC6rBMaxWlp-a3dhH5G6A",
-            "title": "2022 Scor 4060 ST Review: Fast & Filthy | 2021 Fall Field Test"
+            "title": "Rick Astley - Never Gonna Give You Up (Live) (The Roxy 1987)",
+            "link": "https://www.youtube.com/watch?v=IO9XlQrEt2Y",
+            "thumbnail": "https://serpapi.com/searches/61bd11063e86ac74ca7b8ebb/images/73d4c8bee338762a3d60c853c8665df74dcbbd1cef1b0089f3b55dba34810ced.jpeg",
+            "channel": "Rick Astley",
+            "duration": "2:58",
+            "platform": "YouTube",
+            "date": "Jul 6, 2016"
         },
         {
-            "channel": "Kelley Blue Book",
-            "date": "14 hours ago",
-            "duration": "8:59",
-            "link": "https://www.youtube.com/watch?v=7dg8xbH9IvA",
-            "platform": "YouTube",
             "position": 3,
-            "thumbnail": "https://i.ytimg.com/vi/7dg8xbH9IvA/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3n4EfJsEpZLks3x5wUy4zJmmLMGCQ",
-            "title": "2022 Hyundai IONIQ 5 | Review & Road Test"
+            "title": "Rick Astley - Whenever You Need Somebody (Official Music ...",
+            "link": "https://www.youtube.com/watch?v=BeyEGebJ1l4",
+            "thumbnail": "https://serpapi.com/searches/61bd11063e86ac74ca7b8ebb/images/73d4c8bee338762a0727708dc77783f292d22c80eeca3ef66f410ba38e0afa77.jpeg",
+            "channel": "Rick Astley",
+            "duration": "3:26",
+            "platform": "YouTube",
+            "date": "Oct 25, 2009"
+        }
+    ],
+    "inline_people_also_search_for": [
+        {
+            "title": "Rick Astley songs",
+            "items": [
+                {
+                    "name": "Never Gonna Give You Up",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqINfcSF3mmHd9KqWLlX0Tgw64vEa-LuN5yVnW7yRyBZh5pxW-dOl0&s=0",
+                    "link": "https://www.google.com/search?q=Rick+Astley+Never+Gonna+Give+You+Up&stick=H4sIAAAAAAAAAOOQUeLVT9c3NExJq4ivMEg3MRIsykzOVkgsLslJrVQozs9LL46KLMlIVcgtLc5MVshPU0CWL8hJrExNUUhUSMksSk0uUSjKz0lVyMxTSCrKzEsHIoWU_PI8BZD2nNTElNQikP7yjMQSheT80rySospTjKi2n2LkAfELTTMKzQwKKuDcrKLcpCxDBLciKS29DKY52SivwtTcBKE5Kzc3q8QAwTUtKzQugKvOLSxIK88xQkibGBqm5yJzs4yqfjEKBoH86YgUDg0sjItYlZGF_VLLgH5yz8_LS1RwzyxLVYjML1UILbjFJslwYyaXqddB8Q1Jn3ysMrZmF68vf2Ss1fzfFABIhq-1cQEAAA&sa=X&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQs9oBKAB6BAgyEAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rick+Astley+Never+Gonna+Give+You+Up&stick=H4sIAAAAAAAAAOOQUeLVT9c3NExJq4ivMEg3MRIsykzOVkgsLslJrVQozs9LL46KLMlIVcgtLc5MVshPU0CWL8hJrExNUUhUSMksSk0uUSjKz0lVyMxTSCrKzEsHIoWU_PI8BZD2nNTElNQikP7yjMQSheT80rySospTjKi2n2LkAfELTTMKzQwKKuDcrKLcpCxDBLciKS29DKY52SivwtTcBKE5Kzc3q8QAwTUtKzQugKvOLSxIK88xQkibGBqm5yJzs4yqfjEKBoH86YgUDg0sjItYlZGF_VLLgH5yz8_LS1RwzyxLVYjML1UILbjFJslwYyaXqddB8Q1Jn3ysMrZmF68vf2Ss1fzfFABIhq-1cQEAAA"
+                },
+                {
+                    "name": "Together Forever",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7q701hesHtej5R-NbV6BCYQnXinENu8ZePGUejP5I_uZHlf5AR253&s=0",
+                    "link": "https://www.google.com/search?q=Rick+Astley+Together+Forever&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNKDQzKKgwEizKTM5WSCwuyUmtVCjOz0svjoosyUhVyC0tzkxWyE9TQJYvyEmsTE1RSFRIySxKTS5RKMrPSVXIzFNIKsrMSwcihZT88jwFkPac1MSU1CKQ_vKMxBKF5PzSvJKiylOMvCDLDVPSKuIrDNJNTjGiOAbOzSrKTcoyRHArktLSy2Cak43yKkzNTRCas3Jzs0oMEFzTskLjArjq3MKCtPIcI4S0iaFhei4yN8uo6hejYBDIn45I4dDAwriIVQZZOCQ_PRXouSIFt_yi1LLUoltskgw3ZnKZeh0U35D0yccqY2t28fryR8Zazf9NAYenw3VpAQAA&sa=X&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQs9oBKAF6BAgyEAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rick+Astley+Together+Forever&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNKDQzKKgwEizKTM5WSCwuyUmtVCjOz0svjoosyUhVyC0tzkxWyE9TQJYvyEmsTE1RSFRIySxKTS5RKMrPSVXIzFNIKsrMSwcihZT88jwFkPac1MSU1CKQ_vKMxBKF5PzSvJKiylOMvCDLDVPSKuIrDNJNTjGiOAbOzSrKTcoyRHArktLSy2Cak43yKkzNTRCas3Jzs0oMEFzTskLjArjq3MKCtPIcI4S0iaFhei4yN8uo6hejYBDIn45I4dDAwriIVQZZOCQ_PRXouSIFt_yi1LLUoltskgw3ZnKZeh0U35D0yccqY2t28fryR8Zazf9NAYenw3VpAQAA"
+                },
+                {
+                    "name": "Cry For Help",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0j4nA6Y-WOkhGE5BKwG1StdfAaAtcZsdoElOSAv3HEGf6o1RJznRZ&s=0",
+                    "link": "https://www.google.com/search?q=Rick+Astley+Cry+For+Help&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNKspNyjI0EizKTM5WSCwuyUmtVCjOz0svjoosyUhVyC0tzkxWyE9TQJYvyEmsTE1RSFRIySxKTS5RKMrPSVXIzFNIKsrMSwcihZT88jwFkPac1MSU1CKQ_vKMxBKF5PzSvJKiylOMvCDLDVPSKuIrDNJNTjFCHZNRaGZQUAHnQtyG4FYkpaWXwTQnG-VVmJqbIDRn5eZmlRgguKZlhcYFcNW5hQVp5TlGCGkTQ8P0XGRullHVL0bBIJA_HZHCoYGFcRGrBLKwc1Glglt-kYJHak7BLTZJhhszuUy9DopvSPrkY5WxNbt4ffkjY63m_6YA7EoxOWUBAAA&sa=X&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQs9oBKAJ6BAgyEAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rick+Astley+Cry+For+Help&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNKspNyjI0EizKTM5WSCwuyUmtVCjOz0svjoosyUhVyC0tzkxWyE9TQJYvyEmsTE1RSFRIySxKTS5RKMrPSVXIzFNIKsrMSwcihZT88jwFkPac1MSU1CKQ_vKMxBKF5PzSvJKiylOMvCDLDVPSKuIrDNJNTjFCHZNRaGZQUAHnQtyG4FYkpaWXwTQnG-VVmJqbIDRn5eZmlRgguKZlhcYFcNW5hQVp5TlGCGkTQ8P0XGRullHVL0bBIJA_HZHCoYGFcRGrBLKwc1Glglt-kYJHak7BLTZJhhszuUy9DopvSPrkY5WxNbt4ffkjY63m_6YA7EoxOWUBAAA"
+                },
+                {
+                    "name": "She Wants to Dance with Me",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6cYdGJdIdj85ukYUK0fn7dh6Gdgk_zp_q_iCuj8I-mRZRHx-nq8Bq&s=0",
+                    "link": "https://www.google.com/search?q=Rick+Astley+She+Wants+to+Dance+with+Me&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNqkhKSy8zEizKTM5WSCwuyUmtVCjOz0svjoosyUhVyC0tzkxWyE9TQJYvyEmsTE1RSFRIySxKTS5RKMrPSVXIzFNIKsrMSwcihZT88jwFkPac1MSU1CKQ_vKMxBKF5PzSvJKiylOMvCDLDVPSKuIrDNJNTjFCHZNRaGZQUAHnZhXlJmUZIrhgp8I0JxvlVZiamyA0Z-XmZpUYILimZYXGBXDVuYUFaeU5RghpE0PD9FxkbpZR1S9GwSCQPx2RwqGBhXERqxqycDDQY-GJeSXFCiX5Ci6JecmpCuWZJRkKvqm32CQZbszkMvU6KL4h6ZOPVcbW7OL15Y-MtZr_mwIAjDecInMBAAA&sa=X&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQs9oBKAN6BAgyEAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rick+Astley+She+Wants+to+Dance+with+Me&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNqkhKSy8zEizKTM5WSCwuyUmtVCjOz0svjoosyUhVyC0tzkxWyE9TQJYvyEmsTE1RSFRIySxKTS5RKMrPSVXIzFNIKsrMSwcihZT88jwFkPac1MSU1CKQ_vKMxBKF5PzSvJKiylOMvCDLDVPSKuIrDNJNTjFCHZNRaGZQUAHnZhXlJmUZIrhgp8I0JxvlVZiamyA0Z-XmZpUYILimZYXGBXDVuYUFaeU5RghpE0PD9FxkbpZR1S9GwSCQPx2RwqGBhXERqxqycDDQY-GJeSXFCiX5Ci6JecmpCuWZJRkKvqm32CQZbszkMvU6KL4h6ZOPVcbW7OL15Y-MtZr_mwIAjDecInMBAAA"
+                },
+                {
+                    "name": "Angels on My Side",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkSTzuPKJ1DgIsLG6q-nlJc6QRBj0u3w5hOICpr39qrOzjGN0bBLir&s=0",
+                    "link": "https://www.google.com/search?q=Rick+Astley+Angels+on+My+Side&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw2yqswNTcxMRIsykzOVkgsLslJrVQozs9LL46KLMlIVcgtLc5MVshPU0CWL8hJrExNUUhUSMksSk0uUSjKz0lVyMxTSCrKzEsHIoWU_PI8BZD2nNTElNQikP7yjMQSheT80rySospTjBDbU9Iq4isM0k1OMfKA-IWmGYVmBgUVcG5WUW5SliGCW5GUll4G0wxzOkI6NzerxADBNS0rNC6Aq84tLEgrzzFCSJsYGqbnInOzjKp-MQoGgfzpiBQODSyMi1hlkYUd89JTc4oV8vMUfCsVgjNTUm-xSTLcmMll6nVQfEPSJx-rjK3ZxevLHxlrNf83BQB6S_lZawEAAA&sa=X&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQs9oBKAR6BAgyEAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rick+Astley+Angels+on+My+Side&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw2yqswNTcxMRIsykzOVkgsLslJrVQozs9LL46KLMlIVcgtLc5MVshPU0CWL8hJrExNUUhUSMksSk0uUSjKz0lVyMxTSCrKzEsHIoWU_PI8BZD2nNTElNQikP7yjMQSheT80rySospTjBDbU9Iq4isM0k1OMfKA-IWmGYVmBgUVcG5WUW5SliGCW5GUll4G0wxzOkI6NzerxADBNS0rNC6Aq84tLEgrzzFCSJsYGqbnInOzjKp-MQoGgfzpiBQODSyMi1hlkYUd89JTc4oV8vMUfCsVgjNTUm-xSTLcmMll6nVQfEPSJx-rjK3ZxevLHxlrNf83BQB6S_lZawEAAA"
+                },
+                {
+                    "name": "Take Me to Your Heart",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT58CPnCS2HXsnaK-zthvQBsAbhR-0N5fAvqFheDK-N1sMlq7yyHSOv&s=0",
+                    "link": "https://www.google.com/search?q=Rick+Astley+Take+Me+to+Your+Heart&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNys3NKjEwEizKTM5WSCwuyUmtVCjOz0svjoosyUhVyC0tzkxWyE9TQJYvyEmsTE1RSFRIySxKTS5RKMrPSVXIzFNIKsrMSwcihZT88jwFkPac1MSU1CKQ_vKMxBKF5PzSvJKiylOMvCDLDVPSKuIrDNJNTjFCHZNRaGZQUAHnZhXlJmUZIrgVSWnpZTDNyUZ5FabmJgjNEJ8guKZlhcYFcNW5hQVp5TlGCGkTQ8P0XGRullHVL0bBIJA_HZHCoYGFcRGrIrJwSGJ2qoJvqkJJvkJkfmmRgkdqYlHJLTZJhhszuUy9DopvSPrkY5WxNbt4ffkjY63m_6YAUrgRbW4BAAA&sa=X&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQs9oBKAV6BAgyEAg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rick+Astley+Take+Me+to+Your+Heart&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNys3NKjEwEizKTM5WSCwuyUmtVCjOz0svjoosyUhVyC0tzkxWyE9TQJYvyEmsTE1RSFRIySxKTS5RKMrPSVXIzFNIKsrMSwcihZT88jwFkPac1MSU1CKQ_vKMxBKF5PzSvJKiylOMvCDLDVPSKuIrDNJNTjFCHZNRaGZQUAHnZhXlJmUZIrgVSWnpZTDNyUZ5FabmJgjNEJ8guKZlhcYFcNW5hQVp5TlGCGkTQ8P0XGRullHVL0bBIJA_HZHCoYGFcRGrIrJwSGJ2qoJvqkJJvkJkfmmRgkdqYlHJLTZJhhszuUy9DopvSPrkY5WxNbt4ffkjY63m_6YAUrgRbW4BAAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?q=Rick+Astley+songs&stick=H4sIAAAAAAAAAOOQMRIsykzOVkgsLslJrVQozs9LL46KLMlIVcgtLc5MVshPU0CWL8hJrExNUUhUSMksSk0uUSjKz0lVyMxTSCrKzEsHIoWU_PI8BZD2nNTElNQikP7yjMQSheT80rySospTjLz66fqGhilpFfEVBukmpxh5QPxC04xCM4OCCjg3qyg3KcsQwa1ISksvg2lONsqrMDU3QWjOys3NKjFAcE3LCo0L4KpzCwvSynOMENImhobpucjcLKOqX4yCQSB_OiKFQwML4yJWTOFbbJIMN2ZymXodFN-Q9MnHKmNrdvH68kfGWs3_TQGBLB4kUAEAAA&sa=X&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ4qYDegQIMhAJ",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rick+Astley+songs&stick=H4sIAAAAAAAAAOOQMRIsykzOVkgsLslJrVQozs9LL46KLMlIVcgtLc5MVshPU0CWL8hJrExNUUhUSMksSk0uUSjKz0lVyMxTSCrKzEsHIoWU_PI8BZD2nNTElNQikP7yjMQSheT80rySospTjLz66fqGhilpFfEVBukmpxh5QPxC04xCM4OCCjg3qyg3KcsQwa1ISksvg2lONsqrMDU3QWjOys3NKjFAcE3LCo0L4KpzCwvSynOMENImhobpucjcLKOqX4yCQSB_OiKFQwML4yJWTOFbbJIMN2ZymXodFN-Q9MnHKmNrdvH68kfGWs3_TQGBLB4kUAEAAA"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What is Rick Astley known for?",
+            "snippet": "Rick Astley is best known for his hit song 'Never Gonna Give You Up'. The single was released in 1987 and won Best British Single at the 1988 BRIT Awards. It even topped the US singles chart.Oct 26, 2018",
+            "title": "Rick Astley facts: Who is his wife, how old is he and does he have children?",
+            "link": "https://www.smoothradio.com/features/rick-astley-songs-tour-age-wife-children/",
+            "displayed_link": "https://www.smoothradio.com \u203a features \u203a rick-astley-son..."
+        },
+        {
+            "question": "What does the song Never Gonna Give You Up mean?",
+            "snippet": "It was inspired by a woman Pete Waterman had been seeing for three years. Rick Astley was staying with Waterman at the time, and after a three-hour phone call with the woman, Astley said, \"You're never gonna give her up.\" Aitken and Waterman then changed the story a bit and made him the one who was vulnerable.",
+            "title": "Never Gonna Give You Up by Rick Astley - Songfacts",
+            "link": "https://www.songfacts.com/facts/rick-astley/never-gonna-give-you-up",
+            "displayed_link": "https://www.songfacts.com \u203a facts \u203a never-gonna-give-yo..."
+        },
+        {
+            "question": "What is Rick Astley's most famous song?",
+            "snippet": "Rick Astley is best known for his string of Top 10 singles in the late 1980s, including the Number 1 smash Never Gonna Give You Up.",
+            "title": "Never Gonna Give You Up",
+            "link": "https://www.officialcharts.com/artist/29941/rick-astley/",
+            "displayed_link": "https://www.officialcharts.com \u203a artist \u203a rick-astley"
+        },
+        {
+            "question": "What does it mean to Rick Roll somebody?",
+            "snippet": "What is a RickRoll? In short: It's an internet prank. ... Rick rolling started around 2007 on online bulletin boards like 4chan and Reddit, where users would post a link that unexpectedly directed other users to a video of Rick Astley's \"Never Gonna Give You Up\". Hence, Rickrolling.Feb 2, 2016",
+            "title": "What the heck is... Rickrolling? - Forbes",
+            "link": "https://www.forbes.com/sites/kittyknowles/2016/02/02/rickrolling-what-is-rick-rolling-rick-astley/",
+            "displayed_link": "https://www.forbes.com \u203a sites \u203a kittyknowles \u203a 2016/02/02"
         }
     ],
     "organic_results": [
         {
-            "about_page_link": "https://www.google.com/search?q=About+https://www.speedtest.net/&tbm=ilp&ilps=AOR-xxs833xouv7j350IeK7xeKaAi_0bSA",
-            "about_this_result": {
-                "keywords": [
-                    "test"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ],
-                "source": {
-                    "description": "Speedtest.net, also known as Speedtest by Ookla, is a web service that provides free analysis of Internet access performance metrics, such as connection data rate and latency.",
-                    "icon": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/a8c14a9f6b4b4ae1375358b70987ddc79a6d165a4d0d3aa38d9eac64e0544c2398a8b5f24f6f4a1ea8191d7a16e56166.png",
-                    "security": "secure",
-                    "source_info_link": "https://en.wikipedia.org/wiki/Speedtest.net"
-                }
-            },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5RD1THTfC6wJ:https://www.speedtest.net/+&cd=1&hl=en&ct=clnk&gl=us",
-            "displayed_link": "https://www.speedtest.net",
-            "link": "https://www.speedtest.net/",
             "position": 1,
-            "snippet": "Use Speedtest on all your devices with our free desktop and mobile apps.",
-            "title": "Speedtest by Ookla - The Global Broadband Speed Test"
-        },
-        {
-            "about_page_link": "https://www.google.com/search?q=About+https://www.merriam-webster.com/dictionary/test&tbm=ilp&ilps=AOR-xxuSgfJFpTN7E7oaMs723ZRfaSpP5w",
+            "title": "Never Gonna Give You Up - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Never_Gonna_Give_You_Up",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Never_Gonna_Give_Y...",
+            "snippet": "\"Never Gonna Give You Up\" is the debut single recorded by English singer and songwriter Rick Astley, released on 27 July 1987. ... The song is considered Astley's signature song and it is often played at ...",
             "about_this_result": {
-                "keywords": [
-                    "test"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ],
-                "source": {
-                    "description": "Merriam-Webster, Inc. is an American company that publishes reference books and is especially known for its dictionaries. It is the oldest dictionary publisher in the United States.\nIn 1831, George and Charles Merriam founded the company as G & C Merriam Co. in Springfield, Massachusetts.",
-                    "icon": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/a8c14a9f6b4b4ae1375358b70987ddc74dcdac987aecb9eedd465c2ee1a24a6e51f5ebee930317cf3edff63cf355a65e.png",
-                    "security": "secure",
-                    "source_info_link": "https://en.wikipedia.org/wiki/Merriam-Webster"
-                }
-            },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TGnEwn1_tb0J:https://www.merriam-webster.com/dictionary/test+&cd=9&hl=en&ct=clnk&gl=us",
-            "displayed_link": "https://www.merriam-webster.com \u203a dictionary \u203a test",
-            "link": "https://www.merriam-webster.com/dictionary/test",
-            "position": 2,
-            "related_pages_link": "https://www.google.com/search?q=related:https://www.merriam-webster.com/dictionary/test+test",
-            "snippet": "1 : a critical examination, observation, evaluation, or trial specifically : the procedure of submitting a statement to such conditions or operations as will ...",
-            "title": "Test Definition & Meaning - Merriam-Webster"
-        },
-        {
-            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Test&tbm=ilp&ilps=AOR-xxuYQsZkhfamXuWVTTCKWNjv4j_zCg",
-            "about_this_result": {
-                "keywords": [
-                    "test"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ],
                 "source": {
                     "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
-                    "icon": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/a8c14a9f6b4b4ae1375358b70987ddc7a85c74631cf778924cd40a842ddc94a4f4b5b49e946ffe3109d4026382c83575.png",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
                     "security": "secure",
-                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia"
-                }
-            },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:R94CAo00wOYJ:https://en.wikipedia.org/wiki/Test+&cd=10&hl=en&ct=clnk&gl=us",
-            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Test",
-            "link": "https://en.wikipedia.org/wiki/Test",
-            "position": 3,
-            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Test+test",
-            "snippet": "Test (assessment), an educational assessment intended to measure the respondents' knowledge or other abilities. Contents. 1 Arts and entertainment; 2 Computing ...",
-            "title": "Test - Wikipedia"
-        },
-        {
-            "about_page_link": "https://www.google.com/search?q=About+https://en.wiktionary.org/wiki/test&tbm=ilp&ilps=AOR-xxvyWy7fbh8ghnAJ6mYK1QcdzEunfg",
-            "about_this_result": {
+                    "icon": "https://serpapi.com/searches/61bd11063e86ac74ca7b8ebb/images/e8d9d7c88a15b26aa492025c3955c8093fe88960f4d5fe84c4b85d4e68d1175cdfdd486d61f735cdb9594dca1900ff3e.png"
+                },
                 "keywords": [
-                    "test"
+                    "music",
+                    "rick",
+                    "astley",
+                    "played",
+                    "down"
                 ],
                 "languages": [
                     "English"
                 ],
                 "regions": [
                     "the United States"
-                ],
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Never_Gonna_Give_You_Up&tbm=ilp&ilps=AOR-xxs1MktNWW4y0vcMbtrge6XiBqqWgA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6uL20jE0F5gJ:https://en.wikipedia.org/wiki/Never_Gonna_Give_You_Up+&cd=4&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Never_Gonna_Give_You_Up+the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F",
+            "missing": [
+                "direct",
+                "bringing",
+                "leader"
+            ],
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Rickrolling - Wikipedia",
+                    "link": "https://en.wikipedia.org/wiki/Rickrolling",
+                    "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Rickrolling",
+                    "snippet": "Rick Astley - Never Gonna Give You Up (Official Music Video). Rickrolling, alternatively Rick-rolling or Rickroll, is a prank and an Internet meme ... \"Never Gonna Give You Up,\" performed by the English singer Rick Astley.",
+                    "about_this_result": {
+                        "source": {
+                            "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                            "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                            "security": "secure",
+                            "icon": "https://serpapi.com/searches/61bd11063e86ac74ca7b8ebb/images/e8d9d7c88a15b26aa492025c3955c809a2be63f22c1a46cc2e426a4f2d051d4c55456d7e1897e409e7e712fd156c367ad402ccf1c28bf6af657929f6e193057da55d244f4ec1d551.png"
+                        },
+                        "keywords": [
+                            "music",
+                            "rick",
+                            "astley",
+                            "played",
+                            "direct",
+                            "down"
+                        ],
+                        "related_keywords": [
+                            "performed"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Rickrolling&tbm=ilp&ilps=AOR-xxuj--iHmI89ydfuKgGdQ1upaRI7jQ",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Xozf31seXIgJ:https://en.wikipedia.org/wiki/Rickrolling+&cd=5&hl=en&ct=clnk&gl=us",
+                    "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Rickrolling+the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F"
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Rick Astley on Benefits of Rickrolling, New LP - Rolling Stone",
+            "link": "https://www.rollingstone.com/music/music-features/rick-astley-on-benefits-of-rickrolling-taking-cues-from-adele-252023/",
+            "displayed_link": "https://www.rollingstone.com \u203a music \u203a music-features",
+            "date": "Aug 24, 2016",
+            "snippet": "Rick Astley, singer of Eighties smashes like \"Never Gonna Give You Up,\" discusses the upside of Rickrolling and how he learned to love his ...",
+            "about_this_result": {
                 "source": {
-                    "description": "Wiktionary is a multilingual, web-based project to create a free content dictionary of terms in all natural languages and in a number of artificial languages.",
-                    "icon": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/a8c14a9f6b4b4ae1375358b70987ddc71c1cae286aef29273b0e976758c723de825948bae875f524998095509a30d291.png",
+                    "description": "Rolling Stone is an American monthly magazine that focuses on music, politics, and popular culture. It was founded in San Francisco, California, in 1967 by Jann Wenner, and the music critic Ralph J. Gleason. It was first known for its coverage of rock music and for political reporting by Hunter S. Thompson.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Rolling_Stone",
                     "security": "secure",
-                    "source_info_link": "https://en.wikipedia.org/wiki/Wiktionary"
-                }
-            },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MOAdxo6g5IgJ:https://en.wiktionary.org/wiki/test+&cd=11&hl=en&ct=clnk&gl=us",
-            "displayed_link": "https://en.wiktionary.org \u203a wiki \u203a test",
-            "link": "https://en.wiktionary.org/wiki/test",
-            "position": 4,
-            "related_pages_link": "https://www.google.com/search?q=related:https://en.wiktionary.org/wiki/test+test",
-            "snippet": "From Middle English test, teste, from Old French test, teste (\u201can earthen vessel, especially a pot in which metals were tried\u201d), from Latin testum (\u201cthe lid ...",
-            "title": "test - Wiktionary"
-        },
-        {
-            "about_page_link": "https://www.google.com/search?q=About+https://fast.com/&tbm=ilp&ilps=AOR-xxtjcXDeDUUOttWN_BSbJm14TgkrBA",
-            "about_this_result": {
+                    "icon": "https://serpapi.com/searches/61bd11063e86ac74ca7b8ebb/images/e8d9d7c88a15b26aa492025c3955c8091c4ce06d8ca740e2b1723f11ebaa9deb06b6b5884e7a06009cd1657a983def30.png"
+                },
                 "keywords": [
-                    "test"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ],
-                "source": {
-                    "description": "fast.com was first indexed by Google more than 10 years ago",
-                    "icon": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/a8c14a9f6b4b4ae1375358b70987ddc785f1a5725b2d2f65445f0f9b18b8af69cc6c46c70c9b652f51157df66b4ee5ed.png",
-                    "security": "secure"
-                }
-            },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:C4odSFX1SA4J:https://fast.com/+&cd=12&hl=en&ct=clnk&gl=us",
-            "displayed_link": "https://fast.com",
-            "link": "https://fast.com/",
-            "position": 5,
-            "related_pages_link": "https://www.google.com/search?q=related:https://fast.com/+test",
-            "snippet": "How fast is your download speed? In seconds, FAST.com's simple Internet speed test will estimate your ISP speed.",
-            "title": "Fast.com: Internet Speed Test"
-        },
-        {
-            "about_page_link": "https://www.google.com/search?q=About+https://www.washingtonpost.com/education/2021/12/17/school-covid-test-cdc-quarantine/&tbm=ilp&ilps=AOR-xxvt1y-Nlpg-M-9luIZVMoadMGdT3Q",
-            "about_this_result": {
-                "keywords": [
-                    "test"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
+                    "music",
+                    "rick",
+                    "astley",
+                    "played",
+                    "down"
                 ],
                 "related_keywords": [
-                    "tests"
+                    "songs",
+                    "taking"
                 ],
-                "source": {
-                    "description": "The Washington Post is an American daily newspaper published in Washington, D.C. It is the most-widely circulated newspaper within the Washington metropolitan area, and has a large national audience. Daily broadsheet editions are printed for D.C., Maryland, and Virginia.",
-                    "icon": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/a8c14a9f6b4b4ae1375358b70987ddc79b5b3c5f2e9aa0aa0bda503fe25d6336b2adfa52cf2eb75aa02d34dbd16b1e84.png",
-                    "security": "secure",
-                    "source_info_link": "https://en.wikipedia.org/wiki/The_Washington_Post"
-                }
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
             },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2pjW8nuH10YJ:https://www.washingtonpost.com/education/2021/12/17/school-covid-test-cdc-quarantine/+&cd=13&hl=en&ct=clnk&gl=us",
-            "date": "4 hours ago",
-            "displayed_link": "https://www.washingtonpost.com \u203a 2021/12/17 \u203a schoo...",
-            "link": "https://www.washingtonpost.com/education/2021/12/17/school-covid-test-cdc-quarantine/",
+            "about_page_link": "https://www.google.com/search?q=About+https://www.rollingstone.com/music/music-features/rick-astley-on-benefits-of-rickrolling-taking-cues-from-adele-252023/&tbm=ilp&ilps=AOR-xxv1MQE1ugNtFpr3Wopf49iiVsJzRg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TYLrzj1T_wcJ:https://www.rollingstone.com/music/music-features/rick-astley-on-benefits-of-rickrolling-taking-cues-from-adele-252023/+&cd=16&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Rick Astley 'Completely Blown Away' by 'Ted Lasso' Rick Roll",
+            "link": "https://www.thewrap.com/rick-astley-completely-blown-away-by-ted-lasso-rick-roll-just-amazing/",
+            "displayed_link": "https://www.thewrap.com \u203a rick-astley-completely-blow...",
+            "snippet": "Rick Astley 'Completely Blown Away' by 'Ted Lasso' Rick Roll: 'Just Amazing'. The \u201dNever Gonna Give You Up\u201c singer admits that the moment definitely didn't make ...",
+            "about_this_result": {
+                "source": {
+                    "description": "TheWrap is an American online news website covering the business of entertainment and media via digital, print and live events. It was founded by journalist Sharon Waxman in 2009.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/TheWrap",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61bd11063e86ac74ca7b8ebb/images/e8d9d7c88a15b26aa492025c3955c8094d8b5d1ddde867a0523ae9c1d79dd1c3b289ea68412e4d4f92914935c0c9a7c6.png"
+                },
+                "keywords": [
+                    "music",
+                    "rick",
+                    "astley",
+                    "played",
+                    "role",
+                    "down",
+                    "country"
+                ],
+                "related_keywords": [
+                    "roll"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.thewrap.com/rick-astley-completely-blown-away-by-ted-lasso-rick-roll-just-amazing/&tbm=ilp&ilps=AOR-xxvOkb7iEgNmcmQ5rC5KRA5ZNxBMsg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:AvPvxyNwAZEJ:https://www.thewrap.com/rick-astley-completely-blown-away-by-ted-lasso-rick-roll-just-amazing/+&cd=17&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "Jedi juice cart",
+            "link": "http://sendai-hochouki.com/vaij/jedi-juice-cart.html",
+            "displayed_link": "http://sendai-hochouki.com \u203a vaij \u203a jedi-juice-cart",
+            "date": "Items 1 - 144 of 682",
+            "snippet": "Taking mushrooms in a form of a tea will mild the specific taste. ... The official video for \u201cNever Gonna Give You Up\u201d by Rick Astley ...",
+            "about_this_result": {
+                "source": {
+                    "description": "sendai-hochouki.com was first indexed by Google in June 2016",
+                    "security": "not secure"
+                },
+                "keywords": [
+                    "music",
+                    "rick",
+                    "astley",
+                    "played",
+                    "direct",
+                    "role",
+                    "bringing",
+                    "down",
+                    "leader",
+                    "country"
+                ],
+                "related_keywords": [
+                    "taking"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+http://sendai-hochouki.com/vaij/jedi-juice-cart.html&tbm=ilp&ilps=AOR-xxtnkQs2kedzaL0s2nXzhrgzgf35LA",
+            "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:Lo3B1EyoJM0J:sendai-hochouki.com/vaij/jedi-juice-cart.html+&cd=18&hl=en&ct=clnk&gl=us",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Ups terrible place to work",
+                    "link": "http://sendai-hochouki.com/ihgutd0/ups-terrible-place-to-work.html",
+                    "displayed_link": "http://sendai-hochouki.com \u203a ihgutd0 \u203a ups-terrible-pla...",
+                    "snippet": "COVID-19 and a failure by a high-profile leader put that to the test. ... about that. and in those years, you get more responsibilities and more duties.",
+                    "about_this_result": {
+                        "source": {
+                            "description": "sendai-hochouki.com was first indexed by Google in June 2016",
+                            "security": "not secure"
+                        },
+                        "keywords": [
+                            "music",
+                            "rick",
+                            "astley",
+                            "direct",
+                            "down",
+                            "leader",
+                            "country"
+                        ],
+                        "related_keywords": [
+                            "duties"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+http://sendai-hochouki.com/ihgutd0/ups-terrible-place-to-work.html&tbm=ilp&ilps=AOR-xxtpXFAwicYwdb5zpyPczyMFlz2Z-w",
+                    "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:u1O6NJYA-6AJ:sendai-hochouki.com/ihgutd0/ups-terrible-place-to-work.html+&cd=19&hl=en&ct=clnk&gl=us"
+                }
+            ]
+        },
+        {
+            "position": 5,
+            "title": "Rick roll sight",
+            "link": "http://termoclimas.com/gzjop/rick-roll-sight.html",
+            "displayed_link": "http://termoclimas.com \u203a gzjop \u203a rick-roll-sight",
+            "snippet": "Crouching down and carrying the armor away from the fire, I found a somewhat secluded ... (A Rick Astley video of \"Never Gonna Give You Up begins playing.",
+            "about_this_result": {
+                "source": {
+                    "description": "termoclimas.com was first indexed by Google more than 10 years ago",
+                    "security": "not secure"
+                },
+                "keywords": [
+                    "music",
+                    "rick",
+                    "astley",
+                    "played",
+                    "direct",
+                    "role",
+                    "down",
+                    "leader",
+                    "country"
+                ],
+                "related_keywords": [
+                    "roll",
+                    "playing"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+http://termoclimas.com/gzjop/rick-roll-sight.html&tbm=ilp&ilps=AOR-xxtzdtInkUTP7XOkOOuw126gRH_ZPw",
+            "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:RInh3-HxUIQJ:termoclimas.com/gzjop/rick-roll-sight.html+&cd=20&hl=en&ct=clnk&gl=us"
+        },
+        {
             "position": 6,
-            "snippet": "But test-to-stay requires significant resources. There is a shortage of the rapid tests used by schools. And these programs require school ...",
-            "title": "Coronavirus-exposed children can stay in school if tested ..."
-        },
-        {
-            "about_page_link": "https://www.google.com/search?q=About+https://www.dictionary.com/browse/test&tbm=ilp&ilps=AOR-xxvvSJoVGaRVr85-_7U4fB2s-N-Law",
+            "title": "Rick Astley was a millionaire when he had a breakdown at 27 ...",
+            "link": "https://www.dailymail.co.uk/femail/article-7550921/Rick-Astley-millionaire-breakdown-27-reveals-brought-on.html",
+            "displayed_link": "https://www.dailymail.co.uk \u203a femail \u203a article-7550921",
+            "date": "Oct 11, 2019",
+            "snippet": "Rick Astley performed the new album 'Beautiful Life' ten years after his last album was released. Pictured at the Events Apollo, ...",
             "about_this_result": {
-                "keywords": [
-                    "test"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ],
                 "source": {
-                    "description": "Dictionary.com is an online dictionary whose domain was first registered on May 14, 1995. The content for Dictionary.com is based on the latest version of Random House Unabridged Dictionary, with editors for the site providing new and updated definitions.",
-                    "icon": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/a8c14a9f6b4b4ae1375358b70987ddc70cda5e578d68c99dfcef079fd26988f09a215778dcca5fedc560aad4ba24a678.png",
+                    "description": "The Daily Mail is a British daily middle-market newspaper and online news source published in London in a tabloid format. Founded in 1896, it is the United Kingdom's highest-circulated daily newspaper.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Daily_Mail",
                     "security": "secure",
-                    "source_info_link": "https://en.wikipedia.org/wiki/Dictionary.com"
-                }
-            },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ehs-vkj0YGEJ:https://www.dictionary.com/browse/test+&cd=14&hl=en&ct=clnk&gl=us",
-            "displayed_link": "https://www.dictionary.com \u203a browse \u203a test",
-            "link": "https://www.dictionary.com/browse/test",
-            "position": 7,
-            "snippet": "More generally, test refers to a trial, experiment, or examination that is designed to determine the qualities or characteristics of someone or something. As a ...",
-            "title": "Test Definition & Meaning | Dictionary.com"
-        },
-        {
-            "about_page_link": "https://www.google.com/search?q=About+https://www.16personalities.com/free-personality-test&tbm=ilp&ilps=AOR-xxsls0srKAi_4jsCg3DGEQdnrKfbQQ",
-            "about_this_result": {
+                    "icon": "https://serpapi.com/searches/61bd11063e86ac74ca7b8ebb/images/e8d9d7c88a15b26aa492025c3955c8097793334a4cd35a72eb8d5b572a12d65d7d21df851c7cf1a3c89f41a1ce4b0eb1.png"
+                },
                 "keywords": [
-                    "test"
+                    "music",
+                    "rick",
+                    "astley",
+                    "played",
+                    "down",
+                    "leader"
+                ],
+                "related_keywords": [
+                    "performed"
                 ],
                 "languages": [
                     "English"
                 ],
                 "regions": [
                     "the United States"
-                ],
-                "source": {
-                    "description": "16personalities.com was first indexed by Google more than 10 years ago",
-                    "icon": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/a8c14a9f6b4b4ae1375358b70987ddc796eb80c389747a7807648f7d30c06211d410b88c10d5172aa3b3fa02d0698fc8.png",
-                    "security": "secure"
-                }
+                ]
             },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:SQzntHUEffkJ:https://www.16personalities.com/free-personality-test+&cd=18&hl=en&ct=clnk&gl=us",
-            "displayed_link": "https://www.16personalities.com \u203a free-personality-test",
-            "link": "https://www.16personalities.com/free-personality-test",
-            "position": 8,
-            "related_pages_link": "https://www.google.com/search?q=related:https://www.16personalities.com/free-personality-test+test",
-            "snippet": "Free personality test - take it to find out why our readers say that this personality test is so accurate, \u201cit's a little bit creepy.",
-            "title": "Free Personality Test | 16Personalities"
+            "about_page_link": "https://www.google.com/search?q=About+https://www.dailymail.co.uk/femail/article-7550921/Rick-Astley-millionaire-breakdown-27-reveals-brought-on.html&tbm=ilp&ilps=AOR-xxth5_tGkYUuFfBAKCyp1WpQs06--g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:afqEiNH2cH0J:https://www.dailymail.co.uk/femail/article-7550921/Rick-Astley-millionaire-breakdown-27-reveals-brought-on.html+&cd=21&hl=en&ct=clnk&gl=us",
+            "missing": [
+                "direct"
+            ],
+            "must_include": {
+                "word": "direct",
+                "link": "https://www.google.com/search?q=the+music+of+rick+astley+played+a+%22direct%22+role+in+bringing+down+the+leader+of+what+country?&sa=X&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ5t4CegQINBAB"
+            }
+        },
+        {
+            "position": 7,
+            "title": "Rick Astley 'Never Gonna Give You Up' Tops 1 Billion ... - Variety",
+            "link": "https://variety.com/2021/digital/news/rick-astley-never-gonna-give-you-up-1-billion-youtube-views-1235030404/",
+            "displayed_link": "https://variety.com \u203a digital \u203a news \u203a rick-astley-never-...",
+            "date": "Jul 29, 2021",
+            "snippet": "The official video for Rick Astley's widely memed 1987 hit \"Never Gonna Give You Up\" surpassed 1 billion lifetime views on YouTube.",
+            "about_this_result": {
+                "source": {
+                    "description": "Variety is an American media company owned by Penske Media Corporation. The company was founded by Sime Silverman in New York City in 1905 as a weekly newspaper reporting on theater and vaudeville. In 1933 it added Daily Variety, based in Los Angeles, to cover the motion-picture industry.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Variety_(magazine)",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61bd11063e86ac74ca7b8ebb/images/e8d9d7c88a15b26aa492025c3955c809857c07deae46036c8d225ef48760eb5aedec3ee9b9367644183fadf2e66933a7.png"
+                },
+                "keywords": [
+                    "music",
+                    "rick",
+                    "astley",
+                    "leader"
+                ],
+                "related_keywords": [
+                    "astley's"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://variety.com/2021/digital/news/rick-astley-never-gonna-give-you-up-1-billion-youtube-views-1235030404/&tbm=ilp&ilps=AOR-xxuloopHpibm3IuuDVFxlF7sZ2DRcw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0tR9HAdgSrwJ:https://variety.com/2021/digital/news/rick-astley-never-gonna-give-you-up-1-billion-youtube-views-1235030404/+&cd=22&hl=en&ct=clnk&gl=us",
+            "missing": [
+                "bringing",
+                "down"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "how old was rick astley when he made never gonna give you up",
+            "link": "https://www.google.com/search?q=How+old+was+Rick+Astley+when+he+made+Never+Gonna+Give+You+Up&sa=X&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ1QJ6BAg4EAE"
+        },
+        {
+            "query": "rick astley age",
+            "link": "https://www.google.com/search?q=Rick+Astley+age&sa=X&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ1QJ6BAg5EAE"
+        },
+        {
+            "query": "emilie astley",
+            "link": "https://www.google.com/search?q=Emilie+Astley&sa=X&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ1QJ6BAg6EAE"
+        },
+        {
+            "query": "rick astley young",
+            "link": "https://www.google.com/search?q=Rick+Astley+young&sa=X&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ1QJ6BAg7EAE"
+        },
+        {
+            "query": "rick astley wife",
+            "link": "https://www.google.com/search?q=Rick+Astley+wife&sa=X&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ1QJ6BAg9EAE"
+        },
+        {
+            "query": "rick astley gets rickrolled",
+            "link": "https://www.google.com/search?q=Rick+Astley+gets+rickrolled&sa=X&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ1QJ6BAg-EAE"
+        },
+        {
+            "query": "rick astley net worth",
+            "link": "https://www.google.com/search?q=Rick+Astley+net+worth&sa=X&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ1QJ6BAg_EAE"
+        },
+        {
+            "query": "rick astley wiki",
+            "link": "https://www.google.com/search?q=Rick+Astley+wiki&sa=X&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ1QJ6BAhAEAE"
         }
     ],
     "pagination": {
         "current": 1,
-        "next": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=10&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8NMDegQIARBJ",
+        "next": "https://www.google.com/search?q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&ei=CBG9YcfQMZCp_Qbjv6GoAg&start=10&sa=N&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ8NMDegQIARBJ",
         "other_pages": {
-            "10": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=90&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARBH",
-            "2": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=10&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARA3",
-            "3": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=20&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARA5",
-            "4": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=30&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARA7",
-            "5": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=40&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARA9",
-            "6": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=50&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARA_",
-            "7": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=60&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARBB",
-            "8": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=70&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARBD",
-            "9": "https://www.google.com/search?q=test&ei=Uuu8YYjnOoacptQPkY2UsAI&start=80&sa=N&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ8tMDegQIARBF"
+            "2": "https://www.google.com/search?q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&ei=CBG9YcfQMZCp_Qbjv6GoAg&start=10&sa=N&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&ei=CBG9YcfQMZCp_Qbjv6GoAg&start=20&sa=N&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&ei=CBG9YcfQMZCp_Qbjv6GoAg&start=30&sa=N&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&ei=CBG9YcfQMZCp_Qbjv6GoAg&start=40&sa=N&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&ei=CBG9YcfQMZCp_Qbjv6GoAg&start=50&sa=N&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&ei=CBG9YcfQMZCp_Qbjv6GoAg&start=60&sa=N&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&ei=CBG9YcfQMZCp_Qbjv6GoAg&start=70&sa=N&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&ei=CBG9YcfQMZCp_Qbjv6GoAg&start=80&sa=N&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&ei=CBG9YcfQMZCp_Qbjv6GoAg&start=90&sa=N&ved=2ahUKEwjH9LLp8uv0AhWQVN8KHeNfCCUQ8tMDegQIARBH"
         }
-    },
-    "related_searches": [
-        {
-            "link": "https://www.google.com/search?q=Test+2&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ1QJ6BAgqEAE",
-            "query": "test 2"
-        },
-        {
-            "link": "https://www.google.com/search?q=Test+synonym&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ1QJ6BAgrEAE",
-            "query": "test synonym"
-        },
-        {
-            "link": "https://www.google.com/search?q=Google+speed+test&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ1QJ6BAgsEAE",
-            "query": "google speed test"
-        },
-        {
-            "link": "https://www.google.com/search?q=Ping+test&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ1QJ6BAglEAE",
-            "query": "ping test"
-        },
-        {
-            "link": "https://www.google.com/search?q=Fast+speed+test&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ1QJ6BAgoEAE",
-            "query": "fast speed test"
-        },
-        {
-            "link": "https://www.google.com/search?q=Test+assessment&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ1QJ6BAguEAE",
-            "query": "test assessment"
-        },
-        {
-            "link": "https://www.google.com/search?q=What+is+test+in+education&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQ1QJ6BAgtEAE",
-            "query": "what is test in education"
-        }
-    ],
-    "search_information": {
-        "organic_results_state": "Results for exact spelling",
-        "query_displayed": "test",
-        "time_taken_displayed": 0.41,
-        "total_results": 6880000000
-    },
-    "search_metadata": {
-        "created_at": "2021-12-17 19:55:59 UTC",
-        "google_url": "https://www.google.com/search?q=test&oq=test&sourceid=chrome&ie=UTF-8",
-        "id": "61bceb4f2348848ebd1a29a8",
-        "json_endpoint": "https://serpapi.com/searches/096ad87d165dc98e/61bceb4f2348848ebd1a29a8.json",
-        "processed_at": "2021-12-17 19:55:59 UTC",
-        "raw_html_file": "https://serpapi.com/searches/096ad87d165dc98e/61bceb4f2348848ebd1a29a8.html",
-        "status": "Success",
-        "total_time_taken": 5.81
-    },
-    "search_parameters": {
-        "device": "desktop",
-        "engine": "google",
-        "google_domain": "google.com",
-        "q": "test"
     },
     "serpapi_pagination": {
         "current": 1,
-        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=10",
-        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=10",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&start=10",
         "other_pages": {
-            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=90",
-            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=10",
-            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=20",
-            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=30",
-            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=40",
-            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=50",
-            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=60",
-            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=70",
-            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&start=80"
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+music+of+rick+astley+played+a+direct+role+in+bringing+down+the+leader+of+what+country%3F&start=90"
         }
-    },
-    "top_stories": [
-        {
-            "date": "17 hours ago",
-            "link": "https://www.espn.com/nfl/story/_/id/32884411/sources-cleveland-browns-qb-case-keenum-tests-positive-covid-19",
-            "source": "ESPN",
-            "thumbnail": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/c695a8b2006b27ab3d2448690f24eb5a7a9075583c2fd16e.jpeg",
-            "title": "Sources - Cleveland Browns QB Case Keenum tests positive for COVID-19"
-        },
-        {
-            "date": "42 mins ago",
-            "link": "https://wtop.com/nfl/2021/12/ap-source-clowney-latest-browns-player-to-test-positive/",
-            "source": "WTOP",
-            "thumbnail": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/c695a8b2006b27ab54ddeb672392e21d71a88abbbf8e6d29.jpeg",
-            "title": "AP source: Clowney latest Browns player to test positive"
-        },
-        {
-            "date": "22 hours ago",
-            "link": "https://sports.yahoo.com/as-nfl-locks-down-covid-testing-changes-are-being-made-to-get-infected-players-back-quickly-215303757.html",
-            "source": "Yahoo! Sports",
-            "thumbnail": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/c695a8b2006b27ab02aa8f152f201e2a6c67748909956a1c.jpeg",
-            "title": "As COVID forces NFL into lockdown, testing changes are being made to get infected players back quickly"
-        },
-        {
-            "date": "21 hours ago",
-            "link": "https://www.nfl.com/news/browns-case-keenum-covid",
-            "source": "NFL.com",
-            "thumbnail": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/c695a8b2006b27abddd12d9a15d1fbca8d0eff6636bab1e0.jpeg",
-            "title": "Browns QB Case Keenum tests positive for COVID-19"
-        },
-        {
-            "date": "8 hours ago",
-            "link": "https://www.milehighreport.com/2021/12/17/22840647/bengals-provide-big-test-for-broncos-on-sunday",
-            "source": "Mile High Report",
-            "thumbnail": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/c695a8b2006b27ab883613375f8c81dc13d06224b4bba1e4.jpeg",
-            "title": "Bengals provide big test for Broncos on Sunday"
-        },
-        {
-            "date": "2 hours ago",
-            "link": "https://www.nbcnews.com/health/health-news/biden-administration-push-test-stay-policy-keep-kids-school-rcna3190",
-            "source": "NBC News",
-            "thumbnail": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/c695a8b2006b27abbc6223af8f0e3a65b7fadc52cc11979c.jpeg",
-            "title": "Biden administration unveils push for 'test-to-stay' policy to keep kids in school"
-        },
-        {
-            "date": "3 hours ago",
-            "link": "https://www.washingtonpost.com/education/2021/12/17/school-covid-test-cdc-quarantine/",
-            "source": "The Washington Post",
-            "thumbnail": "https://serpapi.com/searches/61bceb4f2348848ebd1a29a8/images/c695a8b2006b27abff70860e73614fac58c5b95cacd334e8.jpeg",
-            "title": "Coronavirus-exposed children can stay in school if tested, CDC says"
-        }
-    ],
-    "top_stories_link": "https://www.google.com/search?q=test&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwiI2Iruzuv0AhUGjokEHZEGBSYQt8YBegQIFBAG",
-    "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=test&tbm=nws"
+    }
 }
