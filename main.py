@@ -1,8 +1,7 @@
 import numpy as np
 import mss.tools
 import cv2
-import process_image, ocr_local, ocr_online
-import serpapi
+import process_image, ocr_local, ocr_online, serpapi, search_sites
 
 def printarray(array):
     for i in array:
@@ -23,30 +22,29 @@ cv2.moveWindow("Question", 360, 0)
 cv2.namedWindow("Question (Processed)")
 cv2.moveWindow("Question (Processed)", 360, 380)
 
-while True:
-    #Get question, Display and save it
-    q = sct.grab(q_bb)
-    cv2.imshow('Question', np.array(q))
-    mss.tools.to_png(q.rgb, q.size, output=q_image)
+# while True:
 
-    #OCR the text from the saved files
-    print("Perfoming OCR...")
-    method = "online"
-    if method == "online":
-         ocr_text = ocr_online.ocrify(q_image)
-    elif method == "local":
-        ocr_text = ocr_local.ocrify(q_image)
-    # print("\"" + ocr_text + "\"")
+#Get question, Display and save it
+q = sct.grab(q_bb)
+cv2.imshow('Question', np.array(q))
+mss.tools.to_png(q.rgb, q.size, output=q_image)
 
-    print("Perfoming Google Search...")
-    site_links = serpapi.do_search(ocr_text)
-    printarray(site_links)
-    print("Searching Sites...")
-    search_sites.do_search(site_links)
+#OCR the text from the saved files
+method = "ONLINE"
+print("Perfoming OCR... (" + method + ")")
+if method == "ONLINE":
+     ocr_text = ocr_online.ocrify(q_image)
+elif method == "local":
+    ocr_text = ocr_local.ocrify(q_image)
+# print("\"" + ocr_text + "\"")
 
-    break
+print("Perfoming Google Search...")
+site_links = serpapi.do_search(ocr_text)
+# printarray(site_links)
+print("Searching Sites...")
+search_sites.do_search(site_links)
 
     #Establish Exit Key
-    if (cv2.waitKey(1) & 0xFF) == ord('q'):
-        cv2.destroyAllWindows()
-        break
+    # if (cv2.waitKey(1) & 0xFF) == ord('q'):
+    #     cv2.destroyAllWindows()
+    #     break

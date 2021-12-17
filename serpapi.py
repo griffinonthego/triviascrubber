@@ -11,16 +11,16 @@ def do_search(search_term):
     search_engine = "google"
     data = {"engine":search_engine, "apikey": serp_apikey, "q": search_term}
 
-    method = "ONLINE"
+    method = "SERPAPI"
+    print("\tResponse Source: " + method  + "\n\tSearch Phrase: \"" + search_term + "\"")
     if (method == "JSON"):
         search_term = "test"
         data = json.load(open('google_test_json.json'))
         time.sleep(1)
-    elif (method == "ONLINE"):
+    elif (method == "SERPAPI"):
         response = requests.get("https://serpapi.com/search", data)
         data = response.json()
 
-    print("Method: " + method  + " (\"" + search_term + "\")")
     site_links = [""] * 10
     ct = 0
 
