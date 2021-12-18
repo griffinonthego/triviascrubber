@@ -1,6 +1,8 @@
 import requests
 import json
 import time
+import pytesseract
+import PIL.Image
 
 def jprint(obj):
     text = json.dumps(obj, sort_keys=True, indent=4)
@@ -12,7 +14,7 @@ def fixtext(text):
     text = text.replace("  ", " ")
     return text
 
-def ocrify(image):
+def online(image):
     ocr_apikey = "12739a035188957"
     data = {"apikey": ocr_apikey}
     file = {'file': open(image, 'rb')}
@@ -32,6 +34,10 @@ def ocrify(image):
 
     ocr_text = str(data['ParsedResults'][0]['ParsedText'])
     ocr_text = fixtext(ocr_text)
+    return ocr_text
+
+def local(image):
+    ocr_text = pytesseract.image_to_string(PIL.Image.open(image));
     return ocr_text
 
 

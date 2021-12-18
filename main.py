@@ -2,118 +2,138 @@ import numpy as np
 import time
 import mss.tools
 import cv2
-import process_image, ocr_local, ocr_online, serpapi, search_sites, process_text
+import sys
+import process_image, ocrify, serpapi, search_sites, process_text
+from tabulate import tabulate
+
+from PyQt5 import QtWidgets
+from PyQt5.QtWidgets import QApplication, QLabel, QWidget
 
 def printarray(array):
     for i in array:
         print(i)
+def setup():
+    q_bb = {'top': 230, 'left': 30, 'width': 300, 'height': 175}
+    a1_bb = {'top': 450, 'left': 80, 'width': 200, 'height': 50}
+    a2_bb = {'top': 520, 'left': 80, 'width': 200, 'height': 50}
+    a3_bb = {'top': 590, 'left': 80, 'width': 200, 'height': 50}
 
-#Start timer
-tic = time.perf_counter()
+    sct = mss.mss()
+    filenames = {
+        'question_image':'q.png',
+        'processed_question_image': 'pq.png',
+        'answer_image': 'a.png',
+        'processed_answer_image': 'a.png',
+        'answer1_image': 'a1.png',
+        'answer2_image': 'a2.png',
+        'answer3_image': 'a3.png',
+    }
 
-#Create initial question window
-q_bb = {'top': 230, 'left': 30, 'width': 300, 'height': 175}
-# a_bb = {'top': 430, 'left': 30, 'width': 300, 'height': 250}
-a1_bb = {'top': 450, 'left': 80, 'width': 200, 'height': 50}
-a2_bb = {'top': 520, 'left': 80, 'width': 200, 'height': 50}
-a3_bb = {'top': 590, 'left': 80, 'width': 200, 'height': 50}
+    # Arrange Window Locaitions
+    cv2.namedWindow("Question")
+    cv2.moveWindow("Question", 360, 0)
+    cv2.namedWindow("a1")
+    cv2.moveWindow("a1", 360, 380)
+    cv2.namedWindow("a2")
+    cv2.moveWindow("a2", 360, 510)
+    cv2.namedWindow("a3")
+    cv2.moveWindow("a3", 360, 640)
 
-sct = mss.mss()
-
-#Define File Names
-q_image = 'q.png'
-pq_image = 'pq.png'
-a_image = 'a.png'
-pa_image = 'pa.png'
-a1_image = 'a1.png'
-a2_image = 'a2.png'
-a3_image = 'a3.png'
-
-#Arrange Window Locaitions
-cv2.namedWindow("Question")
-cv2.moveWindow("Question", 360, 0)
-# cv2.namedWindow("Answers")
-# cv2.moveWindow("Answers", 360, 380)
-cv2.namedWindow("a1")
-cv2.moveWindow("a1", 360, 380)
-cv2.namedWindow("a2")
-cv2.moveWindow("a2", 360, 510)
-cv2.namedWindow("a3")
-cv2.moveWindow("a3", 360, 640)
-# cv2.namedWindow("Question (Processed)")
-# cv2.moveWindow("Question (Processed)", 360, 380)
-
-while True:
-    #Get question, Display and save it
+    # Get question, Display and save it
     q = sct.grab(q_bb)
-    # a = sct.grab(a_bb)
     a1 = sct.grab(a1_bb)
     a2 = sct.grab(a2_bb)
     a3 = sct.grab(a3_bb)
 
     cv2.imshow('Question', np.array(q))
-    # cv2.imshow('Answers', np.array(a))
     cv2.imshow('a1', np.array(a1))
     cv2.imshow('a2', np.array(a2))
     cv2.imshow('a3', np.array(a3))
 
-    mss.tools.to_png(q.rgb, q.size, output=q_image)
-    # mss.tools.to_png(a.rgb, a.size, output=a_image)
-    mss.tools.to_png(a1.rgb, a1.size, output=a1_image)
-    mss.tools.to_png(a2.rgb, a2.size, output=a2_image)
-    mss.tools.to_png(a3.rgb, a3.size, output=a3_image)
-
-    pa = process_image.shading(a_image)
-    cv2.imwrite(pa_image, pa)
-
-    #OCR the text from the saved files
-    method = "LOCAL"
-    print("\nPerfoming OCR... \n\t> Processing Method: " + method)
-    answers = ['']*3
-    if method == "ONLINE":
-         question = ocr_online.ocrify(q_image)
-         # answers = ocr_online.ocrify(a_image)
-         answers[0] = ocr_online.ocrify(a1_image)
-         answers[1] = ocr_online.ocrify(a2_image)
-         answers[2] = ocr_online.ocrify(a3_image)
+    mss.tools.to_png(q.rgb, q.size, output=filenames['question_image'])
+    mss.tools.to_png(a1.rgb, a1.size, output=filenames['answer1_image'])
+    mss.tools.to_png(a2.rgb, a2.size, output=filenames['answer2_image'])
+    mss.tools.to_png(a3.rgb, a3.size, output=filenames['answer3_image'])
+    return filenames
+def run_ocr(method,filenames):
+    print("\nPerfoming OCR...\n\t> Processing Method: " + method)
+    if method == "ONLINE API":
+        question = ocrify.online(filenames['question_image'])
+        answer1 = ocrify.online(filenames['answer1_image'])
+        answer2 = ocrify.online(filenames['answer2_image'])
+        answer3 = ocrify.online(filenames['answer3_image'])
     elif method == "LOCAL":
-        question = ocr_local.ocrify(q_image)
-        # answers = ocr_local.ocrify(a_image)
-        answers[0] = ocr_local.ocrify(a1_image)
-        answers[1] = ocr_local.ocrify(a2_image)
-        answers[2] = ocr_local.ocrify(a3_image)
+        question = ocrify.local(filenames['question_image'])
+        answer1 = ocrify.local(filenames['answer1_image'])
+        answer2 = ocrify.local(filenames['answer2_image'])
+        answer3 = ocrify.local(filenames['answer3_image'])
+    else:
+        print("\t> INVALID SEARCH METHOD")
+        sys.exit(1)
+    answers = [answer1, answer2, answer3]
 
-    question = process_text.process(question)
-
-    ct = 0
-    for i in answers:
-        answers[ct] = process_text.process(i)
-        ct = ct + 1
-
-    print("\t> Question Result: \"" + question + "\"")
-    print("\t> Answers Result: " + str(answers))
-
+    return question, answers
+def run_processing(text):
+    if (isinstance(text, str)):
+        text = process_text.process(text)
+        return text
+    elif (isinstance(text, list)):
+        ct = 0
+        for i in text:
+            answers[ct] = process_text.process(i)
+            ct = ct + 1
+        return text
+def run_googling(method, question):
     print("Perfoming Google Search...")
-    site_links = serpapi.do_search(question)
-    while('' in site_links):
+    site_links = serpapi.do_search(method, question)
+    while ('' in site_links):
         site_links.remove('')
-
+    print("\t> Links Result: " + str(site_links))
+    return site_links
+def search(site_links, answers):
     print("Searching Sites...")
-    appearences = [0, 0, 0]
+    tot_huntpeck = [0, 0, 0]
+    tot_wordrank = [0, 0, 0]
     for site in site_links:
-        appearences = np.add(appearences, search_sites.do_search(site,answers))
+    # search_sites.do_search_huntpeck(site_links[0], answers)
+        tot_huntpeck = np.add(tot_huntpeck, search_sites.do_search_huntpeck(site, answers))
+        tot_wordrank = np.add(tot_wordrank, search_sites.do_search_wordrank(site, answers))
 
+    print("\t> Search Method: HUNTPECK")
+    print("\t> Search Method: WORDRANK")
     ct = 0
     for i in answers:
-        print(str(i) + ": " + str(appearences[ct]))
+        print("\t\t> " + str(i) + ": \t" + str(tot_huntpeck[ct]) + "\t" + str(tot_wordrank[ct]))
         ct = ct + 1
 
-    # End timer
-    toc = time.perf_counter()
-    print(toc-tic)
-    break
+#Start Timer
+tic = time.perf_counter()
 
-    # Establish Exit Key
-    if (cv2.waitKey(1) & 0xFF) == ord('q'):
-        cv2.destroyAllWindows()
-        break
+#General Setup
+filenames = setup()
+
+#Run OCR
+question, answers = run_ocr("LOCAL", filenames) #LOCAL or ONLINE API
+
+#Further Process Text
+question = run_processing(question)
+answers = run_processing(answers)
+
+print("\t> Question Result: " + repr(question) + "")
+print("\t> Answers Result: " + repr(answers[0]) + ", " + repr(answers[1]) + ", " + repr(answers[2]))
+OCR_time = time.perf_counter()
+print("\t> Done (" + str(OCR_time-tic) + " sec)")
+
+#Google the Question
+site_links = run_googling("ONLINE API",question) #TEST JSON or ONLINE API
+Google_time = time.perf_counter()
+print("\t> Done (" + str(Google_time - OCR_time) + " sec)")
+
+#Search the Sites
+search(site_links, answers)
+Search_time = time.perf_counter()
+print("\t> Done (" + str(Search_time - Google_time) + " sec)")
+
+# End timer
+toc = time.perf_counter()
+print("\nTime: " + str(toc-tic))

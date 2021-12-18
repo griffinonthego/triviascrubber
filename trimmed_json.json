@@ -1,138 +1,184 @@
 {
     "search_metadata": {
-        "id": "61bd1ff20574f56435fb615e",
+        "id": "61bd91275c1059a6ecfa5629",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/d222118be2b7481b/61bd1ff20574f56435fb615e.json",
-        "created_at": "2021-12-17 23:40:34 UTC",
-        "processed_at": "2021-12-17 23:40:34 UTC",
-        "google_url": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&oq=what+structure+did+king+kong+famously+climb%3F&sourceid=chrome&ie=UTF-8",
-        "raw_html_file": "https://serpapi.com/searches/d222118be2b7481b/61bd1ff20574f56435fb615e.html",
-        "total_time_taken": 2.46
+        "json_endpoint": "https://serpapi.com/searches/8289ffa49d60c60f/61bd91275c1059a6ecfa5629.json",
+        "created_at": "2021-12-18 07:43:35 UTC",
+        "processed_at": "2021-12-18 07:43:35 UTC",
+        "google_url": "https://www.google.com/search?q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&oq=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/8289ffa49d60c60f/61bd91275c1059a6ecfa5629.html",
+        "total_time_taken": 1.04
     },
     "search_parameters": {
         "engine": "google",
-        "q": "what structure did king kong famously climb?",
+        "q": "of these francophone cities, which is home to the most people?",
         "google_domain": "google.com",
         "device": "desktop"
     },
     "search_information": {
         "organic_results_state": "Results for exact spelling",
-        "query_displayed": "what structure did king kong famously climb?",
-        "total_results": 621000,
-        "time_taken_displayed": 0.58
+        "query_displayed": "of these francophone cities, which is home to the most people?",
+        "total_results": 8530000000,
+        "time_taken_displayed": 0.79
     },
-    "inline_videos": [
-        {
-            "position": 1,
-            "title": "King Kong (1933)- Climbing the Empire State Building Scene ...",
-            "link": "https://www.youtube.com/watch?v=8qkahQVFzMI",
-            "thumbnail": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/c7d26b37baa119937a7fc124412750c8a1a2263bf3f64e882cc0a72cd2aabdd1.jpeg",
-            "channel": "Movieclips",
-            "duration": "3:34",
-            "platform": "YouTube",
-            "date": "Dec 28, 2016"
-        },
-        {
-            "position": 2,
-            "title": "Kong climbs The Empire State Building ( King Kong 1933 )",
-            "link": "https://www.youtube.com/watch?v=CuRQH_hLcTw",
-            "thumbnail": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/c7d26b37baa1199385e98a4a01219abc4ff8fe2e40b5f9aa85f146cb0e91c270.jpeg",
-            "channel": "seehack",
-            "duration": "2:02",
-            "platform": "YouTube",
-            "date": "Apr 9, 2008"
-        },
-        {
-            "position": 3,
-            "title": "King Kong Climbs The Empire State Building | HBO Max",
-            "link": "https://www.youtube.com/watch?v=j9T6WtLQDFE",
-            "thumbnail": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/c7d26b37baa119932ce3d5fc5e91a2f947a5c513413fccbc13c0bcc7dbad1797.jpeg",
-            "channel": "HBO Max",
-            "duration": "3:19",
-            "platform": "YouTube",
-            "date": "Sep 5, 2020"
-        },
-        {
-            "position": 4,
-            "title": "Kong Climbs the Empire State Building Scene - King Kong ...",
-            "link": "https://www.youtube.com/watch?v=0xu6BnRRnfw",
-            "thumbnail": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/c7d26b37baa11993dfa6de909a9bfa632d6e48f009f6ce14290cffbf137606b4.jpeg",
-            "channel": "BestClips",
-            "duration": "2:47",
-            "platform": "YouTube",
-            "date": "May 31, 2017"
-        }
-    ],
     "inline_video_carousels": [
         {
             "position": 1,
-            "title": "King Kong Climbs The Empire State Building | HBO Max",
-            "link": "https://www.youtube.com/watch?v=j9T6WtLQDFE#:~:text=King%20Kong%20Climbs%20The%20Empire%20State%20Building%20%7C%20HBO%20Max%20%2D%20YouTube",
-            "displayed_link": "https://www.youtube.com \u203a watch"
+            "title": "Cities In The World With The Most Francophone Population",
+            "link": "https://www.worldatlas.com/articles/cities-in-the-world-with-the-most-francophone-population.html#:~:text=Kinshasa%2C%20Democratic%20Republic%20Of%20Congo&text=French%20is%20the%20official%20language,a%20population%20of%2012%2C691%2C000%20people.",
+            "displayed_link": "https://www.worldatlas.com \u203a World Facts"
+        }
+    ],
+    "inline_people_also_search_for": [
+        {
+            "title": "French-speaking cities in Europe",
+            "items": [
+                {
+                    "name": "Montreal",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpnd7tfCds8SUF7ouiUGctOK-I2q1Q7v8RLxbg&s=0",
+                    "link": "https://www.google.com/search?q=Montreal&stick=H4sIAAAAAAAAAG2OvQ4BQRRGbYIsb0AUN3ohm6CRqOj06Na6zLA7d8wMCo3XIAoRXkZCKUK8iMpPdlW6k5vz5R47l7eLQbFUdmTVgYFC4THQEt0xF0PwuOGogQvAqSKJ3RoNwDDU-FZd4ZFkJDDS5oy_x1wDowDB0MeEgLQBiSR9PFq_VxFOzCjEvlTDEEd9Y0L0ZGV-tFIfdJTozaJzj7GnBc1vbuFPbuObu4xbu4TdImEUuv4tmYldV-ny-pE91e_2PrPonLfQPuz9zeUFP1iI0gcBAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAB6BAgoEAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Montreal&stick=H4sIAAAAAAAAAG2OvQ4BQRRGbYIsb0AUN3ohm6CRqOj06Na6zLA7d8wMCo3XIAoRXkZCKUK8iMpPdlW6k5vz5R47l7eLQbFUdmTVgYFC4THQEt0xF0PwuOGogQvAqSKJ3RoNwDDU-FZd4ZFkJDDS5oy_x1wDowDB0MeEgLQBiSR9PFq_VxFOzCjEvlTDEEd9Y0L0ZGV-tFIfdJTozaJzj7GnBc1vbuFPbuObu4xbu4TdImEUuv4tmYldV-ny-pE91e_2PrPonLfQPuz9zeUFP1iI0gcBAAA"
+                },
+                {
+                    "name": "Paris",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW43QptccnNVEuL8XvragGoGp8oXv4gJjVn_06yRuqBXjAJMCvnq1y&s=0",
+                    "link": "https://www.google.com/search?q=Paris&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC0syTJSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUIscqowBzGBNoKZaYUFKVDmVkpJSVQZnKBWfkpRk4Q06goL6kMJpyUkfGLUcEN7FxdLM51BTu3gYVxEStrQGJRZvEtNkmGGzO5TGfdlTprf5tjiWR15LkFChFLl-TMuQYAjxd53wQBAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAF6BAgoEAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Paris&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC0syTJSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUIscqowBzGBNoKZaYUFKVDmVkpJSVQZnKBWfkpRk4Q06goL6kMJpyUkfGLUcEN7FxdLM51BTu3gYVxEStrQGJRZvEtNkmGGzO5TGfdlTprf5tjiWR15LkFChFLl-TMuQYAjxd53wQBAAA"
+                },
+                {
+                    "name": "Lyon",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNI8053fdF0VfL3VtoFAlJerS-MzOmSvdzJFg5kCGRzJHdkijJ29I&s=0",
+                    "link": "https://www.google.com/search?q=Lyon&stick=H4sIAAAAAAAAAOOQUeLQz9U3SCkoSjdSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUItsrUqMAcxiwsyYIyQQ6AMrNSSkqgzOQCs_JTjJwgplFRXlIZTDgpI-MXo4Ib2Lm6WJzrCnZuAwvjIlYWn8r8vFtskgw3ZnKZzrorddb-NscSyerIcwsUIpYuyZlzDQDUxkTCAwEAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAJ6BAgoEAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Lyon&stick=H4sIAAAAAAAAAOOQUeLQz9U3SCkoSjdSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUItsrUqMAcxiwsyYIyQQ6AMrNSSkqgzOQCs_JTjJwgplFRXlIZTDgpI-MXo4Ib2Lm6WJzrCnZuAwvjIlYWn8r8vFtskgw3ZnKZzrorddb-NscSyerIcwsUIpYuyZlzDQDUxkTCAwEAAA"
+                },
+                {
+                    "name": "Marseille",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCddizKbG6d_RkFjDLScRU2IVczoE4aLf_f58K&s=0",
+                    "link": "https://www.google.com/search?q=Marseille&stick=H4sIAAAAAAAAAG2OvQ4BQRRGbYIsb0AUN3ohm6CRqOj06PbnMsPuzJgZFBqvQRQivIyEUoR4EZXdzW6nO7k5X-4xK1WzHtQbM09rCyYSmUtACbTnlE3BpZqiAsoAl5ILHHf4BDRBhaFqM5cLwhmm2prQcEwVEB4gaB6ZEHClQSAXPl6N-FXTEu0UF3qWoCfkNMGoJUFXtNZXoxChJZmzSs8OIV8D-nFu7U9uL87dZo1TrjCwpULq-_jKlzLPXbG5_5Rv3bd5Lm1G9yMML2f_8PgBGznC4ggBAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAN6BAgoEAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Marseille&stick=H4sIAAAAAAAAAG2OvQ4BQRRGbYIsb0AUN3ohm6CRqOj06PbnMsPuzJgZFBqvQRQivIyEUoR4EZXdzW6nO7k5X-4xK1WzHtQbM09rCyYSmUtACbTnlE3BpZqiAsoAl5ILHHf4BDRBhaFqM5cLwhmm2prQcEwVEB4gaB6ZEHClQSAXPl6N-FXTEu0UF3qWoCfkNMGoJUFXtNZXoxChJZmzSs8OIV8D-nFu7U9uL87dZo1TrjCwpULq-_jKlzLPXbG5_5Rv3bd5Lm1G9yMML2f_8PgBGznC4ggBAAA"
+                },
+                {
+                    "name": "Nice",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMCLY-VXAviBhqZwuIhqanSZAkHCulOntIlBPh&s=0",
+                    "link": "https://www.google.com/search?q=Nice,+France&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC4wKzdSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUItsrUqMAcxiwsyYIyUwqK0qHMrJSSEigT5KxTjJwgplFRXlIZTDgpI-MXo4Ib2Lm6WJzrCnZuAwvjIlYev8zkVB2gWqB7U2-xSTLcmMllOuuu1Fn72xxLJKsjzy1QiFi6JGfONQCV0CeuCwEAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAR6BAgoEAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nice%2C+France&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC4wKzdSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUItsrUqMAcxiwsyYIyUwqK0qHMrJSSEigT5KxTjJwgplFRXlIZTDgpI-MXo4Ib2Lm6WJzrCnZuAwvjIlYev8zkVB2gWqB7U2-xSTLcmMllOuuu1Fn72xxLJKsjzy1QiFi6JGfONQCV0CeuCwEAAA"
+                },
+                {
+                    "name": "Brussels",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv4q0BetnF4BZHh1205KU9603SEdYQmKgANj42&s=0",
+                    "link": "https://www.google.com/search?q=City+of+Brussels&stick=H4sIAAAAAAAAAG2OwQoBURSGTaFhZUsWJ3vRFDZKEc-AHeOYe5m597r3Itl4DbKQeBnFUiIvYmVoJhu7r9P3dz4zm0sUvELRkqw_s2AokdkElMDemDIHbKopKqAMcCq5wG6VD0ETVOirPWZzQTjDUJsT6o-pAsI9BM0_JnhcaRDIhYsnw_z8KlmiEuJEjwIcCOkEOBpoHaAtyvOT8UsMz31CXga0vrn5P7nNb-4qauxjqQbVC_C763KqFLrqHk9HbutkafPMnGsP85Bedi47aB8P7vb6BhQ_fb0QAQAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAV6BAgoEAg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=City+of+Brussels&stick=H4sIAAAAAAAAAG2OwQoBURSGTaFhZUsWJ3vRFDZKEc-AHeOYe5m597r3Itl4DbKQeBnFUiIvYmVoJhu7r9P3dz4zm0sUvELRkqw_s2AokdkElMDemDIHbKopKqAMcCq5wG6VD0ETVOirPWZzQTjDUJsT6o-pAsI9BM0_JnhcaRDIhYsnw_z8KlmiEuJEjwIcCOkEOBpoHaAtyvOT8UsMz31CXga0vrn5P7nNb-4qauxjqQbVC_C763KqFLrqHk9HbutkafPMnGsP85Bedi47aB8P7vb6BhQ_fb0QAQAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?q=French-speaking+cities+in+Europe&stick=H4sIAAAAAAAAAOOQMVJIK0rNS85QKC5ITczOzEtXSM4syUwtVsjMU0gtLcovSI2yyU9TKMlILU4FKk3MS84vyMjPS4UpK8_IBGrOLFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xcihn6tvYGpUYA5jFpZkQZkpBUXpUGZWSkkJlJlcYFZ-ipETxDQqyksqgwknZWT8YlRwAztXF4tzXcHObWBhXMRKUNUtNkmGGzO5TGfdlTprf5tjiWR15LkFChFLl-TMuQYAWRg-_BUBAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ4qYDegQIKBAJ",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=French-speaking+cities+in+Europe&stick=H4sIAAAAAAAAAOOQMVJIK0rNS85QKC5ITczOzEtXSM4syUwtVsjMU0gtLcovSI2yyU9TKMlILU4FKk3MS84vyMjPS4UpK8_IBGrOLFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xcihn6tvYGpUYA5jFpZkQZkpBUXpUGZWSkkJlJlcYFZ-ipETxDQqyksqgwknZWT8YlRwAztXF4tzXcHObWBhXMRKUNUtNkmGGzO5TGfdlTprf5tjiWR15LkFChFLl-TMuQYAWRg-_BUBAAA"
+        },
+        {
+            "title": "Francophone cities",
+            "items": [
+                {
+                    "name": "Kinshasa",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSReWgzpODmd4h2nzoYFNt8acxbiZpytDXysU7l2y-XT4PZujBmNOx-&s=0",
+                    "link": "https://www.google.com/search?q=Kinshasa&stick=H4sIAAAAAAAAAOOQUeLQz9U3SE4zKDYSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg3HMpMy61MgYkaVuTCRIsNy-AK4g1hzDxD41OMnCCmYaWpBUxfSllOBYyZlA03OKvc8hejkBuGIxtYGBexcnhn5hVnJBYn3mKTZLgxk8v06s72ydNO7d67Izhvom_qirZHPUcWAwAoPm_0DAEAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAB6BAgxEAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Kinshasa&stick=H4sIAAAAAAAAAOOQUeLQz9U3SE4zKDYSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg3HMpMy61MgYkaVuTCRIsNy-AK4g1hzDxD41OMnCCmYaWpBUxfSllOBYyZlA03OKvc8hejkBuGIxtYGBexcnhn5hVnJBYn3mKTZLgxk8v06s72ydNO7d67Izhvom_qirZHPUcWAwAoPm_0DAEAAA"
+                },
+                {
+                    "name": "Abidjan",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKRHm-RnKTUTYs7F7M6OPaWvIpr-qkbwK2gAIHYuVVEypIgN9FIfCo&s=0",
+                    "link": "https://www.google.com/search?q=Abidjan&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMutTDESSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKBNkDEzWsyIWJFhuWwRXEG8KYeYbGpxg5QUzDSlMLmL6UspwKGDMpG25wVrnlL0YhNwxHNrAwLmJld0zKTMlKzLvFJslwYyaX6dWd7ZOnndq9d0dw3kTf1BVtj3qOLAYADCR0TAsBAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAF6BAgxEAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Abidjan&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMutTDESSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKBNkDEzWsyIWJFhuWwRXEG8KYeYbGpxg5QUzDSlMLmL6UspwKGDMpG25wVrnlL0YhNwxHNrAwLmJld0zKTMlKzLvFJslwYyaX6dWd7ZOnndq9d0dw3kTf1BVtj3qOLAYADCR0TAsBAAA"
+                },
+                {
+                    "name": "Dakar",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmiNrVcv2H-6WHZ9dRV-WN_ym-msrjttNSCmO2L4J3L97J_EHLm-v7&s=0",
+                    "link": "https://www.google.com/search?q=Dakar&stick=H4sIAAAAAAAAAOOQUeLQz9U3SDasyDUSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQgxPM2gGMpMy61MgYkCrYSJFhuWwRXEG8KYeYbGpxg5QUzDSlMLmL6UspwKGDMpG25wVrnlL0YhNwxHNrAwLmJldUnMTiy6xSbJcGMml-nVne2Tp53avXdHcN5E39QVbY96jiwGAH1pEJMJAQAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAJ6BAgxEAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dakar&stick=H4sIAAAAAAAAAOOQUeLQz9U3SDasyDUSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQgxPM2gGMpMy61MgYkCrYSJFhuWwRXEG8KYeYbGpxg5QUzDSlMLmL6UspwKGDMpG25wVrnlL0YhNwxHNrAwLmJldUnMTiy6xSbJcGMml-nVne2Tp53avXdHcN5E39QVbY96jiwGAH1pEJMJAQAA"
+                },
+                {
+                    "name": "Port\u2011au\u2011Pri...",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuEiq5pWv006KHYPlrAVZR2ADNj6wmGVn3o7LsblQYTu6otnvTzdk5&s=0",
+                    "link": "https://www.google.com/search?q=Port-au-Prince&stick=H4sIAAAAAAAAAOOQUeLQz9U3SCs2LDMSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSBtsMVxBvCmHmGxqcYOUFMw0pTC5i-lLKcChgzKRtucFa55S9GITcMRzawMC5i5QvILyrRTSzVDSjKzEtOvcUmyXBjJpfp1Z3tk6ed2r13R3DeRN_UFW2Peo4sBgA0KQ18EgEAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAN6BAgxEAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Port-au-Prince&stick=H4sIAAAAAAAAAOOQUeLQz9U3SCs2LDMSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSBtsMVxBvCmHmGxqcYOUFMw0pTC5i-lLKcChgzKRtucFa55S9GITcMRzawMC5i5QvILyrRTSzVDSjKzEtOvcUmyXBjJpfp1Z3tk6ed2r13R3DeRN_UFW2Peo4sBgA0KQ18EgEAAA"
+                },
+                {
+                    "name": "Antananar...",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQAyTnJKSX4VMt241IWu8ZVIok1Ym8Nu6grufUnfiQReIqOnIBstHg&s=0",
+                    "link": "https://www.google.com/search?q=Antananarivo&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMuNNzQSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSLDcvgCuINYcw8Q-NTjJwgpmGlqQVMX0pZTgWMmZQNNzir3PIXo5AbhiMbWBgXsfI45pUk5gFhUWZZ_i02SYYbM7lMr-5snzzt1O69O4LzJvqmrmh71HNkMQCWX2NQEAEAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAR6BAgxEAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Antananarivo&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMuNNzQSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSLDcvgCuINYcw8Q-NTjJwgpmGlqQVMX0pZTgWMmZQNNzir3PIXo5AbhiMbWBgXsfI45pUk5gFhUWZZ_i02SYYbM7lMr-5snzzt1O69O4LzJvqmrmh71HNkMQCWX2NQEAEAAA"
+                },
+                {
+                    "name": "Bamako",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6EoBvwITO_uE5GPKaL63mnTAn4Eozwf9Wx4WeUkXn5MUYYyuYMMuH&s=0",
+                    "link": "https://www.google.com/search?q=Bamako&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMszNDYSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSLDcvgCuINYUygm04xcoKYhpWmFjB9KWU5FTBmUjbc4Kxyy1-MQm4YjmxgYVzEyuaUmJuYnX-LTZLhxkwu06s72ydPO7V7747gvIm-qSvaHvUcWQwA2mjURgoBAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAV6BAgxEAg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bamako&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMszNDYSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSLDcvgCuINYUygm04xcoKYhpWmFjB9KWU5FTBmUjbc4Kxyy1-MQm4YjmxgYVzEyuaUmJuYnX-LTZLhxkwu06s72ydPO7V7747gvIm-qSvaHvUcWQwA2mjURgoBAAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?q=Francophone+cities&stick=H4sIAAAAAAAAAOOQMRJKK0rMS84vyMjPS1VIzizJTC2OsslPUyjJSC1OVcCUVCjPyEzOUMgsVsjIz01VKMkHqVTIzS8uUShIzS_IST3FyKGfq2-QnGZQDGWm5VamwEQNK3JhosWGZXAF8YYwZp6h8SlGThDTsNLUAqYvpSynAsZMyoYbnFVu-YtRyA3DkQ0sjItYsYjfYpNkuDGTy_TqzvbJ007t3rsjOG-ib-qKtkc9RxYDAI28QH4MAQAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ4qYDegQIMRAJ",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Francophone+cities&stick=H4sIAAAAAAAAAOOQMRJKK0rMS84vyMjPS1VIzizJTC2OsslPUyjJSC1OVcCUVCjPyEzOUMgsVsjIz01VKMkHqVTIzS8uUShIzS_IST3FyKGfq2-QnGZQDGWm5VamwEQNK3JhosWGZXAF8YYwZp6h8SlGThDTsNLUAqYvpSynAsZMyoYbnFVu-YtRyA3DkQ0sjItYsYjfYpNkuDGTy_TqzvbJ007t3rsjOG-ib-qKtkc9RxYDAI28QH4MAQAA"
         }
     ],
     "related_questions": [
         {
-            "question": "Did King Kong climb the Empire State Building?",
-            "snippet": "\u201cDisaster!\u201d wrote Thirer. \u201cKing Kong breaks loose! Mad throngs pour out of the (Madison Square) Garden. Kong grabs the beauteous (Fay Wray) and eventually reaches the top of the Empire State Building.Mar 1, 2019",
-            "title": "This Week in History: 1933 A giant ape climbs the Empire State",
-            "link": "https://vancouversun.com/news/local-news/this-week-in-history-1933-a-giant-ape-climbs-the-empire-state",
-            "displayed_link": "https://vancouversun.com \u203a news \u203a local-news \u203a this-week..."
+            "question": "Where do most francophone people live?",
+            "snippet": "The majority of Francophones (85.4%) live in Quebec and over 1 million live in other regions of the country.Sep 13, 2019",
+            "title": "Some facts on the Canadian Francophonie - Canada.ca",
+            "link": "https://www.canada.ca/en/canadian-heritage/services/official-languages-bilingualism/publications/facts-canadian-francophonie.html",
+            "displayed_link": "https://www.canada.ca \u203a services \u203a publications \u203a facts-ca..."
         },
         {
-            "question": "Why does King Kong climb the Empire State Building?",
-            "snippet": "He couldn't fit in the elevator.",
-            "title": "Why did King Kong climb the Empire State Building? - NWF | Ranger Rick",
-            "link": "https://rangerrick.org/jokes/why-did-king-kong-climb-the-empire-state-building/",
-            "displayed_link": "https://rangerrick.org \u203a jokes \u203a why-did-king-kong-climb..."
+            "question": "What is the largest Francophone country?",
+            "snippet": "The Democratic Republic of the Congo has the largest concentration of French speakers in all of Africa, and has the largest population of any country with French as the official language.May 15, 2020",
+            "title": "The Countries That Speak the Most French (Besides France)",
+            "link": "https://frenchly.us/the-countries-outside-of-france-that-speak-the-most-french/",
+            "displayed_link": "https://frenchly.us \u203a the-countries-outside-of-france-that-s..."
         },
         {
-            "question": "When did King Kong climb the Empire State Building?",
-            "snippet": "King Kong on the Empire State Building. 'Twas beauty killed the beast the first time King Kong made it to the top of the Empire State Building, back in 1933.Aug 14, 2017",
-            "title": "A 50-foot inflatable King Kong atop the Empire State Building on the ...",
-            "link": "https://www.nydailynews.com/new-york/nyc-put-king-kong-back-empire-state-building-article-1.821317",
-            "displayed_link": "https://www.nydailynews.com \u203a new-york \u203a nyc-put-king..."
+            "question": "What is the largest French speaking city in Canada?",
+            "title": "Montreal is one of the most bilingual cities in Quebec and Canada, with 57.4% of the population able to speak both English and French. Montreal is the second-largest primarily French-speaking city in the developed world, after Paris....Montreal.",
+            "link": "https://en.wikipedia.org/wiki/Montreal",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Montreal"
         },
         {
-            "question": "What building did Godzilla climb?",
-            "snippet": "Godzilla: The Series[edit | edit source] The Empire State Building appears in the show's intro, when Godzilla climbs the building and roars as he reaches the top.Oct 28, 2020",
-            "title": "The Empire State Building",
-            "link": "https://wikizilla.org/wiki/Empire_State_Building",
-            "displayed_link": "https://wikizilla.org \u203a wiki \u203a Empire_State_Building"
+            "question": "What city is the second largest Francophone city in the world?",
+            "snippet": "Kinshasa is the world's second largest French speaking city, after Paris, and before Montreal and Brussels.",
+            "title": "Paris",
+            "link": "https://www.normandale.edu/departments/humanities/world-languages/french/40-facts-about-french",
+            "displayed_link": "https://www.normandale.edu \u203a world-languages \u203a 40-fa..."
         }
     ],
     "answer_box": {
         "type": "organic_result",
-        "title": "King Kong Climbs The Empire State Building | HBO Max",
-        "link": "https://www.youtube.com/watch?v=j9T6WtLQDFE#:~:text=King%20Kong%20Climbs%20The%20Empire%20State%20Building%20%7C%20HBO%20Max%20%2D%20YouTube",
-        "displayed_link": "https://www.youtube.com \u203a watch",
-        "date": "Sep 5, 2020",
-        "snippet": "King Kong Climbs The Empire State Building | HBO Max - YouTube."
+        "title": "Cities In The World With The Most Francophone Population",
+        "link": "https://www.worldatlas.com/articles/cities-in-the-world-with-the-most-francophone-population.html#:~:text=Kinshasa%2C%20Democratic%20Republic%20Of%20Congo&text=French%20is%20the%20official%20language,a%20population%20of%2012%2C691%2C000%20people.",
+        "displayed_link": "https://www.worldatlas.com \u203a World Facts",
+        "date": "Jul 3, 2020",
+        "snippet": "Kinshasa, Democratic Republic Of Congo French is the official language in Kinshasa, which makes it the city with the highest number of French-speaking people since its urban area has a population of 12,691,000 people."
     },
     "organic_results": [
         {
             "position": 1,
-            "title": "Why did King Kong climb the Empire State Building?\"/\"He ...",
-            "link": "https://www.barrypopik.com/index.php/new_york_city/entry/why_did_king_kong_climb_the_empire_state_building",
-            "displayed_link": "https://www.barrypopik.com \u203a new_york_city \u203a entry",
-            "date": "Oct 23, 2016",
-            "snippet": "In the film King Kong (1933), the ape King Kong climbs the Empire ... It is also the fifth-tallest freestanding structure in the Americas.",
+            "title": "10 Largest Francophone Cities in the World - Delusional Bubble",
+            "link": "https://delusionalbubble.com/10-largest-francophone-cities-in-the-world/",
+            "displayed_link": "https://delusionalbubble.com \u203a 10-largest-francophone-...",
+            "date": "Sep 2, 2020",
+            "snippet": "1- Paris, France (12.2 million) ... Paris, the capital of France is the largest Francophone city in the world with more than 12.2 million people ...",
             "about_this_result": {
                 "source": {
-                    "description": "barrypopik.com was first indexed by Google more than 10 years ago",
+                    "description": "delusionalbubble.com was first indexed by Google in July 2019",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/df46a41a31ca4374d6731fdcc51a197ba2b827e9531cc23ece3b8927252f41445452169b061486b556f5c96e489f3a20.png"
+                    "icon": "https://serpapi.com/searches/61bd91275c1059a6ecfa5629/images/5a5681a34bf5cd21e7254d8f03cfc2f25c0baf0f28e6888100e93033aaed15cffe30bcfcfb5616383133f7abf647b4a7.jpeg"
                 },
                 "keywords": [
-                    "what",
-                    "structure",
-                    "did",
-                    "king",
-                    "kong",
-                    "climb"
+                    "of",
+                    "francophone",
+                    "cities",
+                    "home",
+                    "most",
+                    "people"
                 ],
                 "related_keywords": [
-                    "famous"
+                    "city",
+                    "largest"
                 ],
                 "languages": [
                     "English"
@@ -141,32 +187,34 @@
                     "the United States"
                 ]
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://www.barrypopik.com/index.php/new_york_city/entry/why_did_king_kong_climb_the_empire_state_building&tbm=ilp&ilps=AOR-xxsA0oMOIC0RChEpXQcUnCrcggAnxQ",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:fK2gSoO57l0J:https://www.barrypopik.com/index.php/new_york_city/entry/why_did_king_kong_climb_the_empire_state_building+&cd=17&hl=en&ct=clnk&gl=us"
+            "about_page_link": "https://www.google.com/search?q=About+https://delusionalbubble.com/10-largest-francophone-cities-in-the-world/&tbm=ilp&ilps=AOR-xxttvUzpwTZ--wl3By2tobUHpgX09A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:reMGicidNgIJ:https://delusionalbubble.com/10-largest-francophone-cities-in-the-world/+&cd=12&hl=en&ct=clnk&gl=us"
         },
         {
             "position": 2,
-            "title": "\"King Kong\" Climb - TV Tropes",
-            "link": "https://tvtropes.org/pmwiki/pmwiki.php/Main/KingKongClimb",
-            "displayed_link": "https://tvtropes.org \u203a Tropes",
-            "snippet": "In the original film, King Kong famously grabbed the female lead character, played by Fay Wray, and climbed up the Empire State Building while planes ...",
+            "title": "10 Countries & Their Largest French Speaking City",
+            "link": "https://www.masteryourfrench.com/france/french-speaking-cities/",
+            "displayed_link": "https://www.masteryourfrench.com \u203a france \u203a french-sp...",
+            "date": "Aug 6, 2021",
+            "snippet": "The Paris region has an estimated population of over 11,020,000 in 2021. La ville lumi\u00e8re is the second-largest francophone city on the planet.",
             "about_this_result": {
                 "source": {
-                    "description": "TV Tropes is a wiki that collects and documents descriptions and examples of plot conventions and devices, more commonly known as tropes, within many creative works.",
-                    "source_info_link": "https://en.wikipedia.org/wiki/TV_Tropes",
+                    "description": "masteryourfrench.com was first indexed by Google in May 2019",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/df46a41a31ca4374d6731fdcc51a197b91249ad22de2250245a68fa288b1dffc51c8aab2d3cdaeb90d7a19f37af84786.png"
+                    "icon": "https://serpapi.com/searches/61bd91275c1059a6ecfa5629/images/5a5681a34bf5cd21e7254d8f03cfc2f21e4bc26fffe96176b2374b0b3b302206d945047edf26cce6511117e4df89f756.png"
                 },
                 "keywords": [
-                    "what",
-                    "did",
-                    "king",
-                    "kong",
-                    "famously",
-                    "climb"
+                    "of",
+                    "these",
+                    "francophone",
+                    "cities",
+                    "most"
                 ],
                 "related_keywords": [
-                    "climbed"
+                    "french",
+                    "city",
+                    "largest",
+                    "population"
                 ],
                 "languages": [
                     "English"
@@ -175,70 +223,33 @@
                     "the United States"
                 ]
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://tvtropes.org/pmwiki/pmwiki.php/Main/KingKongClimb&tbm=ilp&ilps=AOR-xxssCLkIMvWzWvb_RNkWQUiCv3aL8g",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Z6I29Q4ZTKsJ:https://tvtropes.org/pmwiki/pmwiki.php/Main/KingKongClimb+&cd=18&hl=en&ct=clnk&gl=us",
-            "missing": [
-                "structure"
-            ],
-            "must_include": {
-                "word": "structure",
-                "link": "https://www.google.com/search?q=what+%22structure%22+did+king+kong+famously+climb?&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ5t4CegQIChAB"
-            }
+            "about_page_link": "https://www.google.com/search?q=About+https://www.masteryourfrench.com/france/french-speaking-cities/&tbm=ilp&ilps=AOR-xxuKwoo7bWUboB_DE0vzXWuhqSprxw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MyWtYp9ScWcJ:https://www.masteryourfrench.com/france/french-speaking-cities/+&cd=13&hl=en&ct=clnk&gl=us"
         },
         {
             "position": 3,
-            "title": "How King Kong Works - Entertainment | HowStuffWorks",
-            "link": "https://entertainment.howstuffworks.com/king-kong.htm",
-            "displayed_link": "https://entertainment.howstuffworks.com \u203a king-kong",
-            "snippet": "In 1933, King Kong climbed the Empire State Building with Ann Darrow clutched in his hand and fought off biplanes circling his perch. It's one of the most ...",
-            "about_this_result": {
-                "source": {
-                    "description": "HowStuffWorks is an American commercial infotainment website founded by professor and author Marshall Brain, to provide its target audience an insight into the way many things work.",
-                    "source_info_link": "https://en.wikipedia.org/wiki/HowStuffWorks",
-                    "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/df46a41a31ca4374d6731fdcc51a197b3b4096d9ad8e18ff89ef5ed1aee01972d5ec18b87a5a660ff03fce602e75cee5.png"
-                },
-                "keywords": [
-                    "what",
-                    "king",
-                    "kong"
-                ],
-                "related_keywords": [
-                    "famous",
-                    "climbed"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ]
-            },
-            "about_page_link": "https://www.google.com/search?q=About+https://entertainment.howstuffworks.com/king-kong.htm&tbm=ilp&ilps=AOR-xxsmudPg2O8K19mQt8zJ3wyPP_f_hg",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ngUsYS86AbMJ:https://entertainment.howstuffworks.com/king-kong.htm+&cd=19&hl=en&ct=clnk&gl=us"
-        },
-        {
-            "position": 4,
-            "title": "King Kong (1933 film) - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/King_Kong_(1933_film)",
-            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a King_Kong_(1933_fil...",
-            "snippet": "She assumed he meant Clark Gable until he showed her a picture of Kong climbing the Empire State Building. On the film's 50th anniversary in 1983, one New York ...",
+            "title": "French language in the United States - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/French_language_in_the_United_States",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a French_language_in_t...",
+            "snippet": "In Florida, the city of Miami is home to a large Francophone community, consisting of French expatriates, Haitians (who may also speak Haitian Creole, a ...",
             "about_this_result": {
                 "source": {
                     "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
                     "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/df46a41a31ca4374d6731fdcc51a197bfd260d32c2f571846a261c42171971947c547ae86326b561651a106087767a24.png"
+                    "icon": "https://serpapi.com/searches/61bd91275c1059a6ecfa5629/images/5a5681a34bf5cd21e7254d8f03cfc2f27275bcbffd2490cde1ae4ceb148461d74861b24995840f4ebf103b02e8864f68.png"
                 },
                 "keywords": [
-                    "what",
-                    "did",
-                    "king",
-                    "kong",
-                    "climb"
+                    "of",
+                    "these",
+                    "francophone",
+                    "cities",
+                    "home",
+                    "most",
+                    "people"
                 ],
                 "related_keywords": [
-                    "climbing"
+                    "french"
                 ],
                 "languages": [
                     "English"
@@ -247,32 +258,80 @@
                     "the United States"
                 ]
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/King_Kong_(1933_film)&tbm=ilp&ilps=AOR-xxvdWwXuvAn-RAjE-_Xyoow8Na4jMA",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:seDWgaixB74J:https://en.wikipedia.org/wiki/King_Kong_(1933_film)+&cd=20&hl=en&ct=clnk&gl=us",
-            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/King_Kong_(1933_film)+what+structure+did+king+kong+famously+climb%3F"
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/French_language_in_the_United_States&tbm=ilp&ilps=AOR-xxuKydBi8iChEkxa1_pEKjjhZtp7yA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mVlPz0tEDi0J:https://en.wikipedia.org/wiki/French_language_in_the_United_States+&cd=14&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/French_language_in_the_United_States+of+these+francophone+cities,+which+is+home+to+the+most+people%3F"
+        },
+        {
+            "position": 4,
+            "title": "Where in the US can we find French-speaking communities?",
+            "link": "https://www.sidmartinbio.org/where-in-the-us-can-we-find-french-speaking-communities/",
+            "displayed_link": "https://www.sidmartinbio.org \u203a Users' questions",
+            "snippet": "As of January 2018, the largest population of Franco-American people is in the state of Maine.",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Where is the largest population of French Americans? \u2014"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "sidmartinbio.org was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61bd91275c1059a6ecfa5629/images/5a5681a34bf5cd21e7254d8f03cfc2f289703746e4765adf96e502ef2b18416836d7b94d109f2811f39593cdedc89fba.png"
+                },
+                "keywords": [
+                    "of",
+                    "these",
+                    "francophone",
+                    "cities",
+                    "home",
+                    "most",
+                    "people"
+                ],
+                "related_keywords": [
+                    "french",
+                    "communities",
+                    "largest",
+                    "population"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.sidmartinbio.org/where-in-the-us-can-we-find-french-speaking-communities/&tbm=ilp&ilps=AOR-xxsXYL_qzvjr_DDR5mpqhkQdWnuAIA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:esr5JLxUYb0J:https://www.sidmartinbio.org/where-in-the-us-can-we-find-french-speaking-communities/+&cd=15&hl=en&ct=clnk&gl=us"
         },
         {
             "position": 5,
-            "title": "King Kong Empire State Building Exhibit Revealed",
-            "link": "https://comicbook.com/movies/news/king-kong-empire-state-building-exhibit/",
-            "displayed_link": "https://comicbook.com \u203a movies \u203a news \u203a king-kong-e...",
-            "date": "Aug 14, 2019",
-            "snippet": "... famous for the scene in the 1933 King Kong film where he climbed up the ... What do you think of the new King Kong exhibit at the Empire ...",
+            "title": "French (language): What US cities have the highest number",
+            "link": "https://www.quora.com/French-language-What-US-cities-have-the-highest-number-of-Francophones-people-who-are-able-to-speak-it-passably-not-just-native-speakers",
+            "displayed_link": "https://www.quora.com \u203a French-language-What-US-cit...",
+            "snippet": "Originally Answered: What US cities have the highest number of Francophones (people who are able to speak it passably, not just native speakers)?. (these ...",
             "about_this_result": {
                 "source": {
-                    "description": "comicbook.com was first indexed by Google more than 10 years ago",
+                    "description": "Quora is a social question-and-answer website based in Mountain View, California, United States, and founded on June 25, 2009.\nThe website was made available to the public on June 21, 2010. Users can collaborate by editing questions and commenting on answers that have been submitted by other users.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Quora",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/df46a41a31ca4374d6731fdcc51a197ba6f5b8b1a4150af08e8f668be169e110081ee801da6df4740a43250c8ec18693.png"
+                    "icon": "https://serpapi.com/searches/61bd91275c1059a6ecfa5629/images/5a5681a34bf5cd21e7254d8f03cfc2f20c8c23f6ac54f21d84eed5e5e7f24d1bf9b2ddc9803082bd11b0415f29d312d2.png"
                 },
                 "keywords": [
-                    "what",
-                    "structure",
-                    "king",
-                    "kong"
+                    "of",
+                    "these",
+                    "francophone",
+                    "cities",
+                    "home",
+                    "most",
+                    "people"
                 ],
                 "related_keywords": [
-                    "famous",
-                    "climbed"
+                    "francophones",
+                    "french",
+                    "highest"
                 ],
                 "languages": [
                     "English"
@@ -281,186 +340,136 @@
                     "the United States"
                 ]
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://comicbook.com/movies/news/king-kong-empire-state-building-exhibit/&tbm=ilp&ilps=AOR-xxvYw4HAMOCnRdTwXE9BHiltcd9pBQ",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:iDq8wSIDxu8J:https://comicbook.com/movies/news/king-kong-empire-state-building-exhibit/+&cd=21&hl=en&ct=clnk&gl=us"
+            "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/French-language-What-US-cities-have-the-highest-number-of-Francophones-people-who-are-able-to-speak-it-passably-not-just-native-speakers&tbm=ilp&ilps=AOR-xxuYJ-C2vbzIlJSgceO711f9LvrRjw",
+            "cached_page_link": "/search?q=related:https://www.quora.com/French-language-What-US-cities-have-the-highest-number-of-Francophones-people-who-are-able-to-speak-it-passably-not-just-native-speakers+of+these+francophone+cities,+which+is+home+to+the+most+people%3F"
         },
         {
             "position": 6,
-            "title": "Which is the best King Kong Film? - [otsoNY.com]",
-            "link": "http://onthesetofnewyork.com/02052013.html",
-            "displayed_link": "http://onthesetofnewyork.com \u203a ...",
-            "date": "May 2, 2013",
-            "snippet": "In the wide shot of Kong climbing the Empire State Building, he is climbing the western face of the structure. The financial district is visible ...",
-            "about_this_result": {
-                "source": {
-                    "description": "onthesetofnewyork.com was first indexed by Google more than 10 years ago",
-                    "security": "not secure",
-                    "icon": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/df46a41a31ca4374d6731fdcc51a197bae414c0256d9ab1d3119056921023ecdc47a7be4234c70fe0424b612db067cbf.png"
-                },
-                "keywords": [
-                    "what",
-                    "structure",
-                    "king",
-                    "kong",
-                    "climb"
-                ],
-                "related_keywords": [
-                    "which",
-                    "climbing"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ]
-            },
-            "about_page_link": "https://www.google.com/search?q=About+http://onthesetofnewyork.com/02052013.html&tbm=ilp&ilps=AOR-xxulIiZlyEUkNvkSgPTN5fBU0iHGPg",
-            "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:NJqjraj70UUJ:onthesetofnewyork.com/02052013.html+&cd=22&hl=en&ct=clnk&gl=us",
-            "related_pages_link": "https://www.google.com/search?q=related:onthesetofnewyork.com/02052013.html+what+structure+did+king+kong+famously+climb%3F",
-            "missing": [
-                "famously"
-            ],
-            "must_include": {
-                "word": "famously",
-                "link": "https://www.google.com/search?q=what+structure+did+king+kong+%22famously%22+climb?&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ5t4CegQIOhAB"
+            "title": "The English Language in Canada: Status, History and ...",
+            "link": "https://books.google.com/books?id=uW2rM_6I3gMC&pg=PA23&lpg=PA23&dq=of+these+francophone+cities,+which+is+home+to+the+most+people?&source=bl&ots=2spPid_M_D&sig=ACfU3U3jtk3IhFPY410OqP0j1SaX6e_znA&hl=en&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ6AF6BAggEAM",
+            "displayed_link": "https://books.google.com \u203a books",
+            "snippet": "In every case the allophone population is vastly larger than the proportion of francophones, which ranges from 4.2 percent in Winnipeg, home to a ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Charles Boberg",
+                        "2010",
+                        "\u200eLanguage Arts & Disciplines"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2010
+                    }
+                }
             }
         },
         {
             "position": 7,
-            "title": "What Big Apple landmark did King Kong climb in the famous 1933 ...",
-            "link": "https://triviahive.com/d/what-big-apple-landmark-did-king-kong-climb-in-the-famous-1933-film-E32355F0CF6771AA",
-            "displayed_link": "https://triviahive.com \u203a what-big-apple-landmark-did-ki...",
-            "date": "Mar 12, 2018",
-            "snippet": "What Big Apple landmark did King Kong climb in the famous 1933 film? The Statue of Liberty. The Empire State Building correct.",
-            "about_this_result": {
-                "source": {
-                    "description": "triviahive.com was first indexed by Google more than 10 years ago",
-                    "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/df46a41a31ca4374d6731fdcc51a197bb0e158bb5efdf544d1147b38d131a2284709bb5a2fdf6c3dc9a3aaac35f3d1b6.png"
-                },
-                "keywords": [
-                    "what",
-                    "did",
-                    "king",
-                    "kong",
-                    "climb"
-                ],
-                "related_keywords": [
-                    "famous"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ]
-            },
-            "about_page_link": "https://www.google.com/search?q=About+https://triviahive.com/d/what-big-apple-landmark-did-king-kong-climb-in-the-famous-1933-film-E32355F0CF6771AA&tbm=ilp&ilps=AOR-xxsrX0ey_C5r1Cj5Ej9n2FWd8tJUaA",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6E7IUq5Q6IIJ:https://triviahive.com/d/what-big-apple-landmark-did-king-kong-climb-in-the-famous-1933-film-E32355F0CF6771AA+&cd=23&hl=en&ct=clnk&gl=us",
-            "missing": [
-                "structure"
-            ],
-            "must_include": {
-                "word": "structure",
-                "link": "https://www.google.com/search?q=what+%22structure%22+did+king+kong+famously+climb?&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ5t4CegQIOBAB"
+            "title": "Good Furniture Magazine of Furnishing & Decoration",
+            "link": "https://books.google.com/books?id=e4kXAQAAMAAJ&pg=PA248&lpg=PA248&dq=of+these+francophone+cities,+which+is+home+to+the+most+people?&source=bl&ots=OeTp8u2afa&sig=ACfU3U2xyHUEkHafSu3LB1CCdQZ1m9FJew&hl=en&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ6AF6BAgdEAM",
+            "displayed_link": "https://books.google.com \u203a books",
+            "snippet": "THE GREAT CENTRAL MARKET Seventh Article in the Survey of the Home ... is marked toward I this the belief of the writer that the people of done along the ...",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "unknown": 1922
+                    },
+                    "extensions": [
+                        "1922",
+                        "\u200eFurniture"
+                    ]
+                }
             }
         },
         {
             "position": 8,
-            "title": "Trivia - King Kong (1933) - IMDb",
-            "link": "https://www.imdb.com/title/tt0024216/trivia",
-            "displayed_link": "https://www.imdb.com \u203a title \u203a trivia",
-            "snippet": "It's often credited as an error that the brontosaurus (if that is indeed what it is) eats at least one of the sailors, which a herbivore wouldn't do. However, ...",
-            "about_this_result": {
-                "source": {
-                    "description": "IMDb is an online database of information related to films, television series, home videos, video games, and streaming content online \u2013 including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews.",
-                    "source_info_link": "https://en.wikipedia.org/wiki/IMDb",
-                    "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/df46a41a31ca4374d6731fdcc51a197b8ea4665dd742cf8972825557f5c07d07bda55c1fdcc52d8f7309a20fd5185512.png"
-                },
-                "keywords": [
-                    "what",
-                    "structure",
-                    "did",
-                    "king",
-                    "kong",
-                    "climb"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ]
-            },
-            "about_page_link": "https://www.google.com/search?q=About+https://www.imdb.com/title/tt0024216/trivia&tbm=ilp&ilps=AOR-xxv6vJVgAwnDy9-Xm-REI5A9dB9OEg",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GW31dtNCzkQJ:https://www.imdb.com/title/tt0024216/trivia+&cd=24&hl=en&ct=clnk&gl=us"
+            "title": "Missouri, Our Home - Page 90 - Google Books Result",
+            "link": "https://books.google.com/books?id=Kw0Aqj5tegQC&pg=PA90&lpg=PA90&dq=of+these+francophone+cities,+which+is+home+to+the+most+people?&source=bl&ots=D50Iit8Bpi&sig=ACfU3U3b02iS_Sd7LeXiAW9p5DIGlaMI2w&hl=en&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ6AF6BAgfEAM",
+            "displayed_link": "https://books.google.com \u203a books",
+            "snippet": "After the battle, however, some of the Indians stood outside the city. Within view of people in St. Louis, the Indians murdered 33 French prisoners. These ..."
+        },
+        {
+            "position": 9,
+            "title": "The Road More Traveled: Why the Congestion Crisis Matters ...",
+            "link": "https://books.google.com/books?id=0m7tDOXEBskC&pg=PA109&lpg=PA109&dq=of+these+francophone+cities,+which+is+home+to+the+most+people?&source=bl&ots=5qzbmzXm78&sig=ACfU3U37XdcLSy7UqOaeBD0DimhMuBPplg&hl=en&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ6AF6BAgeEAM",
+            "displayed_link": "https://books.google.com \u203a books",
+            "snippet": "While this is smaller than the typical new U.S. home (which averages 2,200 square ... Except in the traditional heart of the city, most people are driving.",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Sam Staley, \u200eTed Balaker",
+                        "2006",
+                        "\u200eTransportation"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2006
+                    }
+                }
+            }
         }
     ],
     "related_searches": [
         {
-            "query": "why did king kong climb the empire state building",
-            "link": "https://www.google.com/search?q=Why+did+King+Kong+climb+the+Empire+State+Building&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ1QJ6BAgjEAE"
+            "query": "what is the largest french-speaking city after paris, france.",
+            "link": "https://www.google.com/search?q=what+is+the+largest+french-speaking+city+after+paris,+france.&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ1QJ6BAgqEAE"
         },
         {
-            "query": "king kong empire state building exhibit",
-            "link": "https://www.google.com/search?q=King+Kong+Empire+State+Building+exhibit&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ1QJ6BAg1EAE"
+            "query": "largest french-speaking city outside france",
+            "link": "https://www.google.com/search?q=largest+french-speaking+city+outside+france&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ1QJ6BAglEAE"
         },
         {
-            "query": "king kong (1933)",
-            "link": "https://www.google.com/search?q=King+Kong+(1933)&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ1QJ6BAgpEAE"
+            "query": "french-speaking countries",
+            "link": "https://www.google.com/search?q=French-speaking+countries&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ1QJ6BAgrEAE"
         },
         {
-            "query": "king kong escapes",
-            "link": "https://www.google.com/search?q=King+Kong+Escapes&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ1QJ6BAguEAE"
+            "query": "francophone cities in france",
+            "link": "https://www.google.com/search?q=Francophone+cities+in+France&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ1QJ6BAgiEAE"
         },
         {
-            "query": "king kong holding woman",
-            "link": "https://www.google.com/search?q=King+kong+holding+woman&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ1QJ6BAgtEAE"
+            "query": "largest french-speaking countries",
+            "link": "https://www.google.com/search?q=Largest+French-speaking+countries&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ1QJ6BAgnEAE"
         },
         {
-            "query": "king kong on empire state building drawing",
-            "link": "https://www.google.com/search?q=King+Kong+on+empire+state+building+drawing&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ1QJ6BAgsEAE"
+            "query": "largest french-speaking cities in canada",
+            "link": "https://www.google.com/search?q=largest+french-speaking+cities+in+canada&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ1QJ6BAgjEAE"
         },
         {
-            "query": "king kong (1933 full movie)",
-            "link": "https://www.google.com/search?q=king+kong+(1933+full+movie)&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ1QJ6BAgvEAE"
+            "query": "largest french-speaking city in north america",
+            "link": "https://www.google.com/search?q=Largest+French-speaking+city+in+North+America&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ1QJ6BAgmEAE"
         },
         {
-            "query": "king kong climb math playground",
-            "link": "https://www.google.com/search?q=King+kong+climb+math+playground&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ1QJ6BAgkEAE"
+            "query": "what is the second largest french-speaking city in the world",
+            "link": "https://www.google.com/search?q=What+is+the+second+largest+French-speaking+city+in+the+world&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ1QJ6BAghEAE"
         }
     ],
     "pagination": {
         "current": 1,
-        "next": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=10&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8NMDegQIARBJ",
+        "next": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=10&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8NMDegQIARBJ",
         "other_pages": {
-            "2": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=10&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARA3",
-            "3": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=20&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARA5",
-            "4": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=30&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARA7",
-            "5": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=40&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARA9",
-            "6": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=50&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARA_",
-            "7": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=60&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARBB",
-            "8": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=70&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARBD",
-            "9": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=80&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARBF",
-            "10": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=90&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARBH"
+            "2": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=10&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=20&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=30&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=40&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=50&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=60&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=70&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=80&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=90&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARBH"
         }
     },
     "serpapi_pagination": {
         "current": 1,
-        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=10",
-        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=10",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=10",
         "other_pages": {
-            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=10",
-            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=20",
-            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=30",
-            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=40",
-            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=50",
-            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=60",
-            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=70",
-            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=80",
-            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=90"
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=90"
         }
     }
 }
