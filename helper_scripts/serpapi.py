@@ -15,13 +15,13 @@ def do_search(method, search_term):
     print("\t> Response Source: " + method)
     if (method == "TEST JSON"):
         search_term = "the music of rick astley played a direct role in bringing down the leader of what country?"
-        data = json.load(open('google_test_json.json'))
+        data = json.load(open('json_files/google_test_json.json'))
         time.sleep(1)
     elif (method == "ONLINE API"):
         response = requests.get("https://serpapi.com/search", data)
         data = response.json()
 
-        with open('trimmed_json.json','w') as outfile:
+        with open('json_files/saved_json.json', 'w') as outfile:
             json.dump(data, outfile, indent=4)
     else:
         print("\t> INVALID SEARCH METHOD")

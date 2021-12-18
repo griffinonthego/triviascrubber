@@ -22,7 +22,7 @@ def online(image):
     method = "IMAGE"
     print("\t> Source: " + method)
     if (method == "JSON"):
-        data = json.load(open('test_json.json'))
+        data = json.load(open('../json_files/test_json.json'))
         time.sleep(1)
     elif (method == "IMAGE"):
         print("\t\t> Sending POST Request...")

@@ -3,11 +3,8 @@ import time
 import mss.tools
 import cv2
 import sys
-import process_image, ocrify, serpapi, search_sites, process_text
-from tabulate import tabulate
+from helper_scripts import ocrify, process_text, search_sites, serpapi
 
-from PyQt5 import QtWidgets
-from PyQt5.QtWidgets import QApplication, QLabel, QWidget
 
 def printarray(array):
     for i in array:
@@ -19,7 +16,7 @@ def setup():
     a3_bb = {'top': 590, 'left': 80, 'width': 200, 'height': 50}
 
     sct = mss.mss()
-    pdir = 'App_Images/'
+    pdir = 'app_images/'
     filenames = {
         'question_image':pdir+'q.png',
         'processed_question_image':pdir+'pq.png',
@@ -137,4 +134,4 @@ print("\t> Done (" + str(Search_time - Google_time) + " sec)")
 
 # End timer
 toc = time.perf_counter()
-print("\nTime: " + str(toc-tic))
+print("\nFinished in " + str(toc-tic) + "seconds")
