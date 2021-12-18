@@ -19,14 +19,15 @@ def setup():
     a3_bb = {'top': 590, 'left': 80, 'width': 200, 'height': 50}
 
     sct = mss.mss()
+    pdir = 'App_Images/'
     filenames = {
-        'question_image':'q.png',
-        'processed_question_image': 'pq.png',
-        'answer_image': 'a.png',
-        'processed_answer_image': 'a.png',
-        'answer1_image': 'a1.png',
-        'answer2_image': 'a2.png',
-        'answer3_image': 'a3.png',
+        'question_image':pdir+'q.png',
+        'processed_question_image':pdir+'pq.png',
+        'answer_image':pdir+'a.png',
+        'processed_answer_image':pdir+'a.png',
+        'answer1_image':pdir+'a1.png',
+        'answer2_image':pdir+'a2.png',
+        'answer3_image':pdir+'a3.png',
     }
 
     # Arrange Window Locaitions
