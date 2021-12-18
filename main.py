@@ -40,7 +40,6 @@ cv2.namedWindow("a2")
 cv2.moveWindow("a2", 360, 510)
 cv2.namedWindow("a3")
 cv2.moveWindow("a3", 360, 640)
-
 # cv2.namedWindow("Question (Processed)")
 # cv2.moveWindow("Question (Processed)", 360, 380)
 
@@ -51,7 +50,6 @@ while True:
     a1 = sct.grab(a1_bb)
     a2 = sct.grab(a2_bb)
     a3 = sct.grab(a3_bb)
-
 
     cv2.imshow('Question', np.array(q))
     # cv2.imshow('Answers', np.array(a))
