@@ -5,7 +5,6 @@ import cv2
 import sys
 from helper_scripts import ocrify, process_text, search_sites, serpapi
 
-
 def printarray(array):
     for i in array:
         print(i)
@@ -104,16 +103,16 @@ def search(site_links, answers):
         print("\t\t> " + str(i) + ": \t" + str(tot_huntpeck[ct]) + "\t" + str(tot_wordrank[ct]))
         ct = ct + 1
 
-#Start Timer
+#SETUP
+ocr_type = "ONLINE API" #LOCAL or ONLINE API
+search_type = "ONLINE API" #TEST JSON or ONLINE API
 tic = time.perf_counter()
-
-#General Setup
 filenames = setup()
 
-#Run OCR
-question, answers = run_ocr("LOCAL", filenames) #LOCAL or ONLINE API
+#RUN OCR
+question, answers = run_ocr(ocr_type, filenames)
 
-#Further Process Text
+#FURTHER PROCESS TEXT
 question = run_processing(question)
 answers = run_processing(answers)
 
@@ -122,16 +121,16 @@ print("\t> Answers Result: " + repr(answers[0]) + ", " + repr(answers[1]) + ", "
 OCR_time = time.perf_counter()
 print("\t> Done (" + str(OCR_time-tic) + " sec)")
 
-#Google the Question
-site_links = run_googling("ONLINE API",question) #TEST JSON or ONLINE API
+#GOOGLE THE QUESTION
+site_links = run_googling(search_type,question)
 Google_time = time.perf_counter()
 print("\t> Done (" + str(Google_time - OCR_time) + " sec)")
 
-#Search the Sites
+#SEARCH EACH SITE
 search(site_links, answers)
 Search_time = time.perf_counter()
 print("\t> Done (" + str(Search_time - Google_time) + " sec)")
 
-# End timer
+#END
 toc = time.perf_counter()
 print("\nFinished in " + str(toc-tic) + "seconds")
