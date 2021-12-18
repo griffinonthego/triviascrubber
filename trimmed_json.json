@@ -1,336 +1,244 @@
 {
     "search_metadata": {
-        "id": "61bd1899224db162b64ddf87",
+        "id": "61bd1ff20574f56435fb615e",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/0bf94d2aa186dd64/61bd1899224db162b64ddf87.json",
-        "created_at": "2021-12-17 23:09:13 UTC",
-        "processed_at": "2021-12-17 23:09:13 UTC",
-        "google_url": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&oq=which+chess+piece+has+more+than+one+common+name%3F&sourceid=chrome&ie=UTF-8",
-        "raw_html_file": "https://serpapi.com/searches/0bf94d2aa186dd64/61bd1899224db162b64ddf87.html",
-        "total_time_taken": 1.21
+        "json_endpoint": "https://serpapi.com/searches/d222118be2b7481b/61bd1ff20574f56435fb615e.json",
+        "created_at": "2021-12-17 23:40:34 UTC",
+        "processed_at": "2021-12-17 23:40:34 UTC",
+        "google_url": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&oq=what+structure+did+king+kong+famously+climb%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/d222118be2b7481b/61bd1ff20574f56435fb615e.html",
+        "total_time_taken": 2.46
     },
     "search_parameters": {
         "engine": "google",
-        "q": "which chess piece has more than one common name?",
+        "q": "what structure did king kong famously climb?",
         "google_domain": "google.com",
         "device": "desktop"
     },
     "search_information": {
         "organic_results_state": "Results for exact spelling",
-        "query_displayed": "which chess piece has more than one common name?",
-        "total_results": 132000000,
-        "time_taken_displayed": 0.77
+        "query_displayed": "what structure did king kong famously climb?",
+        "total_results": 621000,
+        "time_taken_displayed": 0.58
     },
-    "inline_people_also_search_for": [
+    "inline_videos": [
         {
-            "title": "Chess pieces names and pictures",
-            "items": [
-                {
-                    "name": "Rook",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKj6Y3JemsiqNevi26g5sjKgvl4bVx7aD5XAzNGp_BSWTNwrMuRE1p&s=0",
-                    "link": "https://www.google.com/search?q=Rook+(chess)&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC6ONzCST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxjhhiOYWTBmiUExnGmMUGCQB2eal_9ilHfG76gGFsZFrDxB-fnZChpgh2neYpNkuDGTy_TLJb8zN3m4Gb74Hc5o-f0k6sMFh24AdRuQivAAAAA&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQs9oBKAB6BAg9EAM",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rook+%28chess%29&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC6ONzCST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxjhhiOYWTBmiUExnGmMUGCQB2eal_9ilHfG76gGFsZFrDxB-fnZChpgh2neYpNkuDGTy_TLJb8zN3m4Gb74Hc5o-f0k6sMFh24AdRuQivAAAAA"
-                },
-                {
-                    "name": "Bishop",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFhT0Q42WPXbFAHQJjQ329CuxxtPgTey48-3PHjn8CjfcYMX4Fzvud&s=0",
-                    "link": "https://www.google.com/search?q=Bishop+(chess)&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC6OzzKST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxhhhhsgmFkwZolBMZxpjFBgkAdnmpf_YpR3xu-oBhbGRax8TpnFGfkFChpgp2neYpNkuDGTy_TLJb8zN3m4Gb74Hc5o-f0k6sMFh24AAsZ2UvIAAAA&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQs9oBKAF6BAg9EAQ",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bishop+%28chess%29&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC6OzzKST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxhhhhsgmFkwZolBMZxpjFBgkAdnmpf_YpR3xu-oBhbGRax8TpnFGfkFChpgp2neYpNkuDGTy_TLJb8zN3m4Gb74Hc5o-f0k6sMFh24AAsZ2UvIAAAA"
-                },
-                {
-                    "name": "Knight",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQneRZw2R7LFmPGUsf7dxPvbczKwrVOsbwxTDfPz7yWwY0hRQqxjQRR&s=0",
-                    "link": "https://www.google.com/search?q=Knight+(chess)&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC4xKDaST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxghhhfHGyCYWTAm0Eo40xihwCAPzjQv_8Uo74zfUQ0sjItY-bzzMtMzShQ0wE7TvMUmyXBjJpfpl0t-Z27ycDN88Tuc0fL7SdSHCw7dAAaqq13yAAAA&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQs9oBKAJ6BAg9EAU",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Knight+%28chess%29&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC4xKDaST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxghhhfHGyCYWTAm0Eo40xihwCAPzjQv_8Uo74zfUQ0sjItY-bzzMtMzShQ0wE7TvMUmyXBjJpfpl0t-Z27ycDN88Tuc0fL7SdSHCw7dAAaqq13yAAAA"
-                },
-                {
-                    "name": "Pawn",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVi_ymevf3sNQSPqqqgXkIm14dCUIDZ8xLj2vnw59ju-A7VVjVN1yQ&s=0",
-                    "link": "https://www.google.com/search?q=Pawn+(chess)&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC4xNjCST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxghhhfHGyCYWTBmiUExnGmMUGCQB2eal_9ilHfG76gGFsZFrDwBieV5Chpgh2neYpNkuDGTy_TLJb8zN3m4Gb74Hc5o-f0k6sMFh24Av_EJ7PAAAAA&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQs9oBKAN6BAg9EAY",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pawn+%28chess%29&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC4xNjCST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxghhhfHGyCYWTBmiUExnGmMUGCQB2eal_9ilHfG76gGFsZFrDwBieV5Chpgh2neYpNkuDGTy_TLJb8zN3m4Gb74Hc5o-f0k6sMFh24Av_EJ7PAAAAA"
-                },
-                {
-                    "name": "King",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-JBHHROErPcmbUM0v22nhuL-51Y02dbD_lVHwgtfVGdxrLmNuq9j&s=0",
-                    "link": "https://www.google.com/search?q=King+(chess)&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC42yDOST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxihhscbIJhZMGaJQTGcaYxQYJAHZ5qX_2KUd8bvqAYWxkWsPN6ZeekKGmCHad5ik2S4MZPL9MslvzM3ebgZvvgdzmj5_STqwwWHbgBRNdkM8AAAAA&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQs9oBKAR6BAg9EAc",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=King+%28chess%29&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC42yDOST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxihhscbIJhZMGaJQTGcaYxQYJAHZ5qX_2KUd8bvqAYWxkWsPN6ZeekKGmCHad5ik2S4MZPL9MslvzM3ebgZvvgdzmj5_STqwwWHbgBRNdkM8AAAAA"
-                },
-                {
-                    "name": "Queen",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH754BmB_MUGQfUppob7E2X8uTKWi_FToYn9ZwOKw7q2QhiU85PcEL&s=0",
-                    "link": "https://www.google.com/search?q=Queen+(chess)&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC42LzeST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxihhscbIJhZMGaJQTGcaYxQYJAHZ5qX_2KUd8bvqAYWxkWsvIGlqal5Chpgl2neYpNkuDGTy_TLJb8zN3m4Gb74Hc5o-f0k6sMFh24A6Meh8vEAAAA&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQs9oBKAV6BAg9EAg",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Queen+%28chess%29&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC42LzeST85ILS5WKMhMTU4tVshLzAWSiXkpQIHkktKi1OIo_fKMzOQMBSRlChmJxQq5-UWpCiUZiXkK-XmpCsn5ubn5eWDtpxihhscbIJhZMGaJQTGcaYxQYJAHZ5qX_2KUd8bvqAYWxkWsvIGlqal5Chpgl2neYpNkuDGTy_TLJb8zN3m4Gb74Hc5o-f0k6sMFh24A6Meh8vEAAAA"
-                }
-            ],
-            "see_more_link": "https://www.google.com/search?q=Chess+pieces+names+and+pictures&stick=H4sIAAAAAAAAAOOQMZJPzkgtLlYoyExNTi1WyEvMBZKJeSlAgeSS0qLU4ij98ozM5AwFJGUKGYnFCrn5RakKJRmJeQr5eakKyfm5ufl5YO2nGDn0c_UNkovjDRDMLBizxKAYzjRGKDDIgzPNy38xyjvjd1QDC-MiVkKKbrFJMtyYyWX65ZLfmZs83Axf_A5ntPx-EvXhgkM3ADMDjnn5AAAA&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ4qYDegQIPRAJ",
-            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Chess+pieces+names+and+pictures&stick=H4sIAAAAAAAAAOOQMZJPzkgtLlYoyExNTi1WyEvMBZKJeSlAgeSS0qLU4ij98ozM5AwFJGUKGYnFCrn5RakKJRmJeQr5eakKyfm5ufl5YO2nGDn0c_UNkovjDRDMLBizxKAYzjRGKDDIgzPNy38xyjvjd1QDC-MiVkKKbrFJMtyYyWX65ZLfmZs83Axf_A5ntPx-EvXhgkM3ADMDjnn5AAAA"
+            "position": 1,
+            "title": "King Kong (1933)- Climbing the Empire State Building Scene ...",
+            "link": "https://www.youtube.com/watch?v=8qkahQVFzMI",
+            "thumbnail": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/c7d26b37baa119937a7fc124412750c8a1a2263bf3f64e882cc0a72cd2aabdd1.jpeg",
+            "channel": "Movieclips",
+            "duration": "3:34",
+            "platform": "YouTube",
+            "date": "Dec 28, 2016"
+        },
+        {
+            "position": 2,
+            "title": "Kong climbs The Empire State Building ( King Kong 1933 )",
+            "link": "https://www.youtube.com/watch?v=CuRQH_hLcTw",
+            "thumbnail": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/c7d26b37baa1199385e98a4a01219abc4ff8fe2e40b5f9aa85f146cb0e91c270.jpeg",
+            "channel": "seehack",
+            "duration": "2:02",
+            "platform": "YouTube",
+            "date": "Apr 9, 2008"
+        },
+        {
+            "position": 3,
+            "title": "King Kong Climbs The Empire State Building | HBO Max",
+            "link": "https://www.youtube.com/watch?v=j9T6WtLQDFE",
+            "thumbnail": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/c7d26b37baa119932ce3d5fc5e91a2f947a5c513413fccbc13c0bcc7dbad1797.jpeg",
+            "channel": "HBO Max",
+            "duration": "3:19",
+            "platform": "YouTube",
+            "date": "Sep 5, 2020"
+        },
+        {
+            "position": 4,
+            "title": "Kong Climbs the Empire State Building Scene - King Kong ...",
+            "link": "https://www.youtube.com/watch?v=0xu6BnRRnfw",
+            "thumbnail": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/c7d26b37baa11993dfa6de909a9bfa632d6e48f009f6ce14290cffbf137606b4.jpeg",
+            "channel": "BestClips",
+            "duration": "2:47",
+            "platform": "YouTube",
+            "date": "May 31, 2017"
+        }
+    ],
+    "inline_video_carousels": [
+        {
+            "position": 1,
+            "title": "King Kong Climbs The Empire State Building | HBO Max",
+            "link": "https://www.youtube.com/watch?v=j9T6WtLQDFE#:~:text=King%20Kong%20Climbs%20The%20Empire%20State%20Building%20%7C%20HBO%20Max%20%2D%20YouTube",
+            "displayed_link": "https://www.youtube.com \u203a watch"
         }
     ],
     "related_questions": [
         {
-            "question": "Do chess pieces have names?",
-            "snippet": "Well the names of all the chess pieces are the King, Queen, Rook, Bishop, Knight and Pawn. The Rook, Bishop and knight come in pairs, meanwhile there are 8 pawns in total and one King and one Queen to complete the royal family.",
-            "title": "What Are The Names Of All The Chess Pieces",
-            "link": "https://herculeschess.com/names-of-all-the-chess-pieces/",
-            "displayed_link": "https://herculeschess.com \u203a Guides"
+            "question": "Did King Kong climb the Empire State Building?",
+            "snippet": "\u201cDisaster!\u201d wrote Thirer. \u201cKing Kong breaks loose! Mad throngs pour out of the (Madison Square) Garden. Kong grabs the beauteous (Fay Wray) and eventually reaches the top of the Empire State Building.Mar 1, 2019",
+            "title": "This Week in History: 1933 A giant ape climbs the Empire State",
+            "link": "https://vancouversun.com/news/local-news/this-week-in-history-1933-a-giant-ape-climbs-the-empire-state",
+            "displayed_link": "https://vancouversun.com \u203a news \u203a local-news \u203a this-week..."
         },
         {
-            "question": "What is the most popular chess piece?",
-            "snippet": "Queen. There's no disputing that the queen is the most mobile and therefore most powerful piece on the board. Combining the movements of the bishop and the rook, the queen can reach almost any square on the board very quickly, often by multiple routes.Sep 23, 2014",
-            "title": "Queen",
-            "link": "https://www.chess.com/article/view/chess-pieces-ranked",
-            "displayed_link": "https://www.chess.com \u203a view \u203a chess-pieces-ranked"
+            "question": "Why does King Kong climb the Empire State Building?",
+            "snippet": "He couldn't fit in the elevator.",
+            "title": "Why did King Kong climb the Empire State Building? - NWF | Ranger Rick",
+            "link": "https://rangerrick.org/jokes/why-did-king-kong-climb-the-empire-state-building/",
+            "displayed_link": "https://rangerrick.org \u203a jokes \u203a why-did-king-kong-climb..."
         },
         {
-            "question": "What is another name for the chess piece?",
-            "title": "What is another word for chesspiece?",
-            "link": "https://www.wordhippo.com/what-is/another-word-for/chesspiece.html",
-            "displayed_link": "https://www.wordhippo.com \u203a what-is \u203a chesspiece"
+            "question": "When did King Kong climb the Empire State Building?",
+            "snippet": "King Kong on the Empire State Building. 'Twas beauty killed the beast the first time King Kong made it to the top of the Empire State Building, back in 1933.Aug 14, 2017",
+            "title": "A 50-foot inflatable King Kong atop the Empire State Building on the ...",
+            "link": "https://www.nydailynews.com/new-york/nyc-put-king-kong-back-empire-state-building-article-1.821317",
+            "displayed_link": "https://www.nydailynews.com \u203a new-york \u203a nyc-put-king..."
         },
         {
-            "question": "What chess piece was originally called the Elephant?",
-            "snippet": "The bishop's predecessor in medieval chess, shatranj (originally chaturanga), was the alfil, meaning \"elephant\", which could leap two squares along any diagonal, and could jump over an intervening piece.",
-            "title": "alfil",
-            "link": "https://en.wikipedia.org/wiki/Bishop_(chess)",
-            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Bishop_(chess)"
+            "question": "What building did Godzilla climb?",
+            "snippet": "Godzilla: The Series[edit | edit source] The Empire State Building appears in the show's intro, when Godzilla climbs the building and roars as he reaches the top.Oct 28, 2020",
+            "title": "The Empire State Building",
+            "link": "https://wikizilla.org/wiki/Empire_State_Building",
+            "displayed_link": "https://wikizilla.org \u203a wiki \u203a Empire_State_Building"
         }
     ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "King Kong Climbs The Empire State Building | HBO Max",
+        "link": "https://www.youtube.com/watch?v=j9T6WtLQDFE#:~:text=King%20Kong%20Climbs%20The%20Empire%20State%20Building%20%7C%20HBO%20Max%20%2D%20YouTube",
+        "displayed_link": "https://www.youtube.com \u203a watch",
+        "date": "Sep 5, 2020",
+        "snippet": "King Kong Climbs The Empire State Building | HBO Max - YouTube."
+    },
     "organic_results": [
         {
             "position": 1,
-            "title": "Empress (chess) - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Empress_(chess)",
-            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Empress_(chess)",
-            "snippet": "The empress is one of the most simply described fairy chess pieces and as such has a long history and has gone by many names. A generic name would be the ...",
+            "title": "Why did King Kong climb the Empire State Building?\"/\"He ...",
+            "link": "https://www.barrypopik.com/index.php/new_york_city/entry/why_did_king_kong_climb_the_empire_state_building",
+            "displayed_link": "https://www.barrypopik.com \u203a new_york_city \u203a entry",
+            "date": "Oct 23, 2016",
+            "snippet": "In the film King Kong (1933), the ape King Kong climbs the Empire ... It is also the fifth-tallest freestanding structure in the Americas.",
+            "about_this_result": {
+                "source": {
+                    "description": "barrypopik.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/df46a41a31ca4374d6731fdcc51a197ba2b827e9531cc23ece3b8927252f41445452169b061486b556f5c96e489f3a20.png"
+                },
+                "keywords": [
+                    "what",
+                    "structure",
+                    "did",
+                    "king",
+                    "kong",
+                    "climb"
+                ],
+                "related_keywords": [
+                    "famous"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.barrypopik.com/index.php/new_york_city/entry/why_did_king_kong_climb_the_empire_state_building&tbm=ilp&ilps=AOR-xxsA0oMOIC0RChEpXQcUnCrcggAnxQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:fK2gSoO57l0J:https://www.barrypopik.com/index.php/new_york_city/entry/why_did_king_kong_climb_the_empire_state_building+&cd=17&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "\"King Kong\" Climb - TV Tropes",
+            "link": "https://tvtropes.org/pmwiki/pmwiki.php/Main/KingKongClimb",
+            "displayed_link": "https://tvtropes.org \u203a Tropes",
+            "snippet": "In the original film, King Kong famously grabbed the female lead character, played by Fay Wray, and climbed up the Empire State Building while planes ...",
+            "about_this_result": {
+                "source": {
+                    "description": "TV Tropes is a wiki that collects and documents descriptions and examples of plot conventions and devices, more commonly known as tropes, within many creative works.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/TV_Tropes",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/df46a41a31ca4374d6731fdcc51a197b91249ad22de2250245a68fa288b1dffc51c8aab2d3cdaeb90d7a19f37af84786.png"
+                },
+                "keywords": [
+                    "what",
+                    "did",
+                    "king",
+                    "kong",
+                    "famously",
+                    "climb"
+                ],
+                "related_keywords": [
+                    "climbed"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://tvtropes.org/pmwiki/pmwiki.php/Main/KingKongClimb&tbm=ilp&ilps=AOR-xxssCLkIMvWzWvb_RNkWQUiCv3aL8g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Z6I29Q4ZTKsJ:https://tvtropes.org/pmwiki/pmwiki.php/Main/KingKongClimb+&cd=18&hl=en&ct=clnk&gl=us",
+            "missing": [
+                "structure"
+            ],
+            "must_include": {
+                "word": "structure",
+                "link": "https://www.google.com/search?q=what+%22structure%22+did+king+kong+famously+climb?&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ5t4CegQIChAB"
+            }
+        },
+        {
+            "position": 3,
+            "title": "How King Kong Works - Entertainment | HowStuffWorks",
+            "link": "https://entertainment.howstuffworks.com/king-kong.htm",
+            "displayed_link": "https://entertainment.howstuffworks.com \u203a king-kong",
+            "snippet": "In 1933, King Kong climbed the Empire State Building with Ann Darrow clutched in his hand and fought off biplanes circling his perch. It's one of the most ...",
+            "about_this_result": {
+                "source": {
+                    "description": "HowStuffWorks is an American commercial infotainment website founded by professor and author Marshall Brain, to provide its target audience an insight into the way many things work.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/HowStuffWorks",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/df46a41a31ca4374d6731fdcc51a197b3b4096d9ad8e18ff89ef5ed1aee01972d5ec18b87a5a660ff03fce602e75cee5.png"
+                },
+                "keywords": [
+                    "what",
+                    "king",
+                    "kong"
+                ],
+                "related_keywords": [
+                    "famous",
+                    "climbed"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://entertainment.howstuffworks.com/king-kong.htm&tbm=ilp&ilps=AOR-xxsmudPg2O8K19mQt8zJ3wyPP_f_hg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ngUsYS86AbMJ:https://entertainment.howstuffworks.com/king-kong.htm+&cd=19&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "King Kong (1933 film) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/King_Kong_(1933_film)",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a King_Kong_(1933_fil...",
+            "snippet": "She assumed he meant Clark Gable until he showed her a picture of Kong climbing the Empire State Building. On the film's 50th anniversary in 1983, one New York ...",
             "about_this_result": {
                 "source": {
                     "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
                     "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd1899224db162b64ddf87/images/d35d92c64f8c34ee62a644d4a7cb819f3273f630628a4688429c9668dfca83596a735ded58238986de761a159c043931.png"
+                    "icon": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/df46a41a31ca4374d6731fdcc51a197bfd260d32c2f571846a261c42171971947c547ae86326b561651a106087767a24.png"
                 },
                 "keywords": [
-                    "which",
-                    "chess",
-                    "piece",
-                    "has",
-                    "more",
-                    "than",
-                    "one",
-                    "common",
-                    "name"
-                ],
-                "related_keywords": [
-                    "pieces",
-                    "the most",
-                    "generic",
-                    "names"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ]
-            },
-            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Empress_(chess)&tbm=ilp&ilps=AOR-xxuAVZ20MNIHXo3Q6e5FtaAwIGUpZg",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HPsDMKoLf_YJ:https://en.wikipedia.org/wiki/Empress_(chess)+&cd=1&hl=en&ct=clnk&gl=us",
-            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Empress_(chess)+which+chess+piece+has+more+than+one+common+name%3F",
-            "related_results": [
-                {
-                    "position": 1,
-                    "title": "Princess (chess) - Wikipedia",
-                    "link": "https://en.wikipedia.org/wiki/Princess_(chess)",
-                    "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Princess_(chess)",
-                    "snippet": "The princess is one of the most simply described fairy chess pieces and as such has a long history and has gone by many names. A generic name would be the ...",
-                    "about_this_result": {
-                        "source": {
-                            "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
-                            "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
-                            "security": "secure",
-                            "icon": "https://serpapi.com/searches/61bd1899224db162b64ddf87/images/d35d92c64f8c34ee62a644d4a7cb819f1f307b9f18c89c680103d914ba59bbde731647e7e1c79a688bb025a694cd775f16301d38b7a1ffd3c9f9783e72e77a4ec9a7ea0beee91760.png"
-                        },
-                        "keywords": [
-                            "which",
-                            "chess",
-                            "piece",
-                            "has",
-                            "more",
-                            "than",
-                            "one",
-                            "common",
-                            "name"
-                        ],
-                        "related_keywords": [
-                            "pieces",
-                            "the most",
-                            "generic",
-                            "names"
-                        ],
-                        "languages": [
-                            "English"
-                        ],
-                        "regions": [
-                            "the United States"
-                        ]
-                    },
-                    "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Princess_(chess)&tbm=ilp&ilps=AOR-xxvdbSKovmfDdLJ7HdFs-pKYcAbigg",
-                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BcHFq_HOubYJ:https://en.wikipedia.org/wiki/Princess_(chess)+&cd=2&hl=en&ct=clnk&gl=us",
-                    "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Princess_(chess)+which+chess+piece+has+more+than+one+common+name%3F"
-                }
-            ]
-        },
-        {
-            "position": 2,
-            "title": "Chess Pieces Names, Moves & Values",
-            "link": "https://www.chess.com/terms/chess-pieces",
-            "displayed_link": "https://www.chess.com \u203a Chess Terms",
-            "date": "Aug 18, 2008",
-            "snippet": "Learn all about the chess pieces! All of the information you need to know about how the pawn, bishop, knight, rook, queen, and king move, and more!",
-            "about_this_result": {
-                "source": {
-                    "description": "Chess.com is an internet chess server, internet forum and social networking website. The site has a freemium model in which some features are available for free, and others for accounts with subscriptions.",
-                    "source_info_link": "https://en.wikipedia.org/wiki/Chess.com",
-                    "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd1899224db162b64ddf87/images/d35d92c64f8c34ee62a644d4a7cb819fa7a55a3577808e261e5fb31aa7ba53a91c212bd9ce129e83b177b21af870dcae.png"
-                },
-                "keywords": [
-                    "chess",
-                    "piece",
-                    "has",
-                    "more",
-                    "than",
-                    "one"
-                ],
-                "related_keywords": [
-                    "pieces",
-                    "then",
-                    "names"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ]
-            },
-            "about_page_link": "https://www.google.com/search?q=About+https://www.chess.com/terms/chess-pieces&tbm=ilp&ilps=AOR-xxuhBMMuHAVK_gspPvvb9PcT6j7kpA",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QR1YhsTeKcoJ:https://www.chess.com/terms/chess-pieces+&cd=15&hl=en&ct=clnk&gl=us",
-            "missing": [
-                "common"
-            ],
-            "must_include": {
-                "word": "common",
-                "link": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+%22common%22+name?&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ5t4CegQICBAB"
-            },
-            "related_results": [
-                {
-                    "position": 1,
-                    "title": "What is the name of ... this piece? - Chess Forums",
-                    "link": "https://www.chess.com/forum/view/general/what-is-the-name-of--this-piece",
-                    "displayed_link": "https://www.chess.com \u203a forum \u203a view \u203a general \u203a what...",
-                    "date": "Aug 18, 2008",
-                    "snippet": "Although the game is the same, the chess pieces do not have the same names in all countries. We can call them \"King\", \"Bishop\" or \"Rook\", ...",
-                    "about_this_result": {
-                        "source": {
-                            "description": "Chess.com is an internet chess server, internet forum and social networking website. The site has a freemium model in which some features are available for free, and others for accounts with subscriptions.",
-                            "source_info_link": "https://en.wikipedia.org/wiki/Chess.com",
-                            "security": "secure",
-                            "icon": "https://serpapi.com/searches/61bd1899224db162b64ddf87/images/d35d92c64f8c34ee62a644d4a7cb819f3d580f10996704709cbc03e6c19bd604cb7c398b91b5f750e1b438847f4e47765608df0aab48d4b12f7b829a0960d175abd2c7054dd37c87.png"
-                        },
-                        "keywords": [
-                            "which",
-                            "chess",
-                            "piece",
-                            "has",
-                            "more",
-                            "one",
-                            "name"
-                        ],
-                        "related_keywords": [
-                            "what",
-                            "longer",
-                            "then",
-                            "general",
-                            "names"
-                        ],
-                        "languages": [
-                            "English"
-                        ],
-                        "regions": [
-                            "the United States"
-                        ]
-                    },
-                    "about_page_link": "https://www.google.com/search?q=About+https://www.chess.com/forum/view/general/what-is-the-name-of--this-piece&tbm=ilp&ilps=AOR-xxsWvN1wj9Abt3N484qmY1AiPP19sQ",
-                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:DPteesHy4q4J:https://www.chess.com/forum/view/general/what-is-the-name-of--this-piece+&cd=16&hl=en&ct=clnk&gl=us",
-                    "related_pages_link": "https://www.google.com/search?q=related:https://www.chess.com/forum/view/general/what-is-the-name-of--this-piece+which+chess+piece+has+more+than+one+common+name%3F"
-                }
-            ]
-        },
-        {
-            "position": 3,
-            "title": "Chess 101: All the Chess Piece Names and Moves to Know",
-            "link": "https://www.masterclass.com/articles/chess-piece-guide",
-            "displayed_link": "https://www.masterclass.com \u203a articles \u203a chess-piece-guide",
-            "date": "Jun 17, 2021",
-            "snippet": "The rook is considered a major piece valued at five pawns, two more than a bishop or knight and slightly less than two bishops or two knights.",
-            "about_this_result": {
-                "source": {
-                    "description": "Yanka Industries, Inc., doing business as MasterClass, is an American online education subscription platform on which students can access tutorials and lectures pre-recorded by experts in various fields.\nThe concept for MasterClass was conceived by David Rogier and developed with Aaron Rasmussen.",
-                    "source_info_link": "https://en.wikipedia.org/wiki/MasterClass",
-                    "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd1899224db162b64ddf87/images/d35d92c64f8c34ee62a644d4a7cb819fdb5a91e01fe0d6cd3a1919a1db05f0bf7995177b195384ffa3ba8eef4d9e975d.png"
-                },
-                "keywords": [
-                    "which",
-                    "chess",
-                    "piece",
-                    "has",
-                    "more",
-                    "than",
-                    "one",
-                    "common"
-                ],
-                "related_keywords": [
-                    "board",
-                    "names"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ]
-            },
-            "about_page_link": "https://www.google.com/search?q=About+https://www.masterclass.com/articles/chess-piece-guide&tbm=ilp&ilps=AOR-xxsmFD5Qwh4EJ5N5IWZBs9eyrOu1XA"
-        },
-        {
-            "position": 4,
-            "title": "What Are The Names Of All The Chess Pieces",
-            "link": "https://herculeschess.com/names-of-all-the-chess-pieces/",
-            "displayed_link": "https://herculeschess.com \u203a Guides",
-            "snippet": "Well the names of all the chess pieces are the King, Queen, Rook, Bishop, ... two squares in one direction, and then one more box at a right angle.",
-            "about_this_result": {
-                "source": {
-                    "description": "herculeschess.com was first indexed by Google in March 2020",
-                    "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd1899224db162b64ddf87/images/d35d92c64f8c34ee62a644d4a7cb819fad0823611c22accb569dd60eb3c3d66daa79055c90b0477dec6cd35c75ee3855.png"
-                },
-                "keywords": [
-                    "which",
-                    "chess",
-                    "piece",
-                    "has",
-                    "more",
-                    "than",
-                    "one",
-                    "name"
-                ],
-                "related_keywords": [
                     "what",
-                    "pieces",
-                    "then",
-                    "names"
+                    "did",
+                    "king",
+                    "kong",
+                    "climb"
+                ],
+                "related_keywords": [
+                    "climbing"
                 ],
                 "languages": [
                     "English"
@@ -339,34 +247,32 @@
                     "the United States"
                 ]
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://herculeschess.com/names-of-all-the-chess-pieces/&tbm=ilp&ilps=AOR-xxvSaR7fQ7W_LAtaLGSttLbak3uciQ",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PZOaTGg577AJ:https://herculeschess.com/names-of-all-the-chess-pieces/+&cd=18&hl=en&ct=clnk&gl=us"
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/King_Kong_(1933_film)&tbm=ilp&ilps=AOR-xxvdWwXuvAn-RAjE-_Xyoow8Na4jMA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:seDWgaixB74J:https://en.wikipedia.org/wiki/King_Kong_(1933_film)+&cd=20&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/King_Kong_(1933_film)+what+structure+did+king+kong+famously+climb%3F"
         },
         {
             "position": 5,
-            "title": "Chess Rules",
-            "link": "https://www.chesshouse.com/pages/chess-rules",
-            "displayed_link": "https://www.chesshouse.com \u203a pages \u203a chess-rules",
-            "snippet": "For starters, let's go over how many pieces there are in chess, plus the chess piece names. Each player has 16 pieces: chess pieces. 1 King; 1 Queen; 2 Rooks ( ...",
+            "title": "King Kong Empire State Building Exhibit Revealed",
+            "link": "https://comicbook.com/movies/news/king-kong-empire-state-building-exhibit/",
+            "displayed_link": "https://comicbook.com \u203a movies \u203a news \u203a king-kong-e...",
+            "date": "Aug 14, 2019",
+            "snippet": "... famous for the scene in the 1933 King Kong film where he climbed up the ... What do you think of the new King Kong exhibit at the Empire ...",
             "about_this_result": {
                 "source": {
-                    "description": "chesshouse.com was first indexed by Google more than 10 years ago",
+                    "description": "comicbook.com was first indexed by Google more than 10 years ago",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd1899224db162b64ddf87/images/d35d92c64f8c34ee62a644d4a7cb819fdd7919b07baeb02c54734deedaed45e9e29263677e32169020e4d6fe818d081a.png"
+                    "icon": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/df46a41a31ca4374d6731fdcc51a197ba6f5b8b1a4150af08e8f668be169e110081ee801da6df4740a43250c8ec18693.png"
                 },
                 "keywords": [
-                    "which",
-                    "chess",
-                    "piece",
-                    "has",
-                    "more",
-                    "than",
-                    "one",
-                    "name"
+                    "what",
+                    "structure",
+                    "king",
+                    "kong"
                 ],
                 "related_keywords": [
-                    "pieces",
-                    "names"
+                    "famous",
+                    "climbed"
                 ],
                 "languages": [
                     "English"
@@ -375,39 +281,32 @@
                     "the United States"
                 ]
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://www.chesshouse.com/pages/chess-rules&tbm=ilp&ilps=AOR-xxt2iQ1qEogip6jIBkuJAMNNH2tp_Q",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pWC1r99x5DoJ:https://www.chesshouse.com/pages/chess-rules+&cd=19&hl=en&ct=clnk&gl=us",
-            "missing": [
-                "common"
-            ],
-            "must_include": {
-                "word": "common",
-                "link": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+%22common%22+name?&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ5t4CegQIOxAB"
-            }
+            "about_page_link": "https://www.google.com/search?q=About+https://comicbook.com/movies/news/king-kong-empire-state-building-exhibit/&tbm=ilp&ilps=AOR-xxvYw4HAMOCnRdTwXE9BHiltcd9pBQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:iDq8wSIDxu8J:https://comicbook.com/movies/news/king-kong-empire-state-building-exhibit/+&cd=21&hl=en&ct=clnk&gl=us"
         },
         {
             "position": 6,
-            "title": "bishop | chess | Britannica",
-            "link": "https://www.britannica.com/topic/bishop-chess",
-            "displayed_link": "https://www.britannica.com \u203a topic \u203a bishop-chess",
-            "snippet": "They also often exchanged their good bishop, the one less encumbered\u2026 ... More than 500 different patterns of chess pieces have been recorded.",
+            "title": "Which is the best King Kong Film? - [otsoNY.com]",
+            "link": "http://onthesetofnewyork.com/02052013.html",
+            "displayed_link": "http://onthesetofnewyork.com \u203a ...",
+            "date": "May 2, 2013",
+            "snippet": "In the wide shot of Kong climbing the Empire State Building, he is climbing the western face of the structure. The financial district is visible ...",
             "about_this_result": {
                 "source": {
-                    "description": "britannica.com was first indexed by Google more than 10 years ago",
-                    "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd1899224db162b64ddf87/images/d35d92c64f8c34ee62a644d4a7cb819fce5836701176eef5e29f06eb09c1a3a5b77ef3967f4de4fda11349289f1c6455.png"
+                    "description": "onthesetofnewyork.com was first indexed by Google more than 10 years ago",
+                    "security": "not secure",
+                    "icon": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/df46a41a31ca4374d6731fdcc51a197bae414c0256d9ab1d3119056921023ecdc47a7be4234c70fe0424b612db067cbf.png"
                 },
                 "keywords": [
-                    "which",
-                    "chess",
-                    "piece",
-                    "has",
-                    "more",
-                    "than",
-                    "one"
+                    "what",
+                    "structure",
+                    "king",
+                    "kong",
+                    "climb"
                 ],
                 "related_keywords": [
-                    "pieces"
+                    "which",
+                    "climbing"
                 ],
                 "languages": [
                     "English"
@@ -416,35 +315,39 @@
                     "the United States"
                 ]
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/topic/bishop-chess&tbm=ilp&ilps=AOR-xxvXLbqthf8ylGkoYwplvMCEZYvDYA",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1XviAiDlVhEJ:https://www.britannica.com/topic/bishop-chess+&cd=20&hl=en&ct=clnk&gl=us",
-            "related_pages_link": "https://www.google.com/search?q=related:https://www.britannica.com/topic/bishop-chess+which+chess+piece+has+more+than+one+common+name%3F"
+            "about_page_link": "https://www.google.com/search?q=About+http://onthesetofnewyork.com/02052013.html&tbm=ilp&ilps=AOR-xxulIiZlyEUkNvkSgPTN5fBU0iHGPg",
+            "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:NJqjraj70UUJ:onthesetofnewyork.com/02052013.html+&cd=22&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:onthesetofnewyork.com/02052013.html+what+structure+did+king+kong+famously+climb%3F",
+            "missing": [
+                "famously"
+            ],
+            "must_include": {
+                "word": "famously",
+                "link": "https://www.google.com/search?q=what+structure+did+king+kong+%22famously%22+climb?&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ5t4CegQIOhAB"
+            }
         },
         {
             "position": 7,
-            "title": "Learn to Play Chess - The United States Chess Federation",
-            "link": "http://www.uschess.org/index.php/Learn-About-Chess/Learn-to-Play-Chess.html",
-            "displayed_link": "http://www.uschess.org \u203a New to Chess?",
-            "snippet": "1. The Rook: Let's start with the moststraightforward piece. ... If no pawns or pieces have been traded for more than 50 moves, a game is determined to be a ...",
+            "title": "What Big Apple landmark did King Kong climb in the famous 1933 ...",
+            "link": "https://triviahive.com/d/what-big-apple-landmark-did-king-kong-climb-in-the-famous-1933-film-E32355F0CF6771AA",
+            "displayed_link": "https://triviahive.com \u203a what-big-apple-landmark-did-ki...",
+            "date": "Mar 12, 2018",
+            "snippet": "What Big Apple landmark did King Kong climb in the famous 1933 film? The Statue of Liberty. The Empire State Building correct.",
             "about_this_result": {
                 "source": {
-                    "description": "The United States Chess Federation is the governing body for chess competition in the United States and represents the U.S. in FIDE, the World Chess Federation.",
-                    "source_info_link": "https://en.wikipedia.org/wiki/United_States_Chess_Federation",
-                    "security": "not secure"
+                    "description": "triviahive.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/df46a41a31ca4374d6731fdcc51a197bb0e158bb5efdf544d1147b38d131a2284709bb5a2fdf6c3dc9a3aaac35f3d1b6.png"
                 },
                 "keywords": [
-                    "which",
-                    "chess",
-                    "piece",
-                    "has",
-                    "more",
-                    "than",
-                    "one",
-                    "common",
-                    "name"
+                    "what",
+                    "did",
+                    "king",
+                    "kong",
+                    "climb"
                 ],
                 "related_keywords": [
-                    "pieces"
+                    "famous"
                 ],
                 "languages": [
                     "English"
@@ -453,76 +356,111 @@
                     "the United States"
                 ]
             },
-            "about_page_link": "https://www.google.com/search?q=About+http://www.uschess.org/index.php/Learn-About-Chess/Learn-to-Play-Chess.html&tbm=ilp&ilps=AOR-xxvfFBTN0MLHYuACyD2L54vb_DZLSA",
-            "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:32Puin0jMsoJ:www.uschess.org/index.php/Learn-About-Chess/Learn-to-Play-Chess.html+&cd=21&hl=en&ct=clnk&gl=us"
+            "about_page_link": "https://www.google.com/search?q=About+https://triviahive.com/d/what-big-apple-landmark-did-king-kong-climb-in-the-famous-1933-film-E32355F0CF6771AA&tbm=ilp&ilps=AOR-xxsrX0ey_C5r1Cj5Ej9n2FWd8tJUaA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6E7IUq5Q6IIJ:https://triviahive.com/d/what-big-apple-landmark-did-king-kong-climb-in-the-famous-1933-film-E32355F0CF6771AA+&cd=23&hl=en&ct=clnk&gl=us",
+            "missing": [
+                "structure"
+            ],
+            "must_include": {
+                "word": "structure",
+                "link": "https://www.google.com/search?q=what+%22structure%22+did+king+kong+famously+climb?&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ5t4CegQIOBAB"
+            }
         },
         {
             "position": 8,
-            "title": "Chess Variants - Page 178 - Google Books Result",
-            "link": "https://books.google.com/books?id=q5e2Inv8pJIC&pg=PA178&lpg=PA178&dq=which+chess+piece+has+more+than+one+common+name?&source=bl&ots=TKooSXLtrf&sig=ACfU3U3O72bt5LfCQqhfyjYnXnFymvG0Ng&hl=en&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ6AF6BAgsEAM",
-            "displayed_link": "https://books.google.com \u203a books",
-            "snippet": "Marine pieces have names alluding to the sea and its myths, e.g., ... By game Some classes of pieces come from a certain game; often these have a common set ..."
+            "title": "Trivia - King Kong (1933) - IMDb",
+            "link": "https://www.imdb.com/title/tt0024216/trivia",
+            "displayed_link": "https://www.imdb.com \u203a title \u203a trivia",
+            "snippet": "It's often credited as an error that the brontosaurus (if that is indeed what it is) eats at least one of the sailors, which a herbivore wouldn't do. However, ...",
+            "about_this_result": {
+                "source": {
+                    "description": "IMDb is an online database of information related to films, television series, home videos, video games, and streaming content online \u2013 including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/IMDb",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61bd1ff20574f56435fb615e/images/df46a41a31ca4374d6731fdcc51a197b8ea4665dd742cf8972825557f5c07d07bda55c1fdcc52d8f7309a20fd5185512.png"
+                },
+                "keywords": [
+                    "what",
+                    "structure",
+                    "did",
+                    "king",
+                    "kong",
+                    "climb"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.imdb.com/title/tt0024216/trivia&tbm=ilp&ilps=AOR-xxv6vJVgAwnDy9-Xm-REI5A9dB9OEg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:GW31dtNCzkQJ:https://www.imdb.com/title/tt0024216/trivia+&cd=24&hl=en&ct=clnk&gl=us"
         }
     ],
     "related_searches": [
         {
-            "query": "what are the 16 pieces in chess called?",
-            "link": "https://www.google.com/search?q=What+are+the+16+pieces+in+chess+called&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ1QJ6BAgzEAE"
+            "query": "why did king kong climb the empire state building",
+            "link": "https://www.google.com/search?q=Why+did+King+Kong+climb+the+Empire+State+Building&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ1QJ6BAgjEAE"
         },
         {
-            "query": "chess pieces and equipment names",
-            "link": "https://www.google.com/search?q=Chess+pieces+and+equipment+names&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ1QJ6BAgvEAE"
+            "query": "king kong empire state building exhibit",
+            "link": "https://www.google.com/search?q=King+Kong+Empire+State+Building+exhibit&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ1QJ6BAg1EAE"
         },
         {
-            "query": "chess pieces names",
-            "link": "https://www.google.com/search?q=Chess+pieces+names&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ1QJ6BAg0EAE"
+            "query": "king kong (1933)",
+            "link": "https://www.google.com/search?q=King+Kong+(1933)&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ1QJ6BAgpEAE"
         },
         {
-            "query": "chess pieces names and moves",
-            "link": "https://www.google.com/search?q=Chess+pieces+names+and+moves&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ1QJ6BAg3EAE"
+            "query": "king kong escapes",
+            "link": "https://www.google.com/search?q=King+Kong+Escapes&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ1QJ6BAguEAE"
         },
         {
-            "query": "prince chess piece",
-            "link": "https://www.google.com/search?q=Prince+chess+piece&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ1QJ6BAgwEAE"
+            "query": "king kong holding woman",
+            "link": "https://www.google.com/search?q=King+kong+holding+woman&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ1QJ6BAgtEAE"
         },
         {
-            "query": "chess pieces names and functions",
-            "link": "https://www.google.com/search?q=Chess+pieces+names+and+functions&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ1QJ6BAguEAE"
+            "query": "king kong on empire state building drawing",
+            "link": "https://www.google.com/search?q=King+Kong+on+empire+state+building+drawing&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ1QJ6BAgsEAE"
         },
         {
-            "query": "chess pieces names in english",
-            "link": "https://www.google.com/search?q=Chess+pieces+names+in+English&sa=X&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ1QJ6BAgtEAE"
+            "query": "king kong (1933 full movie)",
+            "link": "https://www.google.com/search?q=king+kong+(1933+full+movie)&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "king kong climb math playground",
+            "link": "https://www.google.com/search?q=King+kong+climb+math+playground&sa=X&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ1QJ6BAgkEAE"
         }
     ],
     "pagination": {
         "current": 1,
-        "next": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=10&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8NMDegQIARBJ",
+        "next": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=10&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8NMDegQIARBJ",
         "other_pages": {
-            "2": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=10&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARA3",
-            "3": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=20&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARA5",
-            "4": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=30&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARA7",
-            "5": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=40&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARA9",
-            "6": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=50&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARA_",
-            "7": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=60&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARBB",
-            "8": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=70&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARBD",
-            "9": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=80&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARBF",
-            "10": "https://www.google.com/search?q=which+chess+piece+has+more+than+one+common+name%3F&ei=mRi9Ya7CLMyYptQPg5OTsAg&start=90&sa=N&ved=2ahUKEwju8v6E-uv0AhVMjIkEHYPJBIYQ8tMDegQIARBH"
+            "2": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=10&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=20&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=30&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=40&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=50&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=60&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=70&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=80&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=what+structure+did+king+kong+famously+climb%3F&ei=8x-9Yee0NsWzkwX8mJbACA&start=90&sa=N&ved=2ahUKEwin-ryGgez0AhXF2aQKHXyMBYgQ8tMDegQIARBH"
         }
     },
     "serpapi_pagination": {
         "current": 1,
-        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=10",
-        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=10",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=10",
         "other_pages": {
-            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=10",
-            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=20",
-            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=30",
-            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=40",
-            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=50",
-            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=60",
-            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=70",
-            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=80",
-            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+chess+piece+has+more+than+one+common+name%3F&start=90"
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+structure+did+king+kong+famously+climb%3F&start=90"
         }
     }
 }

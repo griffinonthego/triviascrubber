@@ -12,19 +12,21 @@ def fixtext(text):
     text = text.replace("  ", " ")
     return text
 
-def ocrify(q_image):
+def ocrify(image):
     ocr_apikey = "12739a035188957"
     data = {"apikey": ocr_apikey}
-    file = {'file': open('saved_ref.png', 'rb')}
+    file = {'file': open(image, 'rb')}
 
-    method = "JSON"
-    print("\tResponse Source: " + method)
+    method = "IMAGE"
+    print("\t> Source: " + method)
     if (method == "JSON"):
         data = json.load(open('test_json.json'))
         time.sleep(1)
     elif (method == "IMAGE"):
+        print("\t\t> Sending POST Request...")
         response = requests.post("https://api.ocr.space/parse/image",data,files=file)
         data = response.json()
+        print("\t\t> Response: " + str(response.status_code))
 
     # jprint(data)
 
