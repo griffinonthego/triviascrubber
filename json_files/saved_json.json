@@ -1,407 +1,375 @@
 {
     "search_metadata": {
-        "id": "61bd91275c1059a6ecfa5629",
+        "id": "61be4bddaf5af178a6f319ea",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/8289ffa49d60c60f/61bd91275c1059a6ecfa5629.json",
-        "created_at": "2021-12-18 07:43:35 UTC",
-        "processed_at": "2021-12-18 07:43:35 UTC",
-        "google_url": "https://www.google.com/search?q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&oq=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&sourceid=chrome&ie=UTF-8",
-        "raw_html_file": "https://serpapi.com/searches/8289ffa49d60c60f/61bd91275c1059a6ecfa5629.html",
-        "total_time_taken": 1.04
+        "json_endpoint": "https://serpapi.com/searches/91a92baadd2b2ba0/61be4bddaf5af178a6f319ea.json",
+        "created_at": "2021-12-18 21:00:13 UTC",
+        "processed_at": "2021-12-18 21:00:13 UTC",
+        "google_url": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&oq=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/91a92baadd2b2ba0/61be4bddaf5af178a6f319ea.html",
+        "total_time_taken": 4.78
     },
     "search_parameters": {
         "engine": "google",
-        "q": "of these francophone cities, which is home to the most people?",
+        "q": "in \u201cindependence day,\u201d what word does the american president say will get a \u201cnew meaning\u201d?",
         "google_domain": "google.com",
         "device": "desktop"
     },
     "search_information": {
         "organic_results_state": "Results for exact spelling",
-        "query_displayed": "of these francophone cities, which is home to the most people?",
-        "total_results": 8530000000,
-        "time_taken_displayed": 0.79
+        "query_displayed": "in \u201cindependence day,\u201d what word does the american president say will get a \u201cnew meaning\u201d?",
+        "total_results": 538000,
+        "time_taken_displayed": 0.6
     },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Independence Day - President Speech [Full HD]",
+            "link": "https://www.youtube.com/watch?v=3_QSJyJaeD4",
+            "thumbnail": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/0fda28fd24429e3c752f5c3af936f4bb2872551d0f064cb1afcdf6adfd189a6e.jpeg",
+            "channel": "Speeches HD",
+            "duration": "2:03",
+            "platform": "YouTube",
+            "date": "Jun 25, 2016"
+        },
+        {
+            "position": 2,
+            "title": "Obama's Advisor Valerie Jarrett Reviews Presidential Films ...",
+            "link": "https://www.vanityfair.com/video/watch/reviews-obamas-senior-advisor-reviews-presidential-films-and-tv",
+            "thumbnail": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/0fda28fd24429e3c374ad21ea2f9453062dcb9651dd4ed2115c8888de94ca7a6.jpeg",
+            "platform": "Vanity Fair",
+            "date": "Nov 2, 2020"
+        }
+    ],
     "inline_video_carousels": [
         {
             "position": 1,
-            "title": "Cities In The World With The Most Francophone Population",
-            "link": "https://www.worldatlas.com/articles/cities-in-the-world-with-the-most-francophone-population.html#:~:text=Kinshasa%2C%20Democratic%20Republic%20Of%20Congo&text=French%20is%20the%20official%20language,a%20population%20of%2012%2C691%2C000%20people.",
-            "displayed_link": "https://www.worldatlas.com \u203a World Facts"
-        }
-    ],
-    "inline_people_also_search_for": [
-        {
-            "title": "French-speaking cities in Europe",
-            "items": [
-                {
-                    "name": "Montreal",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpnd7tfCds8SUF7ouiUGctOK-I2q1Q7v8RLxbg&s=0",
-                    "link": "https://www.google.com/search?q=Montreal&stick=H4sIAAAAAAAAAG2OvQ4BQRRGbYIsb0AUN3ohm6CRqOj06Na6zLA7d8wMCo3XIAoRXkZCKUK8iMpPdlW6k5vz5R47l7eLQbFUdmTVgYFC4THQEt0xF0PwuOGogQvAqSKJ3RoNwDDU-FZd4ZFkJDDS5oy_x1wDowDB0MeEgLQBiSR9PFq_VxFOzCjEvlTDEEd9Y0L0ZGV-tFIfdJTozaJzj7GnBc1vbuFPbuObu4xbu4TdImEUuv4tmYldV-ny-pE91e_2PrPonLfQPuz9zeUFP1iI0gcBAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAB6BAgoEAM",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Montreal&stick=H4sIAAAAAAAAAG2OvQ4BQRRGbYIsb0AUN3ohm6CRqOj06Na6zLA7d8wMCo3XIAoRXkZCKUK8iMpPdlW6k5vz5R47l7eLQbFUdmTVgYFC4THQEt0xF0PwuOGogQvAqSKJ3RoNwDDU-FZd4ZFkJDDS5oy_x1wDowDB0MeEgLQBiSR9PFq_VxFOzCjEvlTDEEd9Y0L0ZGV-tFIfdJTozaJzj7GnBc1vbuFPbuObu4xbu4TdImEUuv4tmYldV-ny-pE91e_2PrPonLfQPuz9zeUFP1iI0gcBAAA"
-                },
-                {
-                    "name": "Paris",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW43QptccnNVEuL8XvragGoGp8oXv4gJjVn_06yRuqBXjAJMCvnq1y&s=0",
-                    "link": "https://www.google.com/search?q=Paris&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC0syTJSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUIscqowBzGBNoKZaYUFKVDmVkpJSVQZnKBWfkpRk4Q06goL6kMJpyUkfGLUcEN7FxdLM51BTu3gYVxEStrQGJRZvEtNkmGGzO5TGfdlTprf5tjiWR15LkFChFLl-TMuQYAjxd53wQBAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAF6BAgoEAQ",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Paris&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC0syTJSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUIscqowBzGBNoKZaYUFKVDmVkpJSVQZnKBWfkpRk4Q06goL6kMJpyUkfGLUcEN7FxdLM51BTu3gYVxEStrQGJRZvEtNkmGGzO5TGfdlTprf5tjiWR15LkFChFLl-TMuQYAjxd53wQBAAA"
-                },
-                {
-                    "name": "Lyon",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNI8053fdF0VfL3VtoFAlJerS-MzOmSvdzJFg5kCGRzJHdkijJ29I&s=0",
-                    "link": "https://www.google.com/search?q=Lyon&stick=H4sIAAAAAAAAAOOQUeLQz9U3SCkoSjdSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUItsrUqMAcxiwsyYIyQQ6AMrNSSkqgzOQCs_JTjJwgplFRXlIZTDgpI-MXo4Ib2Lm6WJzrCnZuAwvjIlYWn8r8vFtskgw3ZnKZzrorddb-NscSyerIcwsUIpYuyZlzDQDUxkTCAwEAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAJ6BAgoEAU",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Lyon&stick=H4sIAAAAAAAAAOOQUeLQz9U3SCkoSjdSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUItsrUqMAcxiwsyYIyQQ6AMrNSSkqgzOQCs_JTjJwgplFRXlIZTDgpI-MXo4Ib2Lm6WJzrCnZuAwvjIlYWn8r8vFtskgw3ZnKZzrorddb-NscSyerIcwsUIpYuyZlzDQDUxkTCAwEAAA"
-                },
-                {
-                    "name": "Marseille",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCddizKbG6d_RkFjDLScRU2IVczoE4aLf_f58K&s=0",
-                    "link": "https://www.google.com/search?q=Marseille&stick=H4sIAAAAAAAAAG2OvQ4BQRRGbYIsb0AUN3ohm6CRqOj06PbnMsPuzJgZFBqvQRQivIyEUoR4EZXdzW6nO7k5X-4xK1WzHtQbM09rCyYSmUtACbTnlE3BpZqiAsoAl5ILHHf4BDRBhaFqM5cLwhmm2prQcEwVEB4gaB6ZEHClQSAXPl6N-FXTEu0UF3qWoCfkNMGoJUFXtNZXoxChJZmzSs8OIV8D-nFu7U9uL87dZo1TrjCwpULq-_jKlzLPXbG5_5Rv3bd5Lm1G9yMML2f_8PgBGznC4ggBAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAN6BAgoEAY",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Marseille&stick=H4sIAAAAAAAAAG2OvQ4BQRRGbYIsb0AUN3ohm6CRqOj06PbnMsPuzJgZFBqvQRQivIyEUoR4EZXdzW6nO7k5X-4xK1WzHtQbM09rCyYSmUtACbTnlE3BpZqiAsoAl5ILHHf4BDRBhaFqM5cLwhmm2prQcEwVEB4gaB6ZEHClQSAXPl6N-FXTEu0UF3qWoCfkNMGoJUFXtNZXoxChJZmzSs8OIV8D-nFu7U9uL87dZo1TrjCwpULq-_jKlzLPXbG5_5Rv3bd5Lm1G9yMML2f_8PgBGznC4ggBAAA"
-                },
-                {
-                    "name": "Nice",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMCLY-VXAviBhqZwuIhqanSZAkHCulOntIlBPh&s=0",
-                    "link": "https://www.google.com/search?q=Nice,+France&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC4wKzdSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUItsrUqMAcxiwsyYIyUwqK0qHMrJSSEigT5KxTjJwgplFRXlIZTDgpI-MXo4Ib2Lm6WJzrCnZuAwvjIlYev8zkVB2gWqB7U2-xSTLcmMllOuuu1Fn72xxLJKsjzy1QiFi6JGfONQCV0CeuCwEAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAR6BAgoEAc",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nice%2C+France&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC4wKzdSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUItsrUqMAcxiwsyYIyUwqK0qHMrJSSEigT5KxTjJwgplFRXlIZTDgpI-MXo4Ib2Lm6WJzrCnZuAwvjIlYev8zkVB2gWqB7U2-xSTLcmMllOuuu1Fn72xxLJKsjzy1QiFi6JGfONQCV0CeuCwEAAA"
-                },
-                {
-                    "name": "Brussels",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv4q0BetnF4BZHh1205KU9603SEdYQmKgANj42&s=0",
-                    "link": "https://www.google.com/search?q=City+of+Brussels&stick=H4sIAAAAAAAAAG2OwQoBURSGTaFhZUsWJ3vRFDZKEc-AHeOYe5m597r3Itl4DbKQeBnFUiIvYmVoJhu7r9P3dz4zm0sUvELRkqw_s2AokdkElMDemDIHbKopKqAMcCq5wG6VD0ETVOirPWZzQTjDUJsT6o-pAsI9BM0_JnhcaRDIhYsnw_z8KlmiEuJEjwIcCOkEOBpoHaAtyvOT8UsMz31CXga0vrn5P7nNb-4qauxjqQbVC_C763KqFLrqHk9HbutkafPMnGsP85Bedi47aB8P7vb6BhQ_fb0QAQAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAV6BAgoEAg",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=City+of+Brussels&stick=H4sIAAAAAAAAAG2OwQoBURSGTaFhZUsWJ3vRFDZKEc-AHeOYe5m597r3Itl4DbKQeBnFUiIvYmVoJhu7r9P3dz4zm0sUvELRkqw_s2AokdkElMDemDIHbKopKqAMcCq5wG6VD0ETVOirPWZzQTjDUJsT6o-pAsI9BM0_JnhcaRDIhYsnw_z8KlmiEuJEjwIcCOkEOBpoHaAtyvOT8UsMz31CXga0vrn5P7nNb-4qauxjqQbVC_C763KqFLrqHk9HbutkafPMnGsP85Bedi47aB8P7vb6BhQ_fb0QAQAA"
-                }
-            ],
-            "see_more_link": "https://www.google.com/search?q=French-speaking+cities+in+Europe&stick=H4sIAAAAAAAAAOOQMVJIK0rNS85QKC5ITczOzEtXSM4syUwtVsjMU0gtLcovSI2yyU9TKMlILU4FKk3MS84vyMjPS4UpK8_IBGrOLFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xcihn6tvYGpUYA5jFpZkQZkpBUXpUGZWSkkJlJlcYFZ-ipETxDQqyksqgwknZWT8YlRwAztXF4tzXcHObWBhXMRKUNUtNkmGGzO5TGfdlTprf5tjiWR15LkFChFLl-TMuQYAWRg-_BUBAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ4qYDegQIKBAJ",
-            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=French-speaking+cities+in+Europe&stick=H4sIAAAAAAAAAOOQMVJIK0rNS85QKC5ITczOzEtXSM4syUwtVsjMU0gtLcovSI2yyU9TKMlILU4FKk3MS84vyMjPS4UpK8_IBGrOLFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xcihn6tvYGpUYA5jFpZkQZkpBUXpUGZWSkkJlJlcYFZ-ipETxDQqyksqgwknZWT8YlRwAztXF4tzXcHObWBhXMRKUNUtNkmGGzO5TGfdlTprf5tjiWR15LkFChFLl-TMuQYAWRg-_BUBAAA"
-        },
-        {
-            "title": "Francophone cities",
-            "items": [
-                {
-                    "name": "Kinshasa",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSReWgzpODmd4h2nzoYFNt8acxbiZpytDXysU7l2y-XT4PZujBmNOx-&s=0",
-                    "link": "https://www.google.com/search?q=Kinshasa&stick=H4sIAAAAAAAAAOOQUeLQz9U3SE4zKDYSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg3HMpMy61MgYkaVuTCRIsNy-AK4g1hzDxD41OMnCCmYaWpBUxfSllOBYyZlA03OKvc8hejkBuGIxtYGBexcnhn5hVnJBYn3mKTZLgxk8v06s72ydNO7d67Izhvom_qirZHPUcWAwAoPm_0DAEAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAB6BAgxEAM",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Kinshasa&stick=H4sIAAAAAAAAAOOQUeLQz9U3SE4zKDYSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg3HMpMy61MgYkaVuTCRIsNy-AK4g1hzDxD41OMnCCmYaWpBUxfSllOBYyZlA03OKvc8hejkBuGIxtYGBexcnhn5hVnJBYn3mKTZLgxk8v06s72ydNO7d67Izhvom_qirZHPUcWAwAoPm_0DAEAAA"
-                },
-                {
-                    "name": "Abidjan",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKRHm-RnKTUTYs7F7M6OPaWvIpr-qkbwK2gAIHYuVVEypIgN9FIfCo&s=0",
-                    "link": "https://www.google.com/search?q=Abidjan&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMutTDESSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKBNkDEzWsyIWJFhuWwRXEG8KYeYbGpxg5QUzDSlMLmL6UspwKGDMpG25wVrnlL0YhNwxHNrAwLmJld0zKTMlKzLvFJslwYyaX6dWd7ZOnndq9d0dw3kTf1BVtj3qOLAYADCR0TAsBAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAF6BAgxEAQ",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Abidjan&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMutTDESSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKBNkDEzWsyIWJFhuWwRXEG8KYeYbGpxg5QUzDSlMLmL6UspwKGDMpG25wVrnlL0YhNwxHNrAwLmJld0zKTMlKzLvFJslwYyaX6dWd7ZOnndq9d0dw3kTf1BVtj3qOLAYADCR0TAsBAAA"
-                },
-                {
-                    "name": "Dakar",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmiNrVcv2H-6WHZ9dRV-WN_ym-msrjttNSCmO2L4J3L97J_EHLm-v7&s=0",
-                    "link": "https://www.google.com/search?q=Dakar&stick=H4sIAAAAAAAAAOOQUeLQz9U3SDasyDUSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQgxPM2gGMpMy61MgYkCrYSJFhuWwRXEG8KYeYbGpxg5QUzDSlMLmL6UspwKGDMpG25wVrnlL0YhNwxHNrAwLmJldUnMTiy6xSbJcGMml-nVne2Tp53avXdHcN5E39QVbY96jiwGAH1pEJMJAQAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAJ6BAgxEAU",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dakar&stick=H4sIAAAAAAAAAOOQUeLQz9U3SDasyDUSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQgxPM2gGMpMy61MgYkCrYSJFhuWwRXEG8KYeYbGpxg5QUzDSlMLmL6UspwKGDMpG25wVrnlL0YhNwxHNrAwLmJldUnMTiy6xSbJcGMml-nVne2Tp53avXdHcN5E39QVbY96jiwGAH1pEJMJAQAA"
-                },
-                {
-                    "name": "Port\u2011au\u2011Pri...",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuEiq5pWv006KHYPlrAVZR2ADNj6wmGVn3o7LsblQYTu6otnvTzdk5&s=0",
-                    "link": "https://www.google.com/search?q=Port-au-Prince&stick=H4sIAAAAAAAAAOOQUeLQz9U3SCs2LDMSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSBtsMVxBvCmHmGxqcYOUFMw0pTC5i-lLKcChgzKRtucFa55S9GITcMRzawMC5i5QvILyrRTSzVDSjKzEtOvcUmyXBjJpfp1Z3tk6ed2r13R3DeRN_UFW2Peo4sBgA0KQ18EgEAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAN6BAgxEAY",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Port-au-Prince&stick=H4sIAAAAAAAAAOOQUeLQz9U3SCs2LDMSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSBtsMVxBvCmHmGxqcYOUFMw0pTC5i-lLKcChgzKRtucFa55S9GITcMRzawMC5i5QvILyrRTSzVDSjKzEtOvcUmyXBjJpfp1Z3tk6ed2r13R3DeRN_UFW2Peo4sBgA0KQ18EgEAAA"
-                },
-                {
-                    "name": "Antananar...",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQAyTnJKSX4VMt241IWu8ZVIok1Ym8Nu6grufUnfiQReIqOnIBstHg&s=0",
-                    "link": "https://www.google.com/search?q=Antananarivo&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMuNNzQSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSLDcvgCuINYcw8Q-NTjJwgpmGlqQVMX0pZTgWMmZQNNzir3PIXo5AbhiMbWBgXsfI45pUk5gFhUWZZ_i02SYYbM7lMr-5snzzt1O69O4LzJvqmrmh71HNkMQCWX2NQEAEAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAR6BAgxEAc",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Antananarivo&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMuNNzQSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSLDcvgCuINYcw8Q-NTjJwgpmGlqQVMX0pZTgWMmZQNNzir3PIXo5AbhiMbWBgXsfI45pUk5gFhUWZZ_i02SYYbM7lMr-5snzzt1O69O4LzJvqmrmh71HNkMQCWX2NQEAEAAA"
-                },
-                {
-                    "name": "Bamako",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6EoBvwITO_uE5GPKaL63mnTAn4Eozwf9Wx4WeUkXn5MUYYyuYMMuH&s=0",
-                    "link": "https://www.google.com/search?q=Bamako&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMszNDYSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSLDcvgCuINYUygm04xcoKYhpWmFjB9KWU5FTBmUjbc4Kxyy1-MQm4YjmxgYVzEyuaUmJuYnX-LTZLhxkwu06s72ydPO7V7747gvIm-qSvaHvUcWQwA2mjURgoBAAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQs9oBKAV6BAgxEAg",
-                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bamako&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMszNDYSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSLDcvgCuINYUygm04xcoKYhpWmFjB9KWU5FTBmUjbc4Kxyy1-MQm4YjmxgYVzEyuaUmJuYnX-LTZLhxkwu06s72ydPO7V7747gvIm-qSvaHvUcWQwA2mjURgoBAAA"
-                }
-            ],
-            "see_more_link": "https://www.google.com/search?q=Francophone+cities&stick=H4sIAAAAAAAAAOOQMRJKK0rMS84vyMjPS1VIzizJTC2OsslPUyjJSC1OVcCUVCjPyEzOUMgsVsjIz01VKMkHqVTIzS8uUShIzS_IST3FyKGfq2-QnGZQDGWm5VamwEQNK3JhosWGZXAF8YYwZp6h8SlGThDTsNLUAqYvpSynAsZMyoYbnFVu-YtRyA3DkQ0sjItYsYjfYpNkuDGTy_TqzvbJ007t3rsjOG-ib-qKtkc9RxYDAI28QH4MAQAA&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ4qYDegQIMRAJ",
-            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Francophone+cities&stick=H4sIAAAAAAAAAOOQMRJKK0rMS84vyMjPS1VIzizJTC2OsslPUyjJSC1OVcCUVCjPyEzOUMgsVsjIz01VKMkHqVTIzS8uUShIzS_IST3FyKGfq2-QnGZQDGWm5VamwEQNK3JhosWGZXAF8YYwZp6h8SlGThDTsNLUAqYvpSynAsZMyoYbnFVu-YtRyA3DkQ0sjItYsYjfYpNkuDGTy_TqzvbJ007t3rsjOG-ib-qKtkc9RxYDAI28QH4MAQAA"
+            "title": "Independence Day - Movie Quotes - Rotten Tomatoes",
+            "link": "https://www.rottentomatoes.com/m/1071806_independence_day/quotes?#:~:text=%22Mankind.%22%20That%20word%20should,fighting%20for%20our%20freedom...",
+            "displayed_link": "https://www.rottentomatoes.com \u203a quotes"
         }
     ],
     "related_questions": [
         {
-            "question": "Where do most francophone people live?",
-            "snippet": "The majority of Francophones (85.4%) live in Quebec and over 1 million live in other regions of the country.Sep 13, 2019",
-            "title": "Some facts on the Canadian Francophonie - Canada.ca",
-            "link": "https://www.canada.ca/en/canadian-heritage/services/official-languages-bilingualism/publications/facts-canadian-francophonie.html",
-            "displayed_link": "https://www.canada.ca \u203a services \u203a publications \u203a facts-ca..."
+            "question": "What was the purpose of the president's speech in the movie Independence Day?",
+            "snippet": "Instead of rallying troops to fight off alien invaders, Pullman's president calls on the world to support vaccination efforts to defeat COVID-19. For Pullman, resisting the speech was not an easy decision.Jun 30, 2021",
+            "title": "'Independence Day': Bill Pullman Reprises Speech for Budweiser Ad",
+            "link": "https://www.hollywoodreporter.com/movies/movie-news/independence-day-speech-bill-pullman-budweiser-1234975033/",
+            "displayed_link": "https://www.hollywoodreporter.com \u203a movie-news \u203a inde..."
         },
         {
-            "question": "What is the largest Francophone country?",
-            "snippet": "The Democratic Republic of the Congo has the largest concentration of French speakers in all of Africa, and has the largest population of any country with French as the official language.May 15, 2020",
-            "title": "The Countries That Speak the Most French (Besides France)",
-            "link": "https://frenchly.us/the-countries-outside-of-france-that-speak-the-most-french/",
-            "displayed_link": "https://frenchly.us \u203a the-countries-outside-of-france-that-s..."
+            "question": "What is the name of the poem that President Whitmore alludes to in the speech?",
+            "snippet": "Whitmore's declaration, \u201cWe will not go quietly into the night\u201d seems to be a reference to Dylan Thomas' classic poem \u201cDo not go gentle into that good night,\u201d though Devlin and Emmerich haven't ever mentioned it.Jun 29, 2016",
+            "title": "Independence Day Speech: The Story Behind Bill Pullman's ...",
+            "link": "https://people.com/celebrity/independence-day-speech-the-story-behind-bill-pullmans-big-moment/",
+            "displayed_link": "https://people.com \u203a Celebrity"
         },
         {
-            "question": "What is the largest French speaking city in Canada?",
-            "title": "Montreal is one of the most bilingual cities in Quebec and Canada, with 57.4% of the population able to speak both English and French. Montreal is the second-largest primarily French-speaking city in the developed world, after Paris....Montreal.",
-            "link": "https://en.wikipedia.org/wiki/Montreal",
-            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Montreal"
+            "question": "Where did the quote we will not go quietly into the night come from?",
+            "snippet": "\"Do not go gentle into that good night\" is a poem in the form of a villanelle by Welsh poet Dylan Thomas (1914\u20131953); it has been described as his most famous work. Though first published in the journal Botteghe Oscure in 1951, the poem was written in 1947 while Thomas visited Florence with his family.",
+            "title": "Do not go gentle into that good night - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Do_not_go_gentle_into_that_good_night",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Do_not_go_gentle_into_..."
         },
         {
-            "question": "What city is the second largest Francophone city in the world?",
-            "snippet": "Kinshasa is the world's second largest French speaking city, after Paris, and before Montreal and Brussels.",
-            "title": "Paris",
-            "link": "https://www.normandale.edu/departments/humanities/world-languages/french/40-facts-about-french",
-            "displayed_link": "https://www.normandale.edu \u203a world-languages \u203a 40-fa..."
+            "question": "Were going to live on we're going to survive?",
+            "snippet": "To exist. And should we win the day, the Fourth of July will no longer be known as an American holiday, but as the day the world declared in one voice: \"We will not go quietly into the night!\" We will not vanish without a fight! We're going to live on! We're going to survive!",
+            "title": "Bill Pullman as President Thomas J. Whitmore - IMDb",
+            "link": "https://www.imdb.com/title/tt0116629/characters/nm0000597",
+            "displayed_link": "https://www.imdb.com \u203a title \u203a characters"
         }
     ],
     "answer_box": {
         "type": "organic_result",
-        "title": "Cities In The World With The Most Francophone Population",
-        "link": "https://www.worldatlas.com/articles/cities-in-the-world-with-the-most-francophone-population.html#:~:text=Kinshasa%2C%20Democratic%20Republic%20Of%20Congo&text=French%20is%20the%20official%20language,a%20population%20of%2012%2C691%2C000%20people.",
-        "displayed_link": "https://www.worldatlas.com \u203a World Facts",
-        "date": "Jul 3, 2020",
-        "snippet": "Kinshasa, Democratic Republic Of Congo French is the official language in Kinshasa, which makes it the city with the highest number of French-speaking people since its urban area has a population of 12,691,000 people."
+        "title": "Independence Day - Movie Quotes - Rotten Tomatoes",
+        "link": "https://www.rottentomatoes.com/m/1071806_independence_day/quotes?#:~:text=%22Mankind.%22%20That%20word%20should,fighting%20for%20our%20freedom...",
+        "displayed_link": "https://www.rottentomatoes.com \u203a quotes",
+        "date": "Jul 2, 1996",
+        "snippet": "\"Mankind.\" That word should have new meaning for all of us today. We can't be consumed by our petty differences anymore. We will be united in our common interests. Perhaps it's fate that today is the Fourth of July, and you will once again be fighting for our freedom..."
     },
     "organic_results": [
         {
             "position": 1,
-            "title": "10 Largest Francophone Cities in the World - Delusional Bubble",
-            "link": "https://delusionalbubble.com/10-largest-francophone-cities-in-the-world/",
-            "displayed_link": "https://delusionalbubble.com \u203a 10-largest-francophone-...",
-            "date": "Sep 2, 2020",
-            "snippet": "1- Paris, France (12.2 million) ... Paris, the capital of France is the largest Francophone city in the world with more than 12.2 million people ...",
+            "title": "Movie Speech from Independence Day - American Rhetoric",
+            "link": "https://www.americanrhetoric.com/MovieSpeeches/moviespeechindependenceday.html",
+            "displayed_link": "https://www.americanrhetoric.com \u203a MovieSpeeches",
+            "snippet": "And you will be launching the largest aerial battle in this history of mankind. Mankind -- that word should have new meaning for all of us today. We can't be ...",
             "about_this_result": {
                 "source": {
-                    "description": "delusionalbubble.com was first indexed by Google in July 2019",
+                    "description": "americanrhetoric.com was first indexed by Google more than 10 years ago",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd91275c1059a6ecfa5629/images/5a5681a34bf5cd21e7254d8f03cfc2f25c0baf0f28e6888100e93033aaed15cffe30bcfcfb5616383133f7abf647b4a7.jpeg"
+                    "icon": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/508346c733b1401ac3a7b17200452c7c1074eba01d250160266c050a81cbcdaed91a418ec491ae64da2cd5ec3ba8b02f.png"
                 },
                 "keywords": [
-                    "of",
-                    "francophone",
-                    "cities",
-                    "home",
-                    "most",
-                    "people"
+                    "in",
+                    "independence",
+                    "day",
+                    "word",
+                    "does",
+                    "american",
+                    "president",
+                    "will",
+                    "new",
+                    "meaning"
                 ],
                 "related_keywords": [
-                    "city",
-                    "largest"
+                    "should"
                 ],
                 "languages": [
                     "English"
                 ],
                 "regions": [
-                    "the United States"
+                    "Indonesia"
                 ]
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://delusionalbubble.com/10-largest-francophone-cities-in-the-world/&tbm=ilp&ilps=AOR-xxttvUzpwTZ--wl3By2tobUHpgX09A",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:reMGicidNgIJ:https://delusionalbubble.com/10-largest-francophone-cities-in-the-world/+&cd=12&hl=en&ct=clnk&gl=us"
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nw22D2Vh2uwJ:https://www.americanrhetoric.com/MovieSpeeches/moviespeechindependenceday.html+&cd=11&hl=en&ct=clnk&gl=id"
         },
         {
             "position": 2,
-            "title": "10 Countries & Their Largest French Speaking City",
-            "link": "https://www.masteryourfrench.com/france/french-speaking-cities/",
-            "displayed_link": "https://www.masteryourfrench.com \u203a france \u203a french-sp...",
-            "date": "Aug 6, 2021",
-            "snippet": "The Paris region has an estimated population of over 11,020,000 in 2021. La ville lumi\u00e8re is the second-largest francophone city on the planet.",
+            "title": "Independence Day Speech: The Story Behind Bill Pullman's ...",
+            "link": "https://people.com/celebrity/independence-day-speech-the-story-behind-bill-pullmans-big-moment/",
+            "displayed_link": "https://people.com \u203a Celebrity",
+            "date": "Jun 29, 2016",
+            "snippet": "Bill Pullman has resumed his role as American President Thomas Whitmore in the ... That word should have new meaning for all of us today.",
             "about_this_result": {
                 "source": {
-                    "description": "masteryourfrench.com was first indexed by Google in May 2019",
+                    "description": "People is an American weekly magazine that specializes in celebrity news and human-interest stories. It is published by Dotdash Meredith, a subsidiary of IAC.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/People_(magazine)",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd91275c1059a6ecfa5629/images/5a5681a34bf5cd21e7254d8f03cfc2f21e4bc26fffe96176b2374b0b3b302206d945047edf26cce6511117e4df89f756.png"
+                    "icon": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/508346c733b1401ac3a7b17200452c7c2f86c492b546c00f2a9f6f3095af71103fc0aee20c03370d552b35d542f784ce.png"
                 },
                 "keywords": [
-                    "of",
-                    "these",
-                    "francophone",
-                    "cities",
-                    "most"
+                    "in",
+                    "independence",
+                    "day",
+                    "word",
+                    "does",
+                    "american",
+                    "president",
+                    "will",
+                    "get",
+                    "new",
+                    "meaning"
                 ],
                 "related_keywords": [
-                    "french",
-                    "city",
-                    "largest",
-                    "population"
+                    "should"
                 ],
                 "languages": [
                     "English"
                 ],
                 "regions": [
-                    "the United States"
+                    "Indonesia"
                 ]
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://www.masteryourfrench.com/france/french-speaking-cities/&tbm=ilp&ilps=AOR-xxuKwoo7bWUboB_DE0vzXWuhqSprxw",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MyWtYp9ScWcJ:https://www.masteryourfrench.com/france/french-speaking-cities/+&cd=13&hl=en&ct=clnk&gl=us"
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ash6M1isT9YJ:https://people.com/celebrity/independence-day-speech-the-story-behind-bill-pullmans-big-moment/+&cd=12&hl=en&ct=clnk&gl=id"
         },
         {
             "position": 3,
-            "title": "French language in the United States - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/French_language_in_the_United_States",
-            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a French_language_in_t...",
-            "snippet": "In Florida, the city of Miami is home to a large Francophone community, consisting of French expatriates, Haitians (who may also speak Haitian Creole, a ...",
+            "title": "Bill Pullman as President Thomas J. Whitmore - IMDb",
+            "link": "https://www.imdb.com/title/tt0116629/characters/nm0000597",
+            "displayed_link": "https://www.imdb.com \u203a title \u203a characters",
+            "snippet": "Independence Day (1996) Bill Pullman as President Thomas J. Whitmore. ... That word should have new meaning for all of us today. We can't be consumed by our ...",
             "about_this_result": {
                 "source": {
-                    "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
-                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "description": "IMDb is an online database of information related to films, television series, home videos, video games, and streaming content online \u2013 including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/IMDb",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd91275c1059a6ecfa5629/images/5a5681a34bf5cd21e7254d8f03cfc2f27275bcbffd2490cde1ae4ceb148461d74861b24995840f4ebf103b02e8864f68.png"
+                    "icon": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/508346c733b1401ac3a7b17200452c7c31bf9633b937baf95465e2fac9d3dcfa2c1d605987c41576f3088f4d82f72c54.png"
                 },
                 "keywords": [
-                    "of",
-                    "these",
-                    "francophone",
-                    "cities",
-                    "home",
-                    "most",
-                    "people"
+                    "in",
+                    "independence",
+                    "day",
+                    "word",
+                    "does",
+                    "american",
+                    "president",
+                    "say",
+                    "will",
+                    "get",
+                    "new",
+                    "meaning"
                 ],
                 "related_keywords": [
-                    "french"
+                    "should"
                 ],
                 "languages": [
                     "English"
                 ],
                 "regions": [
-                    "the United States"
+                    "Indonesia"
                 ]
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/French_language_in_the_United_States&tbm=ilp&ilps=AOR-xxuKydBi8iChEkxa1_pEKjjhZtp7yA",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mVlPz0tEDi0J:https://en.wikipedia.org/wiki/French_language_in_the_United_States+&cd=14&hl=en&ct=clnk&gl=us",
-            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/French_language_in_the_United_States+of+these+francophone+cities,+which+is+home+to+the+most+people%3F"
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:L5HNDJQf7YEJ:https://www.imdb.com/title/tt0116629/characters/nm0000597+&cd=13&hl=en&ct=clnk&gl=id"
         },
         {
             "position": 4,
-            "title": "Where in the US can we find French-speaking communities?",
-            "link": "https://www.sidmartinbio.org/where-in-the-us-can-we-find-french-speaking-communities/",
-            "displayed_link": "https://www.sidmartinbio.org \u203a Users' questions",
-            "snippet": "As of January 2018, the largest population of Franco-American people is in the state of Maine.",
-            "rich_snippet": {
-                "top": {
-                    "extensions": [
-                        "Where is the largest population of French Americans? \u2014"
-                    ]
-                }
-            },
+            "title": "Ex-President Bill Pullman Stumps For Unity \u2013 And Beer",
+            "link": "https://deadline.com/video/bill-pullman-independence-day-budweiser-ad/",
+            "displayed_link": "https://deadline.com \u203a video \u203a bill-pullman-independen...",
+            "date": "Jun 30, 2021",
+            "snippet": "Bill Pullman reprises his 'Independence Day' role as President Thomas Whitmore for with a ... Those words have new meaning for us all today.",
             "about_this_result": {
                 "source": {
-                    "description": "sidmartinbio.org was first indexed by Google more than 10 years ago",
+                    "description": "Deadline Hollywood, commonly known as Deadline and also referred to as Deadline.com, is an online news site founded as the news blog Deadline Hollywood Daily by Nikki Finke in 2006. The site is updated several times a day, with entertainment industry news as its focus.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Deadline_Hollywood",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd91275c1059a6ecfa5629/images/5a5681a34bf5cd21e7254d8f03cfc2f289703746e4765adf96e502ef2b18416836d7b94d109f2811f39593cdedc89fba.png"
+                    "icon": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/508346c733b1401ac3a7b17200452c7c359f75b1d9f7ff6f0a7c0ab67835a1d20fc9a57d5d5a5998e49554ed92059600.png"
                 },
                 "keywords": [
-                    "of",
-                    "these",
-                    "francophone",
-                    "cities",
-                    "home",
-                    "most",
-                    "people"
+                    "in",
+                    "independence",
+                    "day",
+                    "president",
+                    "will",
+                    "get",
+                    "new",
+                    "meaning"
                 ],
                 "related_keywords": [
-                    "french",
-                    "communities",
-                    "largest",
-                    "population"
+                    "words"
                 ],
                 "languages": [
                     "English"
                 ],
                 "regions": [
-                    "the United States"
+                    "Indonesia"
                 ]
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://www.sidmartinbio.org/where-in-the-us-can-we-find-french-speaking-communities/&tbm=ilp&ilps=AOR-xxsXYL_qzvjr_DDR5mpqhkQdWnuAIA",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:esr5JLxUYb0J:https://www.sidmartinbio.org/where-in-the-us-can-we-find-french-speaking-communities/+&cd=15&hl=en&ct=clnk&gl=us"
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:q2b2wKnQeEQJ:https://deadline.com/video/bill-pullman-independence-day-budweiser-ad/+&cd=16&hl=en&ct=clnk&gl=id"
         },
         {
             "position": 5,
-            "title": "French (language): What US cities have the highest number",
-            "link": "https://www.quora.com/French-language-What-US-cities-have-the-highest-number-of-Francophones-people-who-are-able-to-speak-it-passably-not-just-native-speakers",
-            "displayed_link": "https://www.quora.com \u203a French-language-What-US-cit...",
-            "snippet": "Originally Answered: What US cities have the highest number of Francophones (people who are able to speak it passably, not just native speakers)?. (these ...",
+            "title": "Fake Video! Trump Tweets Creepy 'Independence Day' Spoof ...",
+            "link": "https://www.huffpost.com/entry/independence-day-trump-aliens-tweet-video_n_5ec05fd9c5b641b8b123ba89",
+            "displayed_link": "https://www.huffpost.com \u203a entry \u203a independence-day-t...",
+            "date": "May 16, 2020",
+            "snippet": "That word should have new meaning for us today. We can't be consumed by our petty differences anymore,\u201d \u201cTrump\u201d says in a particularly ...",
             "about_this_result": {
                 "source": {
-                    "description": "Quora is a social question-and-answer website based in Mountain View, California, United States, and founded on June 25, 2009.\nThe website was made available to the public on June 21, 2010. Users can collaborate by editing questions and commenting on answers that have been submitted by other users.",
-                    "source_info_link": "https://en.wikipedia.org/wiki/Quora",
+                    "description": "HuffPost, formerly The Huffington Post until 2017 and sometimes abbreviated HuffPo, is an American news aggregator and blog, with localized and international editions.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/HuffPost",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61bd91275c1059a6ecfa5629/images/5a5681a34bf5cd21e7254d8f03cfc2f20c8c23f6ac54f21d84eed5e5e7f24d1bf9b2ddc9803082bd11b0415f29d312d2.png"
+                    "icon": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/508346c733b1401ac3a7b17200452c7c97f0bbfec5de2227f249c9d2fe426307fdf66677033ed8fe77d0cd1869b85cd1.png"
                 },
                 "keywords": [
-                    "of",
-                    "these",
-                    "francophone",
-                    "cities",
-                    "home",
-                    "most",
-                    "people"
+                    "in",
+                    "independence",
+                    "day",
+                    "word",
+                    "american",
+                    "president",
+                    "say",
+                    "will",
+                    "get",
+                    "new",
+                    "meaning"
                 ],
                 "related_keywords": [
-                    "francophones",
-                    "french",
-                    "highest"
+                    "says",
+                    "should"
                 ],
                 "languages": [
                     "English"
                 ],
                 "regions": [
-                    "the United States"
+                    "Indonesia"
                 ]
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/French-language-What-US-cities-have-the-highest-number-of-Francophones-people-who-are-able-to-speak-it-passably-not-just-native-speakers&tbm=ilp&ilps=AOR-xxuYJ-C2vbzIlJSgceO711f9LvrRjw",
-            "cached_page_link": "/search?q=related:https://www.quora.com/French-language-What-US-cities-have-the-highest-number-of-Francophones-people-who-are-able-to-speak-it-passably-not-just-native-speakers+of+these+francophone+cities,+which+is+home+to+the+most+people%3F"
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3a3oU029yJEJ:https://www.huffpost.com/entry/independence-day-trump-aliens-tweet-video_n_5ec05fd9c5b641b8b123ba89+&cd=17&hl=en&ct=clnk&gl=id"
         },
         {
             "position": 6,
-            "title": "The English Language in Canada: Status, History and ...",
-            "link": "https://books.google.com/books?id=uW2rM_6I3gMC&pg=PA23&lpg=PA23&dq=of+these+francophone+cities,+which+is+home+to+the+most+people?&source=bl&ots=2spPid_M_D&sig=ACfU3U3jtk3IhFPY410OqP0j1SaX6e_znA&hl=en&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ6AF6BAggEAM",
-            "displayed_link": "https://books.google.com \u203a books",
-            "snippet": "In every case the allophone population is vastly larger than the proportion of francophones, which ranges from 4.2 percent in Winnipeg, home to a ...",
-            "rich_snippet": {
-                "top": {
-                    "extensions": [
-                        "Charles Boberg",
-                        "2010",
-                        "\u200eLanguage Arts & Disciplines"
-                    ],
-                    "detected_extensions": {
-                        "unknown": 2010
-                    }
-                }
-            }
+            "title": "Thomas J. Whitmore | Independence Day Wiki",
+            "link": "https://independenceday.fandom.com/wiki/Thomas_J._Whitmore",
+            "displayed_link": "https://independenceday.fandom.com \u203a wiki \u203a Thomas...",
+            "snippet": "Mankind, that word should have new meaning for all of us today. We can't be consumed by our petty differences anymore. We will be united in our common interest.",
+            "about_this_result": {
+                "source": {
+                    "description": "Fandom is an American wiki hosting service and domain operated by Fandom, Inc., a for-profit Delaware company founded in October 2004 by Jimmy Wales and Angela Beesley.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Fandom_(website)",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/508346c733b1401ac3a7b17200452c7cc98b963ee2ee9a0022a09cc2e0bf8f4160007bbf64b8f3eb690fd065032ebe8f.png"
+                },
+                "keywords": [
+                    "in",
+                    "independence",
+                    "day",
+                    "word",
+                    "american",
+                    "president",
+                    "say",
+                    "will",
+                    "get",
+                    "new",
+                    "meaning"
+                ],
+                "related_keywords": [
+                    "should"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "Indonesia"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:s3icyqMg2dkJ:https://independenceday.fandom.com/wiki/Thomas_J._Whitmore+&cd=18&hl=en&ct=clnk&gl=id"
         },
         {
             "position": 7,
-            "title": "Good Furniture Magazine of Furnishing & Decoration",
-            "link": "https://books.google.com/books?id=e4kXAQAAMAAJ&pg=PA248&lpg=PA248&dq=of+these+francophone+cities,+which+is+home+to+the+most+people?&source=bl&ots=OeTp8u2afa&sig=ACfU3U2xyHUEkHafSu3LB1CCdQZ1m9FJew&hl=en&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ6AF6BAgdEAM",
-            "displayed_link": "https://books.google.com \u203a books",
-            "snippet": "THE GREAT CENTRAL MARKET Seventh Article in the Survey of the Home ... is marked toward I this the belief of the writer that the people of done along the ...",
-            "rich_snippet": {
-                "top": {
-                    "detected_extensions": {
-                        "unknown": 1922
-                    },
-                    "extensions": [
-                        "1922",
-                        "\u200eFurniture"
-                    ]
-                }
-            }
+            "title": "Modern spins on Shakespeare's St. Crispin's Day speech",
+            "link": "https://shakespeareandbeyond.folger.edu/2021/07/30/modern-spins-on-shakespeares-st-crispins-day-speech/",
+            "displayed_link": "https://shakespeareandbeyond.folger.edu \u203a Archives",
+            "date": "Jul 30, 2021",
+            "snippet": "This is picked up on in Independence Day, as the president observes ... the word \u201cmankind\u2026should have new meaning for all of us\u2026we can't be ...",
+            "about_this_result": {
+                "source": {
+                    "description": "The Folger Shakespeare Library is an independent research library on Capitol Hill in Washington, D.C., United States. It has the world's largest collection of the printed works of William Shakespeare, and is a primary repository for rare materials from the early modern period in Britain and Europe.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Folger_Shakespeare_Library",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/508346c733b1401ac3a7b17200452c7c29308341972553ed20db1f11234854791e7feab137d6aae426006ad29f9a40c1.png"
+                },
+                "keywords": [
+                    "in",
+                    "independence",
+                    "day",
+                    "word",
+                    "does",
+                    "american",
+                    "president",
+                    "will",
+                    "get",
+                    "new",
+                    "meaning"
+                ],
+                "related_keywords": [
+                    "should"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "Indonesia"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CpFgMecFFZYJ:https://shakespeareandbeyond.folger.edu/2021/07/30/modern-spins-on-shakespeares-st-crispins-day-speech/+&cd=19&hl=en&ct=clnk&gl=id"
         },
         {
             "position": 8,
-            "title": "Missouri, Our Home - Page 90 - Google Books Result",
-            "link": "https://books.google.com/books?id=Kw0Aqj5tegQC&pg=PA90&lpg=PA90&dq=of+these+francophone+cities,+which+is+home+to+the+most+people?&source=bl&ots=D50Iit8Bpi&sig=ACfU3U3b02iS_Sd7LeXiAW9p5DIGlaMI2w&hl=en&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ6AF6BAgfEAM",
-            "displayed_link": "https://books.google.com \u203a books",
-            "snippet": "After the battle, however, some of the Indians stood outside the city. Within view of people in St. Louis, the Indians murdered 33 French prisoners. These ..."
-        },
-        {
-            "position": 9,
-            "title": "The Road More Traveled: Why the Congestion Crisis Matters ...",
-            "link": "https://books.google.com/books?id=0m7tDOXEBskC&pg=PA109&lpg=PA109&dq=of+these+francophone+cities,+which+is+home+to+the+most+people?&source=bl&ots=5qzbmzXm78&sig=ACfU3U37XdcLSy7UqOaeBD0DimhMuBPplg&hl=en&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ6AF6BAgeEAM",
-            "displayed_link": "https://books.google.com \u203a books",
-            "snippet": "While this is smaller than the typical new U.S. home (which averages 2,200 square ... Except in the traditional heart of the city, most people are driving.",
+            "title": "The Cultural Imaginary of Terrorism in Public Discourse, ...",
+            "link": "https://books.google.co.id/books?id=cwEoDwAAQBAJ&pg=PA176&lpg=PA176&dq=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D?&source=bl&ots=SH-gvJ758L&sig=ACfU3U0xbGxsB95l_HwwVCkAOtwMl48O2w&hl=en&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ6AF6BAgdEAM",
+            "displayed_link": "https://books.google.co.id \u203a books",
+            "snippet": "... prompts the American president to declare a worldwide Independence Day: Mankind... that word should have new meaning for all of us today. We can't be ...",
             "rich_snippet": {
                 "top": {
                     "extensions": [
-                        "Sam Staley, \u200eTed Balaker",
-                        "2006",
-                        "\u200eTransportation"
+                        "Michael C. Frank",
+                        "2017",
+                        "\u200eLiterary Criticism"
                     ],
                     "detected_extensions": {
-                        "unknown": 2006
+                        "unknown": 2017
                     }
                 }
             }
@@ -409,67 +377,67 @@
     ],
     "related_searches": [
         {
-            "query": "what is the largest french-speaking city after paris, france.",
-            "link": "https://www.google.com/search?q=what+is+the+largest+french-speaking+city+after+paris,+france.&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ1QJ6BAgqEAE"
+            "query": "independence day president speech text",
+            "link": "https://www.google.com/search?q=Independence+Day+President+speech+text&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ1QJ6BAgcEAE"
         },
         {
-            "query": "largest french-speaking city outside france",
-            "link": "https://www.google.com/search?q=largest+french-speaking+city+outside+france&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ1QJ6BAglEAE"
+            "query": "independence day movie speech analysis",
+            "link": "https://www.google.com/search?q=Independence+Day+movie+speech+analysis&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ1QJ6BAgqEAE"
         },
         {
-            "query": "french-speaking countries",
-            "link": "https://www.google.com/search?q=French-speaking+countries&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ1QJ6BAgrEAE"
+            "query": "independence day speech quote",
+            "link": "https://www.google.com/search?q=Independence+Day+speech+quote&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ1QJ6BAgjEAE"
         },
         {
-            "query": "francophone cities in france",
-            "link": "https://www.google.com/search?q=Francophone+cities+in+France&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ1QJ6BAgiEAE"
+            "query": "independence day movie speech rhetorical analysis",
+            "link": "https://www.google.com/search?q=Independence+Day+movie+speech+rhetorical+analysis&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ1QJ6BAgnEAE"
         },
         {
-            "query": "largest french-speaking countries",
-            "link": "https://www.google.com/search?q=Largest+French-speaking+countries&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ1QJ6BAgnEAE"
+            "query": "independence day movie speech quote",
+            "link": "https://www.google.com/search?q=Independence+Day+movie+speech+quote&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ1QJ6BAgmEAE"
         },
         {
-            "query": "largest french-speaking cities in canada",
-            "link": "https://www.google.com/search?q=largest+french-speaking+cities+in+canada&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ1QJ6BAgjEAE"
+            "query": "independence day motivational speech",
+            "link": "https://www.google.com/search?q=Independence+Day+motivational+speech&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ1QJ6BAglEAE"
         },
         {
-            "query": "largest french-speaking city in north america",
-            "link": "https://www.google.com/search?q=Largest+French-speaking+city+in+North+America&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ1QJ6BAgmEAE"
+            "query": "today we celebrate our independence day",
+            "link": "https://www.google.com/search?q=Today+we+celebrate+our+Independence+Day&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ1QJ6BAgoEAE"
         },
         {
-            "query": "what is the second largest french-speaking city in the world",
-            "link": "https://www.google.com/search?q=What+is+the+second+largest+French-speaking+city+in+the+world&sa=X&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ1QJ6BAghEAE"
+            "query": "speech about independence day in philippines",
+            "link": "https://www.google.com/search?q=Speech+about+Independence+Day+in+Philippines&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ1QJ6BAgeEAE"
         }
     ],
     "pagination": {
         "current": 1,
-        "next": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=10&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8NMDegQIARBJ",
+        "next": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=10&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8NMDegQIARBK",
         "other_pages": {
-            "2": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=10&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARA3",
-            "3": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=20&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARA5",
-            "4": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=30&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARA7",
-            "5": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=40&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARA9",
-            "6": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=50&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARA_",
-            "7": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=60&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARBB",
-            "8": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=70&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARBD",
-            "9": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=80&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARBF",
-            "10": "https://www.google.com/search?q=of+these+francophone+cities,+which+is+home+to+the+most+people%3F&ei=J5G9YcTlH-6I_QbG1aWIBA&start=90&sa=N&ved=2ahUKEwiElYWB7ez0AhVuRN8KHcZqCUEQ8tMDegQIARBH"
+            "2": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=10&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARA4",
+            "3": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=20&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARA6",
+            "4": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=30&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARA8",
+            "5": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=40&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARA-",
+            "6": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=50&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARBA",
+            "7": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=60&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARBC",
+            "8": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=70&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARBE",
+            "9": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=80&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARBG",
+            "10": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=90&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARBI"
         }
     },
     "serpapi_pagination": {
         "current": 1,
-        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=10",
-        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=10",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=10",
         "other_pages": {
-            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=10",
-            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=20",
-            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=30",
-            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=40",
-            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=50",
-            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=60",
-            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=70",
-            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=80",
-            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities%2C+which+is+home+to+the+most+people%3F&start=90"
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=90"
         }
     }
 }

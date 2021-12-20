@@ -3,7 +3,7 @@ import time
 import mss.tools
 import cv2
 import sys
-from helper_scripts import ocrify, process_text, search_sites, serpapi
+from helper_scripts import ocrify, process_text, search_sites, serpapi, read_csv
 
 def printarray(array):
     for i in array:
@@ -52,7 +52,7 @@ def setup():
     mss.tools.to_png(a2.rgb, a2.size, output=filenames['answer2_image'])
     mss.tools.to_png(a3.rgb, a3.size, output=filenames['answer3_image'])
     return filenames
-def run_ocr(method,filenames):
+def run_ocr(method,filename):
     print("\nPerfoming OCR...\n\t> Processing Method: " + method)
     if method == "ONLINE API":
         question = ocrify.online(filenames['question_image'])
@@ -70,6 +70,9 @@ def run_ocr(method,filenames):
     answers = [answer1, answer2, answer3]
 
     return question, answers
+def run_csv(question_number,filename):
+        read_csv.local(question_number, filename)
+
 def run_processing(text):
     if (isinstance(text, str)):
         text = process_text.process(text)
@@ -103,15 +106,24 @@ def search(site_links, answers):
         print("\t\t> " + str(i) + ": \t" + str(tot_huntpeck[ct]) + "\t" + str(tot_wordrank[ct]))
         ct = ct + 1
 
+    max_index = np.argmax(tot_wordrank)
+    return(answers[max_index])
+
 #SETUP
-ocr_type = "ONLINE API" #LOCAL or ONLINE API
+question_source = ["CSV",1] # ["OCR", 0] OR ["CSV", question_number]
+ocr_type = "LOCAL" #LOCAL or ONLINE API
 search_type = "ONLINE API" #TEST JSON or ONLINE API
+sites_ct = 3 #Range 1-7
 tic = time.perf_counter()
 filenames = setup()
 
-#RUN OCR
-question, answers = run_ocr(ocr_type, filenames)
+#GET TEXT
+if (question_source[0] == "OCR"):
+    question, answers = run_ocr(ocr_type, filenames)
+elif (question_source[0] == "CSV"):
+   run_csv(question_source[1], 'questions.csv')
 
+sys.exit(0)
 #FURTHER PROCESS TEXT
 question = run_processing(question)
 answers = run_processing(answers)
@@ -127,10 +139,17 @@ Google_time = time.perf_counter()
 print("\t> Done (" + str(Google_time - OCR_time) + " sec)")
 
 #SEARCH EACH SITE
-search(site_links, answers)
+# site_links = ['https://www.mentalfloss.com/article/577795/yoshi-nintendo-facts']
+del site_links[sites_ct:]
+pick = search(site_links, answers)
 Search_time = time.perf_counter()
 print("\t> Done (" + str(Search_time - Google_time) + " sec)")
+print("\t> ANSWER: " + pick)
+
+#CHECK ANSWER IF CSV USED
+if (question_source[0] == "CSV"):
+    print("> Checking answer...")
 
 #END
 toc = time.perf_counter()
-print("\nFinished in " + str(toc-tic) + "seconds")
+print("\nFinished in " + str(toc-tic) + " seconds")
