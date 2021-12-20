@@ -1,17 +1,37 @@
 import csv
+import sys
 
-
-def local(question_number, filename):
-    file = open(filename)
+def open_csv(questions_csv):
+    file = open(questions_csv)
     csvreader = csv.reader(file)
     rows = list(csvreader)
+    return rows
 
-    target_row = 1
+def get_oneword(questions_csv):
+    rows = open_csv(questions_csv)
 
-    print("Question: " + rows[target_row][0])
-    print("Answer1: " + rows[target_row][1])
-    print("Answer2: " + rows[target_row][2])
-    print("Answer3: " + rows[target_row][3])
-    print("CorrectAnswer: " + rows[target_row][4])
+    results = []
+    for x in range(1, len(rows)):
+        fails = 0
+        for y in range(1, len(rows[x]) - 1):
+            res = len(rows[x][y].split())
+            if (res > 1):
+                fails = fails + 1
+        if (fails == 0):
+            results.append(x)
+    print("\t> Results: " + str(results))
+
+def local(filter, questions_csv):
+    rows = open_csv(questions_csv)
+    print("\t> Filter: Q" + str(filter))
+    question = rows[filter-1][0]
+    answers = [rows[filter-1][1], rows[filter-1][2], rows[filter-1][3]]
+    return question, answers
+
+
+def get_correct_ans(search, questions_csv):
+    rows = open_csv(questions_csv)
+    return rows[search-1][4]
+
 
 

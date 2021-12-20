@@ -1,443 +1,422 @@
 {
     "search_metadata": {
-        "id": "61be4bddaf5af178a6f319ea",
+        "id": "61c04f7837b24a95faa60571",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/91a92baadd2b2ba0/61be4bddaf5af178a6f319ea.json",
-        "created_at": "2021-12-18 21:00:13 UTC",
-        "processed_at": "2021-12-18 21:00:13 UTC",
-        "google_url": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&oq=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&sourceid=chrome&ie=UTF-8",
-        "raw_html_file": "https://serpapi.com/searches/91a92baadd2b2ba0/61be4bddaf5af178a6f319ea.html",
-        "total_time_taken": 4.78
+        "json_endpoint": "https://serpapi.com/searches/ce465675ebdd5b8c/61c04f7837b24a95faa60571.json",
+        "created_at": "2021-12-20 09:40:08 UTC",
+        "processed_at": "2021-12-20 09:40:08 UTC",
+        "google_url": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&oq=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/ce465675ebdd5b8c/61c04f7837b24a95faa60571.html",
+        "total_time_taken": 1.87
     },
     "search_parameters": {
         "engine": "google",
-        "q": "in \u201cindependence day,\u201d what word does the american president say will get a \u201cnew meaning\u201d?",
+        "q": "what country\u2019s tourism board is \u201creclaiming\u201d place names attached to ikea products?",
         "google_domain": "google.com",
         "device": "desktop"
     },
     "search_information": {
         "organic_results_state": "Results for exact spelling",
-        "query_displayed": "in \u201cindependence day,\u201d what word does the american president say will get a \u201cnew meaning\u201d?",
-        "total_results": 538000,
-        "time_taken_displayed": 0.6
-    },
-    "inline_videos": [
-        {
-            "position": 1,
-            "title": "Independence Day - President Speech [Full HD]",
-            "link": "https://www.youtube.com/watch?v=3_QSJyJaeD4",
-            "thumbnail": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/0fda28fd24429e3c752f5c3af936f4bb2872551d0f064cb1afcdf6adfd189a6e.jpeg",
-            "channel": "Speeches HD",
-            "duration": "2:03",
-            "platform": "YouTube",
-            "date": "Jun 25, 2016"
-        },
-        {
-            "position": 2,
-            "title": "Obama's Advisor Valerie Jarrett Reviews Presidential Films ...",
-            "link": "https://www.vanityfair.com/video/watch/reviews-obamas-senior-advisor-reviews-presidential-films-and-tv",
-            "thumbnail": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/0fda28fd24429e3c374ad21ea2f9453062dcb9651dd4ed2115c8888de94ca7a6.jpeg",
-            "platform": "Vanity Fair",
-            "date": "Nov 2, 2020"
-        }
-    ],
-    "inline_video_carousels": [
-        {
-            "position": 1,
-            "title": "Independence Day - Movie Quotes - Rotten Tomatoes",
-            "link": "https://www.rottentomatoes.com/m/1071806_independence_day/quotes?#:~:text=%22Mankind.%22%20That%20word%20should,fighting%20for%20our%20freedom...",
-            "displayed_link": "https://www.rottentomatoes.com \u203a quotes"
-        }
-    ],
-    "related_questions": [
-        {
-            "question": "What was the purpose of the president's speech in the movie Independence Day?",
-            "snippet": "Instead of rallying troops to fight off alien invaders, Pullman's president calls on the world to support vaccination efforts to defeat COVID-19. For Pullman, resisting the speech was not an easy decision.Jun 30, 2021",
-            "title": "'Independence Day': Bill Pullman Reprises Speech for Budweiser Ad",
-            "link": "https://www.hollywoodreporter.com/movies/movie-news/independence-day-speech-bill-pullman-budweiser-1234975033/",
-            "displayed_link": "https://www.hollywoodreporter.com \u203a movie-news \u203a inde..."
-        },
-        {
-            "question": "What is the name of the poem that President Whitmore alludes to in the speech?",
-            "snippet": "Whitmore's declaration, \u201cWe will not go quietly into the night\u201d seems to be a reference to Dylan Thomas' classic poem \u201cDo not go gentle into that good night,\u201d though Devlin and Emmerich haven't ever mentioned it.Jun 29, 2016",
-            "title": "Independence Day Speech: The Story Behind Bill Pullman's ...",
-            "link": "https://people.com/celebrity/independence-day-speech-the-story-behind-bill-pullmans-big-moment/",
-            "displayed_link": "https://people.com \u203a Celebrity"
-        },
-        {
-            "question": "Where did the quote we will not go quietly into the night come from?",
-            "snippet": "\"Do not go gentle into that good night\" is a poem in the form of a villanelle by Welsh poet Dylan Thomas (1914\u20131953); it has been described as his most famous work. Though first published in the journal Botteghe Oscure in 1951, the poem was written in 1947 while Thomas visited Florence with his family.",
-            "title": "Do not go gentle into that good night - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Do_not_go_gentle_into_that_good_night",
-            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Do_not_go_gentle_into_..."
-        },
-        {
-            "question": "Were going to live on we're going to survive?",
-            "snippet": "To exist. And should we win the day, the Fourth of July will no longer be known as an American holiday, but as the day the world declared in one voice: \"We will not go quietly into the night!\" We will not vanish without a fight! We're going to live on! We're going to survive!",
-            "title": "Bill Pullman as President Thomas J. Whitmore - IMDb",
-            "link": "https://www.imdb.com/title/tt0116629/characters/nm0000597",
-            "displayed_link": "https://www.imdb.com \u203a title \u203a characters"
-        }
-    ],
-    "answer_box": {
-        "type": "organic_result",
-        "title": "Independence Day - Movie Quotes - Rotten Tomatoes",
-        "link": "https://www.rottentomatoes.com/m/1071806_independence_day/quotes?#:~:text=%22Mankind.%22%20That%20word%20should,fighting%20for%20our%20freedom...",
-        "displayed_link": "https://www.rottentomatoes.com \u203a quotes",
-        "date": "Jul 2, 1996",
-        "snippet": "\"Mankind.\" That word should have new meaning for all of us today. We can't be consumed by our petty differences anymore. We will be united in our common interests. Perhaps it's fate that today is the Fourth of July, and you will once again be fighting for our freedom..."
+        "query_displayed": "what country\u2019s tourism board is \u201creclaiming\u201d place names attached to ikea products?",
+        "total_results": 221000,
+        "time_taken_displayed": 0.62
     },
     "organic_results": [
         {
             "position": 1,
-            "title": "Movie Speech from Independence Day - American Rhetoric",
-            "link": "https://www.americanrhetoric.com/MovieSpeeches/moviespeechindependenceday.html",
-            "displayed_link": "https://www.americanrhetoric.com \u203a MovieSpeeches",
-            "snippet": "And you will be launching the largest aerial battle in this history of mankind. Mankind -- that word should have new meaning for all of us today. We can't be ...",
+            "title": "Sweden is reclaiming its place names from IKEA - Helena ...",
+            "link": "https://helenair.com/lifestyles/sweden-is-reclaiming-its-place-names-from-ikea/article_63ea7380-ed48-5d56-912a-7900f39f6bf3.html",
+            "displayed_link": "https://helenair.com \u203a lifestyles \u203a sweden-is-reclaiming-its-...",
+            "date": "Dec 9, 2021",
+            "snippet": "And now, the Swedish tourist board is reclaiming those names in a new marketing campaign, designed to get people knowing the elegant ...",
             "about_this_result": {
                 "source": {
-                    "description": "americanrhetoric.com was first indexed by Google more than 10 years ago",
+                    "description": "The Independent Record is a daily newspaper printed and distributed in Helena, Montana. The newspaper is part of the Lee Enterprises group.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Independent_Record",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/508346c733b1401ac3a7b17200452c7c1074eba01d250160266c050a81cbcdaed91a418ec491ae64da2cd5ec3ba8b02f.png"
+                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f790955bb42513af4f1198c01debccba085575a72009765cf263eb48daca36f1b4f1e5.png"
                 },
                 "keywords": [
-                    "in",
-                    "independence",
-                    "day",
-                    "word",
-                    "does",
-                    "american",
-                    "president",
-                    "will",
-                    "new",
-                    "meaning"
+                    "what",
+                    "board",
+                    "reclaiming",
+                    "place",
+                    "names",
+                    "attached",
+                    "ikea",
+                    "products"
                 ],
                 "related_keywords": [
-                    "should"
+                    "tourist"
                 ],
                 "languages": [
                     "English"
                 ],
                 "regions": [
-                    "Indonesia"
+                    "the United States"
                 ]
             },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:nw22D2Vh2uwJ:https://www.americanrhetoric.com/MovieSpeeches/moviespeechindependenceday.html+&cd=11&hl=en&ct=clnk&gl=id"
+            "about_page_link": "https://www.google.com/search?q=About+https://helenair.com/lifestyles/sweden-is-reclaiming-its-place-names-from-ikea/article_63ea7380-ed48-5d56-912a-7900f39f6bf3.html&tbm=ilp&ilps=AOR-xxsmJU3pT9kscBW0avzjnBbNzBwq-g"
         },
         {
             "position": 2,
-            "title": "Independence Day Speech: The Story Behind Bill Pullman's ...",
-            "link": "https://people.com/celebrity/independence-day-speech-the-story-behind-bill-pullmans-big-moment/",
-            "displayed_link": "https://people.com \u203a Celebrity",
-            "date": "Jun 29, 2016",
-            "snippet": "Bill Pullman has resumed his role as American President Thomas Whitmore in the ... That word should have new meaning for all of us today.",
+            "title": "Sweden is reclaiming its place names from IKEA - Madison.com",
+            "link": "https://madison.com/lifestyles/sweden-is-reclaiming-its-place-names-from-ikea/article_a50e8190-1a5a-567a-a6c0-93a2209d307d.html",
+            "displayed_link": "https://madison.com \u203a lifestyles \u203a sweden-is-reclaiming-its...",
+            "date": "Dec 9, 2021",
+            "snippet": "And now, the Swedish tourist board is reclaiming those names in a new marketing campaign, designed to get people knowing the elegant ...",
             "about_this_result": {
                 "source": {
-                    "description": "People is an American weekly magazine that specializes in celebrity news and human-interest stories. It is published by Dotdash Meredith, a subsidiary of IAC.",
-                    "source_info_link": "https://en.wikipedia.org/wiki/People_(magazine)",
+                    "description": "The Capital Times is a digital-first newspaper published in Madison, Wisconsin by The Capital Times Company, a joint venture between Capital Newspapers and Lee Enterprises. The Capital Times formerly published paper editions Mondays through Saturdays.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/The_Capital_Times",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/508346c733b1401ac3a7b17200452c7c2f86c492b546c00f2a9f6f3095af71103fc0aee20c03370d552b35d542f784ce.png"
+                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f7909527af941770f8605b54753f45e3a9e11c02129ea74cbf9321cd2f99f209e9a12d.png"
                 },
                 "keywords": [
-                    "in",
-                    "independence",
-                    "day",
-                    "word",
-                    "does",
-                    "american",
-                    "president",
-                    "will",
-                    "get",
-                    "new",
-                    "meaning"
+                    "what",
+                    "board",
+                    "reclaiming",
+                    "place",
+                    "names",
+                    "attached",
+                    "ikea",
+                    "products"
                 ],
                 "related_keywords": [
-                    "should"
+                    "tourist"
                 ],
                 "languages": [
                     "English"
                 ],
                 "regions": [
-                    "Indonesia"
+                    "the United States"
                 ]
             },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ash6M1isT9YJ:https://people.com/celebrity/independence-day-speech-the-story-behind-bill-pullmans-big-moment/+&cd=12&hl=en&ct=clnk&gl=id"
+            "about_page_link": "https://www.google.com/search?q=About+https://madison.com/lifestyles/sweden-is-reclaiming-its-place-names-from-ikea/article_a50e8190-1a5a-567a-a6c0-93a2209d307d.html&tbm=ilp&ilps=AOR-xxtYI6-lOHpdgh3SbaoQ6OsuE4fTEQ"
         },
         {
             "position": 3,
-            "title": "Bill Pullman as President Thomas J. Whitmore - IMDb",
-            "link": "https://www.imdb.com/title/tt0116629/characters/nm0000597",
-            "displayed_link": "https://www.imdb.com \u203a title \u203a characters",
-            "snippet": "Independence Day (1996) Bill Pullman as President Thomas J. Whitmore. ... That word should have new meaning for all of us today. We can't be consumed by our ...",
+            "title": "Sweden is reclaiming its place names from IKEA - WFMZ",
+            "link": "https://www.wfmz.com/lifestyles/sweden-is-reclaiming-its-place-names-from-ikea/article_003ad572-6e2b-5636-ba38-53cc65436c8d.html",
+            "displayed_link": "https://www.wfmz.com \u203a lifestyles \u203a sweden-is-reclaiming...",
+            "date": "Dec 9, 2021",
+            "snippet": "And now, the Swedish tourist board is reclaiming those names in a new marketing campaign, designed to get people knowing the elegant ...",
             "about_this_result": {
                 "source": {
-                    "description": "IMDb is an online database of information related to films, television series, home videos, video games, and streaming content online \u2013 including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews.",
-                    "source_info_link": "https://en.wikipedia.org/wiki/IMDb",
+                    "description": "WFMZ-TV, virtual channel 69, is an independent television station licensed to Allentown, Pennsylvania, United States. Owned by the locally based Maranatha Broadcasting Company, it is part of a duopoly with Wilmington, Delaware-licensed MeTV affiliate WDPN-TV.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/WFMZ-TV",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/508346c733b1401ac3a7b17200452c7c31bf9633b937baf95465e2fac9d3dcfa2c1d605987c41576f3088f4d82f72c54.png"
+                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f7909563e061f08fc3bd91f4c8b9e0ded1ebed6e165bb2c022438c472c01b4f2d991af.jpeg"
                 },
                 "keywords": [
-                    "in",
-                    "independence",
-                    "day",
-                    "word",
-                    "does",
-                    "american",
-                    "president",
-                    "say",
-                    "will",
-                    "get",
-                    "new",
-                    "meaning"
+                    "what",
+                    "board",
+                    "reclaiming",
+                    "place",
+                    "names",
+                    "ikea",
+                    "products"
                 ],
                 "related_keywords": [
-                    "should"
+                    "tourist"
                 ],
                 "languages": [
                     "English"
                 ],
                 "regions": [
-                    "Indonesia"
+                    "the United States"
                 ]
             },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:L5HNDJQf7YEJ:https://www.imdb.com/title/tt0116629/characters/nm0000597+&cd=13&hl=en&ct=clnk&gl=id"
+            "about_page_link": "https://www.google.com/search?q=About+https://www.wfmz.com/lifestyles/sweden-is-reclaiming-its-place-names-from-ikea/article_003ad572-6e2b-5636-ba38-53cc65436c8d.html&tbm=ilp&ilps=AOR-xxuAsUabj7Kxhv3DO7J2pdiALUONIQ"
         },
         {
             "position": 4,
-            "title": "Ex-President Bill Pullman Stumps For Unity \u2013 And Beer",
-            "link": "https://deadline.com/video/bill-pullman-independence-day-budweiser-ad/",
-            "displayed_link": "https://deadline.com \u203a video \u203a bill-pullman-independen...",
-            "date": "Jun 30, 2021",
-            "snippet": "Bill Pullman reprises his 'Independence Day' role as President Thomas Whitmore for with a ... Those words have new meaning for us all today.",
+            "title": "Sweden is reclaiming its place names from IKEA - Daily ...",
+            "link": "https://nonpareilonline.com/lifestyles/sweden-is-reclaiming-its-place-names-from-ikea/article_f7fbb6a1-8a68-50df-b0d4-212fbe03747c.html",
+            "displayed_link": "https://nonpareilonline.com \u203a lifestyles \u203a sweden-is-reclai...",
+            "date": "Dec 9, 2021",
+            "snippet": "And now, the Swedish tourist board is reclaiming those names in a new marketing campaign, designed to get people knowing the elegant ...",
             "about_this_result": {
                 "source": {
-                    "description": "Deadline Hollywood, commonly known as Deadline and also referred to as Deadline.com, is an online news site founded as the news blog Deadline Hollywood Daily by Nikki Finke in 2006. The site is updated several times a day, with entertainment industry news as its focus.",
-                    "source_info_link": "https://en.wikipedia.org/wiki/Deadline_Hollywood",
+                    "description": "The Daily Nonpareil is a daily newspaper serving Council Bluffs and a 10-county area of southwest Iowa.\nThe Daily Nonpareil is southwest Iowa's largest newspaper. It was founded on May 2, 1857.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/The_Daily_Nonpareil",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/508346c733b1401ac3a7b17200452c7c359f75b1d9f7ff6f0a7c0ab67835a1d20fc9a57d5d5a5998e49554ed92059600.png"
+                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f79095ab536e0563e6a36fe20fa860fb9008b5268e6981c08de5bcc2f8186e926f3d24.png"
                 },
                 "keywords": [
-                    "in",
-                    "independence",
-                    "day",
-                    "president",
-                    "will",
-                    "get",
-                    "new",
-                    "meaning"
+                    "board",
+                    "reclaiming",
+                    "place",
+                    "names",
+                    "ikea",
+                    "products"
                 ],
                 "related_keywords": [
-                    "words"
+                    "tourist"
                 ],
                 "languages": [
                     "English"
                 ],
                 "regions": [
-                    "Indonesia"
+                    "the United States"
                 ]
             },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:q2b2wKnQeEQJ:https://deadline.com/video/bill-pullman-independence-day-budweiser-ad/+&cd=16&hl=en&ct=clnk&gl=id"
+            "about_page_link": "https://www.google.com/search?q=About+https://nonpareilonline.com/lifestyles/sweden-is-reclaiming-its-place-names-from-ikea/article_f7fbb6a1-8a68-50df-b0d4-212fbe03747c.html&tbm=ilp&ilps=AOR-xxsC-aACagqZ_dljg94bm7KdnlhxTw"
         },
         {
             "position": 5,
-            "title": "Fake Video! Trump Tweets Creepy 'Independence Day' Spoof ...",
-            "link": "https://www.huffpost.com/entry/independence-day-trump-aliens-tweet-video_n_5ec05fd9c5b641b8b123ba89",
-            "displayed_link": "https://www.huffpost.com \u203a entry \u203a independence-day-t...",
-            "date": "May 16, 2020",
-            "snippet": "That word should have new meaning for us today. We can't be consumed by our petty differences anymore,\u201d \u201cTrump\u201d says in a particularly ...",
+            "title": "What In the World\u2014Week of December 13 - - The Message",
+            "link": "https://the-message.ca/2021/12/13/what-in-the-world-week-of-december-13/",
+            "displayed_link": "https://the-message.ca \u203a 2021/12/13 \u203a what-in-the-worl...",
+            "date": "6 days ago",
+            "snippet": "Sweden's tourism board, Visit Sweden, is reclaiming the names of destinations that have become synonymous with IKEA products like toilet brushes ...",
             "about_this_result": {
                 "source": {
-                    "description": "HuffPost, formerly The Huffington Post until 2017 and sometimes abbreviated HuffPo, is an American news aggregator and blog, with localized and international editions.",
-                    "source_info_link": "https://en.wikipedia.org/wiki/HuffPost",
+                    "description": "the-message.ca was first indexed by Google in March 2019",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/508346c733b1401ac3a7b17200452c7c97f0bbfec5de2227f249c9d2fe426307fdf66677033ed8fe77d0cd1869b85cd1.png"
+                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f790958b94c0e83cb9e102e66c44b257781f21f9245d6d1c7f733801c352edbf9c418f.png"
                 },
                 "keywords": [
-                    "in",
-                    "independence",
-                    "day",
-                    "word",
-                    "american",
-                    "president",
-                    "say",
-                    "will",
-                    "get",
-                    "new",
-                    "meaning"
-                ],
-                "related_keywords": [
-                    "says",
-                    "should"
+                    "what",
+                    "country's",
+                    "tourism",
+                    "board",
+                    "reclaiming",
+                    "place",
+                    "names",
+                    "ikea",
+                    "products"
                 ],
                 "languages": [
                     "English"
                 ],
                 "regions": [
-                    "Indonesia"
+                    "the United States"
                 ]
             },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3a3oU029yJEJ:https://www.huffpost.com/entry/independence-day-trump-aliens-tweet-video_n_5ec05fd9c5b641b8b123ba89+&cd=17&hl=en&ct=clnk&gl=id"
+            "about_page_link": "https://www.google.com/search?q=About+https://the-message.ca/2021/12/13/what-in-the-world-week-of-december-13/&tbm=ilp&ilps=AOR-xxvGZ7Hnih20ndfASvhufMbIXtIj3w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TivC-nMtdfMJ:https://the-message.ca/2021/12/13/what-in-the-world-week-of-december-13/+&cd=5&hl=en&ct=clnk&gl=us"
         },
         {
             "position": 6,
-            "title": "Thomas J. Whitmore | Independence Day Wiki",
-            "link": "https://independenceday.fandom.com/wiki/Thomas_J._Whitmore",
-            "displayed_link": "https://independenceday.fandom.com \u203a wiki \u203a Thomas...",
-            "snippet": "Mankind, that word should have new meaning for all of us today. We can't be consumed by our petty differences anymore. We will be united in our common interest.",
+            "title": "Sweden reclaims place names from Ikea - Head Topics",
+            "link": "https://headtopics.com/ca/sweden-reclaims-place-names-from-ikea-22789365",
+            "displayed_link": "https://headtopics.com \u203a sweden-reclaims-place-names-f...",
+            "date": "Dec 9, 2021",
+            "snippet": "The Swedish tourist board is reclaiming names from Ikea in a new marketing campaign, designed to get people knowing the country's famous ...",
             "about_this_result": {
                 "source": {
-                    "description": "Fandom is an American wiki hosting service and domain operated by Fandom, Inc., a for-profit Delaware company founded in October 2004 by Jimmy Wales and Angela Beesley.",
-                    "source_info_link": "https://en.wikipedia.org/wiki/Fandom_(website)",
+                    "description": "This result comes from headtopics.com",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/508346c733b1401ac3a7b17200452c7cc98b963ee2ee9a0022a09cc2e0bf8f4160007bbf64b8f3eb690fd065032ebe8f.png"
+                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f7909541ae21eeed351f94f7eb7b4d88b2f33b627eb76466e6d65feb3f534f8460a3af.png"
                 },
                 "keywords": [
-                    "in",
-                    "independence",
-                    "day",
-                    "word",
-                    "american",
-                    "president",
-                    "say",
-                    "will",
-                    "get",
-                    "new",
-                    "meaning"
+                    "what",
+                    "country's",
+                    "board",
+                    "reclaiming",
+                    "place",
+                    "names",
+                    "ikea",
+                    "products"
                 ],
                 "related_keywords": [
-                    "should"
+                    "countrys",
+                    "tourist"
                 ],
                 "languages": [
                     "English"
                 ],
                 "regions": [
-                    "Indonesia"
+                    "the United States"
                 ]
             },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:s3icyqMg2dkJ:https://independenceday.fandom.com/wiki/Thomas_J._Whitmore+&cd=18&hl=en&ct=clnk&gl=id"
+            "about_page_link": "https://www.google.com/search?q=About+https://headtopics.com/ca/sweden-reclaims-place-names-from-ikea-22789365&tbm=ilp&ilps=AOR-xxs_l6ZfqwlCPxMGVarnSfG5koCy3Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Wqt4W4dBNB4J:https://headtopics.com/ca/sweden-reclaims-place-names-from-ikea-22789365+&cd=6&hl=en&ct=clnk&gl=us"
         },
         {
             "position": 7,
-            "title": "Modern spins on Shakespeare's St. Crispin's Day speech",
-            "link": "https://shakespeareandbeyond.folger.edu/2021/07/30/modern-spins-on-shakespeares-st-crispins-day-speech/",
-            "displayed_link": "https://shakespeareandbeyond.folger.edu \u203a Archives",
-            "date": "Jul 30, 2021",
-            "snippet": "This is picked up on in Independence Day, as the president observes ... the word \u201cmankind\u2026should have new meaning for all of us\u2026we can't be ...",
+            "title": "Tweets with replies by Visit Sweden (@visitsweden) / Twitter",
+            "link": "https://twitter.com/visitsweden/with_replies",
+            "displayed_link": "https://twitter.com \u203a visitsweden \u203a with_replies",
+            "snippet": "Sweden is reclaiming the names of some of its most stunning locations, which have become better known as IKEA household items. If you're feeling inspired to ...",
             "about_this_result": {
                 "source": {
-                    "description": "The Folger Shakespeare Library is an independent research library on Capitol Hill in Washington, D.C., United States. It has the world's largest collection of the printed works of William Shakespeare, and is a primary repository for rare materials from the early modern period in Britain and Europe.",
-                    "source_info_link": "https://en.wikipedia.org/wiki/Folger_Shakespeare_Library",
+                    "description": "This result comes from twitter.com",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61be4bddaf5af178a6f319ea/images/508346c733b1401ac3a7b17200452c7c29308341972553ed20db1f11234854791e7feab137d6aae426006ad29f9a40c1.png"
+                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f79095bcabda3ea4250c8567ef3cf150c9f35750d4b0bf6fab628553c0b5db40628a2c.png"
                 },
                 "keywords": [
-                    "in",
-                    "independence",
-                    "day",
-                    "word",
-                    "does",
-                    "american",
-                    "president",
-                    "will",
-                    "get",
-                    "new",
-                    "meaning"
+                    "country's",
+                    "board",
+                    "reclaiming",
+                    "place",
+                    "names",
+                    "ikea",
+                    "products"
                 ],
                 "related_keywords": [
-                    "should"
+                    "items"
                 ],
                 "languages": [
                     "English"
                 ],
                 "regions": [
-                    "Indonesia"
+                    "the United States"
                 ]
             },
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:CpFgMecFFZYJ:https://shakespeareandbeyond.folger.edu/2021/07/30/modern-spins-on-shakespeares-st-crispins-day-speech/+&cd=19&hl=en&ct=clnk&gl=id"
+            "about_page_link": "https://www.google.com/search?q=About+https://twitter.com/visitsweden/with_replies&tbm=ilp&ilps=AOR-xxuQZBEvMAXSCVLxHH6bcpFPoOJKAA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uPMzqAq9kHIJ:https://twitter.com/visitsweden/with_replies+&cd=7&hl=en&ct=clnk&gl=us"
         },
         {
             "position": 8,
-            "title": "The Cultural Imaginary of Terrorism in Public Discourse, ...",
-            "link": "https://books.google.co.id/books?id=cwEoDwAAQBAJ&pg=PA176&lpg=PA176&dq=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D?&source=bl&ots=SH-gvJ758L&sig=ACfU3U0xbGxsB95l_HwwVCkAOtwMl48O2w&hl=en&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ6AF6BAgdEAM",
-            "displayed_link": "https://books.google.co.id \u203a books",
-            "snippet": "... prompts the American president to declare a worldwide Independence Day: Mankind... that word should have new meaning for all of us today. We can't be ...",
-            "rich_snippet": {
-                "top": {
-                    "extensions": [
-                        "Michael C. Frank",
-                        "2017",
-                        "\u200eLiterary Criticism"
-                    ],
-                    "detected_extensions": {
-                        "unknown": 2017
-                    }
-                }
+            "title": "Dear Ikea, Sweden wants those product names back",
+            "link": "https://swiftheadline.com/dear-ikea-sweden-wants-those-product-names-back/",
+            "displayed_link": "https://swiftheadline.com \u203a Technology",
+            "date": "Dec 10, 2021",
+            "snippet": "But the Swedish tourism board wants the other Bolmen to come to mind ... that's reclaiming those weird Ikea product names for the places ...",
+            "about_this_result": {
+                "source": {
+                    "description": "This result comes from swiftheadline.com",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f7909523ac25e79befac33fa79c4361a5ac6fa6ff6321305a9ea876c3e7cdab709b490.png"
+                },
+                "keywords": [
+                    "what",
+                    "country's",
+                    "tourism",
+                    "board",
+                    "reclaiming",
+                    "place",
+                    "names",
+                    "ikea",
+                    "products"
+                ],
+                "related_keywords": [
+                    "places",
+                    "product"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://swiftheadline.com/dear-ikea-sweden-wants-those-product-names-back/&tbm=ilp&ilps=AOR-xxsCm2-36CDdqssOOIHiuOJlcMv_mA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EJfiwTPZNSsJ:https://swiftheadline.com/dear-ikea-sweden-wants-those-product-names-back/+&cd=8&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 9,
+            "title": "Dear Ikea, Sweden wants its product names back - MSN",
+            "link": "https://www.msn.com/en-us/news/technology/dear-ikea-sweden-wants-its-product-names-back/ar-AARFbuq?li=BBnbcA1",
+            "displayed_link": "https://www.msn.com \u203a technology \u203a ar-AARFbuq",
+            "date": "Dec 9, 2021",
+            "snippet": "But the Swedish tourism board wants the other Bolmen to come to mind ... that's reclaiming those weird Ikea product names for the places ...",
+            "about_this_result": {
+                "source": {
+                    "description": "This result comes from www.msn.com",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f790954bb760bc25f3ae4aef1573bd05b58ed372ab68dd0269a2fc2615bda9cc926a40.png"
+                },
+                "keywords": [
+                    "what",
+                    "tourism",
+                    "board",
+                    "reclaiming",
+                    "place",
+                    "names",
+                    "ikea",
+                    "products"
+                ],
+                "related_keywords": [
+                    "places",
+                    "product"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.msn.com/en-us/news/technology/dear-ikea-sweden-wants-its-product-names-back/ar-AARFbuq?li%3DBBnbcA1&tbm=ilp&ilps=AOR-xxu78aygaJVmcfqxHonpFTu9iQRPYQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:iR_FyfVzfWcJ:https://www.msn.com/en-us/news/technology/dear-ikea-sweden-wants-its-product-names-back/ar-AARFbuq%3Fli%3DBBnbcA1+&cd=9&hl=en&ct=clnk&gl=us",
+            "missing": [
+                "attached"
+            ],
+            "must_include": {
+                "word": "attached",
+                "link": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+%22attached%22+to+ikea+products?&sa=X&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ5t4CegQIIhAB"
             }
+        },
+        {
+            "position": 10,
+            "title": "Toilet Brush Or Swedish Lake? - Forbes",
+            "link": "https://www.forbes.com/sites/brandonschultz/2021/12/13/toilet-brush-or-swedish-lake/",
+            "displayed_link": "https://www.forbes.com \u203a brandonschultz \u203a 2021/12/13",
+            "date": "7 days ago",
+            "snippet": "IKEA products are named for Swedish destinations, and those locations are reclaiming their names. Visit Sweden. IKEA cozied its way into ...",
+            "about_this_result": {
+                "source": {
+                    "description": "This result comes from www.forbes.com",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f79095f16fe3b6049053f404c6659a3e2757f6cb31317f01afac897e6b3929261bacda.png"
+                },
+                "keywords": [
+                    "tourism",
+                    "board",
+                    "reclaiming",
+                    "names",
+                    "ikea",
+                    "products"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.forbes.com/sites/brandonschultz/2021/12/13/toilet-brush-or-swedish-lake/&tbm=ilp&ilps=AOR-xxv3hQxkbuDMuo_DZM_4Po1xN1zWWA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HWUQ5HjY0u0J:https://www.forbes.com/sites/brandonschultz/2021/12/13/toilet-brush-or-swedish-lake/+&cd=10&hl=en&ct=clnk&gl=us"
         }
     ],
     "related_searches": [
         {
-            "query": "independence day president speech text",
-            "link": "https://www.google.com/search?q=Independence+Day+President+speech+text&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ1QJ6BAgcEAE"
-        },
-        {
-            "query": "independence day movie speech analysis",
-            "link": "https://www.google.com/search?q=Independence+Day+movie+speech+analysis&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ1QJ6BAgqEAE"
-        },
-        {
-            "query": "independence day speech quote",
-            "link": "https://www.google.com/search?q=Independence+Day+speech+quote&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ1QJ6BAgjEAE"
-        },
-        {
-            "query": "independence day movie speech rhetorical analysis",
-            "link": "https://www.google.com/search?q=Independence+Day+movie+speech+rhetorical+analysis&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ1QJ6BAgnEAE"
-        },
-        {
-            "query": "independence day movie speech quote",
-            "link": "https://www.google.com/search?q=Independence+Day+movie+speech+quote&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ1QJ6BAgmEAE"
-        },
-        {
-            "query": "independence day motivational speech",
-            "link": "https://www.google.com/search?q=Independence+Day+motivational+speech&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ1QJ6BAglEAE"
-        },
-        {
-            "query": "today we celebrate our independence day",
-            "link": "https://www.google.com/search?q=Today+we+celebrate+our+Independence+Day&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ1QJ6BAgoEAE"
-        },
-        {
-            "query": "speech about independence day in philippines",
-            "link": "https://www.google.com/search?q=Speech+about+Independence+Day+in+Philippines&sa=X&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ1QJ6BAgeEAE"
+            "query": "tourism",
+            "link": "https://www.google.com/search?q=Tourism&sa=X&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ1QJ6BAgSEAE"
         }
     ],
     "pagination": {
         "current": 1,
-        "next": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=10&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8NMDegQIARBK",
+        "next": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=10&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8NMDegQIARBJ",
         "other_pages": {
-            "2": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=10&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARA4",
-            "3": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=20&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARA6",
-            "4": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=30&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARA8",
-            "5": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=40&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARA-",
-            "6": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=50&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARBA",
-            "7": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=60&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARBC",
-            "8": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=70&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARBE",
-            "9": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=80&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARBG",
-            "10": "https://www.google.com/search?q=in+%E2%80%9Cindependence+day,%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&ei=4Uu-YcKKM56IytMP86KM0A0&start=90&sa=N&ved=2ahUKEwiC__qKn-70AhUehHIEHXMRA9oQ8tMDegQIARBI"
+            "2": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=10&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=20&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=30&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=40&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=50&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=60&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=70&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=80&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=90&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARBH"
         }
     },
     "serpapi_pagination": {
         "current": 1,
-        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=10",
-        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=10",
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&start=10",
         "other_pages": {
-            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=10",
-            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=20",
-            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=30",
-            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=40",
-            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=50",
-            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=60",
-            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=70",
-            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=80",
-            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Cindependence+day%2C%E2%80%9D+what+word+does+the+american+president+say+will+get+a+%E2%80%9Cnew+meaning%E2%80%9D%3F&start=90"
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&start=90"
         }
     }
 }

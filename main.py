@@ -17,6 +17,7 @@ def setup():
     sct = mss.mss()
     pdir = 'app_images/'
     filenames = {
+        'questions_csv':'questions.csv',
         'question_image':pdir+'q.png',
         'processed_question_image':pdir+'pq.png',
         'answer_image':pdir+'a.png',
@@ -52,7 +53,7 @@ def setup():
     mss.tools.to_png(a2.rgb, a2.size, output=filenames['answer2_image'])
     mss.tools.to_png(a3.rgb, a3.size, output=filenames['answer3_image'])
     return filenames
-def run_ocr(method,filename):
+def run_ocr(method):
     print("\nPerfoming OCR...\n\t> Processing Method: " + method)
     if method == "ONLINE API":
         question = ocrify.online(filenames['question_image'])
@@ -70,9 +71,10 @@ def run_ocr(method,filename):
     answers = [answer1, answer2, answer3]
 
     return question, answers
-def run_csv(question_number,filename):
-        read_csv.local(question_number, filename)
-
+def run_csv(filter, questions_csv):
+    print("\nReading CSV...\n\t> Filename: " + questions_csv)
+    question, answers = read_csv.local(filter, questions_csv)
+    return question, answers
 def run_processing(text):
     if (isinstance(text, str)):
         text = process_text.process(text)
@@ -110,46 +112,59 @@ def search(site_links, answers):
     return(answers[max_index])
 
 #SETUP
-question_source = ["CSV",1] # ["OCR", 0] OR ["CSV", question_number]
+question_source = ["CSV", 4] # ["OCR"] OR ["CSV", *question_number* OR "1WANS"]]
 ocr_type = "LOCAL" #LOCAL or ONLINE API
 search_type = "ONLINE API" #TEST JSON or ONLINE API
-sites_ct = 3 #Range 1-7
+sites_ct = 7 #Range 1-7
 tic = time.perf_counter()
 filenames = setup()
 
+#GET ROWS IF NEEDED
+if (question_source[1] == "1WANS"):
+    print("\nGetting 1WANS...\n\t> Filename: " + filenames['questions_csv'])
+    rows = read_csv.get_oneword(filenames['questions_csv'])
+
 #GET TEXT
 if (question_source[0] == "OCR"):
-    question, answers = run_ocr(ocr_type, filenames)
+    question, answers = run_ocr(ocr_type)
 elif (question_source[0] == "CSV"):
-   run_csv(question_source[1], 'questions.csv')
+    filter = question_source[1]
+    if (type(filter) == int):
+        question, answers = run_csv(question_source[1], filenames['questions_csv'])
+else:
+    print("INVALID QUESTION SOURCE")
 
-sys.exit(0)
 #FURTHER PROCESS TEXT
 question = run_processing(question)
 answers = run_processing(answers)
-
 print("\t> Question Result: " + repr(question) + "")
 print("\t> Answers Result: " + repr(answers[0]) + ", " + repr(answers[1]) + ", " + repr(answers[2]))
 OCR_time = time.perf_counter()
-print("\t> Done (" + str(OCR_time-tic) + " sec)")
+print("\t> Done (" + str(round((OCR_time-tic), 2)) + " sec)")
 
 #GOOGLE THE QUESTION
 site_links = run_googling(search_type,question)
 Google_time = time.perf_counter()
-print("\t> Done (" + str(Google_time - OCR_time) + " sec)")
+print("\t> Done (" + str(round((Google_time - OCR_time), 2)) + " sec)")
 
 #SEARCH EACH SITE
 # site_links = ['https://www.mentalfloss.com/article/577795/yoshi-nintendo-facts']
 del site_links[sites_ct:]
 pick = search(site_links, answers)
 Search_time = time.perf_counter()
-print("\t> Done (" + str(Search_time - Google_time) + " sec)")
-print("\t> ANSWER: " + pick)
+print("\t> Done (" + str(round((Search_time - Google_time), 2)) + " sec)")
 
 #CHECK ANSWER IF CSV USED
 if (question_source[0] == "CSV"):
     print("> Checking answer...")
+    correct_ans = read_csv.get_correct_ans(question_source[1], filenames['questions_csv'])
+    print("\t> PROGRAM ANS: " + pick)
+    print("\t> CORRECT ANS: " + run_processing(correct_ans))
+
+Check_ans_time = time.perf_counter()
+print("\t> Done (" + str(round((Check_ans_time - Search_time), 2)) + " sec)")
 
 #END
 toc = time.perf_counter()
-print("\nFinished in " + str(toc-tic) + " seconds")
+print("\nFinished in " + str(round((toc-tic),2)) + " seconds")
+
