@@ -49,6 +49,7 @@ def setup():
     mss.tools.to_png(a2.rgb, a2.size, output=filenames['answer2_image'])
     mss.tools.to_png(a3.rgb, a3.size, output=filenames['answer3_image'])
     return filenames
+
 def search(site_links, answers):
     print("Searching Sites...")
     tot_huntpeck = [0, 0, 0]
