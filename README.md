@@ -12,3 +12,7 @@ Todo:
     - Maybe just change vars location so check_setup can share
 - Add GUI with “Go” button and live results counter
 
+
+List lines of code:
+- git ls-files | xargs wc -l
+

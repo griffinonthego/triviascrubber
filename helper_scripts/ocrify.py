@@ -58,6 +58,3 @@ def run(ocr_type, filenames):
         sys.exit(1)
     answers = [answer1, answer2, answer3]
     return question, answers
-
-
-

@@ -1,6 +1,6 @@
 import csv
 from helper_scripts import process_text
-questions_csv = 'questions.csv'
+questions_csv = 'csv_files/questions.csv'
 
 def open_csv():
     file = open(questions_csv)
@@ -47,6 +47,3 @@ def add_q_and_as(question, answers):
     append = open(questions_csv, 'a')
     row = [question, answers[0], answers[1], answers[2], answers[3]]
     append.write(row)
-
-
-
