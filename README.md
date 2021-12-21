@@ -1,5 +1,8 @@
 # triviascrubber
 
+Next:
+- Save JSONs (to bypass google search API)
+
 Todo:
 - Improve local OCR reliability, as it is faster than online API 
 - Gather more screenshots (batch cropped) for additional testing
