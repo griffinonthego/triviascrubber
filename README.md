@@ -1,16 +1,13 @@
 # triviascrubber
 
-Next:
-- Save JSONs (to bypass google search API)
+Todo Top:
+1. Add handling for failed website scans (deal with error messages)
+2. Add functionality to accommodate multi-word searches
 
-Todo:
-- Improve local OCR reliability, as it is faster than online API 
-- Gather more screenshots (batch cropped) for additional testing
-- Add functionality to accommodate multi-word searches
-- Word swapping?
-- Move window setup to separate class so that updating them in one location updates for both the checker and the main functions
-    - Maybe just change vars location so check_setup can share
-- Add GUI with “Go” button and live results counter
+Other Todo
+3. Improve local OCR reliability, as it is faster than online API 
+4. Search algorithm: word swapping 
+5. Add GUI with “Go” button and live results counter
 
 
 List lines of code:
