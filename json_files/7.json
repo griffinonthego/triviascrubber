@@ -1,0 +1,552 @@
+{
+    "search_metadata": {
+        "id": "61c1244224e88e9c881b9e98",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/09fdade7b534b461/61c1244224e88e9c881b9e98.json",
+        "created_at": "2021-12-21 00:48:02 UTC",
+        "processed_at": "2021-12-21 00:48:02 UTC",
+        "google_url": "https://www.google.com/search?q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&oq=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/09fdade7b534b461/61c1244224e88e9c881b9e98.html",
+        "total_time_taken": 2.07
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "which of these cartoons does not credit genndy tartakovsky as its creator?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "which of these cartoons does not credit genndy tartakovsky as its creator?",
+        "total_results": 168000,
+        "time_taken_displayed": 0.89
+    },
+    "inline_people_also_search_for": [
+        {
+            "title": "Genndy Tartakovsky shows",
+            "items": [
+                {
+                    "name": "Samurai Jack",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8lhLknfg4kCxR-zTKvyG__eDhaGDsWC7jlUNK6w&s=0",
+                    "link": "https://www.google.com/search?q=Samurai+Jack&stick=H4sIAAAAAAAAAOOQUeLUz9U3MEoyr0wzkkhPzctLqVQoSSwqSczOLyvOrlQozsgvL47yLM_ITM5QyE9TKMlILU5VSAaqyM_PK1ZIyU8tVsjLL1FILkpNySxRwGJCYrFCZkkxSEFiSX7RKUaEhacYuUDspIxk0_LKU4y8-un6hoYZ5oUm6ZXGVVCFxpW5BYWnGDlA7IL05FyosKVFSXrVL0YJd4h9IegubmBhXMTKE5yYW1qUmKnglZicfYtNkuHGTC5T_n3agUeLJzxYt-HNlsVPHHuzeo2OAAAKLX1EBwEAAA&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQs9oBKAB6BAgyEAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Samurai+Jack&stick=H4sIAAAAAAAAAOOQUeLUz9U3MEoyr0wzkkhPzctLqVQoSSwqSczOLyvOrlQozsgvL47yLM_ITM5QyE9TKMlILU5VSAaqyM_PK1ZIyU8tVsjLL1FILkpNySxRwGJCYrFCZkkxSEFiSX7RKUaEhacYuUDspIxk0_LKU4y8-un6hoYZ5oUm6ZXGVVCFxpW5BYWnGDlA7IL05FyosKVFSXrVL0YJd4h9IegubmBhXMTKE5yYW1qUmKnglZicfYtNkuHGTC5T_n3agUeLJzxYt-HNlsVPHHuzeo2OAAAKLX1EBwEAAA"
+                },
+                {
+                    "name": "Sym\u2011Bionic Titan",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZw_TJSMc39VXkApdvVh4P803nNI3UmNDXnp-lVw&s=0",
+                    "link": "https://www.google.com/search?q=Sym-Bionic+Titan&stick=H4sIAAAAAAAAAOOQUeLSz9U3SMpINi2vNJJIT83LS6lUKEksKknMzi8rzq5UKM7ILy-O8izPyEzOUMhPUyjJSC1OVUgGqsjPzytWSMlPLVbIyy9RSC5KTcksUcBiQmKxQmZJMUhBYkl-0SlGTpCNRknmlWmnGJFsP8XIq5-ub2iYYV5okl5pXAVVaFyZW1B4ipEDxC5IT86FCltalKRX_WKUcIfYF4Lu4gYWxkWsAsGVubpOmfl5mckKIZkliXm32CQZbszkMuXfpx14tHjCg3Ub3mxZ_MSxN6vX6AgAyTfVfgwBAAA&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQs9oBKAF6BAgyEAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sym-Bionic+Titan&stick=H4sIAAAAAAAAAOOQUeLSz9U3SMpINi2vNJJIT83LS6lUKEksKknMzi8rzq5UKM7ILy-O8izPyEzOUMhPUyjJSC1OVUgGqsjPzytWSMlPLVbIyy9RSC5KTcksUcBiQmKxQmZJMUhBYkl-0SlGTpCNRknmlWmnGJFsP8XIq5-ub2iYYV5okl5pXAVVaFyZW1B4ipEDxC5IT86FCltalKRX_WKUcIfYF4Lu4gYWxkWsAsGVubpOmfl5mckKIZkliXm32CQZbszkMuXfpx14tHjCg3Ub3mxZ_MSxN6vX6AgAyTfVfgwBAAA"
+                },
+                {
+                    "name": "Genndy Tartakovsk... Primal",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOhqd9xXA8DrY7bST_loz8A93sdW-XdgX1XZG0IQ&s=0",
+                    "link": "https://www.google.com/search?q=Genndy+Tartakovsky%27s+Primal&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwwLzRJrzSuMpJIT83LS6lUKEksKknMzi8rzq5UKM7ILy-O8izPyEzOUMhPUyjJSC1OVUgGqsjPzytWSMlPLVbIyy9RSC5KTcksUcBiQmKxQmZJMUhBYkl-0SlGTv1cfQOjJPPKtFOMXCB2UkayaXnlKUZU10AVGlfmFhSeYuQAsQvSk3OhwpYWJelVvxgl3CH2haC7uIGFcRGrNKaserFCQFFmbmLOLTZJhhszuUz592kHHi2e8GDdhjdbFj9x7M3qNToCAC7hEcQaAQAA&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQs9oBKAJ6BAgyEAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Genndy+Tartakovsky%27s+Primal&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwwLzRJrzSuMpJIT83LS6lUKEksKknMzi8rzq5UKM7ILy-O8izPyEzOUMhPUyjJSC1OVUgGqsjPzytWSMlPLVbIyy9RSC5KTcksUcBiQmKxQmZJMUhBYkl-0SlGTv1cfQOjJPPKtFOMXCB2UkayaXnlKUZU10AVGlfmFhSeYuQAsQvSk3OhwpYWJelVvxgl3CH2haC7uIGFcRGrNKaserFCQFFmbmLOLTZJhhszuUz592kHHi2e8GDdhjdbFj9x7M3qNToCAC7hEcQaAQAA"
+                },
+                {
+                    "name": "Star Wars: Clone Wars",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bRIMD3-577Afw_jVJ1GXRcKyxStiLFfG3BmMAw&s=0",
+                    "link": "https://www.google.com/search?q=Star+Wars:+Clone+Wars+(2003+TV+series)&stick=H4sIAAAAAAAAAOOQUeLUz9U3MK7MLSg0kkhPzctLqVQoSSwqSczOLyvOrlQozsgvL47yLM_ITM5QyE9TKMlILU5VSAaqyM_PK1ZIyU8tVsjLL1FILkpNySxRwGJCYrFCZkkxSEFiSX7RKUawhUZJ5pVppxi5QOykjGTT8spTjLz66fqGhhnmhSbplcZVUIVgl51i5ACxC9KTc6HClhYl6VW_GCXcIfaFoLu4gYVxEataMNAdCuGJRcVWCs45-XmpYLaChpGBgbFCSJhCcWpRZmqx5i02SYYbM7lM-fdpBx4tnvBg3YY3WxY_cezN6jU6AgAmvxV5IQEAAA&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQs9oBKAN6BAgyEAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Star+Wars%3A+Clone+Wars+%282003+TV+series%29&stick=H4sIAAAAAAAAAOOQUeLUz9U3MK7MLSg0kkhPzctLqVQoSSwqSczOLyvOrlQozsgvL47yLM_ITM5QyE9TKMlILU5VSAaqyM_PK1ZIyU8tVsjLL1FILkpNySxRwGJCYrFCZkkxSEFiSX7RKUawhUZJ5pVppxi5QOykjGTT8spTjLz66fqGhhnmhSbplcZVUIVgl51i5ACxC9KTc6HClhYl6VW_GCXcIfaFoLu4gYVxEataMNAdCuGJRcVWCs45-XmpYLaChpGBgbFCSJhCcWpRZmqx5i02SYYbM7lM-fdpBx4tnvBg3YY3WxY_cezN6jU6AgAmvxV5IQEAAA"
+                },
+                {
+                    "name": "Dexter's Laboratory",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCFSBERTvjB5XxpTG1U46eu3p92B2wzWGvx5dvJw&s=0",
+                    "link": "https://www.google.com/search?q=Dexter%27s+Laboratory&stick=H4sIAAAAAAAAAOOQUeLQz9U3KEhPzjWSSE_Ny0upVChJLCpJzM4vK86uVCjOyC8vjvIsz8hMzlDIT1MoyUgtTlVIBqrIz88rVkjJTy1WyMsvUUguSk3JLFHAYkJisUJmSTFIQWJJftEpRk6QfUZJ5pVppxi5QOykjGTT8spTjLz66fqGhhnmhSbplcZVUIXGlbkFhacY4Y6ECltalKRX_WKUcIfYF4Lu4gYWxkWswi6pFSWpRerFCj6JSflFIOsrb7FJMtyYyWXKv0878GjxhAfrNrzZsviJY29Wr9ERAJVwH6ANAQAA&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQs9oBKAR6BAgyEAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dexter%27s+Laboratory&stick=H4sIAAAAAAAAAOOQUeLQz9U3KEhPzjWSSE_Ny0upVChJLCpJzM4vK86uVCjOyC8vjvIsz8hMzlDIT1MoyUgtTlVIBqrIz88rVkjJTy1WyMsvUUguSk3JLFHAYkJisUJmSTFIQWJJftEpRk6QfUZJ5pVppxi5QOykjGTT8spTjLz66fqGhhnmhSbplcZVUIXGlbkFhacY4Y6ECltalKRX_WKUcIfYF4Lu4gYWxkWswi6pFSWpRerFCj6JSflFIOsrb7FJMtyYyWXKv0878GjxhAfrNrzZsviJY29Wr9ERAJVwH6ANAQAA"
+                },
+                {
+                    "name": "Korgoth of Barbaria",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ0LEXzX81RtIMMBSm8Dg4behLIVQ97l-dZzi7E4nmre16g7_iGtPiSA&s=0",
+                    "link": "https://www.google.com/search?q=Korgoth+of+Barbaria&stick=H4sIAAAAAAAAAOOQUeLUz9U3sLQoSa8ykkhPzctLqVQoSSwqSczOLyvOrlQozsgvL47yLM_ITM5QyE9TKMlILU5VSAaqyM_PK1ZIyU8tVsjLL1FILkpNySxRwGJCYrFCZkkxSEFiSX7RKUawhUZJ5pVppxi5QOykjGTT8spTjLz66fqGhhnmhSbplcZVUIXGlbkFhacYOUDsgvTkXKgw2MG_GCXcIfaFoLu4gYVxEauwd35Ren4J2N1OiUVJiUWZibfYJBluzOQy5d-nHXi0eMKDdRvebFn8xLE3q9foCACG6ZOvDgEAAA&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQs9oBKAV6BAgyEAg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Korgoth+of+Barbaria&stick=H4sIAAAAAAAAAOOQUeLUz9U3sLQoSa8ykkhPzctLqVQoSSwqSczOLyvOrlQozsgvL47yLM_ITM5QyE9TKMlILU5VSAaqyM_PK1ZIyU8tVsjLL1FILkpNySxRwGJCYrFCZkkxSEFiSX7RKUawhUZJ5pVppxi5QOykjGTT8spTjLz66fqGhhnmhSbplcZVUIXGlbkFhacYOUDsgvTkXKgw2MG_GCXcIfaFoLu4gYVxEauwd35Ren4J2N1OiUVJiUWZibfYJBluzOQy5d-nHXi0eMKDdRvebFn8xLE3q9foCACG6ZOvDgEAAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?q=Genndy+Tartakovsky+shows&stick=H4sIAAAAAAAAAOOQMZJIT83LS6lUKEksKknMzi8rzq5UKM7ILy-O8izPyEzOUMhPUyjJSC1OVUgGqsjPzytWSMlPLVbIyy9RSC5KTcksUcBiQmKxQmZJMUhBYkl-0SlGTv1cfQOjJPPKtFOMXCB2UkayaXnlKUZe_XR9Q8MM80KT9ErjKqhC48rcgsJTjBwgdkF6ci5U2NKiJL3qF6OEO8S-EHQXN7AwLmLFKXuLTZLhxkwuU_592oFHiyc8WLfhzZbFTxx7s3qNjgAA8lc9cggBAAA&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ4qYDegQIMhAJ",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Genndy+Tartakovsky+shows&stick=H4sIAAAAAAAAAOOQMZJIT83LS6lUKEksKknMzi8rzq5UKM7ILy-O8izPyEzOUMhPUyjJSC1OVUgGqsjPzytWSMlPLVbIyy9RSC5KTcksUcBiQmKxQmZJMUhBYkl-0SlGTv1cfQOjJPPKtFOMXCB2UkayaXnlKUZe_XR9Q8MM80KT9ErjKqhC48rcgsJTjBwgdkF6ci5U2NKiJL3qF6OEO8S-EHQXN7AwLmLFKXuLTZLhxkwuU_592oFHiyc8WLfhzZbFTxx7s3qNjgAA8lc9cggBAAA"
+        },
+        {
+            "title": "Genndy Tartakovsky movies",
+            "items": [
+                {
+                    "name": "Hotel Transylva...",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lF-StnYYAyJGzAmexS8f75jFBtthA-d6iJrQ1A&s=0",
+                    "link": "https://www.google.com/search?q=Hotel+Transylvania+1&stick=H4sIAAAAAAAAAOOQUeLSz9U3SM-yNMvJM5JMT83LS6lUKEksKknMzi8rzq5UyM0vy0wtjvIsz8hMzlDIT1MoyUgtTlVIBirJz88rVkjJTy1WyMsvUUguSk3JLFHAYkRisUJmSTFIQWJJftEpRiQrTzHy6qfrGxqmZWdX5eRlZ59i5ARJWlqUpFfB5JLNUnIMyioNYPwsoGqTMhOgWm6QWkNDi7Ty-DK4rEVuWnlubhKMnxJvnpFcYWIMNdnMIKXYEuoEo6Iki-KcX4yS7hA3h2B4u4GFcRGriEd-SWqOQkhRYl5xZU5ZYl5mooLhLTZJhhszuUwbxKb9PHd8w9RjzWYZmcHSa0_VTb0HAK7Kp0lWAQAA&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQs9oBKAB6BAg3EAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hotel+Transylvania+1&stick=H4sIAAAAAAAAAOOQUeLSz9U3SM-yNMvJM5JMT83LS6lUKEksKknMzi8rzq5UyM0vy0wtjvIsz8hMzlDIT1MoyUgtTlVIBirJz88rVkjJTy1WyMsvUUguSk3JLFHAYkRisUJmSTFIQWJJftEpRiQrTzHy6qfrGxqmZWdX5eRlZ59i5ARJWlqUpFfB5JLNUnIMyioNYPwsoGqTMhOgWm6QWkNDi7Ty-DK4rEVuWnlubhKMnxJvnpFcYWIMNdnMIKXYEuoEo6Iki-KcX4yS7hA3h2B4u4GFcRGriEd-SWqOQkhRYl5xZU5ZYl5mooLhLTZJhhszuUwbxKb9PHd8w9RjzWYZmcHSa0_VTb0HAK7Kp0lWAQAA"
+                },
+                {
+                    "name": "Hotel Transylva... Transform...",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf3ByQ4b1M0KulX8xvhVnpQ7h7q0lk2oDdEE174w&s=0",
+                    "link": "https://www.google.com/search?q=Hotel+Transylvania:+Transformania&stick=H4sIAAAAAAAAAG2Pv0rDQADGDahoxVUIOlx9gSQ1xsQXUOd2cinX3CW53j-4Oy6mgxR8hhZc3QWfQiGDszj4HjqZ0EYQHX98Pz6-b-foeN_LvSDIKJ0xQenAzbEQqAIGKgOptJpWgEtLsL6-KguSFkBmwBRYY5A2ipRCAySxBkIakCqMiAH_VEANiNGtAI1UtdPzuOfn0yRionZ-T6id3TZMYpPPuiyNEPNt5Xc8bezQho2717pBEGfl2P6kMc9Kzicdo_FZkd6EJ-vmyEc6WU8YqEms2ZfjXqw2j_7cnm86D1v9S2kwAyMFha6YhYLA8xVlUvEW37fdjbf73un8YPn5-vK0eL6LCjI8fKxvFx_fOqO-ZWYBAAA&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQs9oBKAF6BAg3EAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hotel+Transylvania%3A+Transformania&stick=H4sIAAAAAAAAAG2Pv0rDQADGDahoxVUIOlx9gSQ1xsQXUOd2cinX3CW53j-4Oy6mgxR8hhZc3QWfQiGDszj4HjqZ0EYQHX98Pz6-b-foeN_LvSDIKJ0xQenAzbEQqAIGKgOptJpWgEtLsL6-KguSFkBmwBRYY5A2ipRCAySxBkIakCqMiAH_VEANiNGtAI1UtdPzuOfn0yRionZ-T6id3TZMYpPPuiyNEPNt5Xc8bezQho2717pBEGfl2P6kMc9Kzicdo_FZkd6EJ-vmyEc6WU8YqEms2ZfjXqw2j_7cnm86D1v9S2kwAyMFha6YhYLA8xVlUvEW37fdjbf73un8YPn5-vK0eL6LCjI8fKxvFx_fOqO-ZWYBAAA"
+                },
+                {
+                    "name": "Korgoth of Barbaria",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ0LEXzX81RtIMMBSm8Dg4behLIVQ97l-dZzi7E4nmre16g7_iGtPiSA&s=0",
+                    "link": "https://www.google.com/search?q=Korgoth+of+Barbaria&stick=H4sIAAAAAAAAAOOQUeLUz9U3sLQoSa8ykkxPzctLqVQoSSwqSczOLyvOrlTIzS_LTC2O8izPyEzOUMhPUyjJSC1OVUgGKsnPzytWSMlPLVbIyy9RSC5KTcksUcBiRGKxQmZJMUhBYkl-0SlGLpCN6VmWZjl5pxh59dP1DQ3TsrOrcvKys08xIpwDk0s2S8kxKKs0gPGzgKpNykyAarlBag0NLdLK48vgsha5aeW5uUkwfkq8eUZyhYkx1GQzg5RiS6gTjIqSLIpzfjFKukPcHILh7QYWxkWswt75Ren5JWDPOyUWJSUWZSbeYpNkuDGTy7RBbNrPc8c3TD3WbJaRGSy99lTd1HsAS1VzwFQBAAA&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQs9oBKAJ6BAg3EAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Korgoth+of+Barbaria&stick=H4sIAAAAAAAAAOOQUeLUz9U3sLQoSa8ykkxPzctLqVQoSSwqSczOLyvOrlTIzS_LTC2O8izPyEzOUMhPUyjJSC1OVUgGKsnPzytWSMlPLVbIyy9RSC5KTcksUcBiRGKxQmZJMUhBYkl-0SlGLpCN6VmWZjl5pxh59dP1DQ3TsrOrcvKys08xIpwDk0s2S8kxKKs0gPGzgKpNykyAarlBag0NLdLK48vgsha5aeW5uUkwfkq8eUZyhYkx1GQzg5RiS6gTjIqSLIpzfjFKukPcHILh7QYWxkWswt75Ren5JWDPOyUWJSUWZSbeYpNkuDGTy7RBbNrPc8c3TD3WbJaRGSy99lTd1HsAS1VzwFQBAAA"
+                },
+                {
+                    "name": "Hotel Transylva... 3: Summer...",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYV9oiCRkoCplY_5nFEKNvnFXGWizEAGPuyxFOPw&s=0",
+                    "link": "https://www.google.com/search?q=Hotel+Transylvania+3&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw2S8kxKKs0MJJMT83LS6lUKEksKknMzi8rzq5UyM0vy0wtjvIsz8hMzlDIT1MoyUgtTlVIBirJz88rVkjJTy1WyMsvUUguSk3JLFHAYkRisUJmSTFIQWJJftEpRi79XH2D9CxLs5y8U4wQJ6RlZ1fl5GVnn2LkBElaWpSkV8HkYM6D8bOAqk3KTIBquUFqDQ0t0srjy-CyFrlp5bm5STB-Srx5RnKFiTHUZDODlGJLqBOMipIsinN-MUq6Q9wcguHtBhbGRawiHvklqTkKIUWJecWVOWWJeZmJCsa32CQZbszkMm0Qm_bz3PENU481m2VkBkuvPVU39R4AmlSBB1kBAAA&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQs9oBKAN6BAg3EAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hotel+Transylvania+3&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw2S8kxKKs0MJJMT83LS6lUKEksKknMzi8rzq5UyM0vy0wtjvIsz8hMzlDIT1MoyUgtTlVIBirJz88rVkjJTy1WyMsvUUguSk3JLFHAYkRisUJmSTFIQWJJftEpRi79XH2D9CxLs5y8U4wQJ6RlZ1fl5GVnn2LkBElaWpSkV8HkYM6D8bOAqk3KTIBquUFqDQ0t0srjy-CyFrlp5bm5STB-Srx5RnKFiTHUZDODlGJLqBOMipIsinN-MUq6Q9wcguHtBhbGRawiHvklqTkKIUWJecWVOWWJeZmJCsa32CQZbszkMm0Qm_bz3PENU481m2VkBkuvPVU39R4AmlSBB1kBAAA"
+                },
+                {
+                    "name": "Primal: Tales of Savagery",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3uY_ooT3JFy4zyQ2hM9Ci_N8oIo2INzvlsgl5eg&s=0",
+                    "link": "https://www.google.com/search?q=Primal:+Tales+of+Savagery&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwyTMs2KTPJNpJMT83LS6lUKEksKknMzi8rzq5UyM0vy0wtjvIsz8hMzlDIT1MoyUgtTlVIBirJz88rVkjJTy1WyMsvUUguSk3JLFHAYkRisUJmSTFIQWJJftEpRi79XH2D9CxLs5y8U4wQJ6RlZ1fl5GVnn2LkBElaWpSkV8Hkks1ScgzKKg1gfJhzTzFyg9QaGlqklceXwWUtctPKc3OTYPyUePOM5AoTY6jJZgYpxZZQJxgVJVkU5_xilHSHuDkEw9sNLIyLWCUDijJzE3OsgPI5QL8CgyA4sSwxPbWo8habJMONmVymDWLTfp47vmHqsWazjMxg6bWn6qbeAwBKqgw6XgEAAA&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQs9oBKAR6BAg3EAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Primal%3A+Tales+of+Savagery&stick=H4sIAAAAAAAAAOOQUeLVT9c3NMwyTMs2KTPJNpJMT83LS6lUKEksKknMzi8rzq5UyM0vy0wtjvIsz8hMzlDIT1MoyUgtTlVIBirJz88rVkjJTy1WyMsvUUguSk3JLFHAYkRisUJmSTFIQWJJftEpRi79XH2D9CxLs5y8U4wQJ6RlZ1fl5GVnn2LkBElaWpSkV8Hkks1ScgzKKg1gfJhzTzFyg9QaGlqklceXwWUtctPKc3OTYPyUePOM5AoTY6jJZgYpxZZQJxgVJVkU5_xilHSHuDkEw9sNLIyLWCUDijJzE3OsgPI5QL8CgyA4sSwxPbWo8habJMONmVymDWLTfp47vmHqsWazjMxg6bWn6qbeAwBKqgw6XgEAAA"
+                },
+                {
+                    "name": "Hotel Transylva... 2",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdRsCZthqu3TfwNutlbg6pu2UWl6OHP4TMsC-Czw&s=0",
+                    "link": "https://www.google.com/search?q=Hotel+Transylvania+2&stick=H4sIAAAAAAAAAOOQUeLWz9U3MDS0SCuPLzOSTE_Ny0upVChJLCpJzM4vK86uVMjNL8tMLY7yLM_ITM5QyE9TKMlILU5VSAYqyc_PK1ZIyU8tVsjLL1FILkpNySxRwGJEYrFCZkkxSEFiSX7RKUYukJ3pWZZmOXmnGHn10_UNDdOys6ty8rKzTzFygiQtLUrSq2ByyWYpOQZllQYwfhZQtUmZCVAtsuPhsha5aeW5uUkwfkq8eUZyhYkx1GQzg5RiS6gTjIqSLIpzfjFKukPcHILh7QYWxkWsIh75Jak5CiFFiXnFlTlliXmZiQpGt9gkGW7M5DJtEJv289zxDVOPNZtlZAZLrz1VN_UeAOGzNYdXAQAA&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQs9oBKAV6BAg3EAg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Hotel+Transylvania+2&stick=H4sIAAAAAAAAAOOQUeLWz9U3MDS0SCuPLzOSTE_Ny0upVChJLCpJzM4vK86uVMjNL8tMLY7yLM_ITM5QyE9TKMlILU5VSAYqyc_PK1ZIyU8tVsjLL1FILkpNySxRwGJEYrFCZkkxSEFiSX7RKUYukJ3pWZZmOXmnGHn10_UNDdOys6ty8rKzTzFygiQtLUrSq2ByyWYpOQZllQYwfhZQtUmZCVAtsuPhsha5aeW5uUkwfkq8eUZyhYkx1GQzg5RiS6gTjIqSLIpzfjFKukPcHILh7QYWxkWsIh75Jak5CiFFiXnFlTlliXmZiQpGt9gkGW7M5DJtEJv289zxDVOPNZtlZAZLrz1VN_UeAOGzNYdXAQAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?q=Genndy+Tartakovsky+movies&stick=H4sIAAAAAAAAAOOQMZJMT83LS6lUKEksKknMzi8rzq5UyM0vy0wtjvIsz8hMzlDIT1MoyUgtTlVIBirJz88rVkjJTy1WyMsvUUguSk3JLFHAYkRisUJmSTFIQWJJftEpRi79XH2D9CxLs5y8U4y8-un6hoZp2dlVOXnZ2acYOUGSlhYl6VUwuWSzlByDskoDGD8LqNqkzASolhuk1tDQIq08vgwua5GbVp6bmwTjp8SbZyRXmBhDTTYzSCm2hDrBqCjJojjnF6OkO8TNIRjebmBhXMSKW_oWmyTDjZlcpg1i036eO75h6rFms4zMYOm1p-qm3gMADTRm7k8BAAA&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ4qYDegQINxAJ",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Genndy+Tartakovsky+movies&stick=H4sIAAAAAAAAAOOQMZJMT83LS6lUKEksKknMzi8rzq5UyM0vy0wtjvIsz8hMzlDIT1MoyUgtTlVIBirJz88rVkjJTy1WyMsvUUguSk3JLFHAYkRisUJmSTFIQWJJftEpRi79XH2D9CxLs5y8U4y8-un6hoZp2dlVOXnZ2acYOUGSlhYl6VUwuWSzlByDskoDGD8LqNqkzASolhuk1tDQIq08vgwua5GbVp6bmwTjp8SbZyRXmBhDTTYzSCm2hDrBqCjJojjnF6OkO8TNIRjebmBhXMSKW_oWmyTDjZlcpg1i036eO75h6rFms4zMYOm1p-qm3gMADTRm7k8BAAA"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What has Genndy Tartakovsky animated?",
+            "snippet": "Tartakovsky's creative leadership helped shape the direction and the rise to national prominence of the Cartoon Network, where he developed four hit animated series between 1994 and 2010: \u201cDexter's Laboratory,\u201d \u201cSamurai Jack,\u201d \u201cStar Wars: Clone Wars,\u201d and \u201cSym-Biotic Titan.\u201d He created the critically acclaimed \u201cSamurai ...",
+            "title": "GENNDY TARTAKOVSKY | Sony Pictures Animation",
+            "link": "https://www.sonypicturesanimation.com/index.php/our-team/filmmakers/genndy-tartakovsky",
+            "displayed_link": "https://www.sonypicturesanimation.com \u203a filmmakers \u203a g..."
+        },
+        {
+            "question": "Who was the creator of Samurai Jack?",
+            "snippet": "Samurai Jack creator Genndy Tartakovsky sets new supernatural show at HBO Max, Cartoon Network. See a first look at the supernatural adventure Unicorn: Warriors Eternal.",
+            "title": "Samurai Jack creator Genndy Tartakovsky sets Unicorn",
+            "link": "https://ew.com/tv/unicorn-warriors-eternal-genndy-tartakovsky/",
+            "displayed_link": "https://ew.com \u203a TV"
+        },
+        {
+            "question": "Who is the creator of Primal?",
+            "title": "Genndy Tartakovsky",
+            "link": "https://en.wikipedia.org/wiki/Primal_(TV_series)",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Primal_(TV_series)"
+        },
+        {
+            "question": "Who is the creator of Dexter's Laboratory?",
+            "snippet": "Dexter's Laboratory creator Genndy Tartakovsky talks about his debut flick, Hotel Transylvania, and his next, Popeye the Sailor. He is known for popular animated TV series such as Dexter's Laboratory, The Powerpuff Girls, Samurai Jack, Star Wars: Clone Wars and Sym-Bionic Titan to name a few.Dec 7, 2012",
+            "title": "creator Genndy Tartakovsky",
+            "link": "https://www.hindustantimes.com/hollywood/the-guy-who-made-dexter-s-lab-talks-about-his-first-flick/story-Q3BESryXUer8hZKgCQVJDI.html",
+            "displayed_link": "https://www.hindustantimes.com \u203a hollywood \u203a the-guy-..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Genndy Tartakovsky - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Genndy_Tartakovsky",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Genndy_Tartakovsky",
+            "snippet": "He is best known as the creator of various animated television series on Cartoon Network and Adult Swim, including Dexter's Laboratory, Samurai Jack, ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1244224e88e9c881b9e98/images/71f7be175a09d10905deb187a55aedc93611982abafe9248a495861b362301b5cdbe771d3715d3bd3029d46e91a5b184.png"
+                },
+                "keywords": [
+                    "which",
+                    "cartoons",
+                    "not",
+                    "genndy",
+                    "tartakovsky",
+                    "its",
+                    "creator"
+                ],
+                "related_keywords": [
+                    "cartoon"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Genndy_Tartakovsky&tbm=ilp&ilps=AOR-xxsqEs20iPFCpHMYxV0_Bf_u0XU81A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NaD2CN-4jcgJ:https://en.wikipedia.org/wiki/Genndy_Tartakovsky+&cd=1&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Genndy_Tartakovsky+which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F",
+            "missing": [
+                "credit"
+            ],
+            "must_include": {
+                "word": "credit",
+                "link": "https://www.google.com/search?q=which+of+these+cartoons+does+not+%22credit%22+genndy+tartakovsky+as+its+creator?&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ5t4CegQIEBAB"
+            },
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Dexter's Laboratory - Wikipedia",
+                    "link": "https://en.wikipedia.org/wiki/Dexter%27s_Laboratory",
+                    "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Dexter's_Laboratory",
+                    "snippet": "Dexter's Laboratory is an American animated television series created by Genndy Tartakovsky for Cartoon Network. ... Genndy Tartakovsky, the creator of Dexter's Laboratory, was born in ...",
+                    "about_this_result": {
+                        "source": {
+                            "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                            "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                            "security": "secure",
+                            "icon": "https://serpapi.com/searches/61c1244224e88e9c881b9e98/images/71f7be175a09d10905deb187a55aedc99fe21be844fea2386f69f118f51bcd608d582efd3de39c6bda8484777a1cf4e5a1eb1eca285689c966c000288213594259225a49cb115cf4.png"
+                        },
+                        "keywords": [
+                            "which",
+                            "these",
+                            "cartoons",
+                            "not",
+                            "genndy",
+                            "tartakovsky",
+                            "its",
+                            "creator"
+                        ],
+                        "related_keywords": [
+                            "cartoon",
+                            "was"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Dexter%2527s_Laboratory&tbm=ilp&ilps=AOR-xxtOBUGheJChnYRNFtrxS_KaNopNuA",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4mB0nbJuHxYJ:https://en.wikipedia.org/wiki/Dexter%2527s_Laboratory+&cd=2&hl=en&ct=clnk&gl=us",
+                    "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Dexter%2527s_Laboratory+which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F"
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Tartakovsky, Genndy | Encyclopedia.com",
+            "link": "https://www.encyclopedia.com/books/culture-magazines/tartakovsky-genndy",
+            "displayed_link": "https://www.encyclopedia.com \u203a culture-magazines \u203a ta...",
+            "snippet": "Began animation career drawing for the Batman television series, c. 1991; served as creator/producer of cartoons for the cable channel Cartoon Network, ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Encyclopedia.com is an online encyclopedia. It aggregates information from other published dictionaries, encyclopedias and reference works including pictures and videos.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Encyclopedia.com",
+                    "security": "secure"
+                },
+                "keywords": [
+                    "these",
+                    "cartoons",
+                    "does",
+                    "not",
+                    "genndy",
+                    "tartakovsky",
+                    "its",
+                    "creator"
+                ],
+                "related_keywords": [
+                    "cartoon",
+                    "did"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.encyclopedia.com/books/culture-magazines/tartakovsky-genndy&tbm=ilp&ilps=AOR-xxtdkNvxGLxgf8Nfm7sBCuOTUuaZXg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lSVdc87NHZ4J:https://www.encyclopedia.com/books/culture-magazines/tartakovsky-genndy+&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Genndy Tartakovsky Is the Cinematic Leader of TV Animation",
+            "link": "https://www.indiewire.com/influencers/primal-creator-genndy-tartakovsky/",
+            "displayed_link": "https://www.indiewire.com \u203a influencers \u203a primal-creat...",
+            "snippet": "Jon Favreau and Jorge Gutierrez explain how the \"Primal\" animator/director pushes 2D animation into a new formal and expressive realm.",
+            "about_this_result": {
+                "source": {
+                    "description": "IndieWire is a film industry and review website that was established in 1996. The site's focus is independent film. IndieWire is part of Penske Media.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/IndieWire",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1244224e88e9c881b9e98/images/71f7be175a09d10905deb187a55aedc98702a8a9d9ec371e04d3a175a9ae199c38d3afc8478fb13abbc79a479a4a40e8.png"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "does",
+                    "not",
+                    "genndy",
+                    "tartakovsky",
+                    "its",
+                    "creator"
+                ],
+                "related_keywords": [
+                    "it's"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.indiewire.com/influencers/primal-creator-genndy-tartakovsky/&tbm=ilp&ilps=AOR-xxtueKKEM529uruWCD6_Sz5c0Sl_MA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LnNKip2XKqcJ:https://www.indiewire.com/influencers/primal-creator-genndy-tartakovsky/+&cd=15&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "Samurai Jack creator Genndy Tartakovsky sets Unicorn",
+            "link": "https://ew.com/tv/unicorn-warriors-eternal-genndy-tartakovsky/",
+            "displayed_link": "https://ew.com \u203a TV",
+            "snippet": "Samurai Jack creator Genndy Tartakovsky sets new supernatural show at HBO Max, Cartoon Network. See a first look at the supernatural adventure Unicorn: Warriors ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Entertainment Weekly is an American monthly entertainment magazine based in New York City, published by Dotdash Meredith, that covers film, television, music, Broadway theatre, books, and popular culture. The magazine debuted on February 16, 1990, in New York City.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Entertainment_Weekly",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1244224e88e9c881b9e98/images/71f7be175a09d10905deb187a55aedc9f9d2f6b393a7e395011f6358837216ff102e0c1fe59ff9212bb004f24e361c93.png"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "not",
+                    "credit",
+                    "genndy",
+                    "tartakovsky",
+                    "creator"
+                ],
+                "related_keywords": [
+                    "cartoon",
+                    "was"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://ew.com/tv/unicorn-warriors-eternal-genndy-tartakovsky/&tbm=ilp&ilps=AOR-xxt-RRSDDfzVYFmre1N835HDLw7OJA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:jKaq9Af4x8wJ:https://ew.com/tv/unicorn-warriors-eternal-genndy-tartakovsky/+&cd=16&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Primal creator Genndy Tartakovsky says Season 2 is 'his best ...",
+            "link": "https://www.syfy.com/syfy-wire/primal-season-2-genndy-tartakovsky-unicorn-warriors-eternal",
+            "displayed_link": "https://www.syfy.com \u203a syfy-wire \u203a primal-season-2-ge...",
+            "date": "Sep 13, 2021",
+            "snippet": "Primal Season 1 (Credit: Adult Swim). Primal is a silent, crazy-violent animated series about a prehistoric man and his dinosaur, and at the ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Syfy is an American basic cable channel owned by the NBCUniversal Television and Streaming division of Comcast's NBCUniversal through NBCUniversal Cable Entertainment. Launched on September 24, 1992, the channel deals in programming relating to the science fiction, horror, and fantasy genres.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Syfy",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1244224e88e9c881b9e98/images/71f7be175a09d10905deb187a55aedc96625f44abb63de25311cf5d417c164f4dd88a3f6b5b395a593f321c99c4c0218.png"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "does",
+                    "not",
+                    "credit",
+                    "genndy",
+                    "tartakovsky",
+                    "its",
+                    "creator"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.syfy.com/syfy-wire/primal-season-2-genndy-tartakovsky-unicorn-warriors-eternal&tbm=ilp&ilps=AOR-xxu0kWkc7jpKLlrK5O8_Rr83ZVxAcw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MiqfmtvFUP0J:https://www.syfy.com/syfy-wire/primal-season-2-genndy-tartakovsky-unicorn-warriors-eternal+&cd=17&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "Genndy Tartakovsky on Primal Season 2, Hotel Transylvania 4",
+            "link": "https://collider.com/genndy-tartakovsky-primal-adult-swim-interview-hotel-transylvania-4/",
+            "displayed_link": "https://collider.com \u203a TV",
+            "date": "Oct 4, 2020",
+            "snippet": "Ready or not, 'Primal' is back. primal-season1b-slice. Genndy Tartakovsky's Primal is back. And it still kicks ass. The animated Cartoon ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Collider is an entertainment website and digital video production company, with a focus on the film industry, television series, and video games.\nCollider focuses on entertainment news, analysis, and commentary, along with original features.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Collider_(website)",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1244224e88e9c881b9e98/images/71f7be175a09d10905deb187a55aedc9a36127ccd6b8ba68fbd767a441e4db92e2fc0c0a3c82b9a419af4f010eed9372.png"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "does",
+                    "not",
+                    "credit",
+                    "genndy",
+                    "tartakovsky",
+                    "its",
+                    "creator"
+                ],
+                "related_keywords": [
+                    "cartoon",
+                    "tartakovsky's"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://collider.com/genndy-tartakovsky-primal-adult-swim-interview-hotel-transylvania-4/&tbm=ilp&ilps=AOR-xxu9pesXJ8PVe9b1-J5eOr4zv9AwSg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uRbs6o0DJxIJ:https://collider.com/genndy-tartakovsky-primal-adult-swim-interview-hotel-transylvania-4/+&cd=18&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "Genndy Tartakovsky gets 'Hotel Transylvania' open for business",
+            "link": "https://www.latimes.com/entertainment/movies/la-xpm-2012-aug-25-la-et-mn-hotel-transylvania-20120826-story.html",
+            "displayed_link": "https://www.latimes.com \u203a entertainment \u203a movies \u203a la-...",
+            "date": "Aug 25, 2012",
+            "snippet": "Tartakovsky, the Moscow-born creator of the Cartoon Network shows \u201cDexter's Laboratory\u201d and \u201cSamurai Jack,\u201d is an accomplished figure in the ...",
+            "about_this_result": {
+                "source": {
+                    "description": "The Los Angeles Times is a daily newspaper based in El Segundo, California, which has been published in Los Angeles, California, since 1881. It has the fifth-largest circulation in the U.S., and is the largest American newspaper not headquartered on the East Coast.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Los_Angeles_Times",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1244224e88e9c881b9e98/images/71f7be175a09d10905deb187a55aedc97265e2af785c29ffbe9f82b558febfc8f48f687ab6a0acff1edf0d1e4c520c35.png"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "cartoons",
+                    "does",
+                    "not",
+                    "genndy",
+                    "tartakovsky",
+                    "its",
+                    "creator"
+                ],
+                "related_keywords": [
+                    "cartoon"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.latimes.com/entertainment/movies/la-xpm-2012-aug-25-la-et-mn-hotel-transylvania-20120826-story.html&tbm=ilp&ilps=AOR-xxuHawnHR_rh5N6knlDe9o40k6GY5w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YzN_7GCbPMIJ:https://www.latimes.com/entertainment/movies/la-xpm-2012-aug-25-la-et-mn-hotel-transylvania-20120826-story.html+&cd=19&hl=en&ct=clnk&gl=us",
+            "missing": [
+                "credit"
+            ],
+            "must_include": {
+                "word": "credit",
+                "link": "https://www.google.com/search?q=which+of+these+cartoons+does+not+%22credit%22+genndy+tartakovsky+as+its+creator?&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ5t4CegQIOxAB"
+            }
+        },
+        {
+            "position": 8,
+            "title": "Best of Draw! Volume 1 - Page 140 - Google Books Result",
+            "link": "https://books.google.com/books?id=rZ9CfXS6cF4C&pg=PA140&lpg=PA140&dq=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator?&source=bl&ots=MfHHXwlaU0&sig=ACfU3U0KW0QKv7j-iCKWPPo3xufka4pO3w&hl=en&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ6AF6BAgmEAM",
+            "displayed_link": "https://books.google.com \u203a books",
+            "snippet": "Quite often on TV the backgrounds are not as important . I mean , they're important to a certain extent but certainly not stressed as much .",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Mike Manley",
+                        "2008",
+                        "\u200eArt"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2008
+                    }
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "The Transmedia Franchise of Star Wars TV",
+            "link": "https://books.google.com/books?id=0osIEAAAQBAJ&pg=PA140&lpg=PA140&dq=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator?&source=bl&ots=3VdS-GzivD&sig=ACfU3U2tNIN4cEPEVzIV_TiY_m66CFjG0Q&hl=en&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ6AF6BAglEAM",
+            "displayed_link": "https://books.google.com \u203a books",
+            "snippet": "Attempts at earlier animated series failed to continue the franchise on ... of the Clone Wars micro-series, Genndy Tartakovsky, recalled that Lucas was ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Dominic J. Nardi, \u200eDerek R. Sweet",
+                        "2020",
+                        "\u200ePerforming Arts"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2020
+                    }
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "genndy tartakovsky dexter's laboratory",
+            "link": "https://www.google.com/search?q=Genndy+Tartakovsky+Dexter%27s+Laboratory&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "genndy tartakovsky hotel transylvania",
+            "link": "https://www.google.com/search?q=Genndy+Tartakovsky+Hotel+Transylvania&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "genndy tartakovsky primal",
+            "link": "https://www.google.com/search?q=Genndy+Tartakovsky+Primal&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "genndy tartakovsky art",
+            "link": "https://www.google.com/search?q=Genndy+Tartakovsky+art&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "genndy tartakovsky art style",
+            "link": "https://www.google.com/search?q=Genndy+Tartakovsky+art+style&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "dexter's laboratory 2021",
+            "link": "https://www.google.com/search?q=Dexter%27s+Laboratory+2021&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "genndy tartakovsky black knight",
+            "link": "https://www.google.com/search?q=Genndy+Tartakovsky+Black+Knight&sa=X&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ1QJ6BAgnEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&ei=QyTBYbyDI-Gc_QaQkrCgDA&start=10&sa=N&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ8NMDegQIARBM",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&ei=QyTBYbyDI-Gc_QaQkrCgDA&start=10&sa=N&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ8tMDegQIARA6",
+            "3": "https://www.google.com/search?q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&ei=QyTBYbyDI-Gc_QaQkrCgDA&start=20&sa=N&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ8tMDegQIARA8",
+            "4": "https://www.google.com/search?q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&ei=QyTBYbyDI-Gc_QaQkrCgDA&start=30&sa=N&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ8tMDegQIARA-",
+            "5": "https://www.google.com/search?q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&ei=QyTBYbyDI-Gc_QaQkrCgDA&start=40&sa=N&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ8tMDegQIARBA",
+            "6": "https://www.google.com/search?q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&ei=QyTBYbyDI-Gc_QaQkrCgDA&start=50&sa=N&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ8tMDegQIARBC",
+            "7": "https://www.google.com/search?q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&ei=QyTBYbyDI-Gc_QaQkrCgDA&start=60&sa=N&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ8tMDegQIARBE",
+            "8": "https://www.google.com/search?q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&ei=QyTBYbyDI-Gc_QaQkrCgDA&start=70&sa=N&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ8tMDegQIARBG",
+            "9": "https://www.google.com/search?q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&ei=QyTBYbyDI-Gc_QaQkrCgDA&start=80&sa=N&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ8tMDegQIARBI",
+            "10": "https://www.google.com/search?q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&ei=QyTBYbyDI-Gc_QaQkrCgDA&start=90&sa=N&ved=2ahUKEwj8sODc1fP0AhVhTt8KHRAJDMQQ8tMDegQIARBK"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+cartoons+does+not+credit+genndy+tartakovsky+as+its+creator%3F&start=90"
+        }
+    }
+}

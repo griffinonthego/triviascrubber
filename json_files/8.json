@@ -1,0 +1,448 @@
+{
+    "search_metadata": {
+        "id": "61c1250d216a9dbb2a365fa3",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/6307b3ffd43e407e/61c1250d216a9dbb2a365fa3.json",
+        "created_at": "2021-12-21 00:51:25 UTC",
+        "processed_at": "2021-12-21 00:51:25 UTC",
+        "google_url": "https://www.google.com/search?q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&oq=which+of+these+are+not+proven+to+be+infinite+in+number%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/6307b3ffd43e407e/61c1250d216a9dbb2a365fa3.html",
+        "total_time_taken": 2.05
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "which of these are not proven to be infinite in number?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "which of these are not proven to be infinite in number?",
+        "total_results": 5370000000,
+        "time_taken_displayed": 0.85
+    },
+    "related_questions": [
+        {
+            "question": "What is a non infinite number?",
+            "snippet": "A number that is not infinite. In other words it could be measured, or given a value. There are a finite number of people at this beach. ... And the length of the beach is also a finite number.",
+            "title": "Definition of Finite Number - Math is Fun",
+            "link": "https://www.mathsisfun.com/definitions/finite-number.html",
+            "displayed_link": "https://www.mathsisfun.com \u203a definitions \u203a finite-number"
+        },
+        {
+            "question": "What are some infinite numbers?",
+            "snippet": "Infinity is also an extremely important concept in mathematics. Infinity shows up almost immediately in dealing with infinitely large sets \u2014 collections of numbers that go on forever, like the natural, or counting numbers: 1, 2, 3, 4, 5, and so on. Infinite sets are not all created equal, however.Nov 14, 2013",
+            "title": "Here's the simple proof that there must be multiple levels of infinity",
+            "link": "https://www.businessinsider.com/the-different-sizes-of-infinity-2013-11",
+            "displayed_link": "https://www.businessinsider.com \u203a the-different-sizes-of-i..."
+        },
+        {
+            "question": "Is zero the number of infinite?",
+            "snippet": "The concept of zero and that of infinity are linked, but, obviously, zero is not infinity. Rather, if we have N / Z, with any positive N, the quotient grows without limit as Z approaches 0. Hence we readily say that N / 0 is infinite.Apr 12, 2020",
+            "title": "Laws of Zero - Wikiversity",
+            "link": "https://en.wikiversity.org/wiki/Laws_of_Zero",
+            "displayed_link": "https://en.wikiversity.org \u203a wiki \u203a Laws_of_Zero"
+        },
+        {
+            "question": "Why Infinity is not a real number?",
+            "snippet": "Infinity is actually a concept which extends to both positive and negative field. Real numbers are just those which can be represented on number line. Infinity is not a real numbers due to the fact they cannot be compared.",
+            "title": "Is infinity a real number? - Quora",
+            "link": "https://www.quora.com/Is-infinity-a-real-number",
+            "displayed_link": "https://www.quora.com \u203a Is-infinity-a-real-number"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Actual infinity - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Actual_infinity",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Actual_infinity",
+            "snippet": "Actual infinity is to be contrasted with potential infinity, in which a non-terminating process (such as \"add 1 to the previous number\") produces a sequence ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1250d216a9dbb2a365fa3/images/baba5ce211602a6cc32520bc8dd0a7dec1db7b28d82899d3f7ac033f6214f53e123b3a1add5337d3a95d41e8d3775e13.png"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "not",
+                    "infinite",
+                    "number"
+                ],
+                "related_keywords": [
+                    "non",
+                    "infinity"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Actual_infinity&tbm=ilp&ilps=AOR-xxsvOiVYYupIvKPBmjlWvnBhy3iIcQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pqc4AQrvpcAJ:https://en.wikipedia.org/wiki/Actual_infinity+&cd=16&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Actual_infinity+which+of+these+are+not+proven+to+be+infinite+in+number%3F"
+        },
+        {
+            "position": 2,
+            "title": "What is Infinity? - Math is Fun",
+            "link": "https://www.mathsisfun.com/numbers/infinity.html",
+            "displayed_link": "https://www.mathsisfun.com \u203a numbers \u203a infinity",
+            "snippet": "Infinity is not a real number, it is an idea. An idea of something without an end. Infinity cannot be measured. Even these faraway galaxies can't compete ...",
+            "about_this_result": {
+                "source": {
+                    "description": "mathsisfun.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1250d216a9dbb2a365fa3/images/baba5ce211602a6cc32520bc8dd0a7de07181f2e0ab83bf1d09ec3a34a50734fac9922646a16a33d002d0a6ed8c88777.png"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "not",
+                    "infinite",
+                    "number"
+                ],
+                "related_keywords": [
+                    "what",
+                    "infinity",
+                    "numbers"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.mathsisfun.com/numbers/infinity.html&tbm=ilp&ilps=AOR-xxtX-sVL-KdecFZiiVFsWzrDnvh30w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cbe5yAq7PzoJ:https://www.mathsisfun.com/numbers/infinity.html+&cd=17&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.mathsisfun.com/numbers/infinity.html+which+of+these+are+not+proven+to+be+infinite+in+number%3F"
+        },
+        {
+            "position": 3,
+            "title": "Explanimator: Does infinity exist in the real world? - New ...",
+            "link": "https://www.newscientist.com/article/2079495-explanimator-does-infinity-exist-in-the-real-world/",
+            "displayed_link": "https://www.newscientist.com \u203a article \u203a 2079495-expla...",
+            "date": "Mar 3, 2016",
+            "snippet": "Although the concept of infinity has a mathematical basis, ... For example, there is no largest counting number nor is there a biggest odd ...",
+            "about_this_result": {
+                "source": {
+                    "description": "New Scientist is a magazine covering all aspects of science and technology. Based in London, it publishes weekly English-language editions in the United Kingdom, the United States, and Australia. An editorially separate organisation publishes a monthly Dutch-language edition.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/New_Scientist",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1250d216a9dbb2a365fa3/images/baba5ce211602a6cc32520bc8dd0a7deb75530a17867f4fda0cac352410ca085b25d957a191b1223aa98e17450af9e3c.png"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "not",
+                    "infinite",
+                    "number"
+                ],
+                "related_keywords": [
+                    "infinity"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.newscientist.com/article/2079495-explanimator-does-infinity-exist-in-the-real-world/&tbm=ilp&ilps=AOR-xxsCwMxmOaUDyyHVk3Jwj67CGj-wvA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wlR5M8BSlfIJ:https://www.newscientist.com/article/2079495-explanimator-does-infinity-exist-in-the-real-world/+&cd=18&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.newscientist.com/article/2079495-explanimator-does-infinity-exist-in-the-real-world/+which+of+these+are+not+proven+to+be+infinite+in+number%3F"
+        },
+        {
+            "position": 4,
+            "title": "infinity | Definition, Symbol, & Facts | Britannica",
+            "link": "https://www.britannica.com/science/infinity-mathematics",
+            "displayed_link": "https://www.britannica.com \u203a Science \u203a Mathematics",
+            "date": "7 days ago",
+            "snippet": "Mathematical infinities occur, for instance, as the number of points on ... proved the surprising result that not all infinities are equal.",
+            "about_this_result": {
+                "source": {
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1250d216a9dbb2a365fa3/images/baba5ce211602a6cc32520bc8dd0a7de1ea7eee06aea4ee338f6177c8f9c02eb3c5c4ba4111bc4578931d0f920d480cb.png"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "not",
+                    "infinite",
+                    "number"
+                ],
+                "related_keywords": [
+                    "proved",
+                    "infinity"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/science/infinity-mathematics&tbm=ilp&ilps=AOR-xxtm4xYOwTGcwIFv53L-ATFaQQbH0w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qpdFHUkCzm8J:https://www.britannica.com/science/infinity-mathematics+&cd=19&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Infinite | Internet Encyclopedia of Philosophy",
+            "link": "https://iep.utm.edu/infinite/",
+            "displayed_link": "https://iep.utm.edu \u203a infinite",
+            "snippet": "Cantor believed the continuum hypothesis, but he was frustrated that he could not prove it.",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "The Axiom of Choice and the Continuum Hypothesis \u2014"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The Internet Encyclopedia of Philosophy is a scholarly online encyclopedia, dealing with philosophy, philosophical topics, and philosophers. The IEP combines open access publication with peer reviewed publication of original papers.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Internet_Encyclopedia_of_Philosophy",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1250d216a9dbb2a365fa3/images/baba5ce211602a6cc32520bc8dd0a7de4cffa4ce8d31d33bb34f05a889759a4ddcecbc760aec5ce52af51220829009a5.png"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "not",
+                    "infinite",
+                    "number"
+                ],
+                "related_keywords": [
+                    "prove"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://iep.utm.edu/infinite/&tbm=ilp&ilps=AOR-xxuHgoiMcNRY6JAO1kVQUUyjJE1z3g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_PgOeyRCRv0J:https://iep.utm.edu/infinite/+&cd=20&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "How Many Numbers Exist? Infinity Proof Moves Math Closer",
+            "link": "https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/",
+            "displayed_link": "https://www.quantamagazine.org \u203a Mathematics",
+            "date": "Jul 15, 2021",
+            "snippet": "He managed to prove that the set formed from different ways of ... the cardinality of the natural numbers, with no sizes of infinity in ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Quanta Magazine is an editorially independent online publication of the Simons Foundation covering developments in physics, mathematics, biology and computer science.\nUndark Magazine described Quanta Magazine as \"highly regarded for its masterful coverage of complex topics in science and math.\"",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Quanta_Magazine",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1250d216a9dbb2a365fa3/images/baba5ce211602a6cc32520bc8dd0a7dee8e932797d96c5548a1d05da402f9efe60666f3fc236aab23e648ddd4bc5a300.png"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "not",
+                    "proven",
+                    "infinite",
+                    "number"
+                ],
+                "related_keywords": [
+                    "prove",
+                    "infinity",
+                    "numbers"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/&tbm=ilp&ilps=AOR-xxuqPK5StY3I3V9TB0Zrf-tDAMdEZQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zhoAeHSj8HsJ:https://www.quantamagazine.org/how-many-numbers-exist-infinity-proof-moves-math-closer-to-an-answer-20210715/+&cd=21&hl=en&ct=clnk&gl=us",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Mathematicians Measure Infinities and Find They're Equal",
+                    "link": "https://www.quantamagazine.org/mathematicians-measure-infinities-find-theyre-equal-20170912/",
+                    "date": "Sep 12, 2017",
+                    "snippet": "After he established that the sizes of infinite sets can be ... non-empty space between the size of the natural numbers and the size of the ..."
+                }
+            ]
+        },
+        {
+            "position": 7,
+            "title": "No End in Sight: Debating the Existence of Infinity | Live Science",
+            "link": "https://www.livescience.com/37077-infinity-existence-debate.html",
+            "displayed_link": "https://www.livescience.com \u203a 37077-infinity-existence...",
+            "date": "Jun 3, 2013",
+            "snippet": "Cantor believed that no infinities exist between the sets of integers and real numbers, but he was never able to prove it.",
+            "about_this_result": {
+                "source": {
+                    "description": "Live Science is a science news website run by Future via Purch, which it purchased from Imaginova in 2009. Stories and editorial commentary are typically syndicated to major news outlets, such as Yahoo!, MSNBC, AOL, and Fox News.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Live_Science",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1250d216a9dbb2a365fa3/images/baba5ce211602a6cc32520bc8dd0a7dea2781f61cc91202671ebe1cba5e6183b2ce403f054e608d0bea0c84c18dc07cc.png"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "not",
+                    "proven",
+                    "infinite",
+                    "number"
+                ],
+                "related_keywords": [
+                    "prove",
+                    "infinity",
+                    "numbers"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.livescience.com/37077-infinity-existence-debate.html&tbm=ilp&ilps=AOR-xxvJ29T8s9XVgRJuqKriYZWelRwM2Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QGjKfvh1lhEJ:https://www.livescience.com/37077-infinity-existence-debate.html+&cd=23&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 8,
+            "title": "Is there any way to prove that there is an infinite number of ...",
+            "link": "https://www.quora.com/Is-there-any-way-to-prove-that-there-is-an-infinite-number-of-realities",
+            "displayed_link": "https://www.quora.com \u203a Is-there-any-way-to-prove-that-t...",
+            "date": "41 answers",
+            "snippet": "As you can tell from the many answers to this question, the answer is \u201cGenerally, no.\u201d There are issues with the word \u201cprove,\u201d there are issues with ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Quora is a social question-and-answer website based in Mountain View, California, United States. It was founded on June 25, 2009, and made available to the public on June 21, 2010. Users can collaborate by editing questions and commenting on answers that have been submitted by other users.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Quora",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1250d216a9dbb2a365fa3/images/baba5ce211602a6cc32520bc8dd0a7de9a69e309bc15920595135f6da11522d4db45ed71fdb3adf70197d2950f0176f3.png"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "not",
+                    "proven",
+                    "infinite",
+                    "number"
+                ],
+                "related_keywords": [
+                    "prove"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/Is-there-any-way-to-prove-that-there-is-an-infinite-number-of-realities&tbm=ilp&ilps=AOR-xxu4fkSZbh-gKnndvPSuynutrUtKkg"
+        },
+        {
+            "position": 9,
+            "title": "Is the universe finite or infinite? - Phys.org",
+            "link": "https://phys.org/news/2015-03-universe-finite-infinite.html",
+            "displayed_link": "https://phys.org \u203a news \u203a 2015-03-universe-finite-infinite",
+            "date": "Mar 27, 2015",
+            "snippet": "Actually, it's probably still not enough pencils. There are only 1080 particles in the observable Universe, so that's much less than the ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Phys.org is an online science, research and technology news aggregator offering briefs from press releases and reports from news agencies. The website also produces its own science journalism. Phys.org is one of the most updated science websites with an average of 98 posts per day.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Phys.org",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1250d216a9dbb2a365fa3/images/baba5ce211602a6cc32520bc8dd0a7de1a5440a8f58b53225c9658fef19f6ea7d29ee2cceae5eecbf065edf5b09e0fde.png"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "not",
+                    "infinite",
+                    "number"
+                ],
+                "related_keywords": [
+                    "actually"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://phys.org/news/2015-03-universe-finite-infinite.html&tbm=ilp&ilps=AOR-xxu2zbj-Fs5GZVq3pAvRXOuvzZ0ulw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:00LrEAeUd2MJ:https://phys.org/news/2015-03-universe-finite-infinite.html+&cd=25&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://phys.org/news/2015-03-universe-finite-infinite.html+which+of+these+are+not+proven+to+be+infinite+in+number%3F"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "infinity + 1",
+            "link": "https://www.google.com/search?q=infinity+%2B+1&sa=X&ved=2ahUKEwjJz7m91vP0AhVBTd8KHV0CBnwQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "what is infinite",
+            "link": "https://www.google.com/search?q=What+is+infinite&sa=X&ved=2ahUKEwjJz7m91vP0AhVBTd8KHV0CBnwQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "is infinity a number",
+            "link": "https://www.google.com/search?q=Is+infinity+a+number&sa=X&ved=2ahUKEwjJz7m91vP0AhVBTd8KHV0CBnwQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "who discovered infinity",
+            "link": "https://www.google.com/search?q=Who+discovered+infinity&sa=X&ved=2ahUKEwjJz7m91vP0AhVBTd8KHV0CBnwQ1QJ6BAguEAE"
+        },
+        {
+            "query": "examples of infinity in real life",
+            "link": "https://www.google.com/search?q=Examples+of+infinity+in+real+life&sa=X&ved=2ahUKEwjJz7m91vP0AhVBTd8KHV0CBnwQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "does infinity exist in nature",
+            "link": "https://www.google.com/search?q=Does+infinity+exist+in+nature&sa=X&ved=2ahUKEwjJz7m91vP0AhVBTd8KHV0CBnwQ1QJ6BAgyEAE"
+        },
+        {
+            "query": "infinite numbers list",
+            "link": "https://www.google.com/search?q=Infinite+numbers+list&sa=X&ved=2ahUKEwjJz7m91vP0AhVBTd8KHV0CBnwQ1QJ6BAgsEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&ei=DiXBYcmQFsGa_QbdhJjgBw&start=10&sa=N&ved=2ahUKEwjJz7m91vP0AhVBTd8KHV0CBnwQ8NMDegQIARBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&ei=DiXBYcmQFsGa_QbdhJjgBw&start=10&sa=N&ved=2ahUKEwjJz7m91vP0AhVBTd8KHV0CBnwQ8tMDegQIARA4",
+            "3": "https://www.google.com/search?q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&ei=DiXBYcmQFsGa_QbdhJjgBw&start=20&sa=N&ved=2ahUKEwjJz7m91vP0AhVBTd8KHV0CBnwQ8tMDegQIARA6",
+            "4": "https://www.google.com/search?q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&ei=DiXBYcmQFsGa_QbdhJjgBw&start=30&sa=N&ved=2ahUKEwjJz7m91vP0AhVBTd8KHV0CBnwQ8tMDegQIARA8",
+            "5": "https://www.google.com/search?q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&ei=DiXBYcmQFsGa_QbdhJjgBw&start=40&sa=N&ved=2ahUKEwjJz7m91vP0AhVBTd8KHV0CBnwQ8tMDegQIARA-",
+            "6": "https://www.google.com/search?q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&ei=DiXBYcmQFsGa_QbdhJjgBw&start=50&sa=N&ved=2ahUKEwjJz7m91vP0AhVBTd8KHV0CBnwQ8tMDegQIARBA",
+            "7": "https://www.google.com/search?q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&ei=DiXBYcmQFsGa_QbdhJjgBw&start=60&sa=N&ved=2ahUKEwjJz7m91vP0AhVBTd8KHV0CBnwQ8tMDegQIARBC",
+            "8": "https://www.google.com/search?q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&ei=DiXBYcmQFsGa_QbdhJjgBw&start=70&sa=N&ved=2ahUKEwjJz7m91vP0AhVBTd8KHV0CBnwQ8tMDegQIARBE",
+            "9": "https://www.google.com/search?q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&ei=DiXBYcmQFsGa_QbdhJjgBw&start=80&sa=N&ved=2ahUKEwjJz7m91vP0AhVBTd8KHV0CBnwQ8tMDegQIARBG",
+            "10": "https://www.google.com/search?q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&ei=DiXBYcmQFsGa_QbdhJjgBw&start=90&sa=N&ved=2ahUKEwjJz7m91vP0AhVBTd8KHV0CBnwQ8tMDegQIARBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+are+not+proven+to+be+infinite+in+number%3F&start=90"
+        }
+    }
+}

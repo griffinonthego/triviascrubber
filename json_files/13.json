@@ -1,0 +1,440 @@
+{
+    "search_metadata": {
+        "id": "61c1256ca1b4232feb3590cb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f8678afed5184aed/61c1256ca1b4232feb3590cb.json",
+        "created_at": "2021-12-21 00:53:00 UTC",
+        "processed_at": "2021-12-21 00:53:00 UTC",
+        "google_url": "https://www.google.com/search?q=7%2F11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&oq=7%2F11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/f8678afed5184aed/61c1256ca1b4232feb3590cb.html",
+        "total_time_taken": 7.21
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "7/11\u2019s original name makes it sound like they likely sold what kind of item?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "7/11\u2019s original name makes it sound like they likely sold what kind of item?",
+        "total_results": 3770000000,
+        "time_taken_displayed": 0.81
+    },
+    "related_questions": [
+        {
+            "question": "What was 7/11 originally called?",
+            "snippet": "In 1946, the chain's name was changed from \"Tote'm\" to \"7-Eleven\" to reflect the company's new, extended hours, 7:00 am to 11:00 pm, seven days per week. In November 1999, the corporate name of the US company was changed from \"The Southland Corporation\" to \"7-Eleven Inc.\"",
+            "title": "7-Eleven - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/7-Eleven",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a 7-Eleven"
+        },
+        {
+            "question": "What type of products does 7-Eleven sell?",
+            "snippet": "IN-STORE OFFER. 7-Select\u2122 PURE 1L 2/$3. Valid 11/3/21-1/4/22. Participating US. 7-Eleven stores, excludes Hawaii. ... 7NOW DELIVERY. Any Large Pizza +16 Boneless Wings for $10. Valid thru 01/04/22. Limit 1 per order. ... IN-STORE OFFER. 7-Select\u2122 Mini Donuts for $1. Valid 11/3/21-1/4/22. Participating US.",
+            "title": "Special offers just for you.",
+            "link": "https://www.7-eleven.com/",
+            "displayed_link": "https://www.7-eleven.com"
+        },
+        {
+            "question": "What are customers really buying in 7 11?",
+            "snippet": "7\u2011Eleven purchases and installs the following major equipment in stores: - Sales and Table Counters - Gondolas - Walk-In - Fastfood Tables - Easting Tables and Chairs - Air Conditioning Unit - Open Showcase - Siopao Steamer - Hotdog Steamer - Rice Cooker - Microwave Oven - Glass Top Freezer for Ice - Slurpee Machine - ...",
+            "title": "FAQ - 7-Eleven Philippines",
+            "link": "https://www.7-eleven.com.ph/franchising/faq/",
+            "displayed_link": "https://www.7-eleven.com.ph \u203a franchising \u203a faq"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "7-Eleven - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/7-Eleven",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a 7-Eleven",
+            "snippet": "Eleven, Inc is an American chain of convenience stores, headquartered in Dallas in the U.S. state of Texas. The chain was founded in 1927 as an ice house ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1256ca1b4232feb3590cb/images/066e0822ae752f4864446332b2c776f9573e63cc8d1a84152a8cb673bc0ea19a8048d88346275cdde954072e2a47aee8.png"
+                },
+                "keywords": [
+                    "7",
+                    "original",
+                    "name",
+                    "like",
+                    "they",
+                    "sold"
+                ],
+                "related_keywords": [
+                    "eleven"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/7-Eleven&tbm=ilp&ilps=AOR-xxt3nkB5_I_S4FnJIhpd2RjiczoYhw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FGQI73Htp70J:https://en.wikipedia.org/wiki/7-Eleven+&cd=1&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/7-Eleven+7/11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F",
+            "missing": [
+                "sound"
+            ],
+            "must_include": {
+                "word": "sound",
+                "link": "https://www.google.com/search?q=7/11%E2%80%99s+original+name+makes+it+%22sound%22+like+they+likely+sold+what+kind+of+item?&sa=X&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ5t4CegQIERAB"
+            }
+        },
+        {
+            "position": 2,
+            "title": "11 Facts About 7-Eleven on 7/11 | Mental Floss",
+            "link": "https://www.mentalfloss.com/article/51629/11-facts-about-7-eleven-711",
+            "displayed_link": "https://www.mentalfloss.com \u203a article \u203a 11-facts-about-...",
+            "date": "Jul 11, 2018",
+            "snippet": "The name changed to 7-Eleven in 1946 to reflect their new store ... it the Slurpee after the sound made while sipping it through a straw.",
+            "about_this_result": {
+                "source": {
+                    "description": "Mental Floss is an online magazine and its related American digital, print, and e-commerce media company focused on millennials. It is owned by Minute Media and based in New York City, United States.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Mental_Floss",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1256ca1b4232feb3590cb/images/066e0822ae752f4864446332b2c776f94d064939f03ae81f927ebb3be19a0124d6d1876f1acfc5781aa8d7f3be408e3f.png"
+                },
+                "keywords": [
+                    "7",
+                    "name",
+                    "makes",
+                    "sound",
+                    "like",
+                    "they",
+                    "likely",
+                    "sold",
+                    "item"
+                ],
+                "related_keywords": [
+                    "11",
+                    "eleven"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.mentalfloss.com/article/51629/11-facts-about-7-eleven-711&tbm=ilp&ilps=AOR-xxv6PTBi4MzM-ks-E5mO7HRl8JZ62A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:E7a9YjDhNaYJ:https://www.mentalfloss.com/article/51629/11-facts-about-7-eleven-711+&cd=8&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "What's the story behind how 7-Eleven got its name? - Quora",
+            "link": "https://www.quora.com/What-s-the-story-behind-how-7-Eleven-got-its-name",
+            "displayed_link": "https://www.quora.com \u203a What-s-the-story-behind-how-7...",
+            "snippet": "No, in fact he sold the store because he was costing him too much money. Over head eats all most everything in those kinds of stores. They only make about 5 ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Quora is a social question-and-answer website based in Mountain View, California, United States. It was founded on June 25, 2009, and made available to the public on June 21, 2010. Users can collaborate by editing questions and commenting on answers that have been submitted by other users.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Quora",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1256ca1b4232feb3590cb/images/066e0822ae752f4864446332b2c776f9a5d591aecc9187f2fa13d08bd2d9d896f1a13e11efe373f6a270149e642631e2.png"
+                },
+                "keywords": [
+                    "7",
+                    "11's",
+                    "original",
+                    "name",
+                    "makes",
+                    "like",
+                    "they",
+                    "sold",
+                    "item"
+                ],
+                "related_keywords": [
+                    "11",
+                    "eleven",
+                    "its"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/What-s-the-story-behind-how-7-Eleven-got-its-name&tbm=ilp&ilps=AOR-xxtvzCpIgbIbk8TqO0LC6j9PFXdOkA"
+        },
+        {
+            "position": 4,
+            "title": "Fun Facts You Didn't Know About 7-Eleven | Cheapism.com",
+            "link": "https://blog.cheapism.com/7-eleven-trivia/",
+            "displayed_link": "https://blog.cheapism.com \u203a 7-eleven-trivia",
+            "date": "Jul 9, 2021",
+            "snippet": "The Store Was Originally Called Tote'm\u200b\u200b First called Tote'm Stores because customers literally toted their groceries away, the first convenience store was later ...",
+            "about_this_result": {
+                "source": {
+                    "description": "blog.cheapism.com was first indexed by Google in April 2017",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1256ca1b4232feb3590cb/images/066e0822ae752f4864446332b2c776f9ed791a57361b9e030cca5356b08c97667ebb2b999656265036e76f68a918d826.png"
+                },
+                "keywords": [
+                    "7",
+                    "original",
+                    "name",
+                    "sound",
+                    "like",
+                    "they",
+                    "kind"
+                ],
+                "related_keywords": [
+                    "eleven",
+                    "first"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://blog.cheapism.com/7-eleven-trivia/&tbm=ilp&ilps=AOR-xxtEk6bLZZJYjkj3Dh2JpkdE2s_jsg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:n4AewZUnRwUJ:https://blog.cheapism.com/7-eleven-trivia/+&cd=10&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Food You Should Never Buy At 7-Eleven - Mashed",
+            "link": "https://www.mashed.com/54540/food-never-buy-7-eleven/",
+            "displayed_link": "https://www.mashed.com \u203a food-never-buy-7-eleven",
+            "date": "Apr 4, 2017",
+            "snippet": "Slurpee. When you think of 7-Eleven, the first thing that comes to mind is the Slurpee. It's the one item that separates 7-Eleven from its convenience store ...",
+            "about_this_result": {
+                "source": {
+                    "description": "mashed.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1256ca1b4232feb3590cb/images/066e0822ae752f4864446332b2c776f99f57fc9f394827a3b3806404fe2260e619a9a7fa2ddfa4a362d0255fffdabee4.png"
+                },
+                "keywords": [
+                    "7",
+                    "name",
+                    "makes",
+                    "sound",
+                    "like",
+                    "they",
+                    "item"
+                ],
+                "related_keywords": [
+                    "eleven",
+                    "it's",
+                    "its"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.mashed.com/54540/food-never-buy-7-eleven/&tbm=ilp&ilps=AOR-xxvC-J28Cp4PoEvvf-ITN0zEPsa3Gw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:J7S-z-ivgZEJ:https://www.mashed.com/54540/food-never-buy-7-eleven/+&cd=11&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "7-Eleven | History & Facts | Britannica",
+            "link": "https://www.britannica.com/topic/7-Eleven",
+            "displayed_link": "https://www.britannica.com \u203a ... \u203a Banking & Business",
+            "date": "Dec 2, 2021",
+            "snippet": "Either after the merger, or shortly before it, one of the icehouses also began selling food items. Southland Ice soon took up general retailing, ...",
+            "about_this_result": {
+                "source": {
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1256ca1b4232feb3590cb/images/066e0822ae752f4864446332b2c776f99c42753833bc704ae47d0380cfe14f1f1f7a358a5d82494880dc2dd4262317e2.png"
+                },
+                "keywords": [
+                    "7",
+                    "name",
+                    "likely",
+                    "sold"
+                ],
+                "related_keywords": [
+                    "eleven",
+                    "selling",
+                    "items"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/topic/7-Eleven&tbm=ilp&ilps=AOR-xxvlvKo8z0UDcpI3tVdxTyOWVCAvLg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:06HoOoQ9FWYJ:https://www.britannica.com/topic/7-Eleven+&cd=12&hl=en&ct=clnk&gl=us",
+            "missing": [
+                "sound"
+            ],
+            "must_include": {
+                "word": "sound",
+                "link": "https://www.google.com/search?q=7/11%E2%80%99s+original+name+makes+it+%22sound%22+like+they+likely+sold+what+kind+of+item?&sa=X&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ5t4CegQILhAB"
+            }
+        },
+        {
+            "position": 7,
+            "title": "Why the 7-Eleven Logo Looks Like That | Reader's Digest",
+            "link": "https://www.rd.com/article/7-eleven-logo/",
+            "displayed_link": "https://www.rd.com \u203a Knowledge \u203a Facts",
+            "date": "Sep 20, 2021",
+            "snippet": "Why is it 7-Eleven and not 7-11? Why does the current 7-Eleven logo have a lowercase N? We answer the questions you've puzzled over for ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Reader's Digest is an American general-interest family magazine, published 10 times a year. Formerly based in Chappaqua, New York, it is now headquartered in midtown Manhattan. The magazine was founded in 1922 by DeWitt Wallace and Lila Bell Wallace.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Reader's_Digest",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1256ca1b4232feb3590cb/images/066e0822ae752f4864446332b2c776f9e99fb5bf4e1be4cf72acb036ac0fd7eb89b517d8fe7de499d57354d73c7bdd53.png"
+                },
+                "keywords": [
+                    "7",
+                    "name",
+                    "like",
+                    "they"
+                ],
+                "related_keywords": [
+                    "11",
+                    "eleven",
+                    "does"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.rd.com/article/7-eleven-logo/&tbm=ilp&ilps=AOR-xxt9a6NkbyCXSup3qksM4wk7du8hPg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WhKkQVcUIGQJ:https://www.rd.com/article/7-eleven-logo/+&cd=13&hl=en&ct=clnk&gl=us",
+            "missing": [
+                "item?"
+            ],
+            "must_include": {
+                "word": "item?",
+                "link": "https://www.google.com/search?q=7/11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+%22item?%22&sa=X&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ5t4CegQILxAB"
+            }
+        },
+        {
+            "position": 8,
+            "title": "Network World - Nov 19, 2001 - Google Books Result",
+            "link": "https://books.google.com/books?id=EBkEAAAAMBAJ&pg=PT36&lpg=PT36&dq=7/11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item?&source=bl&ots=-yqG9Qgj7Y&sig=ACfU3U3Oiif27Y7o4nbUqI9LMQpm9ZVg5g&hl=en&sa=X&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ6AF6BAgaEAM",
+            "displayed_link": "https://books.google.com \u203a books \u203a id=EBkEAAAAMBAJ",
+            "snippet": "While it is certainly the case that some vendors are fast and loose with their product claims, folks, it's time to get real! If Microsoft or any other ...",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "vol_no": null
+                    },
+                    "extensions": [
+                        "Vol. 18, No. 47",
+                        "\u200eMagazine"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "Twelfth Night - Google Books Result",
+            "link": "https://books.google.com/books?id=wjUoBQAAQBAJ&pg=PT86&lpg=PT86&dq=7/11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item?&source=bl&ots=lyOzGusWAE&sig=ACfU3U1dvk_9DKfs5Ei6353wdE-qamoA3A&hl=en&sa=X&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ6AF6BAgbEAM",
+            "displayed_link": "https://books.google.com \u203a books",
+            "snippet": "This is his first soliloquy, and he's talking about playacting. Perhaps we hear him trying out his Sir Topaz voice (lines 7\u201311). It is also a brief moment ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Paul Edmondson",
+                        "2005",
+                        "\u200ePerforming Arts"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2005
+                    }
+                }
+            }
+        },
+        {
+            "position": 10,
+            "title": "Index of Federal Specifications, Standards and Commercial ...",
+            "link": "https://books.google.com/books?id=LbFPAAAAMAAJ&pg=PA387&lpg=PA387&dq=7/11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item?&source=bl&ots=Ct7Z6HkZvX&sig=ACfU3U3PEkHAXsoom34T3nf7AoJT2O97Pw&hl=en&sa=X&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ6AF6BAgZEAM",
+            "displayed_link": "https://books.google.com \u203a books \u203a id=LbFPAAAAMAAJ",
+            "snippet": "GG - 1-671F / GEN Triangles , Line Guide , Lettering , Nonadjustable , Plastic GG - T - 671 / 28 Tripod , Surveying : Extension - Leg Type A - A - 52298 ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Commercial products"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "7-eleven history",
+            "link": "https://www.google.com/search?q=7-eleven+history&sa=X&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ1QJ6BAgcEAE"
+        },
+        {
+            "query": "7-eleven subsidiaries",
+            "link": "https://www.google.com/search?q=7-Eleven+subsidiaries&sa=X&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "first 7-eleven",
+            "link": "https://www.google.com/search?q=First+7-Eleven&sa=X&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ1QJ6BAgeEAE"
+        },
+        {
+            "query": "7-eleven store franchise in india",
+            "link": "https://www.google.com/search?q=7-eleven+store+franchise+in+india&sa=X&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "how did 7-11 get its name",
+            "link": "https://www.google.com/search?q=how+did+7-11+get+its+name&sa=X&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ1QJ6BAghEAE"
+        },
+        {
+            "query": "7-eleven products",
+            "link": "https://www.google.com/search?q=7-Eleven+products&sa=X&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ1QJ6BAgfEAE"
+        },
+        {
+            "query": "7 11 store",
+            "link": "https://www.google.com/search?q=7+11+store&sa=X&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ1QJ6BAglEAE"
+        },
+        {
+            "query": "7-eleven uk",
+            "link": "https://www.google.com/search?q=7-eleven+uk&sa=X&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ1QJ6BAgdEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=7/11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&ei=ciXBYdW4BuWV9u8PhJ62qAM&start=10&sa=N&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ8NMDegQIARBJ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=7/11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&ei=ciXBYdW4BuWV9u8PhJ62qAM&start=10&sa=N&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=7/11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&ei=ciXBYdW4BuWV9u8PhJ62qAM&start=20&sa=N&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=7/11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&ei=ciXBYdW4BuWV9u8PhJ62qAM&start=30&sa=N&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=7/11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&ei=ciXBYdW4BuWV9u8PhJ62qAM&start=40&sa=N&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=7/11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&ei=ciXBYdW4BuWV9u8PhJ62qAM&start=50&sa=N&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=7/11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&ei=ciXBYdW4BuWV9u8PhJ62qAM&start=60&sa=N&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=7/11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&ei=ciXBYdW4BuWV9u8PhJ62qAM&start=70&sa=N&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=7/11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&ei=ciXBYdW4BuWV9u8PhJ62qAM&start=80&sa=N&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=7/11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&ei=ciXBYdW4BuWV9u8PhJ62qAM&start=90&sa=N&ved=2ahUKEwjVuYHt1vP0AhXliv0HHQSPDTUQ8tMDegQIARBH"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=7%2F11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=7%2F11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=7%2F11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=7%2F11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=7%2F11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=7%2F11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=7%2F11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=7%2F11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=7%2F11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=7%2F11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=7%2F11%E2%80%99s+original+name+makes+it+sound+like+they+likely+sold+what+kind+of+item%3F&start=90"
+        }
+    }
+}

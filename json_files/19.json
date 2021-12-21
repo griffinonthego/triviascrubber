@@ -1,0 +1,468 @@
+{
+    "search_metadata": {
+        "id": "61c127a8af5af1f8461a92b5",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/afe24381e45482a6/61c127a8af5af1f8461a92b5.json",
+        "created_at": "2021-12-21 01:02:32 UTC",
+        "processed_at": "2021-12-21 01:02:32 UTC",
+        "google_url": "https://www.google.com/search?q=which+combination+of+letters+signifies+hugs+and+kisses%3F&oq=which+combination+of+letters+signifies+hugs+and+kisses%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/afe24381e45482a6/61c127a8af5af1f8461a92b5.html",
+        "total_time_taken": 2.27
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "which combination of letters signifies hugs and kisses?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "which combination of letters signifies hugs and kisses?",
+        "total_results": 3690000,
+        "time_taken_displayed": 0.84
+    },
+    "inline_video_carousels": [
+        {
+            "position": 1,
+            "title": "What Does XOXO Mean and Where Did It Come From? - Brides",
+            "link": "https://www.brides.com/what-does-xoxo-mean-5181761",
+            "displayed_link": "https://www.brides.com \u203a Relationships \u203a Love & Dating"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What is the symbol for hug and kiss?",
+            "snippet": "XOX, or XOXO, means hugs and kisses, with the x representing kisses and the o representing hugs. It's usually used as a lighthearted way of expressing affection, sincerity, or deep friendship. Related words: cross mark emoji.May 22, 2018",
+            "title": "XOX",
+            "link": "https://www.dictionary.com/e/acronyms/xox/",
+            "displayed_link": "https://www.dictionary.com \u203a acronyms \u203a xox"
+        },
+        {
+            "question": "What letter represents a hug?",
+            "snippet": "Less is known about how \u201co\u201d came to signify a hug. An oft-quoted and unconfirmed \u201co\u201d theory was postulated by the late Leo Rosten in his 1968 \u201cJoys of Yiddish.\u201d Rosten suggested that the \u201co\u201d may have evolved also as a signature.Feb 13, 2014",
+            "title": "o",
+            "link": "https://www.washingtonpost.com/lifestyle/style/a-whole-lot-of-history-behind-x-and-o-kiss-and-hug/2014/02/13/0c3e218a-9341-11e3-b46a-5a3d0d2130da_story.html",
+            "displayed_link": "https://www.washingtonpost.com \u203a style \u203a 2014/02/13"
+        },
+        {
+            "question": "What is the symbol for a kiss?",
+            "snippet": "We all know \"XOXO\" represents hugs and kisses, \"X\" standing for kisses, \"O\" for hugs. According to the Oxford English Dictionary, X can be \"used to represent a kiss, esp. in the subscription to a letter.\" In its modern day use, people use the love and affection abbreviation to sign cards, emails, and in texts.Feb 11, 2015",
+            "title": "X",
+            "link": "https://www.techtimes.com/articles/32247/20150211/history-x-became-symbol-kiss.htm",
+            "displayed_link": "https://www.techtimes.com \u203a articles \u203a history-x-became-s..."
+        },
+        {
+            "question": "What's another way to say hugs and kisses?",
+            "title": "What is another word for hugs and kisses?",
+            "link": "https://www.wordhippo.com/what-is/another-word-for/hugs_and_kisses.html",
+            "displayed_link": "https://www.wordhippo.com \u203a what-is \u203a hugs_and_kisses"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "What Does XOXO Mean and Where Did It Come From? - Brides",
+        "link": "https://www.brides.com/what-does-xoxo-mean-5181761",
+        "displayed_link": "https://www.brides.com \u203a Relationships \u203a Love & Dating",
+        "date": "May 11, 2021",
+        "snippet": "It's pretty common knowledge that XOXO means \"hugs and kisses.\" According to Dictionary.com, it's generally thought of as a \"lighthearted way of expressing affection, sincerity, or deep friendship.\" The X represents a kiss, while the O represents a hug.",
+        "thumbnail": "https://serpapi.com/searches/61c127a8af5af1f8461a92b5/images/547b81f99b3302bced31b0d8aa76e8e40e994f58bfd19189.jpeg"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Why Does \"XOXO\" Mean \"Kisses and Hugs\"? | Mental Floss",
+            "link": "https://www.mentalfloss.com/article/31929/why-does-xoxo-mean-kisses-and-hugs",
+            "displayed_link": "https://www.mentalfloss.com \u203a article \u203a why-does-xoxo...",
+            "date": "Dec 17, 2012",
+            "snippet": "Combined with the familiar Christian use of an \u201cX\u201d signifying the oath sealed with a kiss, the \u201cO\u201d was likely then adapted to mean hugs as an ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Mental Floss is an online magazine and its related American digital, print, and e-commerce media company focused on millennials. It is owned by Minute Media and based in New York City, United States.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Mental_Floss",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127a8af5af1f8461a92b5/images/c0cb73c1c13f932ce288797adb5adeb06e169d7e9c4ba21fc17e6537e46aa4aaa9755a290b321804c36398e2b4011a82.png"
+                },
+                "keywords": [
+                    "which",
+                    "letters",
+                    "hugs",
+                    "kisses"
+                ],
+                "related_keywords": [
+                    "combined",
+                    "mean",
+                    "signifying",
+                    "kiss"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.mentalfloss.com/article/31929/why-does-xoxo-mean-kisses-and-hugs&tbm=ilp&ilps=AOR-xxt1GoiXbQu4goZPCbaYuXDFTy3VbA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Po26YDRuzooJ:https://www.mentalfloss.com/article/31929/why-does-xoxo-mean-kisses-and-hugs+&cd=15&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "How \"XOXO\" Came to Mean \"Hugs and Kisses\" - Today I ...",
+            "link": "http://www.todayifoundout.com/index.php/2013/06/how-xoxo-came-to-mean-hugs-and-kisses/",
+            "displayed_link": "http://www.todayifoundout.com \u203a index.php \u203a 2013/06",
+            "date": "Jun 5, 2013",
+            "snippet": "You've seen XO as a sign-off representing love, affection, or friendship on letters, cards, emails, chat rooms and text messages.",
+            "about_this_result": {
+                "source": {
+                    "description": "todayifoundout.com was first indexed by Google more than 10 years ago",
+                    "security": "not secure"
+                },
+                "keywords": [
+                    "which",
+                    "combination",
+                    "letters",
+                    "signifies",
+                    "hugs",
+                    "kisses"
+                ],
+                "related_keywords": [
+                    "letter",
+                    "mean"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+http://www.todayifoundout.com/index.php/2013/06/how-xoxo-came-to-mean-hugs-and-kisses/&tbm=ilp&ilps=AOR-xxsNof-mdfV9AP1FY-mP9zSd115gZA",
+            "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:vemUZhtoCuwJ:www.todayifoundout.com/index.php/2013/06/how-xoxo-came-to-mean-hugs-and-kisses/+&cd=16&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:www.todayifoundout.com/index.php/2013/06/how-xoxo-came-to-mean-hugs-and-kisses/+which+combination+of+letters+signifies+hugs+and+kisses%3F"
+        },
+        {
+            "position": 3,
+            "title": "Hugs and kisses - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Hugs_and_kisses",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Hugs_and_kisses",
+            "snippet": "The Chi Rho, often represented with the letter 'X', was also used as a holy symbol throughout Christian history as it represented the Greek word for Christ ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127a8af5af1f8461a92b5/images/c0cb73c1c13f932ce288797adb5adeb0b6b44bad8bd21ac8c463abe6c592d1fe1df9898713b935485608869a11991b0d.png"
+                },
+                "keywords": [
+                    "which",
+                    "letters",
+                    "hugs",
+                    "kisses"
+                ],
+                "related_keywords": [
+                    "mean"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Hugs_and_kisses&tbm=ilp&ilps=AOR-xxuo79sf-i8t55orKCbifhHxORAa8A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MvqreV_JTAEJ:https://en.wikipedia.org/wiki/Hugs_and_kisses+&cd=17&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Hugs_and_kisses+which+combination+of+letters+signifies+hugs+and+kisses%3F",
+            "missing": [
+                "combination"
+            ],
+            "must_include": {
+                "word": "combination",
+                "link": "https://www.google.com/search?q=which+%22combination%22+of+letters+signifies+hugs+and+kisses?&sa=X&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ5t4CegQICBAB"
+            }
+        },
+        {
+            "position": 4,
+            "title": "XOXO Marks the Spot : Candlepower - Vocabulary.com",
+            "link": "https://www.vocabulary.com/articles/candlepwr/xoxo-marks-the-spot/",
+            "displayed_link": "https://www.vocabulary.com \u203a articles \u203a candlepwr \u203a xox...",
+            "date": "Feb 14, 2013",
+            "snippet": "To further confuse matters, the XO combination sometimes means something other than kisses and hugs. XO Cognac, for example, is \"extra old\" \u2014 a ...",
+            "about_this_result": {
+                "source": {
+                    "description": "vocabulary.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127a8af5af1f8461a92b5/images/c0cb73c1c13f932ce288797adb5adeb0addd9a6aea3fa09f78a1dd72818acd3e550a03547c01824b31d25ba98e78f9b4.png"
+                },
+                "keywords": [
+                    "which",
+                    "combination",
+                    "letters",
+                    "hugs",
+                    "kisses"
+                ],
+                "related_keywords": [
+                    "letter",
+                    "mean"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.vocabulary.com/articles/candlepwr/xoxo-marks-the-spot/&tbm=ilp&ilps=AOR-xxulRMcL3U5dVRjy8u9Gq_vausZ_vA"
+        },
+        {
+            "position": 5,
+            "title": "Why 'XOXO' Means 'Hugs and Kisses' | Grammar Girl - Quick ...",
+            "link": "https://www.quickanddirtytips.com/education/grammar/why-xoxo-means-hugs-and-kisses",
+            "displayed_link": "https://www.quickanddirtytips.com \u203a education \u203a why-...",
+            "date": "Feb 13, 2020",
+            "snippet": "Using an O to symbolize a hug is much newer, at least according to the OED, which shows the first use in 1948. The O also seems to be used to ...",
+            "about_this_result": {
+                "source": {
+                    "description": "quickanddirtytips.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127a8af5af1f8461a92b5/images/c0cb73c1c13f932ce288797adb5adeb002ff512958c8e08d580911f7b73b5c8ce1c9a0e4389bbd6f95d9e5fb133e71cb.png"
+                },
+                "keywords": [
+                    "which",
+                    "combination",
+                    "letters",
+                    "hugs",
+                    "kisses"
+                ],
+                "related_keywords": [
+                    "meaning",
+                    "means"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.quickanddirtytips.com/education/grammar/why-xoxo-means-hugs-and-kisses&tbm=ilp&ilps=AOR-xxuiVZpf3Pk3zExMhJIm9p-WqxAIXg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vGN-J0Y1QIYJ:https://www.quickanddirtytips.com/education/grammar/why-xoxo-means-hugs-and-kisses+&cd=19&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "Is 'x' a hug or a kiss in 'xoxo?' - Quora",
+            "link": "https://www.quora.com/Is-x-a-hug-or-a-kiss-in-xoxo",
+            "displayed_link": "https://www.quora.com \u203a Is-x-a-hug-or-a-kiss-in-xoxo",
+            "snippet": "While the history of using the \u201cO\u201d is a little fuzzy, \u201cX\u201d is a kiss, dating back to the Middle Ages, when a Christian cross was placed on letters to symbolize ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Quora is a social question-and-answer website based in Mountain View, California, United States. It was founded on June 25, 2009, and made available to the public on June 21, 2010. Users can collaborate by editing questions and commenting on answers that have been submitted by other users.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Quora",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127a8af5af1f8461a92b5/images/c0cb73c1c13f932ce288797adb5adeb017174cb19f9335bd890d13c09a886754bd51c218428320fc78bb72ad5e231a55.png"
+                },
+                "keywords": [
+                    "which",
+                    "letters",
+                    "hugs",
+                    "kisses"
+                ],
+                "related_keywords": [
+                    "symbolize",
+                    "hug",
+                    "kiss"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/Is-x-a-hug-or-a-kiss-in-xoxo&tbm=ilp&ilps=AOR-xxvCCRXpmCoSmmJaCHS-eGMvZxkRFg",
+            "cached_page_link": "/search?q=related:https://www.quora.com/Is-x-a-hug-or-a-kiss-in-xoxo+which+combination+of+letters+signifies+hugs+and+kisses%3F"
+        },
+        {
+            "position": 7,
+            "title": "What Does XOXO Mean?- How To Use It - College Aftermath",
+            "link": "https://collegeaftermath.com/other/what-does-xoxo-mean/",
+            "displayed_link": "https://collegeaftermath.com \u203a other \u203a what-does-xoxo-...",
+            "snippet": "There are different ways to use XOXO. Some of them are discussed below. Apart from these distinct combinations of letters to mention hugs and kisses, there are ...",
+            "about_this_result": {
+                "source": {
+                    "description": "collegeaftermath.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127a8af5af1f8461a92b5/images/c0cb73c1c13f932ce288797adb5adeb08e27b5bb2306af96708be68eb794a51c9278303f107301f0a7162aa1e267e17b.png"
+                },
+                "keywords": [
+                    "which",
+                    "letters",
+                    "signifies",
+                    "hugs",
+                    "kisses"
+                ],
+                "related_keywords": [
+                    "what",
+                    "combinations",
+                    "mean"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://collegeaftermath.com/other/what-does-xoxo-mean/&tbm=ilp&ilps=AOR-xxuzTLQkujUDkih2OxzUb8_BfZzq0g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6USisClKROUJ:https://collegeaftermath.com/other/what-does-xoxo-mean/+&cd=21&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 8,
+            "title": "A whole lot of history behind 'x' and 'o,' kiss and hug - The ...",
+            "link": "https://www.washingtonpost.com/lifestyle/style/a-whole-lot-of-history-behind-x-and-o-kiss-and-hug/2014/02/13/0c3e218a-9341-11e3-b46a-5a3d0d2130da_story.html",
+            "displayed_link": "https://www.washingtonpost.com \u203a style \u203a 2014/02/13",
+            "date": "Feb 13, 2014",
+            "snippet": "How did the letters come to mean kisses and hugs?",
+            "about_this_result": {
+                "source": {
+                    "description": "The Washington Post is an American daily newspaper published in Washington, D.C. It is the most-widely circulated newspaper within the Washington metropolitan area, and has a large national audience. Daily broadsheet editions are printed for D.C., Maryland, and Virginia.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/The_Washington_Post",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127a8af5af1f8461a92b5/images/c0cb73c1c13f932ce288797adb5adeb0c4bd0e6472519cd71e7f7017e9ce1c5f4e8dc31457fa1205b57c262ece8e3982.png"
+                },
+                "keywords": [
+                    "which",
+                    "letters",
+                    "hugs",
+                    "kisses"
+                ],
+                "related_keywords": [
+                    "mean",
+                    "hug",
+                    "kiss"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.washingtonpost.com/lifestyle/style/a-whole-lot-of-history-behind-x-and-o-kiss-and-hug/2014/02/13/0c3e218a-9341-11e3-b46a-5a3d0d2130da_story.html&tbm=ilp&ilps=AOR-xxupT5p6GtkiZsic3b91QtbXHoUJYA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lJP4MsihQqwJ:https://www.washingtonpost.com/lifestyle/style/a-whole-lot-of-history-behind-x-and-o-kiss-and-hug/2014/02/13/0c3e218a-9341-11e3-b46a-5a3d0d2130da_story.html+&cd=22&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.washingtonpost.com/lifestyle/style/a-whole-lot-of-history-behind-x-and-o-kiss-and-hug/2014/02/13/0c3e218a-9341-11e3-b46a-5a3d0d2130da_story.html+which+combination+of+letters+signifies+hugs+and+kisses%3F",
+            "missing": [
+                "combination"
+            ],
+            "must_include": {
+                "word": "combination",
+                "link": "https://www.google.com/search?q=which+%22combination%22+of+letters+signifies+hugs+and+kisses?&sa=X&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ5t4CegQIPBAB"
+            }
+        },
+        {
+            "position": 9,
+            "title": "What is the meaning of OXOX? - AnswersToAll",
+            "link": "https://answerstoall.com/language/what-is-the-meaning-of-oxox/",
+            "displayed_link": "https://answerstoall.com \u203a language \u203a what-is-the-meani...",
+            "snippet": "Why XOXO means Hugs and kisses? Combined with the familiar Christian use of an \u201cX\u201d signifying the oath sealed with a kiss, ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Why XOXO means Hugs and kisses? \u2014"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "answerstoall.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127a8af5af1f8461a92b5/images/c0cb73c1c13f932ce288797adb5adeb05f01b662725e4299575f80c4712844192034bb9b9a7cc48511c0f185729ef4af.png"
+                },
+                "keywords": [
+                    "which",
+                    "letters",
+                    "hugs",
+                    "kisses"
+                ],
+                "related_keywords": [
+                    "what",
+                    "combined",
+                    "meaning",
+                    "means",
+                    "signifying"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://answerstoall.com/language/what-is-the-meaning-of-oxox/&tbm=ilp&ilps=AOR-xxsgNgC-pig20rXeGmGsG9LWKjqh9w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:xaovFKBpaW0J:https://answerstoall.com/language/what-is-the-meaning-of-oxox/+&cd=23&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "why does o mean hug",
+            "link": "https://www.google.com/search?q=Why+does+O+mean+hug&sa=X&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "what does x and o mean",
+            "link": "https://www.google.com/search?q=What+does+X+and+O+mean&sa=X&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "is x hugs or kisses",
+            "link": "https://www.google.com/search?q=Is+X+hugs+or+kisses&sa=X&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "hugs and kisses meaning",
+            "link": "https://www.google.com/search?q=Hugs+and+kisses+meaning&sa=X&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ1QJ6BAguEAE"
+        },
+        {
+            "query": "does xoxo mean i love you",
+            "link": "https://www.google.com/search?q=Does+XOXO+mean+I+love+you&sa=X&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "what does xoxo from a girl mean",
+            "link": "https://www.google.com/search?q=What+does+xoxo+from+a+girl+mean&sa=X&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "where did xoxo come from",
+            "link": "https://www.google.com/search?q=Where+did+XOXO+come+from&sa=X&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "what does xoxo mean from a guy",
+            "link": "https://www.google.com/search?q=What+does+XOXO+mean+from+a+guy&sa=X&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ1QJ6BAgqEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=which+combination+of+letters+signifies+hugs+and+kisses%3F&ei=qSfBYaXmGK2Hggel6afYDw&start=10&sa=N&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ8NMDegQIARBJ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=which+combination+of+letters+signifies+hugs+and+kisses%3F&ei=qSfBYaXmGK2Hggel6afYDw&start=10&sa=N&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=which+combination+of+letters+signifies+hugs+and+kisses%3F&ei=qSfBYaXmGK2Hggel6afYDw&start=20&sa=N&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=which+combination+of+letters+signifies+hugs+and+kisses%3F&ei=qSfBYaXmGK2Hggel6afYDw&start=30&sa=N&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=which+combination+of+letters+signifies+hugs+and+kisses%3F&ei=qSfBYaXmGK2Hggel6afYDw&start=40&sa=N&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=which+combination+of+letters+signifies+hugs+and+kisses%3F&ei=qSfBYaXmGK2Hggel6afYDw&start=50&sa=N&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=which+combination+of+letters+signifies+hugs+and+kisses%3F&ei=qSfBYaXmGK2Hggel6afYDw&start=60&sa=N&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=which+combination+of+letters+signifies+hugs+and+kisses%3F&ei=qSfBYaXmGK2Hggel6afYDw&start=70&sa=N&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=which+combination+of+letters+signifies+hugs+and+kisses%3F&ei=qSfBYaXmGK2Hggel6afYDw&start=80&sa=N&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=which+combination+of+letters+signifies+hugs+and+kisses%3F&ei=qSfBYaXmGK2Hggel6afYDw&start=90&sa=N&ved=2ahUKEwjl3sL72PP0AhWtg-AKHaX0CfsQ8tMDegQIARBH"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+combination+of+letters+signifies+hugs+and+kisses%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+combination+of+letters+signifies+hugs+and+kisses%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+combination+of+letters+signifies+hugs+and+kisses%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+combination+of+letters+signifies+hugs+and+kisses%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+combination+of+letters+signifies+hugs+and+kisses%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+combination+of+letters+signifies+hugs+and+kisses%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+combination+of+letters+signifies+hugs+and+kisses%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+combination+of+letters+signifies+hugs+and+kisses%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+combination+of+letters+signifies+hugs+and+kisses%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+combination+of+letters+signifies+hugs+and+kisses%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+combination+of+letters+signifies+hugs+and+kisses%3F&start=90"
+        }
+    }
+}

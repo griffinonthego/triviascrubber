@@ -1,0 +1,460 @@
+{
+    "search_metadata": {
+        "id": "61c1278db7b1ccea4f664748",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/403d91d396d664ac/61c1278db7b1ccea4f664748.json",
+        "created_at": "2021-12-21 01:02:05 UTC",
+        "processed_at": "2021-12-21 01:02:05 UTC",
+        "google_url": "https://www.google.com/search?q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&oq=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/403d91d396d664ac/61c1278db7b1ccea4f664748.html",
+        "total_time_taken": 6.66
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "what city is commonly referred to as \u201cthe six\u201c by drake?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "what city is commonly referred to as \u201cthe six\u201c by drake?",
+        "total_results": 6410000,
+        "time_taken_displayed": 0.73
+    },
+    "inline_video_carousels": [
+        {
+            "position": 1,
+            "title": "Why is Toronto called the 6? - TorontoRentals.Com",
+            "link": "https://www.torontorentals.com/blog/why-is-toronto-called-the-6#:~:text=Toronto%20is%20called%20the%206,At%20first%2C%20people%20were%20confused.",
+            "displayed_link": "https://www.torontorentals.com \u203a ... \u203a Toronto"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What is Drake referring to with 6?",
+            "snippet": "The \u201c6\u201d in the other half of the title refers to Toronto. The number \u201c6\u201d is the nickname Drake has given to the city of Toronto. He created this nickname from area codes of Toronto \u2013 647 and 416.Jan 2, 2019",
+            "title": "Meaning of \"You & The 6\" by Drake - Song Meanings and Facts",
+            "link": "https://www.songmeaningsandfacts.com/you-the-6-by-drake/",
+            "displayed_link": "https://www.songmeaningsandfacts.com \u203a you-the-6-by..."
+        },
+        {
+            "question": "What cities are in the 6?",
+            "snippet": "As for the meaning of The 6, that is still up for debate. Early speculation pointed to the city's area codes \u2013 416 and 647. The other theory gaining credibility involves the 1998 amalgamation of Toronto, when the six different boroughs \u2013 Etobicoke, North York, Scarborough, York, East York and Toronto \u2013 became one city.Jul 10, 2015",
+            "title": "We The 6: Why the name Drake gave us is here to stay - The ...",
+            "link": "https://www.theglobeandmail.com/news/toronto/we-the-6-why-the-name-drake-gave-us-is-here-to-stay/article25421112/",
+            "displayed_link": "https://www.theglobeandmail.com \u203a article25421112"
+        },
+        {
+            "question": "Where is the six in Toronto?",
+            "snippet": "The Six is also a nickname for the city of Toronto, referring to the city's 416 area code, as well as the current municipality's original cities of Old Toronto, North York, Scarborough, York and Etobicoke plus the borough of East York.",
+            "title": "Toronto Six - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Toronto_Six",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Toronto_Six"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Why is Toronto called the 6? - TorontoRentals.Com",
+        "link": "https://www.torontorentals.com/blog/why-is-toronto-called-the-6#:~:text=Toronto%20is%20called%20the%206,At%20first%2C%20people%20were%20confused.",
+        "displayed_link": "https://www.torontorentals.com \u203a ... \u203a Toronto",
+        "date": "Jun 13, 2019",
+        "snippet": "Toronto is called the 6 thanks to Forest Hill 'hood rapper Drake, who refers to his hometown as the 6 when he named his album, Views from the 6. FYI, you can actually rent out the luxury condo he used to live in. At first, people were confused."
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Drake finally explains 'The Six' | Toronto Sun",
+            "link": "https://torontosun.com/2016/05/13/drake-finally-explains-the-six",
+            "displayed_link": "https://torontosun.com \u203a 2016/05/13 \u203a drake-finally-ex...",
+            "date": "May 13, 2016",
+            "snippet": "Sure, you've probably referred to yourself as living in \u201cThe Six.\u201d And you've even been in a club in Vegas and gone extra crazy when the DJ ...",
+            "about_this_result": {
+                "source": {
+                    "description": "The Toronto Sun is an English-language tabloid newspaper published daily in Toronto, Ontario, Canada.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Toronto_Sun",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1278db7b1ccea4f664748/images/c31faa3be7bb8af85688cc2b413bd3f7109e9aff6819dadefee8e890b563289b92932639cd1713b3b82bd13880f37b76.png"
+                },
+                "keywords": [
+                    "what",
+                    "referred",
+                    "the",
+                    "six",
+                    "drake"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://torontosun.com/2016/05/13/drake-finally-explains-the-six&tbm=ilp&ilps=AOR-xxsIbNZJ_5hB4IQEBj4YvYk7h4EHXA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1byA416DXzAJ:https://torontosun.com/2016/05/13/drake-finally-explains-the-six+&cd=3&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "We The 6: Why the name Drake gave us is here to stay - The ...",
+            "link": "https://www.theglobeandmail.com/news/toronto/we-the-6-why-the-name-drake-gave-us-is-here-to-stay/article25421112/",
+            "displayed_link": "https://www.theglobeandmail.com \u203a article25421112",
+            "date": "Jul 10, 2015",
+            "snippet": "Drake also has his own popular line of clothing, called October's Very Own, ... when the six different boroughs \u2013 Etobicoke, North York, ...",
+            "about_this_result": {
+                "source": {
+                    "description": "The Globe and Mail is a Canadian newspaper printed in five cities in western and central Canada. With a weekly readership of approximately 2 million in 2015, it is Canada's most widely read newspaper ...",
+                    "source_info_link": "https://en.wikipedia.org/wiki/The_Globe_and_Mail",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1278db7b1ccea4f664748/images/c31faa3be7bb8af85688cc2b413bd3f7595432900693239882aba8e2306851a733ad5f19b5e06e3d07944b9696fd834f.png"
+                },
+                "keywords": [
+                    "what",
+                    "city",
+                    "the",
+                    "six",
+                    "drake"
+                ],
+                "related_keywords": [
+                    "called"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.theglobeandmail.com/news/toronto/we-the-6-why-the-name-drake-gave-us-is-here-to-stay/article25421112/&tbm=ilp&ilps=AOR-xxvcQe2UBpewbG4rnPGsQLV_m80pIw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qT6SkCCCxn8J:https://www.theglobeandmail.com/news/toronto/we-the-6-why-the-name-drake-gave-us-is-here-to-stay/article25421112/+&cd=10&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "the 6 - Dictionary.com",
+            "link": "https://www.dictionary.com/e/slang/the-6/",
+            "displayed_link": "https://www.dictionary.com \u203a Home \u203a Words \u203a Slang",
+            "date": "Jul 19, 2018",
+            "snippet": "The 6 is a nickname for the city of Toronto, Canada. You can thank the rapper Drake for (trying to make) it a thing. Related words:.",
+            "about_this_result": {
+                "source": {
+                    "description": "Dictionary.com is an online dictionary whose domain was first registered on May 14, 1995. The content for Dictionary.com is based on the latest version of Random House Unabridged Dictionary, with editors for the site providing new and updated definitions.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Dictionary.com",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1278db7b1ccea4f664748/images/c31faa3be7bb8af85688cc2b413bd3f7aecf26dc11b3e1b14ef89bb391d63ba7a60d54024eeef2c36dd45600e60ba0a3.png"
+                },
+                "keywords": [
+                    "what",
+                    "city",
+                    "the",
+                    "six",
+                    "drake"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.dictionary.com/e/slang/the-6/&tbm=ilp&ilps=AOR-xxuNKfXkpq4XtkAbg9SRjKKaQnZuPA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vWzVCWSWCYgJ:https://www.dictionary.com/e/slang/the-6/+&cd=11&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "Why does Drake refer to Toronto as 'the 6'? - Quora",
+            "link": "https://www.quora.com/Why-does-Drake-refer-to-Toronto-as-the-6",
+            "displayed_link": "https://www.quora.com \u203a Why-does-Drake-refer-to-Tor...",
+            "date": "Mar 16, 2015",
+            "snippet": "It may also refer to the six different areas that amalgamated into the City of Toronto (or megacity), but I think that's unlikely.",
+            "sitelinks": {
+                "list": [
+                    {
+                        "title": "Why is Canada called the sixth? - I'm Canadian! - Quora",
+                        "link": "https://www.quora.com/Why-is-Canada-called-the-sixth",
+                        "answer_count": 6,
+                        "date": "May 21, 2016"
+                    },
+                    {
+                        "title": "What does Drake's lyrics \u201cI was running through the ...",
+                        "link": "https://www.quora.com/What-does-Drake-s-lyrics-I-was-running-through-the-six-with-my-woes-mean",
+                        "answer_count": 8,
+                        "date": "Jul 29, 2021"
+                    },
+                    {
+                        "title": "Why does Drake say 66666? - Quora",
+                        "link": "https://www.quora.com/Why-does-Drake-say-66666",
+                        "answer_count": 7,
+                        "date": "Nov 7, 2016"
+                    },
+                    {
+                        "title": "What song says 'I was running through the six with ...",
+                        "link": "https://www.quora.com/What-song-says-I-was-running-through-the-six-with-my-woes",
+                        "answer_count": 2,
+                        "date": "Apr 3, 2018"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Quora is a social question-and-answer website based in Mountain View, California, United States. It was founded on June 25, 2009, and made available to the public on June 21, 2010. Users can collaborate by editing questions and commenting on answers that have been submitted by other users.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Quora",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1278db7b1ccea4f664748/images/c31faa3be7bb8af85688cc2b413bd3f7ea87bf8deee6462d138a19faa97fc404dd90072fbb5329de7a9bce7650e17a1f.png"
+                },
+                "keywords": [
+                    "what",
+                    "city",
+                    "the",
+                    "six",
+                    "drake"
+                ],
+                "related_keywords": [
+                    "refer"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/Why-does-Drake-refer-to-Toronto-as-the-6&tbm=ilp&ilps=AOR-xxtLOeG2h0RgufIYgJRYRFGBxrUZ5g",
+            "cached_page_link": "/search?q=related:https://www.quora.com/Why-does-Drake-refer-to-Toronto-as-the-6+what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F"
+        },
+        {
+            "position": 5,
+            "title": "The 6 - Urban Dictionary",
+            "link": "https://www.urbandictionary.com/define.php?term=The%206",
+            "displayed_link": "https://www.urbandictionary.com \u203a define",
+            "snippet": "'The Six' is a reference to the Canadian city of Toronto. Modern day Toronto was formed by the amalgamation of the six municipalities of East York, Etobicoke, ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Urban Dictionary is a crowdsourced online dictionary for slang words and phrases, operating under the motto \"Define Your World.\" The website was founded in 1999 by Aaron Peckham.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Urban_Dictionary",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1278db7b1ccea4f664748/images/c31faa3be7bb8af85688cc2b413bd3f758f75bea69f0cf31973011274014102748fd40801a262b68dac8e4f25a5a713f.png"
+                },
+                "keywords": [
+                    "what",
+                    "city",
+                    "the",
+                    "six",
+                    "drake"
+                ],
+                "related_keywords": [
+                    "reference"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.urbandictionary.com/define.php?term%3DThe%25206&tbm=ilp&ilps=AOR-xxsp0AXHjSuKGzuZrzoX0VrW5IeEQw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zo5__NpsFYsJ:https://www.urbandictionary.com/define.php%3Fterm%3DThe%25206+&cd=13&hl=en&ct=clnk&gl=us",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "The Six - Urban Dictionary",
+                    "link": "https://www.urbandictionary.com/define.php?term=The%20Six",
+                    "displayed_link": "https://www.urbandictionary.com \u203a define",
+                    "snippet": "The city of Toronto. A nickname given to the city by rapper Drake. It's called the Six because both of it's area codes have 6 in it - 416/647. \"I ...",
+                    "about_this_result": {
+                        "source": {
+                            "description": "Urban Dictionary is a crowdsourced online dictionary for slang words and phrases, operating under the motto \"Define Your World.\" The website was founded in 1999 by Aaron Peckham.",
+                            "source_info_link": "https://en.wikipedia.org/wiki/Urban_Dictionary",
+                            "security": "secure",
+                            "icon": "https://serpapi.com/searches/61c1278db7b1ccea4f664748/images/c31faa3be7bb8af85688cc2b413bd3f7d0411e47202f0009d19244c0a911cdc9480b8acfb3b0659e57c9c257fe1547a645c1fb6fcd4f655ddaac5a68ea50a9b3ee5a393f465e495a.png"
+                        },
+                        "keywords": [
+                            "city",
+                            "the",
+                            "six",
+                            "drake"
+                        ],
+                        "related_keywords": [
+                            "called"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://www.urbandictionary.com/define.php?term%3DThe%2520Six&tbm=ilp&ilps=AOR-xxsE3fun9AAWQMUZROp41ub8yiGHRA",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dVjoIkpU7N8J:https://www.urbandictionary.com/define.php%3Fterm%3DThe%2520Six+&cd=14&hl=en&ct=clnk&gl=us"
+                }
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Name of Toronto - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Name_of_Toronto",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Name_of_Toronto",
+            "snippet": "The name of Toronto has a history distinct from that of the city itself. Originally, the term \"Taronto\" referred to a channel of water between ... \"Queen City\", a reference now most commonly used by French Canadians (La ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1278db7b1ccea4f664748/images/c31faa3be7bb8af85688cc2b413bd3f7af656123ed0ae85b0cb367772f4e58a518f7367b9c7b3baa06739363a6d3db9a.png"
+                },
+                "keywords": [
+                    "what",
+                    "city",
+                    "commonly",
+                    "referred",
+                    "the",
+                    "six",
+                    "drake"
+                ],
+                "related_keywords": [
+                    "reference"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Name_of_Toronto&tbm=ilp&ilps=AOR-xxsSpmSKpf60FzfsxUWFprffyf8_yQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uNko0DRwrskJ:https://en.wikipedia.org/wiki/Name_of_Toronto+&cd=15&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Name_of_Toronto+what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F"
+        },
+        {
+            "position": 7,
+            "title": "How Drake's nickname \"the 6\" made Toronto cool - blogTO",
+            "link": "https://www.blogto.com/city/2016/03/how_drakes_nickname_the_6_made_toronto_cool/",
+            "displayed_link": "https://www.blogto.com \u203a city \u203a 2016/03 \u203a how_drakes...",
+            "date": "Mar 6, 2016",
+            "snippet": "Does it refer to the common number in Toronto's two main area codes? ... It only matters that Drake bequeathed the name to the city.",
+            "about_this_result": {
+                "source": {
+                    "description": "tonight was a free afternoon newspaper in Toronto, Ontario, Canada, founded in 2009 and acquired by Annex Business Media in 2013.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Tonight_(newspaper)",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1278db7b1ccea4f664748/images/c31faa3be7bb8af85688cc2b413bd3f767595070b0a14742e7a74f35dec4bb7768c086d217367b00265aff4235007561.png"
+                },
+                "keywords": [
+                    "what",
+                    "city",
+                    "referred",
+                    "the",
+                    "six",
+                    "drake"
+                ],
+                "related_keywords": [
+                    "common",
+                    "refer",
+                    "drake's"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.blogto.com/city/2016/03/how_drakes_nickname_the_6_made_toronto_cool/&tbm=ilp&ilps=AOR-xxtJhApbKoPs_70GlBk-piItMAh4NQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wy7IhYA3RZIJ:https://www.blogto.com/city/2016/03/how_drakes_nickname_the_6_made_toronto_cool/+&cd=16&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 8,
+            "title": "Meaning of \"You & The 6\" by Drake - Song Meanings and Facts",
+            "link": "https://www.songmeaningsandfacts.com/you-the-6-by-drake/",
+            "displayed_link": "https://www.songmeaningsandfacts.com \u203a you-the-6-by...",
+            "date": "Jan 2, 2019",
+            "snippet": "The \u201cYou\u201d in the song's title refers to his mother Sandra, also ... The number \u201c6\u201d is the nickname Drake has given to the city of Toronto.",
+            "about_this_result": {
+                "source": {
+                    "description": "songmeaningsandfacts.com was first indexed by Google in March 2017",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1278db7b1ccea4f664748/images/c31faa3be7bb8af85688cc2b413bd3f7dd81f5969df4f99d850790f158b7ef76b38a1f523f9b666f96d6264200fac6b1.png"
+                },
+                "keywords": [
+                    "city",
+                    "the",
+                    "six",
+                    "drake"
+                ],
+                "related_keywords": [
+                    "refers"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.songmeaningsandfacts.com/you-the-6-by-drake/&tbm=ilp&ilps=AOR-xxtBzPqgxTlSUuInpstf2NWkhx2R1A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:0QuPngBBzxwJ:https://www.songmeaningsandfacts.com/you-the-6-by-drake/+&cd=17&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "the six canada",
+            "link": "https://www.google.com/search?q=The+Six+Canada&sa=X&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ1QJ6BAgbEAE"
+        },
+        {
+            "query": "why is toronto called the six",
+            "link": "https://www.google.com/search?q=Why+is+Toronto+called+the+Six&sa=X&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "the 6ix",
+            "link": "https://www.google.com/search?q=The+6ix&sa=X&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ1QJ6BAgmEAE"
+        },
+        {
+            "query": "the 6ix meaning",
+            "link": "https://www.google.com/search?q=The+6ix+meaning&sa=X&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ1QJ6BAggEAE"
+        },
+        {
+            "query": "the 6 atlanta",
+            "link": "https://www.google.com/search?q=The+6+Atlanta&sa=X&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ1QJ6BAgiEAE"
+        },
+        {
+            "query": "toronto the six",
+            "link": "https://www.google.com/search?q=Toronto+the+Six&sa=X&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ1QJ6BAghEAE"
+        },
+        {
+            "query": "why is toronto called the big smoke",
+            "link": "https://www.google.com/search?q=Why+is+Toronto+called+the+Big+Smoke&sa=X&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ1QJ6BAgfEAE"
+        },
+        {
+            "query": "six meaning slang",
+            "link": "https://www.google.com/search?q=Six+meaning+slang&sa=X&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ1QJ6BAgaEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&ei=kifBYbT7BImq_QaGia2oCg&start=10&sa=N&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ8NMDegQIARBJ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&ei=kifBYbT7BImq_QaGia2oCg&start=10&sa=N&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&ei=kifBYbT7BImq_QaGia2oCg&start=20&sa=N&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&ei=kifBYbT7BImq_QaGia2oCg&start=30&sa=N&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&ei=kifBYbT7BImq_QaGia2oCg&start=40&sa=N&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&ei=kifBYbT7BImq_QaGia2oCg&start=50&sa=N&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&ei=kifBYbT7BImq_QaGia2oCg&start=60&sa=N&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&ei=kifBYbT7BImq_QaGia2oCg&start=70&sa=N&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&ei=kifBYbT7BImq_QaGia2oCg&start=80&sa=N&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&ei=kifBYbT7BImq_QaGia2oCg&start=90&sa=N&ved=2ahUKEwi0jLPw2PP0AhUJVd8KHYZEC6UQ8tMDegQIARBH"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+city+is+commonly+referred+to+as+%E2%80%9Cthe+six%E2%80%9C+by+drake%3F&start=90"
+        }
+    }
+}

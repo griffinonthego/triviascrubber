@@ -1,13 +1,13 @@
 {
     "search_metadata": {
-        "id": "61c04f7837b24a95faa60571",
+        "id": "61c122bc14b245184ec67ff6",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/ce465675ebdd5b8c/61c04f7837b24a95faa60571.json",
-        "created_at": "2021-12-20 09:40:08 UTC",
-        "processed_at": "2021-12-20 09:40:08 UTC",
+        "json_endpoint": "https://serpapi.com/searches/ce465675ebdd5b8c/61c122bc14b245184ec67ff6.json",
+        "created_at": "2021-12-21 00:41:32 UTC",
+        "processed_at": "2021-12-21 00:41:33 UTC",
         "google_url": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&oq=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&sourceid=chrome&ie=UTF-8",
-        "raw_html_file": "https://serpapi.com/searches/ce465675ebdd5b8c/61c04f7837b24a95faa60571.html",
-        "total_time_taken": 1.87
+        "raw_html_file": "https://serpapi.com/searches/ce465675ebdd5b8c/61c122bc14b245184ec67ff6.html",
+        "total_time_taken": 1.48
     },
     "search_parameters": {
         "engine": "google",
@@ -18,23 +18,23 @@
     "search_information": {
         "organic_results_state": "Results for exact spelling",
         "query_displayed": "what country\u2019s tourism board is \u201creclaiming\u201d place names attached to ikea products?",
-        "total_results": 221000,
-        "time_taken_displayed": 0.62
+        "total_results": 255000,
+        "time_taken_displayed": 0.59
     },
     "organic_results": [
         {
             "position": 1,
-            "title": "Sweden is reclaiming its place names from IKEA - Helena ...",
-            "link": "https://helenair.com/lifestyles/sweden-is-reclaiming-its-place-names-from-ikea/article_63ea7380-ed48-5d56-912a-7900f39f6bf3.html",
-            "displayed_link": "https://helenair.com \u203a lifestyles \u203a sweden-is-reclaiming-its-...",
+            "title": "Sweden is reclaiming its place names from IKEA - The ...",
+            "link": "https://muscatinejournal.com/lifestyles/sweden-is-reclaiming-its-place-names-from-ikea/article_dacd4f0f-5464-5eea-a392-1beb3dce4c4f.html",
+            "displayed_link": "https://muscatinejournal.com \u203a lifestyles \u203a sweden-is-reclai...",
             "date": "Dec 9, 2021",
             "snippet": "And now, the Swedish tourist board is reclaiming those names in a new marketing campaign, designed to get people knowing the elegant ...",
             "about_this_result": {
                 "source": {
-                    "description": "The Independent Record is a daily newspaper printed and distributed in Helena, Montana. The newspaper is part of the Lee Enterprises group.",
-                    "source_info_link": "https://en.wikipedia.org/wiki/Independent_Record",
+                    "description": "The Muscatine Journal serves 8,000 adult readers in Muscatine and Louisa counties, in Iowa, United States, and is delivered to nearly 3,500 homes, Monday through Saturday. Hometown Extra, its sister shopper publication, is delivered every Wednesday to nearly 13.000 households.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Muscatine_Journal",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f790955bb42513af4f1198c01debccba085575a72009765cf263eb48daca36f1b4f1e5.png"
+                    "icon": "https://serpapi.com/searches/61c122bc14b245184ec67ff6/images/804fb673cb569b4984a4ec4843f790955bb42513af4f1198c01debccba085575a72009765cf263eb48daca36f1b4f1e5.png"
                 },
                 "keywords": [
                     "what",
@@ -56,7 +56,7 @@
                     "the United States"
                 ]
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://helenair.com/lifestyles/sweden-is-reclaiming-its-place-names-from-ikea/article_63ea7380-ed48-5d56-912a-7900f39f6bf3.html&tbm=ilp&ilps=AOR-xxsmJU3pT9kscBW0avzjnBbNzBwq-g"
+            "about_page_link": "https://www.google.com/search?q=About+https://muscatinejournal.com/lifestyles/sweden-is-reclaiming-its-place-names-from-ikea/article_dacd4f0f-5464-5eea-a392-1beb3dce4c4f.html&tbm=ilp&ilps=AOR-xxtOmETPUTWRu1ribywCuh-zQXn-Vg"
         },
         {
             "position": 2,
@@ -70,7 +70,7 @@
                     "description": "The Capital Times is a digital-first newspaper published in Madison, Wisconsin by The Capital Times Company, a joint venture between Capital Newspapers and Lee Enterprises. The Capital Times formerly published paper editions Mondays through Saturdays.",
                     "source_info_link": "https://en.wikipedia.org/wiki/The_Capital_Times",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f7909527af941770f8605b54753f45e3a9e11c02129ea74cbf9321cd2f99f209e9a12d.png"
+                    "icon": "https://serpapi.com/searches/61c122bc14b245184ec67ff6/images/804fb673cb569b4984a4ec4843f7909527af941770f8605b54753f45e3a9e11c02129ea74cbf9321cd2f99f209e9a12d.png"
                 },
                 "keywords": [
                     "what",
@@ -106,7 +106,7 @@
                     "description": "WFMZ-TV, virtual channel 69, is an independent television station licensed to Allentown, Pennsylvania, United States. Owned by the locally based Maranatha Broadcasting Company, it is part of a duopoly with Wilmington, Delaware-licensed MeTV affiliate WDPN-TV.",
                     "source_info_link": "https://en.wikipedia.org/wiki/WFMZ-TV",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f7909563e061f08fc3bd91f4c8b9e0ded1ebed6e165bb2c022438c472c01b4f2d991af.jpeg"
+                    "icon": "https://serpapi.com/searches/61c122bc14b245184ec67ff6/images/804fb673cb569b4984a4ec4843f7909563e061f08fc3bd91f4c8b9e0ded1ebed6e165bb2c022438c472c01b4f2d991af.jpeg"
                 },
                 "keywords": [
                     "what",
@@ -141,7 +141,7 @@
                     "description": "The Daily Nonpareil is a daily newspaper serving Council Bluffs and a 10-county area of southwest Iowa.\nThe Daily Nonpareil is southwest Iowa's largest newspaper. It was founded on May 2, 1857.",
                     "source_info_link": "https://en.wikipedia.org/wiki/The_Daily_Nonpareil",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f79095ab536e0563e6a36fe20fa860fb9008b5268e6981c08de5bcc2f8186e926f3d24.png"
+                    "icon": "https://serpapi.com/searches/61c122bc14b245184ec67ff6/images/804fb673cb569b4984a4ec4843f79095ab536e0563e6a36fe20fa860fb9008b5268e6981c08de5bcc2f8186e926f3d24.png"
                 },
                 "keywords": [
                     "board",
@@ -168,13 +168,13 @@
             "title": "What In the World\u2014Week of December 13 - - The Message",
             "link": "https://the-message.ca/2021/12/13/what-in-the-world-week-of-december-13/",
             "displayed_link": "https://the-message.ca \u203a 2021/12/13 \u203a what-in-the-worl...",
-            "date": "6 days ago",
+            "date": "8 days ago",
             "snippet": "Sweden's tourism board, Visit Sweden, is reclaiming the names of destinations that have become synonymous with IKEA products like toilet brushes ...",
             "about_this_result": {
                 "source": {
                     "description": "the-message.ca was first indexed by Google in March 2019",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f790958b94c0e83cb9e102e66c44b257781f21f9245d6d1c7f733801c352edbf9c418f.png"
+                    "icon": "https://serpapi.com/searches/61c122bc14b245184ec67ff6/images/804fb673cb569b4984a4ec4843f790958b94c0e83cb9e102e66c44b257781f21f9245d6d1c7f733801c352edbf9c418f.png"
                 },
                 "keywords": [
                     "what",
@@ -199,16 +199,126 @@
         },
         {
             "position": 6,
-            "title": "Sweden reclaims place names from Ikea - Head Topics",
-            "link": "https://headtopics.com/ca/sweden-reclaims-place-names-from-ikea-22789365",
-            "displayed_link": "https://headtopics.com \u203a sweden-reclaims-place-names-f...",
+            "title": "Dear Ikea, Sweden wants its product names back - MSN",
+            "link": "https://www.msn.com/en-us/news/technology/dear-ikea-sweden-wants-its-product-names-back/ar-AARFbuq?li=BBnbcA1",
+            "displayed_link": "https://www.msn.com \u203a technology \u203a ar-AARFbuq",
             "date": "Dec 9, 2021",
-            "snippet": "The Swedish tourist board is reclaiming names from Ikea in a new marketing campaign, designed to get people knowing the country's famous ...",
+            "snippet": "But the Swedish tourism board wants the other Bolmen to come to mind ... that's reclaiming those weird Ikea product names for the places ...",
             "about_this_result": {
                 "source": {
-                    "description": "This result comes from headtopics.com",
+                    "description": "MSN is a web portal and related collection of Internet services and apps for Windows and mobile devices, provided by Microsoft and launched on August 24, 1995, the same release date as Windows 95.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/MSN",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f7909541ae21eeed351f94f7eb7b4d88b2f33b627eb76466e6d65feb3f534f8460a3af.png"
+                    "icon": "https://serpapi.com/searches/61c122bc14b245184ec67ff6/images/804fb673cb569b4984a4ec4843f7909541ae21eeed351f94f7eb7b4d88b2f33b627eb76466e6d65feb3f534f8460a3af.png"
+                },
+                "keywords": [
+                    "what",
+                    "tourism",
+                    "board",
+                    "reclaiming",
+                    "place",
+                    "names",
+                    "ikea",
+                    "products"
+                ],
+                "related_keywords": [
+                    "places",
+                    "product"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.msn.com/en-us/news/technology/dear-ikea-sweden-wants-its-product-names-back/ar-AARFbuq?li%3DBBnbcA1&tbm=ilp&ilps=AOR-xxu78aygaJVmcfqxHonpFTu9iQRPYQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:iR_FyfVzfWcJ:https://www.msn.com/en-us/news/technology/dear-ikea-sweden-wants-its-product-names-back/ar-AARFbuq%3Fli%3DBBnbcA1+&cd=6&hl=en&ct=clnk&gl=us",
+            "missing": [
+                "attached"
+            ],
+            "must_include": {
+                "word": "attached",
+                "link": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+%22attached%22+to+ikea+products?&sa=X&ved=2ahUKEwjr7OOi1PP0AhWuRPEDHbYEBlcQ5t4CegQIHhAB"
+            }
+        },
+        {
+            "position": 7,
+            "title": "Visit Sweden (@visitsweden) / Twitter",
+            "link": "https://twitter.com/visitsweden?lang=en",
+            "displayed_link": "https://twitter.com \u203a visitsweden",
+            "snippet": "Stockholm, Sweden visitsweden.com Joined January 2009 ... in Sweden are reclaiming their names, after having shared them with IKEA products for years.",
+            "about_this_result": {
+                "source": {
+                    "description": "Twitter is an American microblogging and social networking service on which users post and interact with messages known as \"tweets\". Registered users can post, like, and retweet tweets, but unregistered users can only read those that are publicly available.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Twitter",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c122bc14b245184ec67ff6/images/804fb673cb569b4984a4ec4843f79095bcabda3ea4250c8567ef3cf150c9f35750d4b0bf6fab628553c0b5db40628a2c.png"
+                },
+                "keywords": [
+                    "country's",
+                    "board",
+                    "reclaiming",
+                    "place",
+                    "names",
+                    "ikea",
+                    "products"
+                ],
+                "related_keywords": [
+                    "joined"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://twitter.com/visitsweden?lang%3Den&tbm=ilp&ilps=AOR-xxtX5vuEW2XRnvkbtWu3gCHYUctJ0Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Xy9q4WjFyCQJ:https://twitter.com/visitsweden%3Flang%3Den+&cd=7&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 8,
+            "title": "Toilet Brush Or Swedish Lake? - Forbes",
+            "link": "https://www.forbes.com/sites/brandonschultz/2021/12/13/toilet-brush-or-swedish-lake/",
+            "displayed_link": "https://www.forbes.com \u203a brandonschultz \u203a 2021/12/13",
+            "date": "8 days ago",
+            "snippet": "IKEA products are named for Swedish destinations, and those locations are reclaiming their names. Visit Sweden. IKEA cozied its way into ...",
+            "about_this_result": {
+                "source": {
+                    "description": "This result comes from www.forbes.com",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c122bc14b245184ec67ff6/images/804fb673cb569b4984a4ec4843f7909523ac25e79befac33fa79c4361a5ac6fa6ff6321305a9ea876c3e7cdab709b490.png"
+                },
+                "keywords": [
+                    "tourism",
+                    "board",
+                    "reclaiming",
+                    "names",
+                    "ikea",
+                    "products"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.forbes.com/sites/brandonschultz/2021/12/13/toilet-brush-or-swedish-lake/&tbm=ilp&ilps=AOR-xxv3hQxkbuDMuo_DZM_4Po1xN1zWWA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HWUQ5HjY0u0J:https://www.forbes.com/sites/brandonschultz/2021/12/13/toilet-brush-or-swedish-lake/+&cd=8&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 9,
+            "title": "Assange's Extradition, Nicaragua & China, Sweden v. IKEA",
+            "link": "https://worldcrunch.com/in-the-news/assange-china-ikea/quote-putin-russia-ukraine",
+            "displayed_link": "https://worldcrunch.com \u203a quote-putin-russia-ukraine",
+            "snippet": "The country's tourist board is reclaiming such place names in a new marketing campaign, saying it was time to \u201cshow the originals behind the product names.\u201d ...",
+            "about_this_result": {
+                "source": {
+                    "description": "This result comes from worldcrunch.com",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c122bc14b245184ec67ff6/images/804fb673cb569b4984a4ec4843f790954bb760bc25f3ae4aef1573bd05b58ed372ab68dd0269a2fc2615bda9cc926a40.png"
                 },
                 "keywords": [
                     "what",
@@ -217,12 +327,12 @@
                     "reclaiming",
                     "place",
                     "names",
-                    "ikea",
-                    "products"
+                    "ikea"
                 ],
                 "related_keywords": [
                     "countrys",
-                    "tourist"
+                    "tourist",
+                    "product"
                 ],
                 "languages": [
                     "English"
@@ -231,45 +341,11 @@
                     "the United States"
                 ]
             },
-            "about_page_link": "https://www.google.com/search?q=About+https://headtopics.com/ca/sweden-reclaims-place-names-from-ikea-22789365&tbm=ilp&ilps=AOR-xxs_l6ZfqwlCPxMGVarnSfG5koCy3Q",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Wqt4W4dBNB4J:https://headtopics.com/ca/sweden-reclaims-place-names-from-ikea-22789365+&cd=6&hl=en&ct=clnk&gl=us"
+            "about_page_link": "https://www.google.com/search?q=About+https://worldcrunch.com/in-the-news/assange-china-ikea/quote-putin-russia-ukraine&tbm=ilp&ilps=AOR-xxugd4boBPnllg2699FtwoH2BG5yvA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5mz2bc69mW4J:https://worldcrunch.com/in-the-news/assange-china-ikea/quote-putin-russia-ukraine+&cd=9&hl=en&ct=clnk&gl=us"
         },
         {
-            "position": 7,
-            "title": "Tweets with replies by Visit Sweden (@visitsweden) / Twitter",
-            "link": "https://twitter.com/visitsweden/with_replies",
-            "displayed_link": "https://twitter.com \u203a visitsweden \u203a with_replies",
-            "snippet": "Sweden is reclaiming the names of some of its most stunning locations, which have become better known as IKEA household items. If you're feeling inspired to ...",
-            "about_this_result": {
-                "source": {
-                    "description": "This result comes from twitter.com",
-                    "security": "secure",
-                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f79095bcabda3ea4250c8567ef3cf150c9f35750d4b0bf6fab628553c0b5db40628a2c.png"
-                },
-                "keywords": [
-                    "country's",
-                    "board",
-                    "reclaiming",
-                    "place",
-                    "names",
-                    "ikea",
-                    "products"
-                ],
-                "related_keywords": [
-                    "items"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ]
-            },
-            "about_page_link": "https://www.google.com/search?q=About+https://twitter.com/visitsweden/with_replies&tbm=ilp&ilps=AOR-xxuQZBEvMAXSCVLxHH6bcpFPoOJKAA",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uPMzqAq9kHIJ:https://twitter.com/visitsweden/with_replies+&cd=7&hl=en&ct=clnk&gl=us"
-        },
-        {
-            "position": 8,
+            "position": 10,
             "title": "Dear Ikea, Sweden wants those product names back",
             "link": "https://swiftheadline.com/dear-ikea-sweden-wants-those-product-names-back/",
             "displayed_link": "https://swiftheadline.com \u203a Technology",
@@ -279,7 +355,7 @@
                 "source": {
                     "description": "This result comes from swiftheadline.com",
                     "security": "secure",
-                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f7909523ac25e79befac33fa79c4361a5ac6fa6ff6321305a9ea876c3e7cdab709b490.png"
+                    "icon": "https://serpapi.com/searches/61c122bc14b245184ec67ff6/images/804fb673cb569b4984a4ec4843f79095f16fe3b6049053f404c6659a3e2757f6cb31317f01afac897e6b3929261bacda.png"
                 },
                 "keywords": [
                     "what",
@@ -304,103 +380,28 @@
                 ]
             },
             "about_page_link": "https://www.google.com/search?q=About+https://swiftheadline.com/dear-ikea-sweden-wants-those-product-names-back/&tbm=ilp&ilps=AOR-xxsCm2-36CDdqssOOIHiuOJlcMv_mA",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EJfiwTPZNSsJ:https://swiftheadline.com/dear-ikea-sweden-wants-those-product-names-back/+&cd=8&hl=en&ct=clnk&gl=us"
-        },
-        {
-            "position": 9,
-            "title": "Dear Ikea, Sweden wants its product names back - MSN",
-            "link": "https://www.msn.com/en-us/news/technology/dear-ikea-sweden-wants-its-product-names-back/ar-AARFbuq?li=BBnbcA1",
-            "displayed_link": "https://www.msn.com \u203a technology \u203a ar-AARFbuq",
-            "date": "Dec 9, 2021",
-            "snippet": "But the Swedish tourism board wants the other Bolmen to come to mind ... that's reclaiming those weird Ikea product names for the places ...",
-            "about_this_result": {
-                "source": {
-                    "description": "This result comes from www.msn.com",
-                    "security": "secure",
-                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f790954bb760bc25f3ae4aef1573bd05b58ed372ab68dd0269a2fc2615bda9cc926a40.png"
-                },
-                "keywords": [
-                    "what",
-                    "tourism",
-                    "board",
-                    "reclaiming",
-                    "place",
-                    "names",
-                    "ikea",
-                    "products"
-                ],
-                "related_keywords": [
-                    "places",
-                    "product"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ]
-            },
-            "about_page_link": "https://www.google.com/search?q=About+https://www.msn.com/en-us/news/technology/dear-ikea-sweden-wants-its-product-names-back/ar-AARFbuq?li%3DBBnbcA1&tbm=ilp&ilps=AOR-xxu78aygaJVmcfqxHonpFTu9iQRPYQ",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:iR_FyfVzfWcJ:https://www.msn.com/en-us/news/technology/dear-ikea-sweden-wants-its-product-names-back/ar-AARFbuq%3Fli%3DBBnbcA1+&cd=9&hl=en&ct=clnk&gl=us",
-            "missing": [
-                "attached"
-            ],
-            "must_include": {
-                "word": "attached",
-                "link": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+%22attached%22+to+ikea+products?&sa=X&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ5t4CegQIIhAB"
-            }
-        },
-        {
-            "position": 10,
-            "title": "Toilet Brush Or Swedish Lake? - Forbes",
-            "link": "https://www.forbes.com/sites/brandonschultz/2021/12/13/toilet-brush-or-swedish-lake/",
-            "displayed_link": "https://www.forbes.com \u203a brandonschultz \u203a 2021/12/13",
-            "date": "7 days ago",
-            "snippet": "IKEA products are named for Swedish destinations, and those locations are reclaiming their names. Visit Sweden. IKEA cozied its way into ...",
-            "about_this_result": {
-                "source": {
-                    "description": "This result comes from www.forbes.com",
-                    "security": "secure",
-                    "icon": "https://serpapi.com/searches/61c04f7837b24a95faa60571/images/804fb673cb569b4984a4ec4843f79095f16fe3b6049053f404c6659a3e2757f6cb31317f01afac897e6b3929261bacda.png"
-                },
-                "keywords": [
-                    "tourism",
-                    "board",
-                    "reclaiming",
-                    "names",
-                    "ikea",
-                    "products"
-                ],
-                "languages": [
-                    "English"
-                ],
-                "regions": [
-                    "the United States"
-                ]
-            },
-            "about_page_link": "https://www.google.com/search?q=About+https://www.forbes.com/sites/brandonschultz/2021/12/13/toilet-brush-or-swedish-lake/&tbm=ilp&ilps=AOR-xxv3hQxkbuDMuo_DZM_4Po1xN1zWWA",
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HWUQ5HjY0u0J:https://www.forbes.com/sites/brandonschultz/2021/12/13/toilet-brush-or-swedish-lake/+&cd=10&hl=en&ct=clnk&gl=us"
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EJfiwTPZNSsJ:https://swiftheadline.com/dear-ikea-sweden-wants-those-product-names-back/+&cd=10&hl=en&ct=clnk&gl=us"
         }
     ],
     "related_searches": [
         {
             "query": "tourism",
-            "link": "https://www.google.com/search?q=Tourism&sa=X&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ1QJ6BAgSEAE"
+            "link": "https://www.google.com/search?q=Tourism&sa=X&ved=2ahUKEwjr7OOi1PP0AhWuRPEDHbYEBlcQ1QJ6BAgREAE"
         }
     ],
     "pagination": {
         "current": 1,
-        "next": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=10&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8NMDegQIARBJ",
+        "next": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=vSLBYauaIq6Jxc8PtomYuAU&start=10&sa=N&ved=2ahUKEwjr7OOi1PP0AhWuRPEDHbYEBlcQ8NMDegQIARBJ",
         "other_pages": {
-            "2": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=10&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARA3",
-            "3": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=20&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARA5",
-            "4": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=30&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARA7",
-            "5": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=40&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARA9",
-            "6": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=50&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARA_",
-            "7": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=60&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARBB",
-            "8": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=70&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARBD",
-            "9": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=80&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARBF",
-            "10": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=eU_AYb28KK7gkgWV-7qwBw&start=90&sa=N&ved=2ahUKEwj93MjlivL0AhUusKQKHZW9DnYQ8tMDegQIARBH"
+            "2": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=vSLBYauaIq6Jxc8PtomYuAU&start=10&sa=N&ved=2ahUKEwjr7OOi1PP0AhWuRPEDHbYEBlcQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=vSLBYauaIq6Jxc8PtomYuAU&start=20&sa=N&ved=2ahUKEwjr7OOi1PP0AhWuRPEDHbYEBlcQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=vSLBYauaIq6Jxc8PtomYuAU&start=30&sa=N&ved=2ahUKEwjr7OOi1PP0AhWuRPEDHbYEBlcQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=vSLBYauaIq6Jxc8PtomYuAU&start=40&sa=N&ved=2ahUKEwjr7OOi1PP0AhWuRPEDHbYEBlcQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=vSLBYauaIq6Jxc8PtomYuAU&start=50&sa=N&ved=2ahUKEwjr7OOi1PP0AhWuRPEDHbYEBlcQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=vSLBYauaIq6Jxc8PtomYuAU&start=60&sa=N&ved=2ahUKEwjr7OOi1PP0AhWuRPEDHbYEBlcQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=vSLBYauaIq6Jxc8PtomYuAU&start=70&sa=N&ved=2ahUKEwjr7OOi1PP0AhWuRPEDHbYEBlcQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=vSLBYauaIq6Jxc8PtomYuAU&start=80&sa=N&ved=2ahUKEwjr7OOi1PP0AhWuRPEDHbYEBlcQ8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=what+country%E2%80%99s+tourism+board+is+%E2%80%9Creclaiming%E2%80%9D+place+names+attached+to+ikea+products%3F&ei=vSLBYauaIq6Jxc8PtomYuAU&start=90&sa=N&ved=2ahUKEwjr7OOi1PP0AhWuRPEDHbYEBlcQ8tMDegQIARBH"
         }
     },
     "serpapi_pagination": {

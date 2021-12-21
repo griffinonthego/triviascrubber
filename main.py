@@ -3,11 +3,8 @@ import time
 import mss.tools
 import cv2
 import sys
-from helper_scripts import ocrify, process_text, search_sites, serpapi, read_csv
+from helper_scripts import ocrify, process_text, search_sites, load_json, read_csv
 
-def printarray(array):
-    for i in array:
-        print(i)
 def setup():
     q_bb = {'top': 230, 'left': 30, 'width': 300, 'height': 175}
     a1_bb = {'top': 450, 'left': 80, 'width': 200, 'height': 50}
@@ -17,7 +14,6 @@ def setup():
     sct = mss.mss()
     pdir = 'app_images/'
     filenames = {
-        'questions_csv':'questions.csv',
         'question_image':pdir+'q.png',
         'processed_question_image':pdir+'pq.png',
         'answer_image':pdir+'a.png',
@@ -53,45 +49,6 @@ def setup():
     mss.tools.to_png(a2.rgb, a2.size, output=filenames['answer2_image'])
     mss.tools.to_png(a3.rgb, a3.size, output=filenames['answer3_image'])
     return filenames
-def run_ocr(method):
-    print("\nPerfoming OCR...\n\t> Processing Method: " + method)
-    if method == "ONLINE API":
-        question = ocrify.online(filenames['question_image'])
-        answer1 = ocrify.online(filenames['answer1_image'])
-        answer2 = ocrify.online(filenames['answer2_image'])
-        answer3 = ocrify.online(filenames['answer3_image'])
-    elif method == "LOCAL":
-        question = ocrify.local(filenames['question_image'])
-        answer1 = ocrify.local(filenames['answer1_image'])
-        answer2 = ocrify.local(filenames['answer2_image'])
-        answer3 = ocrify.local(filenames['answer3_image'])
-    else:
-        print("\t> INVALID SEARCH METHOD")
-        sys.exit(1)
-    answers = [answer1, answer2, answer3]
-
-    return question, answers
-def run_csv(filter, questions_csv):
-    print("\nReading CSV...\n\t> Filename: " + questions_csv)
-    question, answers = read_csv.local(filter, questions_csv)
-    return question, answers
-def run_processing(text):
-    if (isinstance(text, str)):
-        text = process_text.process(text)
-        return text
-    elif (isinstance(text, list)):
-        ct = 0
-        for i in text:
-            answers[ct] = process_text.process(i)
-            ct = ct + 1
-        return text
-def run_googling(method, question):
-    print("Perfoming Google Search...")
-    site_links = serpapi.do_search(method, question)
-    while ('' in site_links):
-        site_links.remove('')
-    print("\t> Links Result: " + str(site_links))
-    return site_links
 def search(site_links, answers):
     print("Searching Sites...")
     tot_huntpeck = [0, 0, 0]
@@ -112,54 +69,60 @@ def search(site_links, answers):
     return(answers[max_index])
 
 #SETUP
-question_source = ["CSV", 4] # ["OCR"] OR ["CSV", *question_number* OR "1WANS"]]
+# question_source = ["CSV", "1WANS"] # ["OCR"] OR ["CSV", *question_number* OR "1WANS"]]
+question_source = ["CSV", 22] # ["OCR"] OR ["CSV", *question_number* OR "1WANS"]]
 ocr_type = "LOCAL" #LOCAL or ONLINE API
-search_type = "ONLINE API" #TEST JSON or ONLINE API
 sites_ct = 7 #Range 1-7
 tic = time.perf_counter()
 filenames = setup()
 
 #GET ROWS IF NEEDED
 if (question_source[1] == "1WANS"):
-    print("\nGetting 1WANS...\n\t> Filename: " + filenames['questions_csv'])
-    rows = read_csv.get_oneword(filenames['questions_csv'])
+    print("\nGetting 1WANS...")
+    one_worders = read_csv.get_oneword()
+    print("\t> Results: " + str(one_worders))
+    sys.exit(0)
 
 #GET TEXT
 if (question_source[0] == "OCR"):
-    question, answers = run_ocr(ocr_type)
+    question, answers = ocrify.run(ocr_type, filenames)
 elif (question_source[0] == "CSV"):
     filter = question_source[1]
     if (type(filter) == int):
-        question, answers = run_csv(question_source[1], filenames['questions_csv'])
+        question, answers = read_csv.local(question_source[1])
 else:
     print("INVALID QUESTION SOURCE")
 
-#FURTHER PROCESS TEXT
-question = run_processing(question)
-answers = run_processing(answers)
-print("\t> Question Result: " + repr(question) + "")
-print("\t> Answers Result: " + repr(answers[0]) + ", " + repr(answers[1]) + ", " + repr(answers[2]))
 OCR_time = time.perf_counter()
-print("\t> Done (" + str(round((OCR_time-tic), 2)) + " sec)")
+print("\t> Done (" + str(round((OCR_time - tic), 2)) + " sec)")
 
-#GOOGLE THE QUESTION
-site_links = run_googling(search_type,question)
-Google_time = time.perf_counter()
-print("\t> Done (" + str(round((Google_time - OCR_time), 2)) + " sec)")
+#PROCESS TEXT
+print("Processing text...")
+question = process_text.process(question)
+answers = process_text.process(answers)
+print("\t> Processed Question: " + repr(question) + "")
+print("\t> Processed Answers: " + repr(answers[0]) + ", " + repr(answers[1]) + ", " + repr(answers[2]))
+Process_time = time.perf_counter()
+print("\t> Done (" + str(round((Process_time - OCR_time), 2)) + " sec)")
+
+#LOAD JSON
+site_links = load_json.load(question)
+JSON_time = time.perf_counter()
+print("\t> Done (" + str(round((JSON_time - OCR_time), 2)) + " sec)")
 
 #SEARCH EACH SITE
-# site_links = ['https://www.mentalfloss.com/article/577795/yoshi-nintendo-facts']
 del site_links[sites_ct:]
 pick = search(site_links, answers)
 Search_time = time.perf_counter()
-print("\t> Done (" + str(round((Search_time - Google_time), 2)) + " sec)")
+print("\t> Done (" + str(round((Search_time - JSON_time), 2)) + " sec)")
 
 #CHECK ANSWER IF CSV USED
 if (question_source[0] == "CSV"):
-    print("> Checking answer...")
-    correct_ans = read_csv.get_correct_ans(question_source[1], filenames['questions_csv'])
+    print("Checking answer...")
+    correct_ans = read_csv.get_correct_ans(question_source[1])
+    print("\t> QUESTION: " + question)
     print("\t> PROGRAM ANS: " + pick)
-    print("\t> CORRECT ANS: " + run_processing(correct_ans))
+    print("\t> CORRECT ANS: " + process_text.process(correct_ans))
 
 Check_ans_time = time.perf_counter()
 print("\t> Done (" + str(round((Check_ans_time - Search_time), 2)) + " sec)")
@@ -167,4 +130,3 @@ print("\t> Done (" + str(round((Check_ans_time - Search_time), 2)) + " sec)")
 #END
 toc = time.perf_counter()
 print("\nFinished in " + str(round((toc-tic),2)) + " seconds")
-

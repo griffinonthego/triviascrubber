@@ -3,6 +3,7 @@ import json
 import time
 import pytesseract
 import PIL.Image
+import sys
 
 def jprint(obj):
     text = json.dumps(obj, sort_keys=True, indent=4)
@@ -40,6 +41,23 @@ def local(image):
     ocr_text = pytesseract.image_to_string(PIL.Image.open(image));
     return ocr_text
 
+def run(ocr_type, filenames):
+    print("\nPerfoming OCR...\n\t> Processing Method: " + ocr_type)
+    if ocr_type == "ONLINE API":
+        question = online(filenames['question_image'])
+        answer1 = online(filenames['answer1_image'])
+        answer2 = online(filenames['answer2_image'])
+        answer3 = online(filenames['answer3_image'])
+    elif ocr_type == "LOCAL":
+        question = local(filenames['question_image'])
+        answer1 = local(filenames['answer1_image'])
+        answer2 = local(filenames['answer2_image'])
+        answer3 = local(filenames['answer3_image'])
+    else:
+        print("\t> INVALID SEARCH METHOD")
+        sys.exit(1)
+    answers = [answer1, answer2, answer3]
+    return question, answers
 
 
 

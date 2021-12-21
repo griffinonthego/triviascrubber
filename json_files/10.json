@@ -1,0 +1,518 @@
+{
+    "search_metadata": {
+        "id": "61c1254bd5ecf4ec0df23195",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/51f372fa336452a2/61c1254bd5ecf4ec0df23195.json",
+        "created_at": "2021-12-21 00:52:27 UTC",
+        "processed_at": "2021-12-21 00:52:27 UTC",
+        "google_url": "https://www.google.com/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&oq=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/51f372fa336452a2/61c1254bd5ecf4ec0df23195.html",
+        "total_time_taken": 8.68
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "which letter\u2019s cyrillic equivalent looks like the letter 'b'?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "which letter\u2019s cyrillic equivalent looks like the letter 'b'?",
+        "total_results": 133000000,
+        "time_taken_displayed": 0.95
+    },
+    "inline_images": [
+        {
+            "link": "/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+'b'?&tbm=isch&source=iu&ictx=1&fir=sXfWd75qyw4TZM%252CyiabvNe9eL3_mM%252C_%253B_UBbxNIx3CWpkM%252CCNoxXPJw7m0kmM%252C_%253Ba50SJ6tiEJ7DRM%252ChTjceHrrjvqsUM%252C_%253BuYroljmYdvQfcM%252CWtLQ47J2dedMoM%252C_%253Bwl7lJzv9rjuzvM%252CsKgjbtyraWwnAM%252C_%253BHReCWb4hpqmGxM%252CW04gfAf9MXNMvM%252C_%253BDGgm_QqWYVVAVM%252CNdfr9TKMZ56KMM%252C_%253B9ZwO2u-mp3mymM%252CjMz-htJupqcHgM%252C_%253B558oefWwsKCL9M%252C5kI07NwdlQSatM%252C_%253BlaqLZ_7dGo37nM%252CuetP2FpP4aVM2M%252C_&vet=1&usg=AI4_-kQipi2Ig0M_9F6kUW826YwYC7nWDA&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q9QF6BAgmEAE#imgrc=sXfWd75qyw4TZM",
+            "thumbnail": "https://serpapi.com/searches/61c1254bd5ecf4ec0df23195/images/c510ce5fe933770d84d3033c92c1754c384d52093d78d592f48d9b15767f8250.jpeg"
+        },
+        {
+            "link": "/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+'b'?&tbm=isch&source=iu&ictx=1&fir=sXfWd75qyw4TZM%252CyiabvNe9eL3_mM%252C_%253B_UBbxNIx3CWpkM%252CCNoxXPJw7m0kmM%252C_%253Ba50SJ6tiEJ7DRM%252ChTjceHrrjvqsUM%252C_%253BuYroljmYdvQfcM%252CWtLQ47J2dedMoM%252C_%253Bwl7lJzv9rjuzvM%252CsKgjbtyraWwnAM%252C_%253BHReCWb4hpqmGxM%252CW04gfAf9MXNMvM%252C_%253BDGgm_QqWYVVAVM%252CNdfr9TKMZ56KMM%252C_%253B9ZwO2u-mp3mymM%252CjMz-htJupqcHgM%252C_%253B558oefWwsKCL9M%252C5kI07NwdlQSatM%252C_%253BlaqLZ_7dGo37nM%252CuetP2FpP4aVM2M%252C_&vet=1&usg=AI4_-kQipi2Ig0M_9F6kUW826YwYC7nWDA&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q9QF6BAgoEAE#imgrc=_UBbxNIx3CWpkM",
+            "thumbnail": "https://serpapi.com/searches/61c1254bd5ecf4ec0df23195/images/c510ce5fe933770db8b4ca237b9d058998e9e5607a8524fe93478a1c74ca66be.png"
+        },
+        {
+            "link": "/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+'b'?&tbm=isch&source=iu&ictx=1&fir=sXfWd75qyw4TZM%252CyiabvNe9eL3_mM%252C_%253B_UBbxNIx3CWpkM%252CCNoxXPJw7m0kmM%252C_%253Ba50SJ6tiEJ7DRM%252ChTjceHrrjvqsUM%252C_%253BuYroljmYdvQfcM%252CWtLQ47J2dedMoM%252C_%253Bwl7lJzv9rjuzvM%252CsKgjbtyraWwnAM%252C_%253BHReCWb4hpqmGxM%252CW04gfAf9MXNMvM%252C_%253BDGgm_QqWYVVAVM%252CNdfr9TKMZ56KMM%252C_%253B9ZwO2u-mp3mymM%252CjMz-htJupqcHgM%252C_%253B558oefWwsKCL9M%252C5kI07NwdlQSatM%252C_%253BlaqLZ_7dGo37nM%252CuetP2FpP4aVM2M%252C_&vet=1&usg=AI4_-kQipi2Ig0M_9F6kUW826YwYC7nWDA&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q9QF6BAgwEAE#imgrc=a50SJ6tiEJ7DRM",
+            "thumbnail": "https://serpapi.com/searches/61c1254bd5ecf4ec0df23195/images/c510ce5fe933770de57b7c56a7bd8b724081fa883cf563a56a42c3664290c206.png"
+        },
+        {
+            "link": "/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+'b'?&tbm=isch&source=iu&ictx=1&fir=sXfWd75qyw4TZM%252CyiabvNe9eL3_mM%252C_%253B_UBbxNIx3CWpkM%252CCNoxXPJw7m0kmM%252C_%253Ba50SJ6tiEJ7DRM%252ChTjceHrrjvqsUM%252C_%253BuYroljmYdvQfcM%252CWtLQ47J2dedMoM%252C_%253Bwl7lJzv9rjuzvM%252CsKgjbtyraWwnAM%252C_%253BHReCWb4hpqmGxM%252CW04gfAf9MXNMvM%252C_%253BDGgm_QqWYVVAVM%252CNdfr9TKMZ56KMM%252C_%253B9ZwO2u-mp3mymM%252CjMz-htJupqcHgM%252C_%253B558oefWwsKCL9M%252C5kI07NwdlQSatM%252C_%253BlaqLZ_7dGo37nM%252CuetP2FpP4aVM2M%252C_&vet=1&usg=AI4_-kQipi2Ig0M_9F6kUW826YwYC7nWDA&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q9QF6BAgxEAE#imgrc=uYroljmYdvQfcM",
+            "thumbnail": "https://serpapi.com/searches/61c1254bd5ecf4ec0df23195/images/c510ce5fe933770dcfc71da6a6666502e31b8a37f38be3aa777f577556ba45c4.png"
+        },
+        {
+            "link": "/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+'b'?&tbm=isch&source=iu&ictx=1&fir=sXfWd75qyw4TZM%252CyiabvNe9eL3_mM%252C_%253B_UBbxNIx3CWpkM%252CCNoxXPJw7m0kmM%252C_%253Ba50SJ6tiEJ7DRM%252ChTjceHrrjvqsUM%252C_%253BuYroljmYdvQfcM%252CWtLQ47J2dedMoM%252C_%253Bwl7lJzv9rjuzvM%252CsKgjbtyraWwnAM%252C_%253BHReCWb4hpqmGxM%252CW04gfAf9MXNMvM%252C_%253BDGgm_QqWYVVAVM%252CNdfr9TKMZ56KMM%252C_%253B9ZwO2u-mp3mymM%252CjMz-htJupqcHgM%252C_%253B558oefWwsKCL9M%252C5kI07NwdlQSatM%252C_%253BlaqLZ_7dGo37nM%252CuetP2FpP4aVM2M%252C_&vet=1&usg=AI4_-kQipi2Ig0M_9F6kUW826YwYC7nWDA&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q9QF6BAgyEAE#imgrc=wl7lJzv9rjuzvM",
+            "thumbnail": "https://serpapi.com/searches/61c1254bd5ecf4ec0df23195/images/c510ce5fe933770d0d097630e005802ae166adea99569100d44c4510b742efe4.jpeg"
+        },
+        {
+            "link": "/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+'b'?&tbm=isch&source=iu&ictx=1&fir=sXfWd75qyw4TZM%252CyiabvNe9eL3_mM%252C_%253B_UBbxNIx3CWpkM%252CCNoxXPJw7m0kmM%252C_%253Ba50SJ6tiEJ7DRM%252ChTjceHrrjvqsUM%252C_%253BuYroljmYdvQfcM%252CWtLQ47J2dedMoM%252C_%253Bwl7lJzv9rjuzvM%252CsKgjbtyraWwnAM%252C_%253BHReCWb4hpqmGxM%252CW04gfAf9MXNMvM%252C_%253BDGgm_QqWYVVAVM%252CNdfr9TKMZ56KMM%252C_%253B9ZwO2u-mp3mymM%252CjMz-htJupqcHgM%252C_%253B558oefWwsKCL9M%252C5kI07NwdlQSatM%252C_%253BlaqLZ_7dGo37nM%252CuetP2FpP4aVM2M%252C_&vet=1&usg=AI4_-kQipi2Ig0M_9F6kUW826YwYC7nWDA&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q9QF6BAg0EAE#imgrc=HReCWb4hpqmGxM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_rgkryozS4Q1V8Zh9QOlajV707yT1FtQlzHaXMDnAA&s"
+        },
+        {
+            "link": "/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+'b'?&tbm=isch&source=iu&ictx=1&fir=sXfWd75qyw4TZM%252CyiabvNe9eL3_mM%252C_%253B_UBbxNIx3CWpkM%252CCNoxXPJw7m0kmM%252C_%253Ba50SJ6tiEJ7DRM%252ChTjceHrrjvqsUM%252C_%253BuYroljmYdvQfcM%252CWtLQ47J2dedMoM%252C_%253Bwl7lJzv9rjuzvM%252CsKgjbtyraWwnAM%252C_%253BHReCWb4hpqmGxM%252CW04gfAf9MXNMvM%252C_%253BDGgm_QqWYVVAVM%252CNdfr9TKMZ56KMM%252C_%253B9ZwO2u-mp3mymM%252CjMz-htJupqcHgM%252C_%253B558oefWwsKCL9M%252C5kI07NwdlQSatM%252C_%253BlaqLZ_7dGo37nM%252CuetP2FpP4aVM2M%252C_&vet=1&usg=AI4_-kQipi2Ig0M_9F6kUW826YwYC7nWDA&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q9QF6BAg1EAE#imgrc=DGgm_QqWYVVAVM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvQniZMlRflWvA8vKtW_lf8PD4kelxGkJXyhVzHgTn2Q&s"
+        },
+        {
+            "link": "/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+'b'?&tbm=isch&source=iu&ictx=1&fir=sXfWd75qyw4TZM%252CyiabvNe9eL3_mM%252C_%253B_UBbxNIx3CWpkM%252CCNoxXPJw7m0kmM%252C_%253Ba50SJ6tiEJ7DRM%252ChTjceHrrjvqsUM%252C_%253BuYroljmYdvQfcM%252CWtLQ47J2dedMoM%252C_%253Bwl7lJzv9rjuzvM%252CsKgjbtyraWwnAM%252C_%253BHReCWb4hpqmGxM%252CW04gfAf9MXNMvM%252C_%253BDGgm_QqWYVVAVM%252CNdfr9TKMZ56KMM%252C_%253B9ZwO2u-mp3mymM%252CjMz-htJupqcHgM%252C_%253B558oefWwsKCL9M%252C5kI07NwdlQSatM%252C_%253BlaqLZ_7dGo37nM%252CuetP2FpP4aVM2M%252C_&vet=1&usg=AI4_-kQipi2Ig0M_9F6kUW826YwYC7nWDA&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q9QF6BAgzEAE#imgrc=9ZwO2u-mp3mymM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCD5Ai1Fe9iHiSO7ccEPQZMViJ9tQwdIl1uqbqSh5lWw&s"
+        },
+        {
+            "link": "/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+'b'?&tbm=isch&source=iu&ictx=1&fir=sXfWd75qyw4TZM%252CyiabvNe9eL3_mM%252C_%253B_UBbxNIx3CWpkM%252CCNoxXPJw7m0kmM%252C_%253Ba50SJ6tiEJ7DRM%252ChTjceHrrjvqsUM%252C_%253BuYroljmYdvQfcM%252CWtLQ47J2dedMoM%252C_%253Bwl7lJzv9rjuzvM%252CsKgjbtyraWwnAM%252C_%253BHReCWb4hpqmGxM%252CW04gfAf9MXNMvM%252C_%253BDGgm_QqWYVVAVM%252CNdfr9TKMZ56KMM%252C_%253B9ZwO2u-mp3mymM%252CjMz-htJupqcHgM%252C_%253B558oefWwsKCL9M%252C5kI07NwdlQSatM%252C_%253BlaqLZ_7dGo37nM%252CuetP2FpP4aVM2M%252C_&vet=1&usg=AI4_-kQipi2Ig0M_9F6kUW826YwYC7nWDA&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q9QF6BAgvEAE#imgrc=558oefWwsKCL9M",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvYhcJmfjS0wS5hUV6b8N3YEdqjkPnIVMXp6InsNGL&s"
+        },
+        {
+            "link": "/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+'b'?&tbm=isch&source=iu&ictx=1&fir=sXfWd75qyw4TZM%252CyiabvNe9eL3_mM%252C_%253B_UBbxNIx3CWpkM%252CCNoxXPJw7m0kmM%252C_%253Ba50SJ6tiEJ7DRM%252ChTjceHrrjvqsUM%252C_%253BuYroljmYdvQfcM%252CWtLQ47J2dedMoM%252C_%253Bwl7lJzv9rjuzvM%252CsKgjbtyraWwnAM%252C_%253BHReCWb4hpqmGxM%252CW04gfAf9MXNMvM%252C_%253BDGgm_QqWYVVAVM%252CNdfr9TKMZ56KMM%252C_%253B9ZwO2u-mp3mymM%252CjMz-htJupqcHgM%252C_%253B558oefWwsKCL9M%252C5kI07NwdlQSatM%252C_%253BlaqLZ_7dGo37nM%252CuetP2FpP4aVM2M%252C_&vet=1&usg=AI4_-kQipi2Ig0M_9F6kUW826YwYC7nWDA&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q9QF6BAgrEAE#imgrc=laqLZ_7dGo37nM",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKs2Qf0OD2lXHZa5NyT0y3KtjMOiYVZurt02SdwgXa&s"
+        }
+    ],
+    "inline_video_carousels": [
+        {
+            "position": 1,
+            "title": "Be (Cyrillic) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Be_(Cyrillic)#:~:text=Be%20(%D0%91%20%D0%B1%20italics%3A%20%D0%91,voiced%20labiodental%20fricative%20%2Fv%2F.",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Be_(Cyrillic)"
+        }
+    ],
+    "inline_people_also_search_for": [
+        {
+            "title": "Alphabet slavic",
+            "items": [
+                {
+                    "name": "Cyrillic script",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhTvCqmLWmsaVa4SIyDrHgPLQDkfYfuYInMmD8H98ICoE5cDPcd7av&s=0",
+                    "link": "https://www.google.com/search?q=Cyrillic+script&stick=H4sIAAAAAAAAAOOQUeLQz9U3MCyoLDfiT8wpyEhMSi1RKM5JLMtMjrIpz8hMzlDISS0pSS1SL1ZIrizKzMnJTFZILSzNLEvMSc0rUcjJz88uVsjJzE5VKMlIhapVSFK3P8UIN_kUIyeYWVKVBGMbJRmkm0GVGJsXVpxi5AILF2QUFFRB1RhXmufF_2Lkd0R1VgML4yJWfmeYW4qTizILSm6xSTLcmMllynRFY8uyjJXz5h0SWpRd-EmWz_C0BQCNSHQL5QAAAA&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Qs9oBKAB6BAg5EAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cyrillic+script&stick=H4sIAAAAAAAAAOOQUeLQz9U3MCyoLDfiT8wpyEhMSi1RKM5JLMtMjrIpz8hMzlDISS0pSS1SL1ZIrizKzMnJTFZILSzNLEvMSc0rUcjJz88uVsjJzE5VKMlIhapVSFK3P8UIN_kUIyeYWVKVBGMbJRmkm0GVGJsXVpxi5AILF2QUFFRB1RhXmufF_2Lkd0R1VgML4yJWfmeYW4qTizILSm6xSTLcmMllynRFY8uyjJXz5h0SWpRd-EmWz_C0BQCNSHQL5QAAAA"
+                },
+                {
+                    "name": "Russian alphabet",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJoMT0qQ6q-Id6e1x_zne6-1hLYPeY-TJwmtO_TZ8Fk_3EwMAtXXV&s=0",
+                    "link": "https://www.google.com/search?q=Russian+alphabet&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCypSio34k_MKchITEotUSjOSSzLTI6yKc_ITM5QyEktKUktUi9WSK4syszJyUxWSC0szSxLzEnNK1HIyc_PLlbIycxOVSjJSIWqVUhStz_FyAE2uqCy_BQjwhYo2yjJIN0MqsTYvLDiFCMXWLggo6CgCqrGuNI8L_4XI78jqrMaWBgXsQoElRYXZybmKcDcfItNkuHGTC5TpisaW5ZlrJw375DQouzCT7J8hqctAJZpj_fnAAAA&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Qs9oBKAF6BAg5EAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Russian+alphabet&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCypSio34k_MKchITEotUSjOSSzLTI6yKc_ITM5QyEktKUktUi9WSK4syszJyUxWSC0szSxLzEnNK1HIyc_PLlbIycxOVSjJSIWqVUhStz_FyAE2uqCy_BQjwhYo2yjJIN0MqsTYvLDiFCMXWLggo6CgCqrGuNI8L_4XI78jqrMaWBgXsQoElRYXZybmKcDcfItNkuHGTC5TpisaW5ZlrJw375DQouzCT7J8hqctAJZpj_fnAAAA"
+                },
+                {
+                    "name": "Early Cyrillic alphabet",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc3Le9iol9HYJ0rY2ZINNYsD8n_tZNawPI95ZCsbTAEk2j9Pd2petB&s=0",
+                    "link": "https://www.google.com/search?q=Early+Cyrillic+alphabet&stick=H4sIAAAAAAAAAOOQUeLUz9U3MEoySDcz4k_MKchITEotUSjOSSzLTI6yKc_ITM5QyEktKUktUi9WSK4syszJyUxWSC0szSxLzEnNK1HIyc_PLlbIycxOVSjJSIWqVUhStz_FyAEy2rCgsvwUI9gWw5KqJBgbbCNUibF5YcUpRi6wcEFGQUEVVI1xpXle_C9GfkdUZzWwMC5iFXdNLMqpVHCGuQjm9Ftskgw3ZnKZMl3R2LIsY-W8eYeEFmUXfpLlMzxtAQDIsKa87gAAAA&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Qs9oBKAJ6BAg5EAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Early+Cyrillic+alphabet&stick=H4sIAAAAAAAAAOOQUeLUz9U3MEoySDcz4k_MKchITEotUSjOSSzLTI6yKc_ITM5QyEktKUktUi9WSK4syszJyUxWSC0szSxLzEnNK1HIyc_PLlbIycxOVSjJSIWqVUhStz_FyAEy2rCgsvwUI9gWw5KqJBgbbCNUibF5YcUpRi6wcEFGQUEVVI1xpXle_C9GfkdUZzWwMC5iFXdNLMqpVHCGuQjm9Ftskgw3ZnKZMl3R2LIsY-W8eYeEFmUXfpLlMzxtAQDIsKa87gAAAA"
+                },
+                {
+                    "name": "Glagolitic script",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1jdiFqB_qB2VDcpel42YWsph1POI1OdaurzkNlnCwvUsAE449QrHW&s=0",
+                    "link": "https://www.google.com/search?q=Glagolitic+script&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDYvrDDiT8wpyEhMSi1RKM5JLMtMjrIpz8hMzlDISS0pSS1SL1ZIrizKzMnJTFZILSzNLEvMSc0rUcjJz88uVsjJzE5VKMlIhapVSFK3P8UINtmwoLL8FCMnmFlSlQRjGyUZpJtBlYAsP8XIBRYuyCgoqIKqMa40z4v_xcjviOqsBhbGRayC7jmJ6fk5mSVA1xQnF2UWlNxik2S4MZPLlOmKxpZlGSvnzTsktCi78JMsn-FpCwChElPI5wAAAA&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Qs9oBKAN6BAg5EAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Glagolitic+script&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDYvrDDiT8wpyEhMSi1RKM5JLMtMjrIpz8hMzlDISS0pSS1SL1ZIrizKzMnJTFZILSzNLEvMSc0rUcjJz88uVsjJzE5VKMlIhapVSFK3P8UINtmwoLL8FCMnmFlSlQRjGyUZpJtBlYAsP8XIBRYuyCgoqIKqMa40z4v_xcjviOqsBhbGRayC7jmJ6fk5mSVA1xQnF2UWlNxik2S4MZPLlOmKxpZlGSvnzTsktCi78JMsn-FpCwChElPI5wAAAA"
+                },
+                {
+                    "name": "Serbian Cyrillic alphabet",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Ay4QuORFpY1Wt61CO9yotm8a5r50VVGDnMjQ&s=0",
+                    "link": "https://www.google.com/search?q=Serbian+Cyrillic+alphabet&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCrIKCioMuJPzCnISExKLVEozkksy0yOsinPyEzOUMhJLSlJLVIvVkiuLMrMyclMVkgtLM0sS8xJzStRyMnPzy5WyMnMTlUoyUiFqlVIUrc_xcgBMtuwoLL8FCMnmFlSlQRjGyUZpJtBlRibF1acYkRyCVSNcaV5XvwvRn5HVGc1sDAuYpUMTi1KykzMU3CGuQnm-Ftskgw3ZnKZMl3R2LIsY-W8eYeEFmUXfpLlMzxtAQDx9wnA8QAAAA&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Qs9oBKAR6BAg5EAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Serbian+Cyrillic+alphabet&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCrIKCioMuJPzCnISExKLVEozkksy0yOsinPyEzOUMhJLSlJLVIvVkiuLMrMyclMVkgtLM0sS8xJzStRyMnPzy5WyMnMTlUoyUiFqlVIUrc_xcgBMtuwoLL8FCMnmFlSlQRjGyUZpJtBlRibF1acYkRyCVSNcaV5XvwvRn5HVGc1sDAuYpUMTi1KykzMU3CGuQnm-Ftskgw3ZnKZMl3R2LIsY-W8eYeEFmUXfpLlMzxtAQDx9wnA8QAAAA"
+                },
+                {
+                    "name": "Ukrainian alphabet",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIeeSw5FA3mz6uuVoYhfhMlD6K7Wbnsk9azjqZtHStBcATapXWOmEL&s=0",
+                    "link": "https://www.google.com/search?q=Ukrainian+alphabet&stick=H4sIAAAAAAAAAOOQUeLUz9U3MK40z4s34k_MKchITEotUSjOSSzLTI6yKc_ITM5QyEktKUktUi9WSK4syszJyUxWSC0szSxLzEnNK1HIyc_PLlbIycxOVSjJSIWqVUhStz_FyAEy2rCgsvwUI9gWw5KqJBjbKMkg3QyqxNi8sOIUIxdYuCCjoKAKqgbsql-M_I6ozmpgYVzEKhSaXZSYmZeZmKcAc_UtNkmGGzO5TJmuaGxZlrFy3rxDQouyCz_J8hmetgAASRG2hukAAAA&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Qs9oBKAV6BAg5EAg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ukrainian+alphabet&stick=H4sIAAAAAAAAAOOQUeLUz9U3MK40z4s34k_MKchITEotUSjOSSzLTI6yKc_ITM5QyEktKUktUi9WSK4syszJyUxWSC0szSxLzEnNK1HIyc_PLlbIycxOVSjJSIWqVUhStz_FyAEy2rCgsvwUI9gWw5KqJBjbKMkg3QyqxNi8sOIUIxdYuCCjoKAKqgbsql-M_I6ozmpgYVzEKhSaXZSYmZeZmKcAc_UtNkmGGzO5TJmuaGxZlrFy3rxDQouyCz_J8hmetgAASRG2hukAAAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?q=Alphabet+slavic&stick=H4sIAAAAAAAAAOOQMeJPzCnISExKLVEozkksy0yOsinPyEzOUMhJLSlJLVIvVkiuLMrMyclMVkgtLM0sS8xJzStRyMnPzy5WyMnMTlUoyUiFqlVIUrc_xcihn6tvYFhQWX6KkRPMLKlKgrGNkgzSzaBKjM0LK04xcoGFCzIKCqqgaowrzfPifzHyO6I6q4GFcREruuAtNkmGGzO5TJmuaGxZlrFy3rxDQouyCz_J8hmetgAA1hXuR9sAAAA&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q4qYDegQIORAJ",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Alphabet+slavic&stick=H4sIAAAAAAAAAOOQMeJPzCnISExKLVEozkksy0yOsinPyEzOUMhJLSlJLVIvVkiuLMrMyclMVkgtLM0sS8xJzStRyMnPzy5WyMnMTlUoyUiFqlVIUrc_xcihn6tvYFhQWX6KkRPMLKlKgrGNkgzSzaBKjM0LK04xcoGFCzIKCqqgaowrzfPifzHyO6I6q4GFcREruuAtNkmGGzO5TJmuaGxZlrFy3rxDQouyCz_J8hmetgAA1hXuR9sAAAA"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What is B in Russian?",
+            "snippet": "\u0411 \u0431 B b. Like \"b\" in bat.",
+            "title": "Russian Alphabet Table - Russian Lesson 1",
+            "link": "https://www.russianlessons.net/lessons/lesson1_alphabet.php",
+            "displayed_link": "https://www.russianlessons.net \u203a lessons \u203a lesson1_alpha..."
+        },
+        {
+            "question": "Is V pronounced B in Russian?",
+            "snippet": "The letter v (uvwxyz) in Russian is \u0412 \u0432 pronounced \u201cV\u201d as in vote. The Russian Cyrillic letter, similar to \u201cb\u201d, corresponds to Latin \u201cv\u201d and is pronounced like it.",
+            "title": "Do Russians pronounce 'b' as 'v' or is it just with the 'w' as 'v'? - Quora",
+            "link": "https://www.quora.com/Do-Russians-pronounce-b-as-v-or-is-it-just-with-the-w-as-v",
+            "displayed_link": "https://www.quora.com \u203a Do-Russians-pronounce-b-as-v-..."
+        },
+        {
+            "question": "What does the Russian B sound like?",
+            "title": "Russian Alphabet",
+            "link": "https://www.russiaeguide.com/russian-alphabet.html",
+            "displayed_link": "https://www.russiaeguide.com \u203a russian-alphabet"
+        },
+        {
+            "question": "What language has a backwards B?",
+            "title": "Other examples include the use of \u0428 for W, \u0426 for U, \u042f/\u0413 for R/backwards and upside-down L, \u0424 for O, \u0414 for A, \u0411, \u042c, or \u042a for B/b, \u0417, \u042d, or \u0401 for E, \u0427 or \u0423 for Y....Characters.",
+            "link": "https://en.wikipedia.org/wiki/Faux_Cyrillic",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Faux_Cyrillic"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Be (Cyrillic) - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Be_(Cyrillic)#:~:text=Be%20(%D0%91%20%D0%B1%20italics%3A%20%D0%91,voiced%20labiodental%20fricative%20%2Fv%2F.",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Be_(Cyrillic)",
+        "snippet": "Be (\u0411 \u0431 italics: \u0411 \u0431) is a letter of the Cyrillic script. It commonly represents the voiced bilabial plosive /b/, like the English pronunciation of \u27e8b\u27e9 in \"ball\". It should not be confused with the Cyrillic letter Ve (\u0412 \u0432), which is shaped like Latin capital letter B but represents the voiced labiodental fricative /v/."
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "What does the Cyrillic letter similar to a \u201cb\u201d which is ... - Quora",
+            "link": "https://www.quora.com/What-does-the-Cyrillic-letter-similar-to-a-b-which-is-transliterated-as-actually-do-or-mean",
+            "displayed_link": "https://www.quora.com \u203a What-does-the-Cyrillic-letter-si...",
+            "date": "Jul 28, 2018",
+            "snippet": "The fourth one represents a sound roughly like 'i' in the English word \u201cill.\u201d But I think that relative to your question are the third and fifth examples above.",
+            "sitelinks": {
+                "list": [
+                    {
+                        "title": "What does the ''b'' mean in the Russian alphabet? - Quora",
+                        "link": "https://www.quora.com/What-does-the-b-mean-in-the-Russian-alphabet",
+                        "answer_count": 4,
+                        "date": "Mar 27, 2018"
+                    },
+                    {
+                        "title": "How would a Russian write the name William if the ...",
+                        "link": "https://www.quora.com/How-would-a-Russian-write-the-name-William-if-the-W-sound-isnt-in-Cyrillic",
+                        "answer_count": 11,
+                        "date": "Sep 1, 2017"
+                    },
+                    {
+                        "title": "Why do some Cyrillic letters have completely ...",
+                        "link": "https://www.quora.com/Why-do-some-Cyrillic-letters-have-completely-different-pronunciation-than-the-English-ones-even-when-they-look-identical",
+                        "answer_count": 5,
+                        "date": "Dec 23, 2014"
+                    },
+                    {
+                        "title": "Why do the letters \u201c\u0417\u201d (Z), \u201c\u0427\u201d (CH), and \u201c\u0431\u201d (b) in ...",
+                        "link": "https://www.quora.com/Why-do-the-letters-%D0%97-Z-%D0%A7-CH-and-%D0%B1-b-in-Russian-look-very-similar-to-the-numbers-3-4-and-6-respectively",
+                        "answer_count": 3,
+                        "date": "Jun 2, 2021"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Quora is a social question-and-answer website based in Mountain View, California, United States. It was founded on June 25, 2009, and made available to the public on June 21, 2010. Users can collaborate by editing questions and commenting on answers that have been submitted by other users.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Quora",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1254bd5ecf4ec0df23195/images/743d365fdfbac0a1fe69dd1994b51ba23766bb06008ee90c9ad65197c7ceb2fb1c380080d3895976eb3d768036c55d4a.png"
+                },
+                "keywords": [
+                    "which",
+                    "letter's",
+                    "cyrillic",
+                    "looks",
+                    "like",
+                    "letter",
+                    "b"
+                ],
+                "related_keywords": [
+                    "what",
+                    "letters",
+                    "similar"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/What-does-the-Cyrillic-letter-similar-to-a-b-which-is-transliterated-as-actually-do-or-mean&tbm=ilp&ilps=AOR-xxsvRgCwy4UM8iJyCEuK5x1v3u6u0g"
+        },
+        {
+            "position": 2,
+            "title": "Russian Alphabet - Cyrillic alphabet",
+            "link": "http://masterrussian.com/russian_alphabet.shtml",
+            "displayed_link": "http://masterrussian.com \u203a russian_alphabet",
+            "snippet": "There are six exact sound and look-alikes (A, E, K, M, O, T) while many other Russian letters are similar to their English counterparts by either how they look ...",
+            "about_this_result": {
+                "source": {
+                    "description": "masterrussian.com was first indexed by Google more than 10 years ago",
+                    "security": "not secure",
+                    "icon": "https://serpapi.com/searches/61c1254bd5ecf4ec0df23195/images/743d365fdfbac0a1fe69dd1994b51ba2982c99e824bd6c579a6de34c4c828644030adc7970ea68e4b04cfe4cee024f3e.png"
+                },
+                "keywords": [
+                    "which",
+                    "letter's",
+                    "cyrillic",
+                    "equivalent",
+                    "looks",
+                    "like",
+                    "letter",
+                    "b"
+                ],
+                "related_keywords": [
+                    "letters",
+                    "russian",
+                    "similar",
+                    "look",
+                    "alphabet"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+http://masterrussian.com/russian_alphabet.shtml&tbm=ilp&ilps=AOR-xxuUIQU1BM6ZK5lPrYQ1ItX4ukEnMg",
+            "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:yiabvNe9eL0J:masterrussian.com/russian_alphabet.shtml+&cd=12&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:masterrussian.com/russian_alphabet.shtml+which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F"
+        },
+        {
+            "position": 3,
+            "title": "Russian Alphabet Table - Russian Lesson 1",
+            "link": "https://www.russianlessons.net/lessons/lesson1_alphabet.php",
+            "displayed_link": "https://www.russianlessons.net \u203a lessons \u203a lesson1_alpha...",
+            "snippet": "Russian letters that look unusual, but have familiar sounds. \u0411 \u0431 - Pronounced like the \"b\" in \"bat\". (Equivalent to the english letter \"b\").",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "oct": null
+                    },
+                    "extensions": [
+                        "Oct 23, 2005",
+                        "Uploaded by RussianLessons.Net"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "russianlessons.net was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1254bd5ecf4ec0df23195/images/743d365fdfbac0a1fe69dd1994b51ba2cccc0d202f70d173829ed531bacef16182406c1fa66fb50088dedfbc54854e9a.png"
+                },
+                "keywords": [
+                    "which",
+                    "letter's",
+                    "equivalent",
+                    "like",
+                    "letter",
+                    "b"
+                ],
+                "related_keywords": [
+                    "letters",
+                    "russian",
+                    "alphabet"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.russianlessons.net/lessons/lesson1_alphabet.php&tbm=ilp&ilps=AOR-xxvuTXoKwGVVvHUR94FvDXWYCp236w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VE86Q0v6gMsJ:https://www.russianlessons.net/lessons/lesson1_alphabet.php+&cd=13&hl=en&ct=clnk&gl=us",
+            "rich_snippet_table": [
+                {
+                    "russian_character": "\u0410 \u0430",
+                    "english_equivalent": "\u0410 \u0430",
+                    "letter_name_in_russian": "\"ah\""
+                },
+                {
+                    "russian_character": "\u0411 \u0431",
+                    "english_equivalent": "B b",
+                    "letter_name_in_russian": "\"beh\""
+                },
+                {
+                    "russian_character": "\u0412 \u0432",
+                    "english_equivalent": "V v",
+                    "letter_name_in_russian": "\"veh\""
+                }
+            ],
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Russian Alphabet - Russian Language Lesson 1",
+                    "link": "https://www.russianlessons.net/lessons/lesson1_main.php",
+                    "displayed_link": "https://www.russianlessons.net \u203a lessons \u203a lesson1_main",
+                    "snippet": "Russian letters that look unusual, but have familiar sounds. \u0411 \u0431 - Pronounced like the \"b\" in \"bat\". (Equivalent to the english letter \"b\").",
+                    "rich_snippet": {
+                        "top": {
+                            "detected_extensions": {
+                                "oct": null
+                            },
+                            "extensions": [
+                                "Oct 23, 2005",
+                                "Uploaded by RussianLessons.Net"
+                            ]
+                        }
+                    },
+                    "about_this_result": {
+                        "source": {
+                            "description": "russianlessons.net was first indexed by Google more than 10 years ago",
+                            "security": "secure",
+                            "icon": "https://serpapi.com/searches/61c1254bd5ecf4ec0df23195/images/743d365fdfbac0a1fe69dd1994b51ba2ad4303e2bce8b141a719410251d368b397b31e06a266524d30a9f47bc024962a3b3c489b4007f2e4d10211d541fdfe7206641cc42bcd7f85.png"
+                        },
+                        "keywords": [
+                            "which",
+                            "letter's",
+                            "cyrillic",
+                            "equivalent",
+                            "looks",
+                            "like",
+                            "letter",
+                            "b"
+                        ],
+                        "related_keywords": [
+                            "letters",
+                            "russian",
+                            "look",
+                            "sounds",
+                            "alphabet"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://www.russianlessons.net/lessons/lesson1_main.php&tbm=ilp&ilps=AOR-xxt6xSFC_nX2hx7yJ0jHyjNqH4MeYQ"
+                }
+            ]
+        },
+        {
+            "position": 4,
+            "title": "How to Identify Any Slavic Language at a Glance | Article",
+            "link": "https://culture.pl/en/article/how-to-identify-any-slavic-language-at-a-glance",
+            "displayed_link": "https://culture.pl \u203a article \u203a how-to-identify-any-slavic-l...",
+            "date": "Aug 25, 2016",
+            "snippet": "The Cyrillic alphabet. Belarusian \u2013 \u045e. Belarusian is the only language which uses the letter \u045e. It sounds similar to an English 'w', and the ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Culture.pl is a large web portal devoted to Polish culture. It was founded by the Adam Mickiewicz Institute in March 2001. Written in Polish, English and Russian, the site promotes the work of Polish artists around the world and is a popular information database on all artistic aspects of Polish culture.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Culture.pl",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1254bd5ecf4ec0df23195/images/743d365fdfbac0a1fe69dd1994b51ba2e449bb083c30ecf39c95a50e79f17dc64adb530ecf3b76fcc12d4933e8a5f10a.png"
+                },
+                "keywords": [
+                    "which",
+                    "letter's",
+                    "cyrillic",
+                    "equivalent",
+                    "like",
+                    "letter"
+                ],
+                "related_keywords": [
+                    "similar",
+                    "sounds",
+                    "alphabet"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://culture.pl/en/article/how-to-identify-any-slavic-language-at-a-glance&tbm=ilp&ilps=AOR-xxuqI5HPpPIScTsK2BtBP8mKFiV_1g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:kt5z9UolieQJ:https://culture.pl/en/article/how-to-identify-any-slavic-language-at-a-glance+&cd=25&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "The Hidden Europe: What Eastern Europeans Can Teach Us",
+            "link": "https://books.google.com/books?id=GlbAmn_cajYC&pg=PA547&lpg=PA547&dq=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+'b'?&source=bl&ots=cglF_Qn-Yr&sig=ACfU3U1YAw2ErFPnaifJ6imNyuNcFLERdw&hl=en&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q6AF6BAg3EAM",
+            "displayed_link": "https://books.google.com \u203a books \u203a isbn=0976581221",
+            "snippet": "I'm also not suggesting that the Latin alphabet is superior to Cyrillic. ... between uppercase and lowercase letters, whereas the Latin alphabet often has ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Francis Tapon",
+                        "2012",
+                        "\u200eTravel"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2012
+                    }
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "How Children Learn to Write Words - Page 168 - Google Books Result",
+            "link": "https://books.google.com/books?id=uG-VAwAAQBAJ&pg=PA168&lpg=PA168&dq=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+'b'?&source=bl&ots=8PRLv21E-r&sig=ACfU3U3-oYncXZEPzThgUM2QEQ7fhpL-RA&hl=en&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q6AF6BAgiEAM",
+            "displayed_link": "https://books.google.com \u203a books \u203a isbn=0199907978",
+            "snippet": "Thus, as mentioned in \u00a75.2.4, Us 3- and 4-year-olds tend to reject as writing ... The letters of these scripts look rather similar to Latin ones. similarly, ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Rebecca Treiman, \u200eBrett Kessler",
+                        "2014",
+                        "\u200ePsychology"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2014
+                    }
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "General description and introductory information",
+            "link": "https://books.google.com/books?id=Xi1PAAAAYAAJ&pg=PA73&lpg=PA73&dq=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+'b'?&source=bl&ots=BZPZYnBlHD&sig=ACfU3U11rw7P2MwgAwlhSIv-sNekl3rXog&hl=en&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q6AF6BAggEAM",
+            "displayed_link": "https://books.google.com \u203a books",
+            "snippet": "THE RUSSIAN ALPHABET . Russian letters . Russian letters . \u0430 6 1. A 2. B 3. B 4. T B 5. \u0434 \u0434 r he 3 \u092a English equivalents used in this volume . A a . B b .",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "United States. War Department. Military Intelligence Division",
+                        "1918",
+                        "\u200eRussia (Federation)"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 1918
+                    }
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "cyrillic v",
+            "link": "https://www.google.com/search?q=Cyrillic+v&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q1QJ6BAgpEAE"
+        },
+        {
+            "query": "triangle letter in russian",
+            "link": "https://www.google.com/search?q=Triangle+letter+in+Russian&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q1QJ6BAgnEAE"
+        },
+        {
+            "query": "cyrillic c",
+            "link": "https://www.google.com/search?q=Cyrillic+c&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q1QJ6BAglEAE"
+        },
+        {
+            "query": "y in russian",
+            "link": "https://www.google.com/search?q=Y+in+Russian&sa=X&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q1QJ6BAgjEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&ei=UiXBYYqVH9qaptQP3OSO6Ac&start=10&sa=N&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q8NMDegQIARBJ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&ei=UiXBYYqVH9qaptQP3OSO6Ac&start=10&sa=N&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&ei=UiXBYYqVH9qaptQP3OSO6Ac&start=20&sa=N&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&ei=UiXBYYqVH9qaptQP3OSO6Ac&start=30&sa=N&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&ei=UiXBYYqVH9qaptQP3OSO6Ac&start=40&sa=N&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&ei=UiXBYYqVH9qaptQP3OSO6Ac&start=50&sa=N&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&ei=UiXBYYqVH9qaptQP3OSO6Ac&start=60&sa=N&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&ei=UiXBYYqVH9qaptQP3OSO6Ac&start=70&sa=N&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&ei=UiXBYYqVH9qaptQP3OSO6Ac&start=80&sa=N&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&ei=UiXBYYqVH9qaptQP3OSO6Ac&start=90&sa=N&ved=2ahUKEwiKhvnd1vP0AhVajYkEHVyyA30Q8tMDegQIARBH"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+letter%E2%80%99s+cyrillic+equivalent+looks+like+the+letter+%27b%27%3F&start=90"
+        }
+    }
+}

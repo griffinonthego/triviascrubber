@@ -1,0 +1,443 @@
+{
+    "search_metadata": {
+        "id": "61c0ff6b2f542eeb66c95e76",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/917aef5090b4acf3/61c0ff6b2f542eeb66c95e76.json",
+        "created_at": "2021-12-20 22:10:51 UTC",
+        "processed_at": "2021-12-20 22:10:51 UTC",
+        "google_url": "https://www.google.com/search?q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&oq=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/917aef5090b4acf3/61c0ff6b2f542eeb66c95e76.html",
+        "total_time_taken": 4.88
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "what fruit does not typically undergo a name change when dried?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "what fruit does not typically undergo a name change when dried?",
+        "total_results": 31000000,
+        "time_taken_displayed": 0.66
+    },
+    "related_questions": [
+        {
+            "question": "Which fruits can be sundried?",
+            "snippet": "Nearly half of the dried fruits sold are raisins, followed by dates, prunes, figs, apricots, peaches, apples, and pears. These are referred to as \"conventional\" or \"traditional\" dried fruits: fruits that have been dried in the sun or in heated wind tunnel dryers.",
+            "title": "Dried fruit - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Dried_fruit",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Dried_fruit"
+        },
+        {
+            "question": "Which type of fruit is commonly dried?",
+            "title": "Popular dried fruits include raisins, dates, prunes (dried plums), figs, apricots and peaches. Fruits such as dried mango, pineapple and berries are also available, but these tend to be dried with added sugar....Nutritional profile of dried fruit.",
+            "link": "https://www.unlockfood.ca/en/Articles/Cooking-And-Food/Vegetables-and-Fruit/All-about-dried-fruit.aspx",
+            "displayed_link": "https://www.unlockfood.ca \u203a Vegetables-and-Fruit \u203a All-a..."
+        },
+        {
+            "question": "Which one Cannot be preserved by drying method?",
+            "snippet": "Drying food in the sun is a safe and economical way to preserve food, especially fruits. Meats and vegetables, however, cannot be dried outdoors since they have a low sugar and acid content. Fruits have a high sugar and acid content, which makes sun drying safe and easy.",
+            "title": "How to Preserve Food by Drying - PartSelect",
+            "link": "https://www.partselect.com/JustForFun/Preserving-Food-by-Drying.aspx",
+            "displayed_link": "https://www.partselect.com \u203a Preserving-Food-by-Drying"
+        },
+        {
+            "question": "Is dehydrating fruit a chemical change?",
+            "snippet": "Chemical changes. A number of chemical changes occur in foods during dehydration in systems employing warm air as the drying agent. The Maillard browning reactions (Lesson 2) cause the development of brown colours and the formation of flavours not originally associated with the fresh product.Jun 24, 2020",
+            "title": "Course:FNH200/Lessons/Lesson 08/Page 08.2 - UBC Wiki",
+            "link": "https://wiki.ubc.ca/Course:FNH200/Lessons/Lesson_08/Page_08.2",
+            "displayed_link": "https://wiki.ubc.ca \u203a Course:FNH200 \u203a Lessons \u203a Page_08"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "List of dried foods - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/List_of_dried_foods",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a List_of_dried_foods",
+            "snippet": "Where or when dehydration as a food preservation technique was invented has been lost to time, but the earliest known practice of food drying is 12,000 BC by ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c0ff6b2f542eeb66c95e76/images/297b4dd4f4bf4dbb2953ebee23fe1712054326280268ca410a3716de478cd82228a7ad5c7ec6606737180c42bfbd0067.png"
+                },
+                "keywords": [
+                    "what",
+                    "fruit",
+                    "does",
+                    "not",
+                    "typically",
+                    "name",
+                    "dried"
+                ],
+                "related_keywords": [
+                    "foods",
+                    "was",
+                    "drying"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "Indonesia"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zlDQR3Y0bIgJ:https://en.wikipedia.org/wiki/List_of_dried_foods+&cd=1&hl=en&ct=clnk&gl=id",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/List_of_dried_foods+what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F",
+            "missing": [
+                "change"
+            ],
+            "must_include": {
+                "word": "change",
+                "link": "https://www.google.com/search?q=what+fruit+does+not+typically+undergo+a+name+%22change%22+when+dried?&sa=X&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ5t4CegQIBhAB"
+            }
+        },
+        {
+            "position": 2,
+            "title": "fruit | Definition, Description, Types, Examples, & Facts",
+            "link": "https://www.britannica.com/science/fruit-plant-reproductive-body",
+            "displayed_link": "https://www.britannica.com \u203a science \u203a fruit-plant-repro...",
+            "snippet": "Fruit, the fleshy or dry ripened ovary of a flowering plant, enclosing the ... terms often do not properly describe the botanical nature of certain fruits.",
+            "about_this_result": {
+                "source": {
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c0ff6b2f542eeb66c95e76/images/297b4dd4f4bf4dbb2953ebee23fe1712e0af8b267ca4dd28b2ea21193f24f268ed047198bc3dcde72a02c0e112e72ade.png"
+                },
+                "keywords": [
+                    "what",
+                    "fruit",
+                    "not",
+                    "undergo",
+                    "name"
+                ],
+                "related_keywords": [
+                    "fruits",
+                    "often",
+                    "dry"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "Indonesia"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:DJWZmn5NHfMJ:https://www.britannica.com/science/fruit-plant-reproductive-body+&cd=10&hl=en&ct=clnk&gl=id",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.britannica.com/science/fruit-plant-reproductive-body+what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F"
+        },
+        {
+            "position": 3,
+            "title": "Osmotic dehydration of fruits and vegetables: a review - NCBI",
+            "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152536/",
+            "displayed_link": "https://www.ncbi.nlm.nih.gov \u203a articles \u203a PMC4152536",
+            "snippet": "In osmotic dehydration the solutes used are generally sugar syrup with fruit ... Osmotic dehydration preceding air drying decreases colour changes and ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "by AK Yadav",
+                        "2014",
+                        "Cited by 246 \u2014"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2014,
+                        "cited_by": 246
+                    }
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "The National Center for Biotechnology Information is part of the United States National Library of Medicine, a branch of the National Institutes of Health. It is approved and funded by the government of the United States.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/National_Center_for_Biotechnology_Information",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c0ff6b2f542eeb66c95e76/images/297b4dd4f4bf4dbb2953ebee23fe1712849886dd82469db598e8798d855de6986070100a4d061f4acf823c3169a70d97.png"
+                },
+                "keywords": [
+                    "what",
+                    "fruit",
+                    "does",
+                    "not",
+                    "change",
+                    "dried"
+                ],
+                "related_keywords": [
+                    "fruits",
+                    "generally",
+                    "changes",
+                    "drying"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "Indonesia"
+                ]
+            },
+            "cached_page_link": "/search?q=related:https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152536/+what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F"
+        },
+        {
+            "position": 4,
+            "title": "Ch03 Deterioration factors and their control - Fao.org",
+            "link": "https://www.fao.org/3/v5030e/V5030E08.HTM",
+            "displayed_link": "https://www.fao.org \u203a ...",
+            "snippet": "A summary of overall deterioration reactions in fruits and vegetables is presented below. 3.1 Enzymic changes. Enzymes which are endogenous to plant tissues can ...",
+            "about_this_result": {
+                "source": {
+                    "description": "The Food and Agriculture Organization of the United Nations is a specialized agency of the United Nations that leads international efforts to defeat hunger and improve nutrition and food security. Its Latin motto, fiat panis, translates to \"let there be bread\". It was founded in October 1945.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Food_and_Agriculture_Organization",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c0ff6b2f542eeb66c95e76/images/297b4dd4f4bf4dbb2953ebee23fe1712ae14daf615fd86f00fde961e601219bffe0cbc0c7f01d596c8502f4eebfd0501.jpeg"
+                },
+                "keywords": [
+                    "fruit",
+                    "does",
+                    "not",
+                    "undergo",
+                    "change",
+                    "dried"
+                ],
+                "related_keywords": [
+                    "fruits",
+                    "changes"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "Indonesia"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:47BFKBsrAJkJ:https://www.fao.org/3/v5030e/V5030E08.HTM+&cd=12&hl=en&ct=clnk&gl=id"
+        },
+        {
+            "position": 5,
+            "title": "Food Processing and Health | The Nutrition Source",
+            "link": "https://www.hsph.harvard.edu/nutritionsource/processed-foods/",
+            "displayed_link": "https://www.hsph.harvard.edu \u203a processed-foods",
+            "snippet": "Processed foods are generally thought to be inferior to unprocessed foods. ... but which does not substantially change the nutritional content of the food.",
+            "about_this_result": {
+                "source": {
+                    "description": "The Harvard T.H. Chan School of Public Health is the public health school of Harvard University, located in the Longwood Medical Area of Boston, Massachusetts.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Harvard_T.H._Chan_School_of_Public_Health",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c0ff6b2f542eeb66c95e76/images/297b4dd4f4bf4dbb2953ebee23fe1712e892bfe989f487affffcceae4731e2223105b3a1ee24044128671038a8c1c971.png"
+                },
+                "keywords": [
+                    "what",
+                    "fruit",
+                    "does",
+                    "not",
+                    "typically",
+                    "undergo",
+                    "name",
+                    "change",
+                    "dried"
+                ],
+                "related_keywords": [
+                    "foods",
+                    "generally"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "Indonesia"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:B554XulLGewJ:https://www.hsph.harvard.edu/nutritionsource/processed-foods/+&cd=13&hl=en&ct=clnk&gl=id"
+        },
+        {
+            "position": 6,
+            "title": "The science of freezing foods | UMN Extension",
+            "link": "https://extension.umn.edu/preserving-and-preparing/science-freezing-foods",
+            "displayed_link": "https://extension.umn.edu \u203a preserving-and-preparing",
+            "snippet": "Fresh fruits and vegetables, when harvested, continue to undergo chemical ... Celery and lettuce are not usually frozen because of this and we suggest that ...",
+            "about_this_result": {
+                "source": {
+                    "description": "The University of Minnesota, Twin Cities is a public land-grant research university in the Twin Cities of Minneapolis and Saint Paul, Minnesota. The Twin Cities campus comprises locations in Minneapolis and Falcon Heights, a suburb of St. Paul, approximately 3 miles apart.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/University_of_Minnesota",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c0ff6b2f542eeb66c95e76/images/297b4dd4f4bf4dbb2953ebee23fe1712f897cca915794c6e96062d8a760733b3879ca4edc80f36b7f4388dc5613b8ccb.png"
+                },
+                "keywords": [
+                    "what",
+                    "fruit",
+                    "does",
+                    "not",
+                    "undergo",
+                    "change",
+                    "dried"
+                ],
+                "related_keywords": [
+                    "foods",
+                    "fruits",
+                    "usually"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "Indonesia"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mvlZJcNZlFMJ:https://extension.umn.edu/preserving-and-preparing/science-freezing-foods+&cd=14&hl=en&ct=clnk&gl=id"
+        },
+        {
+            "position": 7,
+            "title": "Chambers's Encyclop\u00e6dia: A Dictionary of Universal Knowledge",
+            "link": "https://books.google.co.id/books?id=V2MMAAAAYAAJ&pg=PA187&lpg=PA187&dq=what+fruit+does+not+typically+undergo+a+name+change+when+dried?&source=bl&ots=WqbulwLCT1&sig=ACfU3U15WexEw1khGWaN4eAADgGW9rcfKA&hl=en&sa=X&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ6AF6BAgeEAM",
+            "displayed_link": "https://books.google.co.id \u203a books",
+            "snippet": "SUGAR . certain forms of dyspepsia in which sugar should be of the herbivorous ... lactic and butyric fermentation ; does not undergo further change .",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "unknown": 1868
+                    },
+                    "extensions": [
+                        "1868",
+                        "\u200eEncyclopedias and dictionaries"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "Storing Fruits and Vegetables - Healthline",
+            "link": "https://www.healthline.com/health/food-safety-fruits-vegetables",
+            "displayed_link": "https://www.healthline.com \u203a health \u203a food-safety-fruits...",
+            "snippet": "warm (50-60\u00b0F), dry storage. Typically, your refrigerator should be kept at around 34\u00b0F. Vegetables are best stored in the crisper section of your refrigerator.",
+            "about_this_result": {
+                "source": {
+                    "description": "Healthline Media, Inc. is an American website and provider of health information headquartered in San Francisco, CA. It was founded in 2006, and established as a standalone entity in January 2016.\nAs of October 2020, it had a global ranking of 188 by Alexa.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Healthline",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c0ff6b2f542eeb66c95e76/images/297b4dd4f4bf4dbb2953ebee23fe1712a062db480474f1cdf52d895b54f0338e71d4d51c8ef66a3720044dfd7c61ed18.png"
+                },
+                "keywords": [
+                    "what",
+                    "fruit",
+                    "does",
+                    "not",
+                    "typically",
+                    "change"
+                ],
+                "related_keywords": [
+                    "fruits",
+                    "should",
+                    "dry"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "Indonesia"
+                ]
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:B7f5dwjMbPcJ:https://www.healthline.com/health/food-safety-fruits-vegetables+&cd=16&hl=en&ct=clnk&gl=id"
+        },
+        {
+            "position": 9,
+            "title": "Journal of the Society of Arts",
+            "link": "https://books.google.co.id/books?id=jWcFAAAAQAAJ&pg=PA619&lpg=PA619&dq=what+fruit+does+not+typically+undergo+a+name+change+when+dried?&source=bl&ots=CZ4W-1Opp0&sig=ACfU3U3A3VSMK2FpptyfGnXlP3ca7Ss-Mg&hl=en&sa=X&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ6AF6BAgcEAM",
+            "displayed_link": "https://books.google.co.id \u203a books",
+            "snippet": "seen , lightning seen , thunder not heard ; at which hail of the matured ... some are fermentable , others do not undergo this change ; some are fluid ...",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "unknown": 1857
+                    },
+                    "extensions": [
+                        "1857",
+                        "\u200eArts"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 10,
+            "title": "Gardeners Chronicle & New Horticulturist",
+            "link": "https://books.google.co.id/books?id=aZQ4AQAAMAAJ&pg=PA824&lpg=PA824&dq=what+fruit+does+not+typically+undergo+a+name+change+when+dried?&source=bl&ots=ov3K9cgUv8&sig=ACfU3U2YvWTa8148hE7CYWFFIz1o_p6MzQ&hl=en&sa=X&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ6AF6BAgdEAM",
+            "displayed_link": "https://books.google.co.id \u203a books",
+            "snippet": "Gooseberries and Currants , if not already pruned , may and the plants placed in a ... as formerly necessary during winter , except occasionally watering ...",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "unknown": 1853
+                    },
+                    "extensions": [
+                        "1853",
+                        "\u200eGardening"
+                    ]
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "what is osmotic drying",
+            "link": "https://www.google.com/search?q=What+is+osmotic+drying&sa=X&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ1QJ6BAgfEAE"
+        },
+        {
+            "query": "fruit meaning",
+            "link": "https://www.google.com/search?q=Fruit+meaning&sa=X&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ1QJ6BAgmEAE"
+        },
+        {
+            "query": "examples of dried foods",
+            "link": "https://www.google.com/search?q=Examples+of+dried+foods&sa=X&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "drying food preservation examples",
+            "link": "https://www.google.com/search?q=Drying+food+preservation+examples&sa=X&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "sun drying food examples",
+            "link": "https://www.google.com/search?q=Sun+drying+food+examples&sa=X&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "simple definition of fruit",
+            "link": "https://www.google.com/search?q=Simple+definition+of+fruit&sa=X&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ1QJ6BAglEAE"
+        },
+        {
+            "query": "fruit definition biology",
+            "link": "https://www.google.com/search?q=Fruit+definition+Biology&sa=X&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "osmosis in food preservation",
+            "link": "https://www.google.com/search?q=Osmosis+in+food+preservation&sa=X&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ1QJ6BAggEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&ei=b__AYaKcMtG4ggehrZeoBQ&start=10&sa=N&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ8NMDegQIARBJ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&ei=b__AYaKcMtG4ggehrZeoBQ&start=10&sa=N&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&ei=b__AYaKcMtG4ggehrZeoBQ&start=20&sa=N&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&ei=b__AYaKcMtG4ggehrZeoBQ&start=30&sa=N&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&ei=b__AYaKcMtG4ggehrZeoBQ&start=40&sa=N&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&ei=b__AYaKcMtG4ggehrZeoBQ&start=50&sa=N&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&ei=b__AYaKcMtG4ggehrZeoBQ&start=60&sa=N&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&ei=b__AYaKcMtG4ggehrZeoBQ&start=70&sa=N&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&ei=b__AYaKcMtG4ggehrZeoBQ&start=80&sa=N&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&ei=b__AYaKcMtG4ggehrZeoBQ&start=90&sa=N&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ8tMDegQIARBH"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+fruit+does+not+typically+undergo+a+name+change+when+dried%3F&start=90"
+        }
+    }
+}

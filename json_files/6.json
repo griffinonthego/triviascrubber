@@ -1,0 +1,468 @@
+{
+    "search_metadata": {
+        "id": "61c124312348840b898c5250",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/9e7ed55cbac9ae93/61c124312348840b898c5250.json",
+        "created_at": "2021-12-21 00:47:45 UTC",
+        "processed_at": "2021-12-21 00:47:45 UTC",
+        "google_url": "https://www.google.com/search?q=which+nation+is+not+considered+an+arab+state%3F&oq=which+nation+is+not+considered+an+arab+state%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/9e7ed55cbac9ae93/61c124312348840b898c5250.html",
+        "total_time_taken": 9.84
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "which nation is not considered an arab state?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "which nation is not considered an arab state?",
+        "total_results": 1060000000,
+        "time_taken_displayed": 0.59
+    },
+    "inline_video_carousels": [
+        {
+            "position": 1,
+            "title": "Arab world - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Arab_world",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Arab_world"
+        }
+    ],
+    "inline_people_also_search_for": [
+        {
+            "title": "What are the 22 Arab countries",
+            "items": [
+                {
+                    "name": "Saudi Arabia",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4u1tKkRhK18HjR9DHu-N3lBO8sl8vaZt6EGe&s=0",
+                    "link": "https://www.google.com/search?q=Saudi+Arabia&stick=H4sIAAAAAAAAAOOQUeLUz9U3MKwyMjQ1kivPSCxRSCxKVSjJSFUwMgIyE5MUkvNL80qKMlOLo3TKMzKTMxTyEksy8_MUMosV8vJLgNJ5xZkpqUWpKQqJeRAdxSWJJamnGBEmn2JkB7EzjCtPMXKAWFmGVRZQplG2qQmUaZhnlgxlmmQUVkFNSDEwLYSpMLM0L4YZnG1QABM2Ma9M_sUoF47mfEcU5zewMC5i5QlOLE3JBMtkJt5ik2S4MZPL9PcyK52WjQ963zUe6D0gv0lt90oGDgAO_nIaGgEAAA&sa=X&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Qs9oBKAB6BAgiEAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Saudi+Arabia&stick=H4sIAAAAAAAAAOOQUeLUz9U3MKwyMjQ1kivPSCxRSCxKVSjJSFUwMgIyE5MUkvNL80qKMlOLo3TKMzKTMxTyEksy8_MUMosV8vJLgNJ5xZkpqUWpKQqJeRAdxSWJJamnGBEmn2JkB7EzjCtPMXKAWFmGVRZQplG2qQmUaZhnlgxlmmQUVkFNSDEwLYSpMLM0L4YZnG1QABM2Ma9M_sUoF47mfEcU5zewMC5i5QlOLE3JBMtkJt5ik2S4MZPL9PcyK52WjQ963zUe6D0gv0lt90oGDgAO_nIaGgEAAA"
+                },
+                {
+                    "name": "Algeria",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgmXSFXj9-6rVkaiDqqlXatnJidGZxS3Ovdrul&s=0",
+                    "link": "https://www.google.com/search?q=Algeria&stick=H4sIAAAAAAAAAOOQUWLXz9U3yDCuNJIrz0gsUUgsSlUoyUhVMDICMhOTFJLzS_NKijJTi6N0yjMykzMU8hJLMvPzFDKLFfLyS4DSecWZKalFqSkKiXkQHcUliSWppxg5QeYaVhkZmp5ihNlxipEDxMoyrLKAMo2yTU2gTMM8s2Qo0ySjsApqQoqBaSFMhZmleTHM4GyDApiwiXll8i9GuXA05zuiOL-BhXERK7tjTnpqUWbiLTZJhhszuUx_L7PSadn4oPdd44HeA_Kb1HavZOAAABsvgtMTAQAA&sa=X&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Qs9oBKAF6BAgiEAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Algeria&stick=H4sIAAAAAAAAAOOQUWLXz9U3yDCuNJIrz0gsUUgsSlUoyUhVMDICMhOTFJLzS_NKijJTi6N0yjMykzMU8hJLMvPzFDKLFfLyS4DSecWZKalFqSkKiXkQHcUliSWppxg5QeYaVhkZmp5ihNlxipEDxMoyrLKAMo2yTU2gTMM8s2Qo0ySjsApqQoqBaSFMhZmleTHM4GyDApiwiXll8i9GuXA05zuiOL-BhXERK7tjTnpqUWbiLTZJhhszuUx_L7PSadn4oPdd44HeA_Kb1HavZOAAABsvgtMTAQAA"
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBBaHGOk43h8Mq1j9QVsUW8R134W5WSBm4b-Ja&s=0",
+                    "link": "https://www.google.com/search?q=United+Arab+Emirates&stick=H4sIAAAAAAAAAOOQUeLQz9U3yDKssjCSK89ILFFILEpVKMlIVTAyAjITkxSS80vzSooyU4ujdMozMpMzFPISSzLz8xQyixXy8kuA0nnFmSmpRakpCol5EB3FJYklqacYOUEGG1YZGZqeYmQHsTOMK08xwq2DMo2yTU2gTMM8s2Qo0ySjsApqQoqBaSFMhZmleTHM4GyDApiwiXll8i9GuXA05zuiOL-BhXERq0hoXmYJ0KlgKdfczCKgS4tvsUky3JjJZfp7mZVOy8YHve8aD_QekN-ktnslAwcAVwZ_0CEBAAA&sa=X&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Qs9oBKAJ6BAgiEAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=United+Arab+Emirates&stick=H4sIAAAAAAAAAOOQUeLQz9U3yDKssjCSK89ILFFILEpVKMlIVTAyAjITkxSS80vzSooyU4ujdMozMpMzFPISSzLz8xQyixXy8kuA0nnFmSmpRakpCol5EB3FJYklqacYOUEGG1YZGZqeYmQHsTOMK08xwq2DMo2yTU2gTMM8s2Qo0ySjsApqQoqBaSFMhZmleTHM4GyDApiwiXll8i9GuXA05zuiOL-BhXERq0hoXmYJ0KlgKdfczCKgS4tvsUky3JjJZfp7mZVOy8YHve8aD_QekN-ktnslAwcAVwZ_0CEBAAA"
+                },
+                {
+                    "name": "Egypt",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLQkoBecN4CNw9ldcR739tZxXbN6a3ffTRxrPI&s=0",
+                    "link": "https://www.google.com/search?q=Egypt&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMo2NTGSK89ILFFILEpVKMlIVTAyAjITkxSS80vzSooyU4ujdMozMpMzFPISSzLz8xQyixXy8kuA0nnFmSmpRakpCol5EB3FJYklqacYOUEGG1YZGZqeYmQHsTOMK08xgq3LMqyygDJBNkOZhnlmyVCmSUZhFdSEFAPTQpgKM0vzYpjB2QYFMGET88rkX4xy4WjOd0RxfgML4yJWVtf0yoKSW2ySDDdmcpn-Xmal07LxQe-7xgO9B-Q3qe1eycABADhBCPkSAQAA&sa=X&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Qs9oBKAN6BAgiEAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Egypt&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMo2NTGSK89ILFFILEpVKMlIVTAyAjITkxSS80vzSooyU4ujdMozMpMzFPISSzLz8xQyixXy8kuA0nnFmSmpRakpCol5EB3FJYklqacYOUEGG1YZGZqeYmQHsTOMK08xgq3LMqyygDJBNkOZhnlmyVCmSUZhFdSEFAPTQpgKM0vzYpjB2QYFMGET88rkX4xy4WjOd0RxfgML4yJWVtf0yoKSW2ySDDdmcpn-Xmal07LxQe-7xgO9B-Q3qe1eycABADhBCPkSAQAA"
+                },
+                {
+                    "name": "Comoros",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifll9ODU2QJmkadUy5I4W4rvURIiVzjiJzJHz&s=0",
+                    "link": "https://www.google.com/search?q=Comoros&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMwzSzaSK89ILFFILEpVKMlIVTAyAjITkxSS80vzSooyU4ujdMozMpMzFPISSzLz8xQyixXy8kuA0nnFmSmpRakpCol5EB3FJYklqacYOcEGVxkZmp5iZAexM4wrTzGCrcsyrLKAMo2yTU2gTJAjoEyTjMIqqAkpBqaFMBVmlubFMIOzDQpgwibmlcm_GOXC0ZzviOL8BhbGRazszvm5-UX5xbfYJBluzOQy_b3MSqdl44Ped40Heg_Ib1LbvZKBAwCXGwhJFAEAAA&sa=X&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Qs9oBKAR6BAgiEAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Comoros&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMwzSzaSK89ILFFILEpVKMlIVTAyAjITkxSS80vzSooyU4ujdMozMpMzFPISSzLz8xQyixXy8kuA0nnFmSmpRakpCol5EB3FJYklqacYOcEGVxkZmp5iZAexM4wrTzGCrcsyrLKAMo2yTU2gTJAjoEyTjMIqqAkpBqaFMBVmlubFMIOzDQpgwibmlcm_GOXC0ZzviOL8BhbGRazszvm5-UX5xbfYJBluzOQy_b3MSqdl44Ped40Heg_Ib1LbvZKBAwCXGwhJFAEAAA"
+                },
+                {
+                    "name": "Lebanon",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ62d_bRoGhG-8NN2brFr64mcCzO64dF3Alzt3f&s=0",
+                    "link": "https://www.google.com/search?q=Lebanon&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMkorDKSK89ILFFILEpVKMlIVTAyAjITkxSS80vzSooyU4ujdMozMpMzFPISSzLz8xQyixXy8kuA0nnFmSmpRakpCol5EB3FJYklqacYOUEGG1YZGZqeYmQHsTOMK08xgq3LMqyygDKNsk1NoEzDPLNkKBPkHqgJKQamhTAVZpbmxTCDsw0KYMIm5pXJvxjlwtGc74ji_AYWxkWs7D6pSYl5-Xm32CQZbszkMv29zEqnZeOD3neNB3oPyG9S272SgQMAr8H3HxQBAAA&sa=X&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Qs9oBKAV6BAgiEAg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Lebanon&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMkorDKSK89ILFFILEpVKMlIVTAyAjITkxSS80vzSooyU4ujdMozMpMzFPISSzLz8xQyixXy8kuA0nnFmSmpRakpCol5EB3FJYklqacYOUEGG1YZGZqeYmQHsTOMK08xgq3LMqyygDKNsk1NoEzDPLNkKBPkHqgJKQamhTAVZpbmxTCDsw0KYMIm5pXJvxjlwtGc74ji_AYWxkWs7D6pSYl5-Xm32CQZbszkMv29zEqnZeOD3neNB3oPyG9S272SgQMAr8H3HxQBAAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?q=What+are+the+22+Arab+countries&stick=H4sIAAAAAAAAAOOQMZIrz0gsUUgsSlUoyUhVMDICMhOTFJLzS_NKijJTi6N0yjMykzMU8hJLMvPzFDKLFfLyS4DSecWZKalFqSkKiXkQHcUliSWppxg59XP1DQyrjAxNTzGyg9gZxpWnGDlArCzDKgso0yjb1ATKNMwzS4YyTTIKq6AmpBiYFsJUmFmaF8MMzjYogAmbmFcm_2KUC0dzviOK8xtYGBexElBzi02S4cZMLtPfy6x0WjY-6H3XeKD3gPwmtd0rGTgAgXZXZyEBAAA&sa=X&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Q4qYDegQIIhAJ",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=What+are+the+22+Arab+countries&stick=H4sIAAAAAAAAAOOQMZIrz0gsUUgsSlUoyUhVMDICMhOTFJLzS_NKijJTi6N0yjMykzMU8hJLMvPzFDKLFfLyS4DSecWZKalFqSkKiXkQHcUliSWppxg59XP1DQyrjAxNTzGyg9gZxpWnGDlArCzDKgso0yjb1ATKNMwzS4YyTTIKq6AmpBiYFsJUmFmaF8MMzjYogAmbmFcm_2KUC0dzviOK8xtYGBexElBzi02S4cZMLtPfy6x0WjY-6H3XeKD3gPwmtd0rGTgAgXZXZyEBAAA"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What are the Arab states?",
+            "snippet": "The 22 members of the Arab League as of 2021 are Algeria, Bahrain, Comoros, Djibouti, Egypt, Iraq, Jordan, Kuwait, Lebanon, Libya, Mauritania, Morocco, Oman, Palestine, Qatar, Saudi Arabia, Somalia, Sudan, Syria, Tunisia, the United Arab Emirates, and Yemen.",
+            "title": "Arab League Definition - Investopedia",
+            "link": "https://www.investopedia.com/terms/a/arab-league.asp",
+            "displayed_link": "https://www.investopedia.com \u203a Commodities \u203a Gold"
+        },
+        {
+            "question": "What is the only non Arab nation in the Middle East?",
+            "snippet": "There are 3 non Arab countries in the Middle East such as Israel, Turkey and Iran(4 if we add Cyprus).",
+            "title": "Middle East - Wikitravel",
+            "link": "https://wikitravel.org/en/Middle_East",
+            "displayed_link": "https://wikitravel.org \u203a Middle_East"
+        },
+        {
+            "question": "Is Pakistan considered Arab?",
+            "snippet": "Pakistani people are citizens of the said country and have lived there with all its multi-ethnicities and cultures. Thus, a Pakistani need not be Arab in lineage. Pakistani is a nationality; therefore, lineage can be of Arab descent or not. ... Pakistanis are mostly Muslims because Pakistan is a Muslim state.",
+            "title": "Differences Between Arabs and Pakistanis - Differencebetween.net",
+            "link": "http://www.differencebetween.net/miscellaneous/culture-miscellaneous/differences-between-arabs-and-pakistanis/",
+            "displayed_link": "http://www.differencebetween.net \u203a culture-miscellaneous"
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Arab world - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Arab_world",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Arab_world",
+        "snippet": "Israel is not part of the Arab world. By some definitions, Arab citizens of Israel may concurrently be considered a constituent part of the Arab world. Iran has about 1.5 million Arabic speakers."
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Why Iran Is Not an Arab Country - Culture Trip",
+            "link": "https://theculturetrip.com/middle-east/iran/articles/why-iran-is-not-an-arab-country/",
+            "displayed_link": "https://theculturetrip.com \u203a middle-east \u203a iran \u203a articles",
+            "snippet": "Given its location in the Middle East, Muslim majority, and language which resembles Arabic, Iran is often mislabeled as an Arab nation.",
+            "about_this_result": {
+                "source": {
+                    "description": "theculturetrip.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c124312348840b898c5250/images/2c56576d429211e7c5027d989a874cbd6c283dc461203752767f7ccc7e19fc42572801a3a69d6469eddb75c0b67af78c.png"
+                },
+                "keywords": [
+                    "which",
+                    "nation",
+                    "not",
+                    "arab"
+                ],
+                "related_keywords": [
+                    "country",
+                    "arabic"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://theculturetrip.com/middle-east/iran/articles/why-iran-is-not-an-arab-country/&tbm=ilp&ilps=AOR-xxu0SWPm7D5p8iIFwMdV96NFLPJahQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zoayqNGd3WUJ:https://theculturetrip.com/middle-east/iran/articles/why-iran-is-not-an-arab-country/+&cd=10&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://theculturetrip.com/middle-east/iran/articles/why-iran-is-not-an-arab-country/+which+nation+is+not+considered+an+arab+state%3F"
+        },
+        {
+            "position": 2,
+            "title": "Arab League Definition - Investopedia",
+            "link": "https://www.investopedia.com/terms/a/arab-league.asp",
+            "displayed_link": "https://www.investopedia.com \u203a Commodities \u203a Gold",
+            "snippet": "They are all predominantly Muslim, Arabic-speaking countries, but Egypt and Saudi Arabia are considered the dominant players in the League.",
+            "about_this_result": {
+                "source": {
+                    "description": "Investopedia is a financial website headquartered in New York City. Founded in 1999, Investopedia provides investment dictionaries, advice, reviews, ratings, and comparisons of financial products such as securities accounts. Investopedia has more than 32,000 articles and reaches 20 million unique monthly viewers.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Investopedia",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c124312348840b898c5250/images/2c56576d429211e7c5027d989a874cbd734b453e99abbd1f5aa56871b8526287ce59cb1070da11f2f98dbdb0faabd810.png"
+                },
+                "keywords": [
+                    "which",
+                    "nation",
+                    "not",
+                    "considered",
+                    "arab",
+                    "state"
+                ],
+                "related_keywords": [
+                    "country",
+                    "country has",
+                    "nations",
+                    "arabic",
+                    "countries"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.investopedia.com/terms/a/arab-league.asp&tbm=ilp&ilps=AOR-xxtsIuBtS1cMyNNnLiizmUR7ILZdhQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3r_25VCMe0gJ:https://www.investopedia.com/terms/a/arab-league.asp+&cd=11&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Countries covered (Arab States) - ILO",
+            "link": "https://www.ilo.org/beirut/countries/lang--en/index.htm",
+            "displayed_link": "https://www.ilo.org \u203a beirut \u203a countries \u203a lang--en",
+            "snippet": "Bahrain \u00b7 Iraq \u00b7 Jordan \u00b7 Kuwait \u00b7 Lebanon \u00b7 Occupied Palestinian Territory \u00b7 Oman \u00b7 Qatar \u00b7 Saudi Arabia \u00b7 Syrian Arab Republic \u00b7 United Arab Emirates ...",
+            "about_this_result": {
+                "source": {
+                    "description": "The International Labour Organization is a United Nations agency whose mandate is to advance social and economic justice through setting international labour standards. Founded in October 1919 under the League of Nations, it is the first and oldest specialised agency of the UN.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/International_Labour_Organization",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c124312348840b898c5250/images/2c56576d429211e7c5027d989a874cbd5b42bce8b89039a095f6138812bdafb679e6c7ef27d0f039530166b3e28e1a78.png"
+                },
+                "keywords": [
+                    "arab"
+                ],
+                "related_keywords": [
+                    "countries",
+                    "states"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.ilo.org/beirut/countries/lang--en/index.htm&tbm=ilp&ilps=AOR-xxubIfnEU3i0sCM1xE0YGPQNbE4_1A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EW_skJ154z8J:https://www.ilo.org/beirut/countries/lang--en/index.htm+&cd=12&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "Arab Countries 2021 - World Population Review",
+            "link": "https://worldpopulationreview.com/country-rankings/arab-countries",
+            "displayed_link": "https://worldpopulationreview.com \u203a country-rankings",
+            "snippet": "By area, Algeria is the largest Arab country with a total area of 919,595 square miles. The smallest by area is Bahrain, which covers just 293 square miles.",
+            "about_this_result": {
+                "source": {
+                    "description": "worldpopulationreview.com was first indexed by Google more than 10 years ago",
+                    "security": "secure"
+                },
+                "keywords": [
+                    "which",
+                    "arab"
+                ],
+                "related_keywords": [
+                    "country",
+                    "nations",
+                    "countries",
+                    "states"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://worldpopulationreview.com/country-rankings/arab-countries&tbm=ilp&ilps=AOR-xxuOCKYMrHsu46Cp0_KaS-uIecW1tA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KI-oWxW0zIMJ:https://worldpopulationreview.com/country-rankings/arab-countries+&cd=13&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Facts About Arabs - Rethinking Schools",
+            "link": "https://rethinkingschools.org/special-collections/facts-about-arabs-2/",
+            "displayed_link": "https://rethinkingschools.org \u203a special-collections \u203a fact...",
+            "snippet": "Of these countries only Egypt is an Arab country. Most Arabs are Muslims, but most Muslims are not Arabs. Who is a Muslim? A Muslim is a follower of Islam. [See ...",
+            "about_this_result": {
+                "source": {
+                    "description": "rethinkingschools.org was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c124312348840b898c5250/images/2c56576d429211e7c5027d989a874cbd3e97fba78ad3e516f40c85d0b8df067630234baf9a0ba8177ab545f77e070674.png"
+                },
+                "keywords": [
+                    "not",
+                    "considered",
+                    "arab"
+                ],
+                "related_keywords": [
+                    "country",
+                    "arabs"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://rethinkingschools.org/special-collections/facts-about-arabs-2/&tbm=ilp&ilps=AOR-xxv5cjb5vvBRO2IrTlUYhK92tTbvQA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VSxSAwFHWbgJ:https://rethinkingschools.org/special-collections/facts-about-arabs-2/+&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "Facts about Arabs and the Arab World - ADC - American-Arab ...",
+            "link": "https://www.adc.org/facts-about-arabs-and-the-arab-world/",
+            "displayed_link": "https://www.adc.org \u203a facts-about-arabs-and-the-arab-w...",
+            "snippet": "Of these countries only Egypt is an Arab country. Most Arabs are Muslims, but most Muslims are not Arabs. Who is a Muslim? A Muslim is a follower of Islam. (See ...",
+            "about_this_result": {
+                "source": {
+                    "description": "The American-Arab Anti-Discrimination Committee states that it is \"the largest Arab American grassroots civil rights organization in the United States.\" According to its webpage it is open to people of all backgrounds, faiths and ethnicities and has a national network of chapters and members in all 50 states.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/American-Arab_Anti-Discrimination_Committee",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c124312348840b898c5250/images/2c56576d429211e7c5027d989a874cbdedef5578cc558e7157784b5b080a80842136cf3898e703aa3acf097fbe481882.png"
+                },
+                "keywords": [
+                    "not",
+                    "considered",
+                    "arab"
+                ],
+                "related_keywords": [
+                    "country",
+                    "arabs"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.adc.org/facts-about-arabs-and-the-arab-world/&tbm=ilp&ilps=AOR-xxsTpPetO91d5CBMC7FOhvE4jbck8A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9vMnxUWgZgkJ:https://www.adc.org/facts-about-arabs-and-the-arab-world/+&cd=15&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "What Are the Countries that Make up the Arab States?",
+            "link": "https://www.thoughtco.com/list-of-arab-states-1435128",
+            "displayed_link": "https://www.thoughtco.com \u203a ... \u203a Country Information",
+            "date": "Nov 25, 2019",
+            "snippet": "The Arab world is considered an area of the world that encompasses ... The one state listed by UNESCO that is not part of the Arab League is ...",
+            "about_this_result": {
+                "source": {
+                    "description": "thoughtco.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c124312348840b898c5250/images/2c56576d429211e7c5027d989a874cbd1d288644c58681bc34f5dd95051160271e803d94fd5a43ebf74ad0206d7a0996.png"
+                },
+                "keywords": [
+                    "which",
+                    "not",
+                    "considered",
+                    "arab",
+                    "state"
+                ],
+                "related_keywords": [
+                    "what",
+                    "countries",
+                    "states"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.thoughtco.com/list-of-arab-states-1435128&tbm=ilp&ilps=AOR-xxtFTNXp277mBfVmuBKSbVzfmR7qYQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uVgSH5uLt_8J:https://www.thoughtco.com/list-of-arab-states-1435128+&cd=16&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.thoughtco.com/list-of-arab-states-1435128+which+nation+is+not+considered+an+arab+state%3F"
+        },
+        {
+            "position": 8,
+            "title": "Is Iran an Arab Country?",
+            "link": "https://slate.com/news-and-politics/2001/10/is-iran-an-arab-country.html",
+            "displayed_link": "https://slate.com \u203a news-and-politics \u203a 2001/10 \u203a is-iran...",
+            "date": "Oct 3, 2001",
+            "snippet": "Alone among the Middle Eastern peoples conquered by the Arabs, the Iranians did not lose their language or their identity. Ethnic Persians make ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Slate is a progressive online magazine that covers current affairs, politics, and culture in the United States. It was created in 1996 by former New Republic editor Michael Kinsley, initially under the ownership of Microsoft as part of MSN.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Slate_(magazine)",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c124312348840b898c5250/images/2c56576d429211e7c5027d989a874cbd49770a7531d483faa82ef03300eade4c0dc0cf97a814ea0fbcc86f850e0ba4f0.png"
+                },
+                "keywords": [
+                    "which",
+                    "nation",
+                    "not",
+                    "arab",
+                    "state"
+                ],
+                "related_keywords": [
+                    "country",
+                    "arabs"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://slate.com/news-and-politics/2001/10/is-iran-an-arab-country.html&tbm=ilp&ilps=AOR-xxtjv1v5vU2OwV_Mrh-VmIKVG7Q9gg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:o7QDFASbvZAJ:https://slate.com/news-and-politics/2001/10/is-iran-an-arab-country.html+&cd=17&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 9,
+            "title": "What are the countries in the Arab world? - Quora",
+            "link": "https://www.quora.com/What-are-the-countries-in-the-Arab-world",
+            "displayed_link": "https://www.quora.com \u203a What-are-the-countries-in-the-A...",
+            "snippet": "Because it is an Arabic country. Asking why Egypt is considered an Arab country because ancient Egyptians did not identify as Arabs makes no sense whatsoever.",
+            "about_this_result": {
+                "source": {
+                    "description": "Quora is a social question-and-answer website based in Mountain View, California, United States. It was founded on June 25, 2009, and made available to the public on June 21, 2010. Users can collaborate by editing questions and commenting on answers that have been submitted by other users.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Quora",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c124312348840b898c5250/images/2c56576d429211e7c5027d989a874cbdce207931ae1e2689ec4f8ce1795b7dfe8875444d4d602f3ae845ebee990a2653.png"
+                },
+                "keywords": [
+                    "which",
+                    "nation",
+                    "not",
+                    "considered",
+                    "arab",
+                    "state"
+                ],
+                "related_keywords": [
+                    "what",
+                    "country",
+                    "arabic",
+                    "countries"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/What-are-the-countries-in-the-Arab-world&tbm=ilp&ilps=AOR-xxv7AjSmrLregHzObwpVeLZQY6y1rw"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "list of arab countries",
+            "link": "https://www.google.com/search?q=List+of+Arab+countries&sa=X&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Q1QJ6BAgwEAE"
+        },
+        {
+            "query": "arab countries list and capital",
+            "link": "https://www.google.com/search?q=Arab+countries+list+and+capital&sa=X&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Q1QJ6BAgtEAE"
+        },
+        {
+            "query": "arab ethnicity",
+            "link": "https://www.google.com/search?q=Arab+ethnicity&sa=X&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Q1QJ6BAgzEAE"
+        },
+        {
+            "query": "is turkey an arab country",
+            "link": "https://www.google.com/search?q=Is+Turkey+an+Arab+country&sa=X&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Q1QJ6BAgxEAE"
+        },
+        {
+            "query": "is iran an arab country",
+            "link": "https://www.google.com/search?q=Is+Iran+an+Arab+country&sa=X&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Q1QJ6BAgpEAE"
+        },
+        {
+            "query": "arab league website",
+            "link": "https://www.google.com/search?q=Arab+League+website&sa=X&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Q1QJ6BAgqEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=which+nation+is+not+considered+an+arab+state%3F&ei=OiTBYaqbAt2Qxc8PosaI6Ak&start=10&sa=N&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Q8NMDegQIARBJ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=which+nation+is+not+considered+an+arab+state%3F&ei=OiTBYaqbAt2Qxc8PosaI6Ak&start=10&sa=N&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Q8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=which+nation+is+not+considered+an+arab+state%3F&ei=OiTBYaqbAt2Qxc8PosaI6Ak&start=20&sa=N&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Q8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=which+nation+is+not+considered+an+arab+state%3F&ei=OiTBYaqbAt2Qxc8PosaI6Ak&start=30&sa=N&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Q8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=which+nation+is+not+considered+an+arab+state%3F&ei=OiTBYaqbAt2Qxc8PosaI6Ak&start=40&sa=N&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Q8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=which+nation+is+not+considered+an+arab+state%3F&ei=OiTBYaqbAt2Qxc8PosaI6Ak&start=50&sa=N&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Q8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=which+nation+is+not+considered+an+arab+state%3F&ei=OiTBYaqbAt2Qxc8PosaI6Ak&start=60&sa=N&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Q8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=which+nation+is+not+considered+an+arab+state%3F&ei=OiTBYaqbAt2Qxc8PosaI6Ak&start=70&sa=N&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Q8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=which+nation+is+not+considered+an+arab+state%3F&ei=OiTBYaqbAt2Qxc8PosaI6Ak&start=80&sa=N&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Q8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=which+nation+is+not+considered+an+arab+state%3F&ei=OiTBYaqbAt2Qxc8PosaI6Ak&start=90&sa=N&ved=2ahUKEwiqoJrY1fP0AhVdSPEDHSIjAp0Q8tMDegQIARBH"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+nation+is+not+considered+an+arab+state%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+nation+is+not+considered+an+arab+state%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+nation+is+not+considered+an+arab+state%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+nation+is+not+considered+an+arab+state%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+nation+is+not+considered+an+arab+state%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+nation+is+not+considered+an+arab+state%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+nation+is+not+considered+an+arab+state%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+nation+is+not+considered+an+arab+state%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+nation+is+not+considered+an+arab+state%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+nation+is+not+considered+an+arab+state%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+nation+is+not+considered+an+arab+state%3F&start=90"
+        }
+    }
+}

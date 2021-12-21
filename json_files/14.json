@@ -1,0 +1,438 @@
+{
+    "search_metadata": {
+        "id": "61c12762f716ee31d14cd49c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/818b798893bc9d88/61c12762f716ee31d14cd49c.json",
+        "created_at": "2021-12-21 01:01:22 UTC",
+        "processed_at": "2021-12-21 01:01:22 UTC",
+        "google_url": "https://www.google.com/search?q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&oq=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/818b798893bc9d88/61c12762f716ee31d14cd49c.html",
+        "total_time_taken": 5.04
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "which of these is both a color and a common kind of makeup?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "which of these is both a color and a common kind of makeup?",
+        "total_results": 145000000,
+        "time_taken_displayed": 0.86
+    },
+    "related_questions": [
+        {
+            "question": "What are the most common types of makeup?",
+            "snippet": "Of all the different types of makeup looks, matte makeup is probably the most popular. It can be your everyday look as well as made dramatic for special occasions. Matte makeup look allows you to experiment with bold colours and hues, without taking away the natural look of your face.Jun 12, 2021",
+            "title": "15 Types of Best Simple and Unique Makeovers Pics - WeddingWire.in",
+            "link": "https://www.weddingwire.in/wedding-tips/types-of-makeup-looks--c1779",
+            "displayed_link": "https://www.weddingwire.in \u203a wedding-tips \u203a types-of-ma..."
+        },
+        {
+            "question": "What are the two types of makeup?",
+            "snippet": "Water Based Makeup.Silicone Based Makeup.Powder Based Makeup.Mineral Makeup.Airbrushed Makeup.Jul 4, 2019",
+            "title": "Different Types of Makeup and Their Benefits",
+            "link": "https://www.cosmetize.com/blog/2019/07/04/different-types-of-makeup-and-their-benefits",
+            "displayed_link": "https://www.cosmetize.com \u203a blog \u203a 2019/07/04 \u203a differe..."
+        },
+        {
+            "question": "What two forms of color serve as the basis of all makeup applications?",
+            "snippet": "Warm and cool colors form the basis of all makeup application.Three main factors to consider when choosing colors for a client: skin color, eye color, and hair color.",
+            "title": "Warm and Cool Colors",
+            "link": "https://www.midlandisd.net/cms/lib/TX01000898/Centricity/Domain/2009/Chapter%2024.pptx",
+            "displayed_link": "https://www.midlandisd.net \u203a lib \u203a Centricity \u203a Domain"
+        },
+        {
+            "question": "What makeup color combines well with all other colors?",
+            "snippet": "White combines well with all colors. A cool based neutral gray combines with many other colors especially cool colors.",
+            "title": "Milady Fundamentals Esthetics Ch. 20 world of makeup Highlights - Quizlet",
+            "link": "https://quizlet.com/105516129/milady-fundamentals-esthetics-ch-20-world-of-makeup-highlights-flash-cards/",
+            "displayed_link": "https://quizlet.com \u203a milady-fundamentals-esthetics-ch-20..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Chapter 20 - Makeup - Quiz Flashcards | Quizlet",
+            "link": "https://quizlet.com/22064307/chapter-20-makeup-quiz-flash-cards/",
+            "displayed_link": "https://quizlet.com \u203a ... \u203a Philosophy \u203a Metaphysics",
+            "snippet": "Start studying Chapter 20 - Makeup - Quiz. ... What is the most common form of cheek color? Powder blush ... What two forms do makeup removers come in?",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "rating": 5,
+                        "reviews": 3
+                    },
+                    "extensions": [
+                        "Rating: 5",
+                        "\u200e3 reviews"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Quizlet is a multi-national American company which creates and designs tools used for studying and learning.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Quizlet",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c12762f716ee31d14cd49c/images/95dd4867a40413e0970b769f859033c70de308631f77e3f559330591186e24741d30c3a8a310da775f8a41cbead490c9.png"
+                },
+                "keywords": [
+                    "which",
+                    "both",
+                    "color",
+                    "common",
+                    "makeup"
+                ],
+                "related_keywords": [
+                    "two",
+                    "form",
+                    "forms"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://quizlet.com/22064307/chapter-20-makeup-quiz-flash-cards/&tbm=ilp&ilps=AOR-xxt5lmaFwU-2qhnxywqN0wPHlPJwHA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dmCLZ-dUxMUJ:https://quizlet.com/22064307/chapter-20-makeup-quiz-flash-cards/+&cd=1&hl=en&ct=clnk&gl=us",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Chapter 12: Makeup Flashcards | Quizlet",
+                    "link": "https://quizlet.com/444003874/chapter-12-makeup-flash-cards/",
+                    "displayed_link": "https://quizlet.com \u203a ... \u203a Philosophy \u203a Metaphysics",
+                    "snippet": "The tinted cosmetic that is used to even out skin tone and color, conceal imperfections ... What type of client is camouflage makeup most usually used with?",
+                    "rich_snippet": {
+                        "top": {
+                            "detected_extensions": {
+                                "rating": 5,
+                                "reviews": 3
+                            },
+                            "extensions": [
+                                "Rating: 5",
+                                "\u200e3 reviews"
+                            ]
+                        }
+                    },
+                    "about_this_result": {
+                        "source": {
+                            "description": "Quizlet is a multi-national American company which creates and designs tools used for studying and learning.",
+                            "source_info_link": "https://en.wikipedia.org/wiki/Quizlet",
+                            "security": "secure",
+                            "icon": "https://serpapi.com/searches/61c12762f716ee31d14cd49c/images/95dd4867a40413e0970b769f859033c79cc35aa29f3a436a050d07ade643ed5511e3c87740ef83a6bce7c640b23cdaa3e3216ae11a262ec997d964a8dfd2282f5768cee5bfbdf6c0.png"
+                        },
+                        "keywords": [
+                            "which",
+                            "both",
+                            "color",
+                            "common",
+                            "kind",
+                            "makeup"
+                        ],
+                        "related_keywords": [
+                            "type",
+                            "cosmetic"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://quizlet.com/444003874/chapter-12-makeup-flash-cards/&tbm=ilp&ilps=AOR-xxs2d6xK4NsYK6utYLXmwIzUGPXX9A",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:J1n6-zzdPzYJ:https://quizlet.com/444003874/chapter-12-makeup-flash-cards/+&cd=2&hl=en&ct=clnk&gl=us"
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "An Introduction to Makeup: Types of Makeup",
+            "link": "https://www.makeupartistessentials.com/an-introduction-to-makeup-types-of-makeup/",
+            "displayed_link": "https://www.makeupartistessentials.com \u203a an-introductio...",
+            "snippet": "Below we've listed every type of makeup, along with a quick description of what it is, ... there are two kinds of primers: the type for normal-to-dry skin, ...",
+            "about_this_result": {
+                "source": {
+                    "description": "makeupartistessentials.com was first indexed by Google in March 2015",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c12762f716ee31d14cd49c/images/95dd4867a40413e0970b769f859033c7a555ad94d1550f5657132763095f89626234347e7c57e920fef1bf56929a2784.png"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "both",
+                    "color",
+                    "common",
+                    "kind",
+                    "makeup"
+                ],
+                "related_keywords": [
+                    "two",
+                    "normal",
+                    "kinds",
+                    "type"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.makeupartistessentials.com/an-introduction-to-makeup-types-of-makeup/&tbm=ilp&ilps=AOR-xxtk2PKPcH5QppgX0yrd88H5xoV_zA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:T9RTKjsGOHgJ:https://www.makeupartistessentials.com/an-introduction-to-makeup-types-of-makeup/+&cd=3&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Cosmetics - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Cosmetics",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Cosmetics",
+            "snippet": "Cosmetics are constituted mixtures of chemical compounds derived from either natural sources ... Those designed for personal care and skin care can be used to cleanse or ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c12762f716ee31d14cd49c/images/95dd4867a40413e0970b769f859033c7d66f64042f4a65723e187a4474614644c38c4231e948d21005936d1a147d452f.png"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "both",
+                    "color",
+                    "common",
+                    "kind",
+                    "makeup"
+                ],
+                "related_keywords": [
+                    "make up",
+                    "cosmetic",
+                    "cosmetics"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Cosmetics&tbm=ilp&ilps=AOR-xxv4DdUbf4H131dq9HQVVz3kaV9XIw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:D1nWSFJ-aCEJ:https://en.wikipedia.org/wiki/Cosmetics+&cd=13&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Cosmetics+which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F"
+        },
+        {
+            "position": 4,
+            "title": "What is pigment used for in makeup - Revolution Ink Gallery ...",
+            "link": "https://revolutioninkgallery.com/lgojnd/what-is-pigment-used-for-in-makeup.html",
+            "displayed_link": "https://revolutioninkgallery.com \u203a lgojnd \u203a what-is-pig...",
+            "snippet": "These can be used with polymer clay. . Make Up For Ever. Trick to Remember the Difference. When it comes to makeup, color is the name of the game.",
+            "about_this_result": {
+                "source": {
+                    "description": "revolutioninkgallery.com was first indexed by Google in May 2018",
+                    "security": "secure"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "both",
+                    "color",
+                    "common",
+                    "kind",
+                    "makeup"
+                ],
+                "related_keywords": [
+                    "what",
+                    "two",
+                    "make up"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://revolutioninkgallery.com/lgojnd/what-is-pigment-used-for-in-makeup.html&tbm=ilp&ilps=AOR-xxtK_eC0KSm_R-oEXSRRT1MSk5cj_g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1otXMP9Ro_gJ:https://revolutioninkgallery.com/lgojnd/what-is-pigment-used-for-in-makeup.html+&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Toxic makeup: What to avoid, risks, and alternatives - Medical ...",
+            "link": "https://www.medicalnewstoday.com/articles/327318",
+            "displayed_link": "https://www.medicalnewstoday.com \u203a articles",
+            "date": "Dec 16, 2019",
+            "snippet": "Although many ingredients in makeup are safe, some common ingredients can be harmful to both the body and the environment. Learn more here.",
+            "about_this_result": {
+                "source": {
+                    "description": "Medical News Today is a web-based outlet for medical information and news, targeted at both the general public and physicians. All posted content is available online, and the earliest available article dates from May 2003.\nThe website has been owned by Healthline Media since 2016.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Medical_News_Today",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c12762f716ee31d14cd49c/images/95dd4867a40413e0970b769f859033c7708ae428e9439dcc6a616e2ea056eb3941453b38806e8de0e864a8c8aae6fa94.png"
+                },
+                "keywords": [
+                    "which",
+                    "these",
+                    "both",
+                    "color",
+                    "common",
+                    "makeup"
+                ],
+                "related_keywords": [
+                    "what"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.medicalnewstoday.com/articles/327318&tbm=ilp&ilps=AOR-xxsTXWx226340TVOmrbi4_NwGAhr5Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WCZCigMZE4oJ:https://www.medicalnewstoday.com/articles/327318+&cd=15&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "Milady Standard Esthetics: Fundamentals - Google Books Result",
+            "link": "https://books.google.com/books?id=hcEKAAAAQBAJ&pg=PT606&lpg=PT606&dq=which+of+these+is+both+a+color+and+a+common+kind+of+makeup?&source=bl&ots=NPdbQlY3eP&sig=ACfU3U28db_jnbunl-jVOy1vzv0JWoxkbA&hl=en&sa=X&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ6AF6BAglEAM",
+            "displayed_link": "https://books.google.com \u203a books",
+            "snippet": "Here's a Tip The following are guidelines for selecting eye makeup colors. ... Common choices include gold, warm orange-browns like peach and copper, ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Milady",
+                        "2012",
+                        "\u200eHealth & Fitness"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2012
+                    }
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "Stage Makeup - Page 85 - Google Books Result",
+            "link": "https://books.google.com/books?id=jmYPEAAAQBAJ&pg=PA85&lpg=PA85&dq=which+of+these+is+both+a+color+and+a+common+kind+of+makeup?&source=bl&ots=xM9lSzZqXn&sig=ACfU3U27nfgSNIdMyv_enxO7V_2pKS4iyg&hl=en&sa=X&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ6AF6BAgjEAM",
+            "displayed_link": "https://books.google.com \u203a books",
+            "snippet": "Corrective Makeup 85 Pseudofolliculitis is the medical name for the inflammation of the ... Cream products can successfully add color back into these areas.",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Richard Corson, \u200eJames Glavan, \u200eBeverly Gore Norcross",
+                        "2019",
+                        "\u200ePerforming Arts"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2019
+                    }
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "Standard-bred Plymouth Rocks: Barred, White, Buff, Silver ...",
+            "link": "https://books.google.com/books?id=aUsSAQAAMAAJ&pg=PA6&lpg=PA6&dq=which+of+these+is+both+a+color+and+a+common+kind+of+makeup?&source=bl&ots=_1aNlbFIIS&sig=ACfU3U3-SZfwIrSt8DswDdjTASj0vv1MJQ&hl=en&sa=X&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ6AF6BAgiEAM",
+            "displayed_link": "https://books.google.com \u203a books",
+            "snippet": "The following description of the Dominique is then interjected within the game ... favor the assumption that the Dominique was the most common color type at ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "William Charles Denny",
+                        "1911",
+                        "\u200ePlymouth Rock chicken"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 1911
+                    }
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "Master the ASVAB - Page 10 - Google Books Result",
+            "link": "https://books.google.com/books?id=JID0HK9TmGoC&pg=PA10-IA3&lpg=PA10-IA3&dq=which+of+these+is+both+a+color+and+a+common+kind+of+makeup?&source=bl&ots=zdKI36LACE&sig=ACfU3U1CUI2yE5w88ygZT3IqYpPHkiaWLw&hl=en&sa=X&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ6AF6BAgkEAM",
+            "displayed_link": "https://books.google.com \u203a books",
+            "snippet": "In the human female, the two sex chromosomes are alike and are designated as ... common inherited characteristics and traits of people such as: hair color, ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Scott A. Ostrow",
+                        "2010",
+                        "\u200eStudy Aids"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2010
+                    }
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "different makeup looks for different occasions",
+            "link": "https://www.google.com/search?q=Different+makeup+looks+for+different+occasions&sa=X&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "in order to stay current, estheticians should check on new products from the makeup industry",
+            "link": "https://www.google.com/search?q=In+order+to+stay+current,+estheticians+should+check+on+new+products+from+the+makeup+industry&sa=X&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "what type of client is camouflage makeup most usually used with?",
+            "link": "https://www.google.com/search?q=what+type+of+client+is+camouflage+makeup+most+usually+used+with%3F&sa=X&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ1QJ6BAgwEAE"
+        },
+        {
+            "query": "what is the most common form of cheek color",
+            "link": "https://www.google.com/search?q=What+is+the+most+common+form+of+cheek+color&sa=X&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ1QJ6BAgvEAE"
+        },
+        {
+            "query": "what is the most durable type of brush handle commonly available",
+            "link": "https://www.google.com/search?q=What+is+the+most+durable+type+of+brush+handle+commonly+available&sa=X&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "most common types of makeup",
+            "link": "https://www.google.com/search?q=Most+common+types+of+makeup&sa=X&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ1QJ6BAguEAE"
+        },
+        {
+            "query": "types of makeup looks with pictures",
+            "link": "https://www.google.com/search?q=Types+of+makeup+looks+with+pictures&sa=X&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "what color eyes are neutral and can wear any color",
+            "link": "https://www.google.com/search?q=What+color+eyes+are+neutral+and+can+wear+any+color&sa=X&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ1QJ6BAgnEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&ei=ZifBYfGnLIep_QalmLLgAw&start=10&sa=N&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ8NMDegQIARBJ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&ei=ZifBYfGnLIep_QalmLLgAw&start=10&sa=N&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&ei=ZifBYfGnLIep_QalmLLgAw&start=20&sa=N&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&ei=ZifBYfGnLIep_QalmLLgAw&start=30&sa=N&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&ei=ZifBYfGnLIep_QalmLLgAw&start=40&sa=N&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&ei=ZifBYfGnLIep_QalmLLgAw&start=50&sa=N&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&ei=ZifBYfGnLIep_QalmLLgAw&start=60&sa=N&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&ei=ZifBYfGnLIep_QalmLLgAw&start=70&sa=N&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&ei=ZifBYfGnLIep_QalmLLgAw&start=80&sa=N&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&ei=ZifBYfGnLIep_QalmLLgAw&start=90&sa=N&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ8tMDegQIARBH"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+of+these+is+both+a+color+and+a+common+kind+of+makeup%3F&start=90"
+        }
+    }
+}

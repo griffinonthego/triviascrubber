@@ -1,0 +1,478 @@
+{
+    "search_metadata": {
+        "id": "61c1281038242705ba6fb6b8",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d70f9da29deb7586/61c1281038242705ba6fb6b8.json",
+        "created_at": "2021-12-21 01:04:16 UTC",
+        "processed_at": "2021-12-21 01:04:16 UTC",
+        "google_url": "https://www.google.com/search?q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&oq=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/d70f9da29deb7586/61c1281038242705ba6fb6b8.html",
+        "total_time_taken": 1.58
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "what is a common hawaiian menu item at tiki-themed restaurants?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "what is a common hawaiian menu item at tiki-themed restaurants?",
+        "total_results": 8470000,
+        "time_taken_displayed": 0.57
+    },
+    "related_questions": [
+        {
+            "question": "What food is served at a tiki bar?",
+            "snippet": "Tiki Bar Food Menus at the first tiki restaurants and bars favored Americanized versions of Chinese and Hawaiian food, such as shrimp, chicken wings, and egg rolls.May 20, 2016",
+            "title": "Everything You Need To Throw A Tiki Party | Allrecipes",
+            "link": "https://www.allrecipes.com/article/tiki-party-tips/",
+            "displayed_link": "https://www.allrecipes.com \u203a Entertaining"
+        },
+        {
+            "question": "What is tikis favorite food?",
+            "snippet": "She has a sweet tooth, which means she isn't a picky eater and is willing to try different foods to get her energy back up or just out of curiosity, but one of her apparent favorite foods is chocolate chip cookies as seen in multiple episodes.Nov 8, 2018",
+            "title": "Tikki | Miraculous Ladybug Wiki",
+            "link": "https://miraculousladybug.fandom.com/wiki/Tikki",
+            "displayed_link": "https://miraculousladybug.fandom.com \u203a wiki \u203a Tikki"
+        },
+        {
+            "question": "What kind of food do you serve at a luau?",
+            "snippet": "Traditional dishes served at luaus include poi, kalua pig, lomi salmon, laulau, poke, and haupia, with entertainment being Hawaiian music, hula dancing, and games.Jun 23, 2020",
+            "title": "Luau Party Food Recipes - What To Serve At A Hawaiian Luau Party",
+            "link": "https://www.thepurplepumpkinblog.co.uk/luau-party-food-recipes-what-to-serve-at-a-hawaiian-luau-party/",
+            "displayed_link": "https://www.thepurplepumpkinblog.co.uk \u203a luau-party-fo..."
+        },
+        {
+            "question": "What do you serve at a backyard luau?",
+            "snippet": "Hawaiian Style Shoyu Chicken | NoBiggie.Hawaiian Mac Salad | NoBiggie.Pineapple Whip | NoBiggie.Slow Cooker Kalua Pork | NoBiggie.Fresh Pineapple Salsa | NoBiggie.Hawaiian Chicken Kebabs | NoBiggie.Fresh Mango Salsa | NoBiggie.Easy Hawaiian Meatballs | NoBiggie.More items...\u2022Feb 15, 2018",
+            "title": "25+ Hawaiian Party Foods",
+            "link": "https://www.nobiggie.net/25-hawaiian-party-foods/",
+            "displayed_link": "https://www.nobiggie.net \u203a Blog"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "53 Tiki Party Cocktail, Dinner, and Dessert Recipes | Epicurious",
+            "link": "https://www.epicurious.com/expert-advice/menus-and-recipes-for-a-tiki-party-gallery",
+            "displayed_link": "https://www.epicurious.com \u203a ... \u203a Recipe Roundup",
+            "date": "Aug 17, 2018",
+            "snippet": "From classic tiki drinks to modern main dishes, these Polynesian, Caribbean, Hawaiian, and Asian recipes will add tropical vibes to your ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Epicurious is an American digital brand that focuses on food and cooking-related topics. Created by Cond\u00e9 Nast in 1995, it is headquartered at the One World Trade Center in Manhattan, New York City, ...",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Epicurious",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1281038242705ba6fb6b8/images/32e51bb669308dbc4243889e9eae8ebf2fa266e19b48d0848b8793b883b139edeeab4416215a1ca09e7d07e563922c52.png"
+                },
+                "keywords": [
+                    "what",
+                    "hawaiian",
+                    "tiki"
+                ],
+                "related_keywords": [
+                    "dishes",
+                    "menus",
+                    "recipes",
+                    "restaurant",
+                    "bar",
+                    "party"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.epicurious.com/expert-advice/menus-and-recipes-for-a-tiki-party-gallery&tbm=ilp&ilps=AOR-xxshQUwjk8KVFdHMmEH5AR0LfNTufg"
+        },
+        {
+            "position": 2,
+            "title": "Weekend Show Menu - Tiki Terrace",
+            "link": "https://www.thetikiterrace.com/weekend-menu",
+            "displayed_link": "https://www.thetikiterrace.com \u203a weekend-menu",
+            "snippet": "-HAUPIA CAKE: The word Haupia means Coconut in Hawaiian and our dessert is made with delicious white cake layered with traditional haupia filling and a lightly ...",
+            "about_this_result": {
+                "source": {
+                    "description": "thetikiterrace.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1281038242705ba6fb6b8/images/32e51bb669308dbc4243889e9eae8ebfe6fbedbb24a172d9daf9152df1bc8cb3327d549bdad910c4ac8e6cab1d413969.png"
+                },
+                "keywords": [
+                    "what",
+                    "common",
+                    "hawaiian",
+                    "menu",
+                    "tiki"
+                ],
+                "related_keywords": [
+                    "bar"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.thetikiterrace.com/weekend-menu&tbm=ilp&ilps=AOR-xxtVKjxwxDvhEE-yEpsYyzLcxxxj1g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:xoF4j79IpxgJ:https://www.thetikiterrace.com/weekend-menu+&cd=12&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Tiki Party Ideas | Halloween food for party, Shrimp ... - Pinterest",
+            "link": "https://www.pinterest.com/pin/529313762425690572/",
+            "displayed_link": "https://www.pinterest.com \u203a pin",
+            "snippet": "Turn your backyard into an island paradise with our ideas for tropical decor, tiki cocktails, ... Foods from a traditional Hawaiian luau. More.",
+            "about_this_result": {
+                "source": {
+                    "description": "Pinterest is an image sharing and social media service designed to enable saving and discovery of information on the internet using images, and on a smaller scale, animated GIFs and videos, in the form of pinboards.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Pinterest",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1281038242705ba6fb6b8/images/32e51bb669308dbc4243889e9eae8ebf0939a4c4b395619b1362a10e2e6fc7e59d99e2699a485531ea1f21e3013487a9.png"
+                },
+                "keywords": [
+                    "what",
+                    "hawaiian",
+                    "menu",
+                    "tiki"
+                ],
+                "related_keywords": [
+                    "traditional",
+                    "food",
+                    "tropical",
+                    "ideas",
+                    "party"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.pinterest.com/pin/529313762425690572/&tbm=ilp&ilps=AOR-xxsJjcFDKZ3Vr4uF-m8UPC7wUSU26w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ZEVQHoyW3ZsJ:https://www.pinterest.com/pin/529313762425690572/+&cd=13&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "Hawaiian Food -- Beyond the Tiki Torches | Arts & Culture",
+            "link": "https://www.smithsonianmag.com/arts-culture/hawaiian-food-beyond-the-tiki-torches-67229975/",
+            "displayed_link": "https://www.smithsonianmag.com \u203a arts-culture \u203a hawai...",
+            "date": "Sep 2, 2009",
+            "snippet": "Tiki-themed restaurants and clubs sprang up throughout the country. ... with seaweed or other seasonings, is a traditional Hawaiian dish.",
+            "about_this_result": {
+                "source": {
+                    "description": "Smithsonian is the official journal published by the Smithsonian Institution in Washington, D.C. The first issue was published in 1970.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Smithsonian_(magazine)",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1281038242705ba6fb6b8/images/32e51bb669308dbc4243889e9eae8ebfe700d413445fe3863f7b2b579d1b56439f9db3b2a55b643bd8bc482efaa50972.png"
+                },
+                "keywords": [
+                    "hawaiian",
+                    "menu",
+                    "tiki",
+                    "themed",
+                    "restaurants"
+                ],
+                "related_keywords": [
+                    "traditional",
+                    "food"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.smithsonianmag.com/arts-culture/hawaiian-food-beyond-the-tiki-torches-67229975/&tbm=ilp&ilps=AOR-xxvO9mO7bt8eD2CAbmmAHVUDCO1UBQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qpsvGQA2Bg0J:https://www.smithsonianmag.com/arts-culture/hawaiian-food-beyond-the-tiki-torches-67229975/+&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "A Make-Ahead Tiki Menu for Summer Entertaining - Saveur",
+            "link": "https://www.saveur.com/dinner-party-tiki-night/",
+            "displayed_link": "https://www.saveur.com \u203a Style + Home",
+            "date": "Aug 15, 2015",
+            "snippet": "An idealized version of Polynesian culture and cuisine, Tiki is the perfect theme for an end-of-summer party.",
+            "about_this_result": {
+                "source": {
+                    "description": "Saveur is an on-line gourmet, food, wine, and travel magazine that specializes in essays about various world cuisines. Its slogan\u2014Savor a World of Authentic Cuisine\u2014signals the publication's focus on enduring culinary traditions, as opposed to ephemeral food trends.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Saveur",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1281038242705ba6fb6b8/images/32e51bb669308dbc4243889e9eae8ebf22b9fba4f1edc6890d196155870df0ee858370adddac1b0e1a828cd841afd7cf.png"
+                },
+                "keywords": [
+                    "hawaiian",
+                    "menu",
+                    "tiki",
+                    "themed"
+                ],
+                "related_keywords": [
+                    "party",
+                    "theme"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.saveur.com/dinner-party-tiki-night/&tbm=ilp&ilps=AOR-xxt0K1kOG3LQYAs0--_Bron4DciV_Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:K-8_nn4ITqkJ:https://www.saveur.com/dinner-party-tiki-night/+&cd=15&hl=en&ct=clnk&gl=us",
+            "missing": [
+                "restaurants?"
+            ],
+            "must_include": {
+                "word": "restaurants?",
+                "link": "https://www.google.com/search?q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+%22restaurants?%22&sa=X&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ5t4CegQIOxAB"
+            }
+        },
+        {
+            "position": 6,
+            "title": "Everything You Need To Throw A Tiki Party | Allrecipes",
+            "link": "https://www.allrecipes.com/article/tiki-party-tips/",
+            "displayed_link": "https://www.allrecipes.com \u203a Entertaining",
+            "date": "May 20, 2016",
+            "snippet": "In the post-World War II era \u2014 with G.I.s returning from the South Seas and Hawaii achieving statehood \u2014 these restaurants fostered tiki ...",
+            "about_this_result": {
+                "source": {
+                    "description": "allrecipes.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1281038242705ba6fb6b8/images/32e51bb669308dbc4243889e9eae8ebf06d6bb51310c262d2a8b4236dcd6bab1f5a865aa0af41916c8d9a516cfacd3c6.png"
+                },
+                "keywords": [
+                    "what",
+                    "hawaiian",
+                    "menu",
+                    "tiki",
+                    "restaurants"
+                ],
+                "related_keywords": [
+                    "hawaii",
+                    "party"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.allrecipes.com/article/tiki-party-tips/&tbm=ilp&ilps=AOR-xxu_Z8MJInVrVqsAT4A1ZszuFL-_Og",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:RtkDumTtBVcJ:https://www.allrecipes.com/article/tiki-party-tips/+&cd=16&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "Dish of the week: Tiki TNT's spam musubi - The GW Hatchet",
+            "link": "https://www.gwhatchet.com/2019/11/14/dish-of-the-week-tiki-tnts-spam-musubi/",
+            "displayed_link": "https://www.gwhatchet.com \u203a 2019/11/14 \u203a dish-of-the...",
+            "date": "Nov 14, 2019",
+            "snippet": "Tiki TNT is a Hawaiian-themed tiki bar and restaurant where customers can enjoy Polynesian food and tropical rum drinks.",
+            "about_this_result": {
+                "source": {
+                    "description": "The GW Hatchet is the student newspaper of the George Washington University. Founded in 1904, The Hatchet is the second-oldest continuously-running newspaper in Washington, DC, only behind The Washington Post.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/The_GW_Hatchet",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1281038242705ba6fb6b8/images/32e51bb669308dbc4243889e9eae8ebf6d7b42985d78c2fd12f9fd3677ae366f89ebca13b1d2936bc53ee510d693a1c3.png"
+                },
+                "keywords": [
+                    "what",
+                    "common",
+                    "hawaiian",
+                    "menu",
+                    "tiki",
+                    "themed"
+                ],
+                "related_keywords": [
+                    "food",
+                    "restaurant",
+                    "bar"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.gwhatchet.com/2019/11/14/dish-of-the-week-tiki-tnts-spam-musubi/&tbm=ilp&ilps=AOR-xxvUqwIBjnOO2unLY6y7VvH3fAWiMg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:muT2OFR43tEJ:https://www.gwhatchet.com/2019/11/14/dish-of-the-week-tiki-tnts-spam-musubi/+&cd=17&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 8,
+            "title": "25+ Hawaiian Party Foods | NoBiggie",
+            "link": "https://www.nobiggie.net/25-hawaiian-party-foods/",
+            "displayed_link": "https://www.nobiggie.net \u203a Blog",
+            "date": "Feb 15, 2018",
+            "snippet": "Celebrate Island Style with these 25+ Hawaiian Party Foods. ... We put together a great list of Hawaiian inspired recipes that are sure to ...",
+            "about_this_result": {
+                "source": {
+                    "description": "nobiggie.net was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1281038242705ba6fb6b8/images/32e51bb669308dbc4243889e9eae8ebfbe0f948de3c0acac04d2186529b255b40562ca560c7ea97013d43fc1b365b9d0.png"
+                },
+                "keywords": [
+                    "what",
+                    "hawaiian",
+                    "menu",
+                    "tiki"
+                ],
+                "related_keywords": [
+                    "recipes",
+                    "party"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nobiggie.net/25-hawaiian-party-foods/&tbm=ilp&ilps=AOR-xxsjqEybqQFSZgV7usZhQ1TT2TXGHA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HCnC0ART608J:https://www.nobiggie.net/25-hawaiian-party-foods/+&cd=18&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 9,
+            "title": "20 Hawai\u02bbi Dishes You Must Try When Traveling to the Islands",
+            "link": "https://www.hawaiimagazine.com/20-hawaii-dishes-you-must-try-when-traveling-to-the-islands/",
+            "displayed_link": "https://www.hawaiimagazine.com \u203a 20-hawaii-dishes-y...",
+            "date": "Sep 8, 2016",
+            "snippet": "Their shave ice is made even more gourmet with Tropical Dreams vanilla ice cream, made in Kamuela, Hawaii Island. Added to the bottom, ...",
+            "about_this_result": {
+                "source": {
+                    "description": "hawaiimagazine.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1281038242705ba6fb6b8/images/32e51bb669308dbc4243889e9eae8ebf12c31bfd2055820dd8c27588dc92e8ed88e76248ac530e8adec50224bb160c80.png"
+                },
+                "keywords": [
+                    "what",
+                    "common",
+                    "hawaiian",
+                    "menu",
+                    "restaurants"
+                ],
+                "related_keywords": [
+                    "hawaii",
+                    "dishes",
+                    "tropical"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.hawaiimagazine.com/20-hawaii-dishes-you-must-try-when-traveling-to-the-islands/&tbm=ilp&ilps=AOR-xxsNkU7zB_tiLiRJ2xSNbl5mDSyhVw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:OcfsTwtcQZYJ:https://www.hawaiimagazine.com/20-hawaii-dishes-you-must-try-when-traveling-to-the-islands/+&cd=19&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 10,
+            "title": "Hula's Modern Tiki Is A Hawaiian-Themed Restaurant In Arizona",
+            "link": "https://www.onlyinyourstate.com/arizona/hawaiian-restaurant-az/",
+            "displayed_link": "https://www.onlyinyourstate.com \u203a arizona \u203a hawaiian-r...",
+            "date": "Aug 12, 2019",
+            "snippet": "It isn't just a restaurant, but rather a dining experience that fuses traditional Polynesian recipes with familiar flavors we all know and ...",
+            "about_this_result": {
+                "source": {
+                    "description": "onlyinyourstate.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1281038242705ba6fb6b8/images/32e51bb669308dbc4243889e9eae8ebf91030c388377a054d4b5e49d948a27403b807a85899979d819c924ef6001aa4b.png"
+                },
+                "keywords": [
+                    "what",
+                    "hawaiian",
+                    "menu",
+                    "item",
+                    "tiki",
+                    "themed",
+                    "restaurants"
+                ],
+                "related_keywords": [
+                    "traditional",
+                    "recipes",
+                    "restaurant",
+                    "dining"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.onlyinyourstate.com/arizona/hawaiian-restaurant-az/&tbm=ilp&ilps=AOR-xxtq9pH0j_AiRerEJPAJgnzV6MCbDA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:T8b5s60mk8YJ:https://www.onlyinyourstate.com/arizona/hawaiian-restaurant-az/+&cd=20&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "what is a common hawaiian menu item at tiki-themed restaurants? near miami-dade county public schools, fl",
+            "link": "https://www.google.com/search?q=What+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F+near+miami-dade+county+public+schools,+fl&sa=X&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ1QJ6BAghEAE"
+        },
+        {
+            "query": "what is a common hawaiian menu item at tiki-themed restaurants? near miami, fl",
+            "link": "https://www.google.com/search?q=What+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F+near+miami,+fl&sa=X&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ1QJ6BAg5EAE"
+        },
+        {
+            "query": "polynesian tiki food",
+            "link": "https://www.google.com/search?q=Polynesian+tiki+food&sa=X&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "tiki food menu",
+            "link": "https://www.google.com/search?q=Tiki+Food+Menu&sa=X&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ1QJ6BAguEAE"
+        },
+        {
+            "query": "tiki party finger foods",
+            "link": "https://www.google.com/search?q=Tiki+party+finger+foods&sa=X&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ1QJ6BAgrEAE"
+        },
+        {
+            "query": "tiki recipes food",
+            "link": "https://www.google.com/search?q=Tiki+recipes+food&sa=X&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ1QJ6BAgqEAE"
+        },
+        {
+            "query": "vegetarian tiki food",
+            "link": "https://www.google.com/search?q=Vegetarian+tiki+food&sa=X&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "tiki food near me",
+            "link": "https://www.google.com/search?q=Tiki+food+near+me&sa=X&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ1QJ6BAgnEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&ei=ECjBYbz_J62EwbkPybuR4AQ&start=10&sa=N&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ8NMDegQIARBJ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&ei=ECjBYbz_J62EwbkPybuR4AQ&start=10&sa=N&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&ei=ECjBYbz_J62EwbkPybuR4AQ&start=20&sa=N&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&ei=ECjBYbz_J62EwbkPybuR4AQ&start=30&sa=N&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&ei=ECjBYbz_J62EwbkPybuR4AQ&start=40&sa=N&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&ei=ECjBYbz_J62EwbkPybuR4AQ&start=50&sa=N&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&ei=ECjBYbz_J62EwbkPybuR4AQ&start=60&sa=N&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&ei=ECjBYbz_J62EwbkPybuR4AQ&start=70&sa=N&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&ei=ECjBYbz_J62EwbkPybuR4AQ&start=80&sa=N&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&ei=ECjBYbz_J62EwbkPybuR4AQ&start=90&sa=N&ved=2ahUKEwi8x-Cs2fP0AhUtQjABHcldBEwQ8tMDegQIARBH"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+is+a+common+hawaiian+menu+item+at+tiki-themed+restaurants%3F&start=90"
+        }
+    }
+}

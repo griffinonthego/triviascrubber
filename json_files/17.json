@@ -1,0 +1,478 @@
+{
+    "search_metadata": {
+        "id": "61c12797437af23ab4d2c19d",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/455bf4242cdc2d4a/61c12797437af23ab4d2c19d.json",
+        "created_at": "2021-12-21 01:02:15 UTC",
+        "processed_at": "2021-12-21 01:02:15 UTC",
+        "google_url": "https://www.google.com/search?q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&oq=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/455bf4242cdc2d4a/61c12797437af23ab4d2c19d.html",
+        "total_time_taken": 3.79
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "what of these is the name of a french dance famous for its high kicks?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "what of these is the name of a french dance famous for its high kicks?",
+        "total_results": 12400000,
+        "time_taken_displayed": 0.71
+    },
+    "inline_video_carousels": [
+        {
+            "position": 1,
+            "title": "French Cancan: let your hair down ! - Fremdenverkehrsamt Paris",
+            "link": "https://de.parisinfo.com/wo-ausgehen-in-paris/info/fuhrer/french-cancan-let-your-hair-down#:~:text=Frilly%20petticoats%2C%20famous%20high%20kicks,of%20Parisian%20cabarets%20and%20nightlife.",
+            "displayed_link": "https://de.parisinfo.com \u203a info \u203a fuhrer \u203a french-cancan-le..."
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What is a famous French dance?",
+            "snippet": "Apache, or La Danse Apache, Bowery Waltz, Apache Turn, Apache Dance and Tough Dance is a highly dramatic dance associated in popular culture with Parisian street culture at the beginning of the 20th century.",
+            "title": "Apache (dance) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Apache_(dance)",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Apache_(dance)"
+        },
+        {
+            "question": "What is the name of the Can-Can dance?",
+            "snippet": "The Beginnings of a Legendary Dance It is believed that this dance was derived from the final figure of the social dance known as the quadrille and later became known as the cancan or coincoin, a vigorous dance performed by couples.",
+            "title": "cancan",
+            "link": "https://www.cometoparis.com/secrets-and-stories-of-paris/history-of-the-french-cancan-s917",
+            "displayed_link": "https://www.cometoparis.com \u203a history-of-the-french-c..."
+        },
+        {
+            "question": "Why is it called the Can-Can?",
+            "snippet": "\u201cCancan\u201d in French slang at the turn of the 19th century meant malicious gossip or scandal. At that time, people loved to go to balls and the last dance of the night was usually with couples, called the quadrille. The cancan originated out of this last dance, with higher kicks and more energy.Mar 13, 2018",
+            "title": "A Brief History Of The Cancan, France's Famously Raunchy ...",
+            "link": "https://theculturetrip.com/europe/france/articles/a-brief-history-of-the-cancan-frances-famously-raunchy-dance/",
+            "displayed_link": "https://theculturetrip.com \u203a europe \u203a france \u203a articles"
+        },
+        {
+            "question": "Can-Can girls Paris?",
+            "snippet": "The cancan is a theatre dance that is usually performed by female dancers in large, exaggerated skirts. ... The most famous cabaret in Paris (and in the world, for that matter) is the Moulin Rouge, regarded as the birthplace of the cancan.Sep 16, 2019",
+            "title": "Cabarets in Paris - Where to see the cancan dance - French Institute",
+            "link": "https://frenchinstitutens.com/cabarets-in-paris-where-to-watch-the-cancan-dance/",
+            "displayed_link": "https://frenchinstitutens.com \u203a cabarets-in-paris-where-to-..."
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "French Cancan: let your hair down ! - Fremdenverkehrsamt Paris",
+        "link": "https://de.parisinfo.com/wo-ausgehen-in-paris/info/fuhrer/french-cancan-let-your-hair-down#:~:text=Frilly%20petticoats%2C%20famous%20high%20kicks,of%20Parisian%20cabarets%20and%20nightlife.",
+        "displayed_link": "https://de.parisinfo.com \u203a info \u203a fuhrer \u203a french-cancan-le...",
+        "snippet": "Frilly petticoats, famous high kicks and rousing music : this is the infectious gaiety of the French cancan. This joyous and spirited dance, immortalised in the paintings of Toulouse-Lautrec and in films from France or Hollywood, is an integral part of the legends of Parisian cabarets and nightlife."
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Which of these is the name of a French dance famous for its ...",
+            "link": "https://dengenchronicles.com/which-of-these-is-the-name-of-a-french-dance-famous-for-its-high-kicks/",
+            "displayed_link": "https://dengenchronicles.com \u203a which-of-these-is-the-na...",
+            "snippet": "? Frilly petticoats, famous high kicks and rousing music : this is the infectious ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Which of these is the name of a French dance famous for its high kicks? \u2014"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "dengenchronicles.com was first indexed by Google in November 2012",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c12797437af23ab4d2c19d/images/96b9cdbb9da08cb628139953a28d4a74d1061d8fd8984f229770d75ac952784987f09b617d487f8d10d866d3d951c20c.png"
+                },
+                "keywords": [
+                    "what",
+                    "these",
+                    "name",
+                    "french",
+                    "dance",
+                    "famous",
+                    "its",
+                    "high",
+                    "kicks"
+                ],
+                "related_keywords": [
+                    "which"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://dengenchronicles.com/which-of-these-is-the-name-of-a-french-dance-famous-for-its-high-kicks/&tbm=ilp&ilps=AOR-xxtX-iV2S7vYmMVNtFrkQWY3ZIh4CA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zCKIpmsUvRwJ:https://dengenchronicles.com/which-of-these-is-the-name-of-a-french-dance-famous-for-its-high-kicks/+&cd=3&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "History of the French Cancan - Come to Paris",
+            "link": "https://www.cometoparis.com/secrets-and-stories-of-paris/history-of-the-french-cancan-s917",
+            "displayed_link": "https://www.cometoparis.com \u203a history-of-the-french-c...",
+            "snippet": "It is the world famous dance that became synonymous with the heady days of the Belle Epoque, but the French Cancan still has the power to turn heads!",
+            "about_this_result": {
+                "source": {
+                    "description": "cometoparis.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c12797437af23ab4d2c19d/images/96b9cdbb9da08cb628139953a28d4a74a2af26c70620feea2a52a4b8bf9545e54c937ed071286439a3e768ef8a268d46.png"
+                },
+                "keywords": [
+                    "french",
+                    "dance",
+                    "famous",
+                    "its",
+                    "high",
+                    "kicks"
+                ],
+                "related_keywords": [
+                    "their"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cometoparis.com/secrets-and-stories-of-paris/history-of-the-french-cancan-s917&tbm=ilp&ilps=AOR-xxskwKvlPPWyk_Y_wbjqIUUN6d38kQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3PG9qFfWb28J:https://www.cometoparis.com/secrets-and-stories-of-paris/history-of-the-french-cancan-s917+&cd=4&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "cancan | Definition, History, & Facts | Britannica",
+            "link": "https://www.britannica.com/art/cancan",
+            "displayed_link": "https://www.britannica.com \u203a ... \u203a Dance",
+            "snippet": "Cancan, lively and risque dance of French or Algerian origin, usually performed onstage by four women. Known for its high kicks in unison that exposed both ...",
+            "about_this_result": {
+                "source": {
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c12797437af23ab4d2c19d/images/96b9cdbb9da08cb628139953a28d4a74fb99a6fc8372cac986dafc3770f240054f29345336ffe6b263333587cbcaab8e.png"
+                },
+                "keywords": [
+                    "what",
+                    "these",
+                    "name",
+                    "french",
+                    "dance",
+                    "its",
+                    "high",
+                    "kicks"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/art/cancan&tbm=ilp&ilps=AOR-xxsWD7GG3y3Cd1p0qee55NLr-qZkZA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WBp4Ttkcny0J:https://www.britannica.com/art/cancan+&cd=17&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.britannica.com/art/cancan+what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F"
+        },
+        {
+            "position": 4,
+            "title": "Cancan: The Iconic Dance Of Paris' Legendary Moulin Rouge",
+            "link": "https://www.sunnysidecircus.com/countries/france/music-dances-france/cancan/",
+            "displayed_link": "https://www.sunnysidecircus.com \u203a ... \u203a Music & Dances",
+            "snippet": "The French word for \u201cduck\u201d is an allusion to the strong pelvic thrust of the Cancan dancers. According to another version, the name may stem from the Old French ...",
+            "about_this_result": {
+                "source": {
+                    "description": "sunnysidecircus.com was first indexed by Google in February 2015",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c12797437af23ab4d2c19d/images/96b9cdbb9da08cb628139953a28d4a74b47b54e4ea9c9a3b72aa2d17deda5330c778cb6655bd9d27f82f88740878fb2d.png"
+                },
+                "keywords": [
+                    "what",
+                    "these",
+                    "name",
+                    "french",
+                    "dance",
+                    "famous",
+                    "its",
+                    "high",
+                    "kicks"
+                ],
+                "related_keywords": [
+                    "france",
+                    "dancers",
+                    "dances",
+                    "their",
+                    "kicking"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.sunnysidecircus.com/countries/france/music-dances-france/cancan/&tbm=ilp&ilps=AOR-xxvYE6PCjeIYnBChESdRNGOZ-2Wp6w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TMjosUJXmUEJ:https://www.sunnysidecircus.com/countries/france/music-dances-france/cancan/+&cd=18&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Can-can - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Can-can",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Can-can",
+            "snippet": "The can-can is a high-energy, physically demanding dance that became a popular music-hall dance in the 1840s, continuing in popularity in French ... The main moves are the high kick or battement, the rond de jambe (quick ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c12797437af23ab4d2c19d/images/96b9cdbb9da08cb628139953a28d4a7489a6dd4e7441277c159543594f5d8502dac6c7295f9b1c78f1c15d167fbfac3f.png"
+                },
+                "keywords": [
+                    "what",
+                    "french",
+                    "dance",
+                    "famous",
+                    "its",
+                    "high",
+                    "kicks"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Can-can&tbm=ilp&ilps=AOR-xxva8r-zZXehMtCMv-igfx-enZfQ6g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Y4lah17As3cJ:https://en.wikipedia.org/wiki/Can-can+&cd=19&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Can-can+what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F",
+            "missing": [
+                "these"
+            ],
+            "must_include": {
+                "word": "these",
+                "link": "https://www.google.com/search?q=what+of+%22these%22+is+the+name+of+a+french+dance+famous+for+its+high+kicks?&sa=X&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q5t4CegQIQRAB"
+            }
+        },
+        {
+            "position": 6,
+            "title": "Cancan: The Forgotten History of France's Most Famous Dance",
+            "link": "http://danc102f.wescreates.wesleyan.edu/assignment-5/cancan-the-forgotten-history-of-frances-most-famous-dance/",
+            "displayed_link": "http://danc102f.wescreates.wesleyan.edu \u203a assignment-5",
+            "date": "Dec 10, 2020",
+            "snippet": "However, this fast-paced dance, with its high kicks and jump splits, ... These new dancers were far from the poor grisettes performing in ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Wesleyan University is a private liberal arts university in Middletown, Connecticut. Founded in 1831 as a men's college under the auspices of the Methodist Episcopal Church and with the support of ...",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wesleyan_University",
+                    "security": "not secure"
+                },
+                "keywords": [
+                    "what",
+                    "these",
+                    "name",
+                    "french",
+                    "dance",
+                    "famous",
+                    "its",
+                    "high",
+                    "kicks"
+                ],
+                "related_keywords": [
+                    "dancers"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+http://danc102f.wescreates.wesleyan.edu/assignment-5/cancan-the-forgotten-history-of-frances-most-famous-dance/&tbm=ilp&ilps=AOR-xxu4RFwGvRhTwXJpcIwfqhzk8HNM1A",
+            "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:o9H7k5BHGP0J:danc102f.wescreates.wesleyan.edu/assignment-5/cancan-the-forgotten-history-of-frances-most-famous-dance/+&cd=20&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "10 Things You Never Knew About Paris' Moulin Rouge",
+            "link": "https://theculturetrip.com/europe/france/paris/articles/10-things-you-never-knew-about-paris-moulin-rouge/",
+            "displayed_link": "https://theculturetrip.com \u203a france \u203a paris \u203a articles \u203a 10...",
+            "date": "Oct 29, 2017",
+            "snippet": "Paris' Moulin Rouge (built in 1885) is known for its ... of beautiful female dancers ruffling their dresses between a series of high kicks, ...",
+            "about_this_result": {
+                "source": {
+                    "description": "theculturetrip.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c12797437af23ab4d2c19d/images/96b9cdbb9da08cb628139953a28d4a74597b34c392878f286d76540515f0c504a5ce9d8ef026c5a22dfe4b2387cc0596.png"
+                },
+                "keywords": [
+                    "what",
+                    "these",
+                    "name",
+                    "french",
+                    "dance",
+                    "famous",
+                    "its",
+                    "high",
+                    "kicks"
+                ],
+                "related_keywords": [
+                    "france",
+                    "dancers",
+                    "is known",
+                    "their"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://theculturetrip.com/europe/france/paris/articles/10-things-you-never-knew-about-paris-moulin-rouge/&tbm=ilp&ilps=AOR-xxtCV5j-tIslOY9Lw_FlqKhIckANyQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vPw1gKOw0w4J:https://theculturetrip.com/europe/france/paris/articles/10-things-you-never-knew-about-paris-moulin-rouge/+&cd=21&hl=en&ct=clnk&gl=us",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "A Brief History Of The Cancan, France's Famously Raunchy ...",
+                    "link": "https://theculturetrip.com/europe/france/articles/a-brief-history-of-the-cancan-frances-famously-raunchy-dance/",
+                    "displayed_link": "https://theculturetrip.com \u203a europe \u203a france \u203a articles",
+                    "date": "Mar 13, 2018",
+                    "snippet": "Read our brief history of the French cancan, a dance that was deemed ... The cancan is known for its raunchy leg-kicking that caused offence ...",
+                    "about_this_result": {
+                        "source": {
+                            "description": "theculturetrip.com was first indexed by Google more than 10 years ago",
+                            "security": "secure",
+                            "icon": "https://serpapi.com/searches/61c12797437af23ab4d2c19d/images/96b9cdbb9da08cb628139953a28d4a740c3c1116d7ed1a2506ad90ddfc7cd40c52f10f16dd2369236a27d4dded5c5aaa7900d9681a75f44dcb6920fe28675eb366ced14261bffb53.png"
+                        },
+                        "keywords": [
+                            "name",
+                            "french",
+                            "dance",
+                            "famous",
+                            "its",
+                            "kicks"
+                        ],
+                        "related_keywords": [
+                            "france",
+                            "is known",
+                            "kicking"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://theculturetrip.com/europe/france/articles/a-brief-history-of-the-cancan-frances-famously-raunchy-dance/&tbm=ilp&ilps=AOR-xxuhrjLYYK_RIuu2LIE0TemvJovCdw",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5EI12uB3XBMJ:https://theculturetrip.com/europe/france/articles/a-brief-history-of-the-cancan-frances-famously-raunchy-dance/+&cd=22&hl=en&ct=clnk&gl=us"
+                }
+            ]
+        },
+        {
+            "position": 8,
+            "title": "Moulin Rouge and Folies Berg\u00e8re: Best Can-Can Paintings",
+            "link": "https://www.dailyartmagazine.com/can-can-paintings/",
+            "displayed_link": "https://www.dailyartmagazine.com \u203a can-can-paintings",
+            "date": "Jul 11, 2020",
+            "snippet": "His Can-can dancer brilliantly encapsulates the zest of the dance, with its frilly petticoats, famous high kicks and rousing music.",
+            "about_this_result": {
+                "source": {
+                    "description": "dailyartmagazine.com was first indexed by Google in August 2017",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c12797437af23ab4d2c19d/images/96b9cdbb9da08cb628139953a28d4a746f26b86e6b125c7b396f96dd66a8881bf0e3c27b93abdd295e6c905324a8072e.png"
+                },
+                "keywords": [
+                    "what",
+                    "these",
+                    "name",
+                    "french",
+                    "dance",
+                    "famous",
+                    "its",
+                    "high",
+                    "kicks"
+                ],
+                "related_keywords": [
+                    "dancer",
+                    "his"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.dailyartmagazine.com/can-can-paintings/&tbm=ilp&ilps=AOR-xxsyacYpejarIVbxTI0HGEw5XG0i8A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:39-JqBDkO8MJ:https://www.dailyartmagazine.com/can-can-paintings/+&cd=23&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "did can-can dancers wear knickers",
+            "link": "https://www.google.com/search?q=did+can-can+dancers+wear+knickers&sa=X&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q1QJ6BAgvEAE"
+        },
+        {
+            "query": "can-can moulin rouge",
+            "link": "https://www.google.com/search?q=Can-can+Moulin+Rouge&sa=X&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q1QJ6BAgyEAE"
+        },
+        {
+            "query": "french cancan dance",
+            "link": "https://www.google.com/search?q=French+cancan+dance&sa=X&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q1QJ6BAgsEAE"
+        },
+        {
+            "query": "famous french cancan dancers",
+            "link": "https://www.google.com/search?q=Famous+French+Cancan+dancers&sa=X&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q1QJ6BAgxEAE"
+        },
+        {
+            "query": "jacques offenbach can-can",
+            "link": "https://www.google.com/search?q=jacques+offenbach+can-can&sa=X&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q1QJ6BAgwEAE"
+        },
+        {
+            "query": "who invented the can-can dance",
+            "link": "https://www.google.com/search?q=Who+invented+the+Can-Can+dance&sa=X&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q1QJ6BAguEAE"
+        },
+        {
+            "query": "moulin rouge dancers",
+            "link": "https://www.google.com/search?q=Moulin+Rouge+dancers&sa=X&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q1QJ6BAgoEAE"
+        },
+        {
+            "query": "can can music",
+            "link": "https://www.google.com/search?q=Can+Can+music&sa=X&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q1QJ6BAgnEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&ei=mifBYcn3BOKe_Qav3qfwAw&start=10&sa=N&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q8NMDegQIARBJ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&ei=mifBYcn3BOKe_Qav3qfwAw&start=10&sa=N&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&ei=mifBYcn3BOKe_Qav3qfwAw&start=20&sa=N&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&ei=mifBYcn3BOKe_Qav3qfwAw&start=30&sa=N&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&ei=mifBYcn3BOKe_Qav3qfwAw&start=40&sa=N&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&ei=mifBYcn3BOKe_Qav3qfwAw&start=50&sa=N&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&ei=mifBYcn3BOKe_Qav3qfwAw&start=60&sa=N&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&ei=mifBYcn3BOKe_Qav3qfwAw&start=70&sa=N&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&ei=mifBYcn3BOKe_Qav3qfwAw&start=80&sa=N&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&ei=mifBYcn3BOKe_Qav3qfwAw&start=90&sa=N&ved=2ahUKEwjJrJv02PP0AhViT98KHS_vCT4Q8tMDegQIARBH"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+of+these+is+the+name+of+a+french+dance+famous+for+its+high+kicks%3F&start=90"
+        }
+    }
+}

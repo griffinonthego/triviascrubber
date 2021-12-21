@@ -1,0 +1,505 @@
+{
+    "search_metadata": {
+        "id": "61c127b99d1586d25fa1ac8c",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/345e51ff6feb976e/61c127b99d1586d25fa1ac8c.json",
+        "created_at": "2021-12-21 01:02:49 UTC",
+        "processed_at": "2021-12-21 01:02:50 UTC",
+        "google_url": "https://www.google.com/search?q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&oq=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/345e51ff6feb976e/61c127b99d1586d25fa1ac8c.html",
+        "total_time_taken": 1.53
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "in \u201csuper mario\u201c games what kind of creature is yoshi?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "in \u201csuper mario\u201c games what kind of creature is yoshi?",
+        "total_results": 8790000,
+        "time_taken_displayed": 0.76
+    },
+    "inline_video_carousels": [
+        {
+            "position": 1,
+            "title": "Yoshi - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Yoshi#:~:text=Yoshi%20is%20featured%20in%20the,by%20a%20gang%20of%20Koopas.",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Yoshi"
+        }
+    ],
+    "inline_people_also_search_for": [
+        {
+            "title": "Yoshi characters",
+            "items": [
+                {
+                    "name": "Yoshi",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw3cAC4OfSSGseJaCqFpZ2SB62CPvAQ0rPfzQ_P6hlLPCJcLEsXTdB&s=0",
+                    "link": "https://www.google.com/search?q=Yoshi&stick=H4sIAAAAAAAAAOOQUeLQz9U3yK6qSjISqMwvzshUSM5ILEpMLkktKo4yzsxTKC4tSC1SyE0sysxXSE_MTS1WKM9ILFHIzsxLUchPU0guSk0sKS1KVcgsVgDrP8UINxHGjLcogIuW555i5NVP1zc0TMuyrMpOqzQ-xcgJkjIyM8g1hioryMguRugwhTMrjBCml8FNL8j6xSgQieb2BhbGRaysYNFbbJIMN2ZymQb-usXE6vFFWe3EDKcf7n__vtvaZgYAoz4abAEBAAA&sa=X&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQs9oBKAB6BAg_EAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yoshi&stick=H4sIAAAAAAAAAOOQUeLQz9U3yK6qSjISqMwvzshUSM5ILEpMLkktKo4yzsxTKC4tSC1SyE0sysxXSE_MTS1WKM9ILFHIzsxLUchPU0guSk0sKS1KVcgsVgDrP8UINxHGjLcogIuW555i5NVP1zc0TMuyrMpOqzQ-xcgJkjIyM8g1hioryMguRugwhTMrjBCml8FNL8j6xSgQieb2BhbGRaysYNFbbJIMN2ZymQb-usXE6vFFWe3EDKcf7n__vtvaZgYAoz4abAEBAAA"
+                },
+                {
+                    "name": "Bowser",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkYnYCtyJLxt6NxEehaA8gu0iUK3xYsAdMhMstVApXkTGDNvaIolT3&s=0",
+                    "link": "https://www.google.com/search?q=Bowser&stick=H4sIAAAAAAAAAOOQUeLQz9U3yI63KDASqMwvzshUSM5ILEpMLkktKo4yzsxTKC4tSC1SyE0sysxXSE_MTS1WKM9ILFHIzsxLUchPU0guSk0sKS1KVcgsVgDrP8UIMbGqKgnGBBoOFy3PPcXIq5-ub2iYlmVZlZ1WaXyKkRMkZWRmkGsMVVaQkV2M0GEKZ1YYIUwvg5tekPWLUSASze0NLIyLWNmc8suLU4tusUky3JjJZRr46xYTq8cXZbUTM5x-uP_9-25rmxkA-q2XIAIBAAA&sa=X&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQs9oBKAF6BAg_EAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bowser&stick=H4sIAAAAAAAAAOOQUeLQz9U3yI63KDASqMwvzshUSM5ILEpMLkktKo4yzsxTKC4tSC1SyE0sysxXSE_MTS1WKM9ILFHIzsxLUchPU0guSk0sKS1KVcgsVgDrP8UIMbGqKgnGBBoOFy3PPcXIq5-ub2iYlmVZlZ1WaXyKkRMkZWRmkGsMVVaQkV2M0GEKZ1YYIUwvg5tekPWLUSASze0NLIyLWNmc8suLU4tusUky3JjJZRr46xYTq8cXZbUTM5x-uP_9-25rmxkA-q2XIAIBAAA"
+                },
+                {
+                    "name": "Luigi",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHQ2N4SIBmobfugPOxdRDNYrsYW7-zMBZ4UdNNKDaxCMsgeslIpYZ5&s=0",
+                    "link": "https://www.google.com/search?q=Luigi+Super+Mario&stick=H4sIAAAAAAAAAOOQUeLQz9U3yK4qzzUSqMwvzshUSM5ILEpMLkktKo4yzsxTKC4tSC1SyE0sysxXSE_MTS1WKM9ILFHIzsxLUchPU0guSk0sKS1KVcgsVgDrP8UINbEqCcaMtyiAi5bnnmLk1U_XNzRMy7Ksyk6rND7FyAmSMjIzyDWGKivIyC5G6DCFMyuMEKaXwU0vyPrFKBCJ5vYGFsZFrII-pZnpmQrBYC_4grxwi02S4cZMLtPAX7eYWD2-KKudmOH0w_3v33db28wAzeDYzg0BAAA&sa=X&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQs9oBKAJ6BAg_EAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Luigi+Super+Mario&stick=H4sIAAAAAAAAAOOQUeLQz9U3yK4qzzUSqMwvzshUSM5ILEpMLkktKo4yzsxTKC4tSC1SyE0sysxXSE_MTS1WKM9ILFHIzsxLUchPU0guSk0sKS1KVcgsVgDrP8UINbEqCcaMtyiAi5bnnmLk1U_XNzRMy7Ksyk6rND7FyAmSMjIzyDWGKivIyC5G6DCFMyuMEKaXwU0vyPrFKBCJ5vYGFsZFrII-pZnpmQrBYC_4grxwi02S4cZMLtPAX7eYWD2-KKudmOH0w_3v33db28wAzeDYzg0BAAA"
+                },
+                {
+                    "name": "Baby Yoshi",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYWzhzs_IfeDibX0eiDDZKvNqlFOdq1g5a3Q1J&s=0",
+                    "link": "https://www.google.com/search?q=Baby+Yoshi&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEzLsqzKTqs0NhKozC_OyFRIzkgsSkwuSS0qjjLOzFMoLi1ILVLITSzKzFdIT8xNLVYoz0gsUcjOzEtRyE9TSC5KTSwpLUpVyCxWAOs_xcihn6tvkF1VlQRjxlsUwEXLc08xotp7ipETJGVkZpBrDFVWkJFdjNBhCmdWGCFML4ObXpD1i1EgEs3tDSyMi1i5nBKTKhXAUrfYJBluzOQyDfx1i4nV44uy2okZTj_c__59t7XNDACSww2nCwEAAA&sa=X&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQs9oBKAN6BAg_EAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Baby+Yoshi&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEzLsqzKTqs0NhKozC_OyFRIzkgsSkwuSS0qjjLOzFMoLi1ILVLITSzKzFdIT8xNLVYoz0gsUcjOzEtRyE9TSC5KTSwpLUpVyCxWAOs_xcihn6tvkF1VlQRjxlsUwEXLc08xotp7ipETJGVkZpBrDFVWkJFdjNBhCmdWGCFML4ObXpD1i1EgEs3tDSyMi1i5nBKTKhXAUrfYJBluzOQyDfx1i4nV44uy2okZTj_c__59t7XNDACSww2nCwEAAA"
+                },
+                {
+                    "name": "Birdo",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWGXoq3_1CYtl19JAzQvk3lHnoNROiMDrvpvh0h0fM_bMNeDGpD5wC&s=0",
+                    "link": "https://www.google.com/search?q=Birdo&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDIzyDU2EqjML87IVEjOSCxKTC5JLSqOMs7MUyguLUgtUshNLMrMV0hPzE0tVijPSCxRyM7MS1HIT1NILkpNLCktSlXILFYA6z_FyAEyMruqKgnGjLcogIuW555i5NVP1zc0TMuyrMpOqzQ-xYhwA1RZQUZ2MUKHKZxZYYQwvQxuekHWL0aBSDS3N7AwLmJldcosSsm_xSbJcGMml2ngr1tMrB5flNVOzHD64f7377utbWYAzzlrlQIBAAA&sa=X&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQs9oBKAR6BAg_EAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Birdo&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDIzyDU2EqjML87IVEjOSCxKTC5JLSqOMs7MUyguLUgtUshNLMrMV0hPzE0tVijPSCxRyM7MS1HIT1NILkpNLCktSlXILFYA6z_FyAEyMruqKgnGjLcogIuW555i5NVP1zc0TMuyrMpOqzQ-xYhwA1RZQUZ2MUKHKZxZYYQwvQxuekHWL0aBSDS3N7AwLmJldcosSsm_xSbJcGMml2ngr1tMrB5flNVOzHD64f7377utbWYAzzlrlQIBAAA"
+                },
+                {
+                    "name": "Wario",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT92KzduxkcG1e2zs9ph3K7T7A-AVIHuSr5JYN2ZDrgIxs39_7RVUU8&s=0",
+                    "link": "https://www.google.com/search?q=Wario&stick=H4sIAAAAAAAAAOOQUeLQz9U3KMjILjYSqMwvzshUSM5ILEpMLkktKo4yzsxTKC4tSC1SyE0sysxXSE_MTS1WKM9ILFHIzsxLUchPU0guSk0sKS1KVcgsVgDrP8UINjG7qioJxoy3KICLlueeYuTVT9c3NEzLsqzKTqs0PsXICZIyMjPINYYqAzkHocMUzqwwQpheBje9IOsXo0AkmtsbWBgXsbKGg5x9i02S4cZMLtPAX7eYWD2-KKudmOH0w_3v33db28wA6GeVMwEBAAA&sa=X&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQs9oBKAV6BAg_EAg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Wario&stick=H4sIAAAAAAAAAOOQUeLQz9U3KMjILjYSqMwvzshUSM5ILEpMLkktKo4yzsxTKC4tSC1SyE0sysxXSE_MTS1WKM9ILFHIzsxLUchPU0guSk0sKS1KVcgsVgDrP8UINjG7qioJxoy3KICLlueeYuTVT9c3NEzLsqzKTqs0PsXICZIyMjPINYYqAzkHocMUzqwwQpheBje9IOsXo0AkmtsbWBgXsbKGg5x9i02S4cZMLtPAX7eYWD2-KKudmOH0w_3v33db28wA6GeVMwEBAAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?q=Yoshi+characters&stick=H4sIAAAAAAAAAOOQMRKozC_OyFRIzkgsSkwuSS0qjjLOzFMoLi1ILVLITSzKzFdIT8xNLVYoz0gsUcjOzEtRyE9TSC5KTSwpLUpVyCxWAOs_xcihn6tvkF1VlQRjxlsUwEXLc08x8uqn6xsapmVZVmWnVRqfYuQESRmZGeQaQ5UVZGQXI3SYwpkVRgjTy-CmF2T9YhSIRHN7AwvjIlYM0Vtskgw3ZnKZBv66xcTq8UVZ7cQMpx_uf_--29pmBgDu0G29AgEAAA&sa=X&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ4qYDegQIPxAJ",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Yoshi+characters&stick=H4sIAAAAAAAAAOOQMRKozC_OyFRIzkgsSkwuSS0qjjLOzFMoLi1ILVLITSzKzFdIT8xNLVYoz0gsUcjOzEtRyE9TSC5KTSwpLUpVyCxWAOs_xcihn6tvkF1VlQRjxlsUwEXLc08x8uqn6xsapmVZVmWnVRqfYuQESRmZGeQaQ5UVZGQXI3SYwpkVRgjTy-CmF2T9YhSIRHN7AwvjIlYM0Vtskgw3ZnKZBv66xcTq8UVZ7cQMpx_uf_--29pmBgDu0G29AgEAAA"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What dinosaur is Yoshi based?",
+            "snippet": "Shigeru Miyamoto stated that Nintendo had wanted Mario to have a dinosaur companion ever since the first release of Super Mario Bros.; however, it was not possible because of the limitations of the NES. The inspiration for Yoshi can be traced back further, to the green dragon Tamagon in the 1984 video game Devil World.",
+            "title": "Yoshi | Dinosaur Wiki",
+            "link": "https://dino.fandom.com/wiki/Yoshi",
+            "displayed_link": "https://dino.fandom.com \u203a wiki \u203a Yoshi"
+        },
+        {
+            "question": "Is Yoshi a character or species?",
+            "snippet": "Yoshis (referred to as Yoshisaurs in the Super Mario World cartoon, and alternatively pluralized \"Yoshies\" in the original Super Mario World 2: Yoshi's Island) are a sapient species of omnivorous dinosaur that first appeared in Super Mario World.",
+            "title": "Yoshi (species) - Mario Wiki",
+            "link": "https://www.mariowiki.com/Yoshi_(species)",
+            "displayed_link": "https://www.mariowiki.com \u203a Yoshi_(species)"
+        },
+        {
+            "question": "Is Yoshi a stegosaurus?",
+            "snippet": "Although Yoshi has been said to be a dinosaur many times, Nintendo has recently stated that he is not a dinosaur, and his species is a Yoshi.",
+            "title": "Yoshi Wiki - Fandom",
+            "link": "https://yoshi.fandom.com/wiki/Yoshi",
+            "displayed_link": "https://yoshi.fandom.com \u203a wiki \u203a Yoshi"
+        },
+        {
+            "question": "Is Yoshi a turtle Nintendo?",
+            "snippet": "No, he's either dinosaur, dragon, or just a yoshi. However, he was originally going to be \u201cgood\u201d turtle to the koopa's bad turtle during development of his character, but the creators scrapped the idea. The only thing \u201cturtle-y\u201d about Yoshi is his weird saddle-like shell.",
+            "title": "Is Yoshi from Mario Bro's a turtle? - Quora",
+            "link": "https://www.quora.com/Is-Yoshi-from-Mario-Bro-s-a-turtle",
+            "displayed_link": "https://www.quora.com \u203a Is-Yoshi-from-Mario-Bro-s-a-tu..."
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Yoshi - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Yoshi#:~:text=Yoshi%20is%20featured%20in%20the,by%20a%20gang%20of%20Koopas.",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Yoshi",
+        "snippet": "Yoshi is featured in the Super Mario Adventures comic serial printed in Nintendo Power, the Nintendo Adventure Books, and the Super Mario Bros. movie (taking the form of a realistic animatronic dinosaur). Yoshi is King Koopa's pet, and is referred to as a \"throwback\" by a gang of Koopas.",
+        "answer": "dinosaur"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Yoshi (species) | MarioWiki | Fandom",
+            "link": "https://mario.fandom.com/wiki/Yoshi_(species)",
+            "displayed_link": "https://mario.fandom.com \u203a wiki \u203a Yoshi_(species)",
+            "date": "Jan 24, 2019",
+            "snippet": "The Yoshis are a recurring species in the Mario series. They are bipedal, reptilian, creatures who inhabit the Mushroom World. They originate from Yoshi's ...",
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Profile",
+                        "link": "https://mario.fandom.com/wiki/Yoshi_(species)#Profile"
+                    },
+                    {
+                        "title": "Physical description",
+                        "link": "https://mario.fandom.com/wiki/Yoshi_(species)#Physical_description"
+                    },
+                    {
+                        "title": "Powers and abilities",
+                        "link": "https://mario.fandom.com/wiki/Yoshi_(species)#Powers_and_abilities"
+                    },
+                    {
+                        "title": "Society",
+                        "link": "https://mario.fandom.com/wiki/Yoshi_(species)#Society"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Fandom is an American wiki hosting service and domain operated by Fandom, Inc., a for-profit Delaware company founded in October 2004 by Jimmy Wales and Angela Beesley.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Fandom_(website)",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127b99d1586d25fa1ac8c/images/aebcf0233c387be15e1ce7fd62d4bd779f59c53ccba333e34d882a50e562978701c8d70c7bf02efab32cbb825c3c501f.png"
+                },
+                "keywords": [
+                    "in",
+                    "super",
+                    "mario",
+                    "games",
+                    "creature",
+                    "yoshi"
+                ],
+                "related_keywords": [
+                    "bros",
+                    "species",
+                    "yoshi's"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://mario.fandom.com/wiki/Yoshi_(species)&tbm=ilp&ilps=AOR-xxtHMq6O_6eMrmUOi_EELV2jfeo2gg",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Yoshi (species) | Monster Wiki | Fandom",
+                    "link": "https://monster.fandom.com/wiki/Yoshi_(species)",
+                    "displayed_link": "https://monster.fandom.com \u203a wiki \u203a Yoshi_(species)",
+                    "date": "Apr 30, 2016",
+                    "snippet": "Yoshis are a race of bipedal sapient dinosaurs from the Super Mario video game franchise. Originating from Yoshi's Island in Dinosaur Land, these friendly ...",
+                    "about_this_result": {
+                        "source": {
+                            "description": "Fandom is an American wiki hosting service and domain operated by Fandom, Inc., a for-profit Delaware company founded in October 2004 by Jimmy Wales and Angela Beesley.",
+                            "source_info_link": "https://en.wikipedia.org/wiki/Fandom_(website)",
+                            "security": "secure",
+                            "icon": "https://serpapi.com/searches/61c127b99d1586d25fa1ac8c/images/aebcf0233c387be15e1ce7fd62d4bd77d278e8c1cac9882124e7f2c2e26bfd2e1cf2928d1d6795630ebaa14b884c5dd1cb2b591d0e649828daeef8a3052d75c1cc9f13890bc0c3a5.png"
+                        },
+                        "keywords": [
+                            "in",
+                            "super",
+                            "mario",
+                            "games",
+                            "yoshi"
+                        ],
+                        "related_keywords": [
+                            "game",
+                            "species",
+                            "monster",
+                            "yoshi's"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://monster.fandom.com/wiki/Yoshi_(species)&tbm=ilp&ilps=AOR-xxt0CGpNZkfTEBhQ6NcnEV26rZiXRw"
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Yoshi (species) - Mario Wiki",
+            "link": "https://www.mariowiki.com/Yoshi_(species)",
+            "displayed_link": "https://www.mariowiki.com \u203a Yoshi_(species)",
+            "date": "Super Mario Maker / Super Mario Maker for Nintendo 3DS",
+            "snippet": "Yoshis (referred to as Yoshisaurs in the Super Mario World cartoon, and alternatively ...",
+            "about_this_result": {
+                "source": {
+                    "description": "mariowiki.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127b99d1586d25fa1ac8c/images/aebcf0233c387be15e1ce7fd62d4bd770a0e115b3940d2fbce55c483fdab2c377ca50527aa11a7bb7c3e6d19583d8e39.png"
+                },
+                "keywords": [
+                    "in",
+                    "super",
+                    "mario",
+                    "games",
+                    "yoshi"
+                ],
+                "related_keywords": [
+                    "bros",
+                    "forms",
+                    "species"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.mariowiki.com/Yoshi_(species)&tbm=ilp&ilps=AOR-xxto6doDGPGIljDz88sS8f_7K_HprQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:h8MdXhejgdUJ:https://www.mariowiki.com/Yoshi_(species)+&cd=16&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.mariowiki.com/Yoshi_(species)+in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Yoshi - Super Mario Wiki, the Mario encyclopedia",
+                    "link": "https://www.mariowiki.com/Yoshi",
+                    "snippet": "Yoshi is a dinosaur-like character that acts as an ally of Mario and Luigi and is the protagonist of his own franchise. Among members of the Yoshi species ..."
+                }
+            ]
+        },
+        {
+            "position": 3,
+            "title": "What kind of animal is Yoshi? - BoardGamesTips",
+            "link": "https://boardgamestips.com/destiny-2/what-kind-of-animal-is-yoshi/",
+            "displayed_link": "https://boardgamestips.com \u203a Destiny 2",
+            "snippet": "Raccoon Mario (also spelled Racoon Mario in Super Mario Bros. 3 materials) is a form Mario turns into after ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "What kind of animal is Yoshi from Super Mario? \u2014"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "boardgamestips.com was first indexed by Google in February 2014",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127b99d1586d25fa1ac8c/images/aebcf0233c387be15e1ce7fd62d4bd776491bde9bc81cb03c78ff6e8fca2464e301ace39b374a0ea6fb630cf50dcdd1c.png"
+                },
+                "keywords": [
+                    "in",
+                    "super",
+                    "mario",
+                    "games",
+                    "kind",
+                    "yoshi"
+                ],
+                "related_keywords": [
+                    "bros",
+                    "form",
+                    "animal"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://boardgamestips.com/destiny-2/what-kind-of-animal-is-yoshi/&tbm=ilp&ilps=AOR-xxswqB_m0c4YmllPvLko5pJI7cGqig",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:tKQAgzZOeP4J:https://boardgamestips.com/destiny-2/what-kind-of-animal-is-yoshi/+&cd=18&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "7 Facts About Nintendo's Yoshi | Mental Floss",
+            "link": "https://www.mentalfloss.com/article/577795/yoshi-nintendo-facts",
+            "displayed_link": "https://www.mentalfloss.com \u203a yoshi-nintendo-facts",
+            "snippet": "Technically speaking, Yoshi is actually a whole species of creatures that exist in the Mario universe. While the Yoshi we all know and love is green, ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Mental Floss is an online magazine and its related American digital, print, and e-commerce media company focused on millennials. It is owned by Minute Media and based in New York City, United States.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Mental_Floss",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127b99d1586d25fa1ac8c/images/aebcf0233c387be15e1ce7fd62d4bd779dfe35e0a5c01b799fba26f0e60cdd7ed70b575e676715383dc478dcc63f5546.png"
+                },
+                "keywords": [
+                    "in",
+                    "super",
+                    "mario",
+                    "games",
+                    "kind",
+                    "creature",
+                    "yoshi"
+                ],
+                "related_keywords": [
+                    "species",
+                    "creatures"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.mentalfloss.com/article/577795/yoshi-nintendo-facts&tbm=ilp&ilps=AOR-xxttyFgCakvLwELkCJgUBFTmgeKaLQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:qkRDVC7-hwAJ:https://www.mentalfloss.com/article/577795/yoshi-nintendo-facts+&cd=19&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Super Mario: 15 Things You Never Knew About Yoshi The ...",
+            "link": "https://screenrant.com/yoshi-trivia-facts-super-mario/",
+            "displayed_link": "https://screenrant.com \u203a Game News",
+            "date": "Oct 8, 2016",
+            "snippet": "To most, Yoshi is just Super Mario's sidekick, but he also has a rich ... Still, other games suggest that other members of the Yoshi Species ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Screen Rant is an online information news website which offers news in the fields of television, films, video games, and film theories. Screen Rant was launched by Vic Holtreman in 2003, and originally had its primary office in Ogden, Utah.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Screen_Rant",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127b99d1586d25fa1ac8c/images/aebcf0233c387be15e1ce7fd62d4bd77fbf453307cc754303e3e691e02c7f9071f05f06376d7ccb3542e0eaa39c69117.png"
+                },
+                "keywords": [
+                    "in",
+                    "super",
+                    "mario",
+                    "games",
+                    "kind",
+                    "creature",
+                    "yoshi"
+                ],
+                "related_keywords": [
+                    "species"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://screenrant.com/yoshi-trivia-facts-super-mario/&tbm=ilp&ilps=AOR-xxtSBGB-z4BTILnfT2_aV0es3rSxug",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:eABuqj1NRtMJ:https://screenrant.com/yoshi-trivia-facts-super-mario/+&cd=20&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "Super Meowio: The Top 5 Animal-Themed Mario Power-Ups!",
+            "link": "https://www.pinterest.com/pin/96334879503416914/",
+            "displayed_link": "https://www.pinterest.com \u203a ... \u203a Kids Birthday Theme",
+            "snippet": "Super Mario World 3: A Galaxy Quest (or Super Mario Bros. ... Yoshi (species). More information ... The Yoshis are a recurring species in the Mario series.",
+            "about_this_result": {
+                "source": {
+                    "description": "Pinterest is an image sharing and social media service designed to enable saving and discovery of information on the internet using images, and on a smaller scale, animated GIFs and videos, in the form of pinboards.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Pinterest",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127b99d1586d25fa1ac8c/images/aebcf0233c387be15e1ce7fd62d4bd77d8319e9dcf29747f1b15867b0c903abc97c2746bfd12e5880870fdd7e877ee0c.png"
+                },
+                "keywords": [
+                    "in",
+                    "super",
+                    "mario",
+                    "games",
+                    "yoshi"
+                ],
+                "related_keywords": [
+                    "bros",
+                    "species",
+                    "animal"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.pinterest.com/pin/96334879503416914/&tbm=ilp&ilps=AOR-xxucdW0F7rYbPCfWjltoPTfZDUY8ig",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zjzRAei18-oJ:https://www.pinterest.com/pin/96334879503416914/+&cd=21&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "14 Weird Things You Didn't Know About Yoshi - TheGamer",
+            "link": "https://www.thegamer.com/yoshi-nintendo-trivia/",
+            "displayed_link": "https://www.thegamer.com \u203a Lists",
+            "date": "Nov 3, 2017",
+            "snippet": "Yep, in New Super Mario Bros U as well as in Yoshi's Wooly World, the adorable character actually consumes his own kind. As we've seen so far, ...",
+            "about_this_result": {
+                "source": {
+                    "description": "thegamer.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127b99d1586d25fa1ac8c/images/aebcf0233c387be15e1ce7fd62d4bd774b26d07066ea1e129146cb7aa594659668af5fe16bb008d765880916b46a02c1.png"
+                },
+                "keywords": [
+                    "in",
+                    "super",
+                    "mario",
+                    "games",
+                    "kind",
+                    "creature",
+                    "yoshi"
+                ],
+                "related_keywords": [
+                    "bros",
+                    "yoshi's"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.thegamer.com/yoshi-nintendo-trivia/&tbm=ilp&ilps=AOR-xxv4YwPUyAvXmCVsY1dwt2A7wm8HnA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:A36OmaLgO_EJ:https://www.thegamer.com/yoshi-nintendo-trivia/+&cd=22&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "what animal is yoshi",
+            "link": "https://www.google.com/search?q=What+animal+is+Yoshi&sa=X&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ1QJ6BAg7EAE"
+        },
+        {
+            "query": "different color yoshi super mario world",
+            "link": "https://www.google.com/search?q=Different+color+Yoshi+Super+Mario+World&sa=X&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ1QJ6BAg6EAE"
+        },
+        {
+            "query": "is yoshi a turtle",
+            "link": "https://www.google.com/search?q=Is+Yoshi+a+turtle&sa=X&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ1QJ6BAgxEAE"
+        },
+        {
+            "query": "yoshi gender",
+            "link": "https://www.google.com/search?q=Yoshi+gender&sa=X&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ1QJ6BAgzEAE"
+        },
+        {
+            "query": "t. yoshisaur munchakoopas",
+            "link": "https://www.google.com/search?q=t.+yoshisaur+munchakoopas&sa=X&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ1QJ6BAg0EAE"
+        },
+        {
+            "query": "super mario characters",
+            "link": "https://www.google.com/search?q=Super+Mario+characters&sa=X&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ1QJ6BAg1EAE"
+        },
+        {
+            "query": "purple yoshi super mario world",
+            "link": "https://www.google.com/search?q=Purple+Yoshi+Super+Mario+World&sa=X&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ1QJ6BAg2EAE"
+        },
+        {
+            "query": "red yoshi super mario world",
+            "link": "https://www.google.com/search?q=Red+Yoshi+Super+Mario+World&sa=X&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ1QJ6BAgrEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&ei=uifBYZfvNYHM_AamgqKoBw&start=10&sa=N&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ8NMDegQIARBJ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&ei=uifBYZfvNYHM_AamgqKoBw&start=10&sa=N&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&ei=uifBYZfvNYHM_AamgqKoBw&start=20&sa=N&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&ei=uifBYZfvNYHM_AamgqKoBw&start=30&sa=N&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&ei=uifBYZfvNYHM_AamgqKoBw&start=40&sa=N&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&ei=uifBYZfvNYHM_AamgqKoBw&start=50&sa=N&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&ei=uifBYZfvNYHM_AamgqKoBw&start=60&sa=N&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&ei=uifBYZfvNYHM_AamgqKoBw&start=70&sa=N&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&ei=uifBYZfvNYHM_AamgqKoBw&start=80&sa=N&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&ei=uifBYZfvNYHM_AamgqKoBw&start=90&sa=N&ved=2ahUKEwiXtO2D2fP0AhUBJt8KHSaBCHUQ8tMDegQIARBH"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+%E2%80%9Csuper+mario%E2%80%9C+games+what+kind+of+creature+is+yoshi%3F&start=90"
+        }
+    }
+}

@@ -1,0 +1,499 @@
+{
+    "search_metadata": {
+        "id": "61c12787660dbd1326dc4ddf",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/39f59425d17f31ec/61c12787660dbd1326dc4ddf.json",
+        "created_at": "2021-12-21 01:01:59 UTC",
+        "processed_at": "2021-12-21 01:01:59 UTC",
+        "google_url": "https://www.google.com/search?q=of+these+francophone+cities+which+is+home+to+the+most+people&oq=of+these+francophone+cities+which+is+home+to+the+most+people&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/39f59425d17f31ec/61c12787660dbd1326dc4ddf.html",
+        "total_time_taken": 1.11
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "of these francophone cities which is home to the most people",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "of these francophone cities which is home to the most people",
+        "total_results": 9730000000,
+        "time_taken_displayed": 0.91
+    },
+    "inline_video_carousels": [
+        {
+            "position": 1,
+            "title": "Cities In The World With The Most Francophone Population",
+            "link": "https://www.worldatlas.com/articles/cities-in-the-world-with-the-most-francophone-population.html#:~:text=Kinshasa%2C%20Democratic%20Republic%20Of%20Congo&text=French%20is%20the%20official%20language,a%20population%20of%2012%2C691%2C000%20people.",
+            "displayed_link": "https://www.worldatlas.com \u203a World Facts"
+        }
+    ],
+    "inline_people_also_search_for": [
+        {
+            "title": "French-speaking cities in Europe",
+            "items": [
+                {
+                    "name": "Montreal",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpnd7tfCds8SUF7ouiUGctOK-I2q1Q7v8RLxbg&s=0",
+                    "link": "https://www.google.com/search?q=Montreal&stick=H4sIAAAAAAAAAG2OvQ4BQRRGbYIsb0AUN3ohm6CRqOj06Na6zLA7d8wMCo3XIAoRXkZCKUK8iMpPdlW6k5vz5R47l7eLQbFUdmTVgYFC4THQEt0xF0PwuOGogQvAqSKJ3RoNwDDU-FZd4ZFkJDDS5oy_x1wDowDB0MeEgLQBiSR9PFq_VxFOzCjEvlTDEEd9Y0L0ZGV-tFIfdJTozaJzj7GnBc1vbuFPbuObu4xbu4TdImEUuv4tmYldV-ny-pE91e_2PrPonLfQPuz9zeUFP1iI0gcBAAA&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQs9oBKAB6BAgsEAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Montreal&stick=H4sIAAAAAAAAAG2OvQ4BQRRGbYIsb0AUN3ohm6CRqOj06Na6zLA7d8wMCo3XIAoRXkZCKUK8iMpPdlW6k5vz5R47l7eLQbFUdmTVgYFC4THQEt0xF0PwuOGogQvAqSKJ3RoNwDDU-FZd4ZFkJDDS5oy_x1wDowDB0MeEgLQBiSR9PFq_VxFOzCjEvlTDEEd9Y0L0ZGV-tFIfdJTozaJzj7GnBc1vbuFPbuObu4xbu4TdImEUuv4tmYldV-ny-pE91e_2PrPonLfQPuz9zeUFP1iI0gcBAAA"
+                },
+                {
+                    "name": "Paris",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW43QptccnNVEuL8XvragGoGp8oXv4gJjVn_06yRuqBXjAJMCvnq1y&s=0",
+                    "link": "https://www.google.com/search?q=Paris&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC0syTJSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUIscqowBzGBNoKZaYUFKVDmVkpJSVQZnKBWfkpRk4Q06goL6kMJpyUkfGLUcEN7FxdLM51BTu3gYVxEStrQGJRZvEtNkmGGzO5TGfdlTprf5tjiWR15LkFChFLl-TMuQYAjxd53wQBAAA&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQs9oBKAF6BAgsEAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Paris&stick=H4sIAAAAAAAAAOOQUeLQz9U3MC0syTJSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUIscqowBzGBNoKZaYUFKVDmVkpJSVQZnKBWfkpRk4Q06goL6kMJpyUkfGLUcEN7FxdLM51BTu3gYVxEStrQGJRZvEtNkmGGzO5TGfdlTprf5tjiWR15LkFChFLl-TMuQYAjxd53wQBAAA"
+                },
+                {
+                    "name": "Lyon",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmNI8053fdF0VfL3VtoFAlJerS-MzOmSvdzJFg5kCGRzJHdkijJ29I&s=0",
+                    "link": "https://www.google.com/search?q=Lyon&stick=H4sIAAAAAAAAAOOQUeLQz9U3SCkoSjdSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUItsrUqMAcxiwsyYIyQQ6AMrNSSkqgzOQCs_JTjJwgplFRXlIZTDgpI-MXo4Ib2Lm6WJzrCnZuAwvjIlYWn8r8vFtskgw3ZnKZzrorddb-NscSyerIcwsUIpYuyZlzDQDUxkTCAwEAAA&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQs9oBKAJ6BAgsEAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Lyon&stick=H4sIAAAAAAAAAOOQUeLQz9U3SCkoSjdSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUItsrUqMAcxiwsyYIyQQ6AMrNSSkqgzOQCs_JTjJwgplFRXlIZTDgpI-MXo4Ib2Lm6WJzrCnZuAwvjIlYWn8r8vFtskgw3ZnKZzrorddb-NscSyerIcwsUIpYuyZlzDQDUxkTCAwEAAA"
+                },
+                {
+                    "name": "Marseille",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCddizKbG6d_RkFjDLScRU2IVczoE4aLf_f58K&s=0",
+                    "link": "https://www.google.com/search?q=Marseille&stick=H4sIAAAAAAAAAG2OvQ4BQRRGbYIsb0AUN3ohm6CRqOj06PbnMsPuzJgZFBqvQRQivIyEUoR4EZXdzW6nO7k5X-4xK1WzHtQbM09rCyYSmUtACbTnlE3BpZqiAsoAl5ILHHf4BDRBhaFqM5cLwhmm2prQcEwVEB4gaB6ZEHClQSAXPl6N-FXTEu0UF3qWoCfkNMGoJUFXtNZXoxChJZmzSs8OIV8D-nFu7U9uL87dZo1TrjCwpULq-_jKlzLPXbG5_5Rv3bd5Lm1G9yMML2f_8PgBGznC4ggBAAA&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQs9oBKAN6BAgsEAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Marseille&stick=H4sIAAAAAAAAAG2OvQ4BQRRGbYIsb0AUN3ohm6CRqOj06PbnMsPuzJgZFBqvQRQivIyEUoR4EZXdzW6nO7k5X-4xK1WzHtQbM09rCyYSmUtACbTnlE3BpZqiAsoAl5ILHHf4BDRBhaFqM5cLwhmm2prQcEwVEB4gaB6ZEHClQSAXPl6N-FXTEu0UF3qWoCfkNMGoJUFXtNZXoxChJZmzSs8OIV8D-nFu7U9uL87dZo1TrjCwpULq-_jKlzLPXbG5_5Rv3bd5Lm1G9yMML2f_8PgBGznC4ggBAAA"
+                },
+                {
+                    "name": "Nice",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMCLY-VXAviBhqZwuIhqanSZAkHCulOntIlBPh&s=0",
+                    "link": "https://www.google.com/search?q=Nice,+France&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC4wKzdSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUItsrUqMAcxiwsyYIyUwqK0qHMrJSSEigT5KxTjJwgplFRXlIZTDgpI-MXo4Ib2Lm6WJzrCnZuAwvjIlYev8zkVB2gWqB7U2-xSTLcmMllOuuu1Fn72xxLJKsjzy1QiFi6JGfONQCV0CeuCwEAAA&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQs9oBKAR6BAgsEAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nice%2C+France&stick=H4sIAAAAAAAAAOOQUeLQz9U3SC4wKzdSSCtKzUvOUCguSE3MzsxLV0jOLMlMLVbIzFNILS3KL0iNsslPUyjJSC1OBSpNzEvOL8jIz0uFKSvPyARqzixWyMjPTVUoyQepVMjNLy5RKEjNL8hJPcUItsrUqMAcxiwsyYIyUwqK0qHMrJSSEigT5KxTjJwgplFRXlIZTDgpI-MXo4Ib2Lm6WJzrCnZuAwvjIlYev8zkVB2gWqB7U2-xSTLcmMllOuuu1Fn72xxLJKsjzy1QiFi6JGfONQCV0CeuCwEAAA"
+                },
+                {
+                    "name": "Brussels",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv4q0BetnF4BZHh1205KU9603SEdYQmKgANj42&s=0",
+                    "link": "https://www.google.com/search?q=City+of+Brussels&stick=H4sIAAAAAAAAAG2OwQoBURSGTaFhZUsWJ3vRFDZKEc-AHeOYe5m597r3Itl4DbKQeBnFUiIvYmVoJhu7r9P3dz4zm0sUvELRkqw_s2AokdkElMDemDIHbKopKqAMcCq5wG6VD0ETVOirPWZzQTjDUJsT6o-pAsI9BM0_JnhcaRDIhYsnw_z8KlmiEuJEjwIcCOkEOBpoHaAtyvOT8UsMz31CXga0vrn5P7nNb-4qauxjqQbVC_C763KqFLrqHk9HbutkafPMnGsP85Bedi47aB8P7vb6BhQ_fb0QAQAA&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQs9oBKAV6BAgsEAg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=City+of+Brussels&stick=H4sIAAAAAAAAAG2OwQoBURSGTaFhZUsWJ3vRFDZKEc-AHeOYe5m597r3Itl4DbKQeBnFUiIvYmVoJhu7r9P3dz4zm0sUvELRkqw_s2AokdkElMDemDIHbKopKqAMcCq5wG6VD0ETVOirPWZzQTjDUJsT6o-pAsI9BM0_JnhcaRDIhYsnw_z8KlmiEuJEjwIcCOkEOBpoHaAtyvOT8UsMz31CXga0vrn5P7nNb-4qauxjqQbVC_C763KqFLrqHk9HbutkafPMnGsP85Bedi47aB8P7vb6BhQ_fb0QAQAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?q=French-speaking+cities+in+Europe&stick=H4sIAAAAAAAAAOOQMVJIK0rNS85QKC5ITczOzEtXSM4syUwtVsjMU0gtLcovSI2yyU9TKMlILU4FKk3MS84vyMjPS4UpK8_IBGrOLFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xcihn6tvYGpUYA5jFpZkQZkpBUXpUGZWSkkJlJlcYFZ-ipETxDQqyksqgwknZWT8YlRwAztXF4tzXcHObWBhXMRKUNUtNkmGGzO5TGfdlTprf5tjiWR15LkFChFLl-TMuQYAWRg-_BUBAAA&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ4qYDegQILBAJ",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=French-speaking+cities+in+Europe&stick=H4sIAAAAAAAAAOOQMVJIK0rNS85QKC5ITczOzEtXSM4syUwtVsjMU0gtLcovSI2yyU9TKMlILU4FKk3MS84vyMjPS4UpK8_IBGrOLFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xcihn6tvYGpUYA5jFpZkQZkpBUXpUGZWSkkJlJlcYFZ-ipETxDQqyksqgwknZWT8YlRwAztXF4tzXcHObWBhXMRKUNUtNkmGGzO5TGfdlTprf5tjiWR15LkFChFLl-TMuQYAWRg-_BUBAAA"
+        },
+        {
+            "title": "Francophone cities",
+            "items": [
+                {
+                    "name": "Kinshasa",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSReWgzpODmd4h2nzoYFNt8acxbiZpytDXysU7l2y-XT4PZujBmNOx-&s=0",
+                    "link": "https://www.google.com/search?q=Kinshasa&stick=H4sIAAAAAAAAAOOQUeLQz9U3SE4zKDYSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg3HMpMy61MgYkaVuTCRIsNy-AK4g1hzDxD41OMnCCmYaWpBUxfSllOBYyZlA03OKvc8hejkBuGIxtYGBexcnhn5hVnJBYn3mKTZLgxk8v06s72ydNO7d67Izhvom_qirZHPUcWAwAoPm_0DAEAAA&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQs9oBKAB6BAgtEAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Kinshasa&stick=H4sIAAAAAAAAAOOQUeLQz9U3SE4zKDYSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg3HMpMy61MgYkaVuTCRIsNy-AK4g1hzDxD41OMnCCmYaWpBUxfSllOBYyZlA03OKvc8hejkBuGIxtYGBexcnhn5hVnJBYn3mKTZLgxk8v06s72ydNO7d67Izhvom_qirZHPUcWAwAoPm_0DAEAAA"
+                },
+                {
+                    "name": "Abidjan",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKRHm-RnKTUTYs7F7M6OPaWvIpr-qkbwK2gAIHYuVVEypIgN9FIfCo&s=0",
+                    "link": "https://www.google.com/search?q=Abidjan&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMutTDESSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKBNkDEzWsyIWJFhuWwRXEG8KYeYbGpxg5QUzDSlMLmL6UspwKGDMpG25wVrnlL0YhNwxHNrAwLmJld0zKTMlKzLvFJslwYyaX6dWd7ZOnndq9d0dw3kTf1BVtj3qOLAYADCR0TAsBAAA&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQs9oBKAF6BAgtEAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Abidjan&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMutTDESSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKBNkDEzWsyIWJFhuWwRXEG8KYeYbGpxg5QUzDSlMLmL6UspwKGDMpG25wVrnlL0YhNwxHNrAwLmJld0zKTMlKzLvFJslwYyaX6dWd7ZOnndq9d0dw3kTf1BVtj3qOLAYADCR0TAsBAAA"
+                },
+                {
+                    "name": "Dakar",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmiNrVcv2H-6WHZ9dRV-WN_ym-msrjttNSCmO2L4J3L97J_EHLm-v7&s=0",
+                    "link": "https://www.google.com/search?q=Dakar&stick=H4sIAAAAAAAAAOOQUeLQz9U3SDasyDUSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQgxPM2gGMpMy61MgYkCrYSJFhuWwRXEG8KYeYbGpxg5QUzDSlMLmL6UspwKGDMpG25wVrnlL0YhNwxHNrAwLmJldUnMTiy6xSbJcGMml-nVne2Tp53avXdHcN5E39QVbY96jiwGAH1pEJMJAQAA&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQs9oBKAJ6BAgtEAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dakar&stick=H4sIAAAAAAAAAOOQUeLQz9U3SDasyDUSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQgxPM2gGMpMy61MgYkCrYSJFhuWwRXEG8KYeYbGpxg5QUzDSlMLmL6UspwKGDMpG25wVrnlL0YhNwxHNrAwLmJldUnMTiy6xSbJcGMml-nVne2Tp53avXdHcN5E39QVbY96jiwGAH1pEJMJAQAA"
+                },
+                {
+                    "name": "Port\u2011au\u2011Pri...",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuEiq5pWv006KHYPlrAVZR2ADNj6wmGVn3o7LsblQYTu6otnvTzdk5&s=0",
+                    "link": "https://www.google.com/search?q=Port-au-Prince&stick=H4sIAAAAAAAAAOOQUeLQz9U3SCs2LDMSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSBtsMVxBvCmHmGxqcYOUFMw0pTC5i-lLKcChgzKRtucFa55S9GITcMRzawMC5i5QvILyrRTSzVDSjKzEtOvcUmyXBjJpfp1Z3tk6ed2r13R3DeRN_UFW2Peo4sBgA0KQ18EgEAAA&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQs9oBKAN6BAgtEAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Port-au-Prince&stick=H4sIAAAAAAAAAOOQUeLQz9U3SCs2LDMSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSBtsMVxBvCmHmGxqcYOUFMw0pTC5i-lLKcChgzKRtucFa55S9GITcMRzawMC5i5QvILyrRTSzVDSjKzEtOvcUmyXBjJpfp1Z3tk6ed2r13R3DeRN_UFW2Peo4sBgA0KQ18EgEAAA"
+                },
+                {
+                    "name": "Antananar...",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQAyTnJKSX4VMt241IWu8ZVIok1Ym8Nu6grufUnfiQReIqOnIBstHg&s=0",
+                    "link": "https://www.google.com/search?q=Antananarivo&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMuNNzQSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSLDcvgCuINYcw8Q-NTjJwgpmGlqQVMX0pZTgWMmZQNNzir3PIXo5AbhiMbWBgXsfI45pUk5gFhUWZZ_i02SYYbM7lMr-5snzzt1O69O4LzJvqmrmh71HNkMQCWX2NQEAEAAA&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQs9oBKAR6BAgtEAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Antananarivo&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMuNNzQSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSLDcvgCuINYcw8Q-NTjJwgpmGlqQVMX0pZTgWMmZQNNzir3PIXo5AbhiMbWBgXsfI45pUk5gFhUWZZ_i02SYYbM7lMr-5snzzt1O69O4LzJvqmrmh71HNkMQCWX2NQEAEAAA"
+                },
+                {
+                    "name": "Bamako",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6EoBvwITO_uE5GPKaL63mnTAn4Eozwf9Wx4WeUkXn5MUYYyuYMMuH&s=0",
+                    "link": "https://www.google.com/search?q=Bamako&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMszNDYSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSLDcvgCuINYUygm04xcoKYhpWmFjB9KWU5FTBmUjbc4Kxyy1-MQm4YjmxgYVzEyuaUmJuYnX-LTZLhxkwu06s72ydPO7V7747gvIm-qSvaHvUcWQwA2mjURgoBAAA&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQs9oBKAV6BAgtEAg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bamako&stick=H4sIAAAAAAAAAOOQUeLQz9U3SMszNDYSSitKzEvOL8jIz0tVSM4syUwtjrLJT1MoyUgtTlXAlFQoz8hMzlDILFbIyM9NVSjJB6lUyM0vLlEoSM0vyEk9xQg2PDnNoBjKTMutTIGJGlbkwkSLDcvgCuINYUygm04xcoKYhpWmFjB9KWU5FTBmUjbc4Kxyy1-MQm4YjmxgYVzEyuaUmJuYnX-LTZLhxkwu06s72ydPO7V7747gvIm-qSvaHvUcWQwA2mjURgoBAAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?q=Francophone+cities&stick=H4sIAAAAAAAAAOOQMRJKK0rMS84vyMjPS1VIzizJTC2OsslPUyjJSC1OVcCUVCjPyEzOUMgsVsjIz01VKMkHqVTIzS8uUShIzS_IST3FyKGfq2-QnGZQDGWm5VamwEQNK3JhosWGZXAF8YYwZp6h8SlGThDTsNLUAqYvpSynAsZMyoYbnFVu-YtRyA3DkQ0sjItYsYjfYpNkuDGTy_TqzvbJ007t3rsjOG-ib-qKtkc9RxYDAI28QH4MAQAA&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ4qYDegQILRAJ",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Francophone+cities&stick=H4sIAAAAAAAAAOOQMRJKK0rMS84vyMjPS1VIzizJTC2OsslPUyjJSC1OVcCUVCjPyEzOUMgsVsjIz01VKMkHqVTIzS8uUShIzS_IST3FyKGfq2-QnGZQDGWm5VamwEQNK3JhosWGZXAF8YYwZp6h8SlGThDTsNLUAqYvpSynAsZMyoYbnFVu-YtRyA3DkQ0sjItYsYjfYpNkuDGTy_TqzvbJ007t3rsjOG-ib-qKtkc9RxYDAI28QH4MAQAA"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Where do most francophone people live?",
+            "snippet": "The majority of Francophones (85.4%) live in Quebec and over 1 million live in other regions of the country.Sep 13, 2019",
+            "title": "Some facts on the Canadian Francophonie - Canada.ca",
+            "link": "https://www.canada.ca/en/canadian-heritage/services/official-languages-bilingualism/publications/facts-canadian-francophonie.html",
+            "displayed_link": "https://www.canada.ca \u203a services \u203a publications \u203a facts-ca..."
+        },
+        {
+            "question": "What is the largest Francophone country?",
+            "snippet": "The Democratic Republic of the Congo has the largest concentration of French speakers in all of Africa, and has the largest population of any country with French as the official language.May 15, 2020",
+            "title": "The Countries That Speak the Most French (Besides France)",
+            "link": "https://frenchly.us/the-countries-outside-of-france-that-speak-the-most-french/",
+            "displayed_link": "https://frenchly.us \u203a the-countries-outside-of-france-that-s..."
+        },
+        {
+            "question": "What is the largest French speaking city in Canada?",
+            "title": "Montreal is one of the most bilingual cities in Quebec and Canada, with 57.4% of the population able to speak both English and French. Montreal is the second-largest primarily French-speaking city in the developed world, after Paris....Montreal.",
+            "link": "https://en.wikipedia.org/wiki/Montreal",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Montreal"
+        },
+        {
+            "question": "What city is the second largest Francophone city in the world?",
+            "snippet": "Kinshasa is the world's second largest French speaking city, after Paris, and before Montreal and Brussels.",
+            "title": "Paris",
+            "link": "https://www.normandale.edu/departments/humanities/world-languages/french/40-facts-about-french",
+            "displayed_link": "https://www.normandale.edu \u203a world-languages \u203a 40-fa..."
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Cities In The World With The Most Francophone Population",
+        "link": "https://www.worldatlas.com/articles/cities-in-the-world-with-the-most-francophone-population.html#:~:text=Kinshasa%2C%20Democratic%20Republic%20Of%20Congo&text=French%20is%20the%20official%20language,a%20population%20of%2012%2C691%2C000%20people.",
+        "displayed_link": "https://www.worldatlas.com \u203a World Facts",
+        "date": "Jul 3, 2020",
+        "snippet": "Kinshasa, Democratic Republic Of Congo French is the official language in Kinshasa, which makes it the city with the highest number of French-speaking people since its urban area has a population of 12,691,000 people."
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "10 Largest Francophone Cities in the World - Delusional Bubble",
+            "link": "https://delusionalbubble.com/10-largest-francophone-cities-in-the-world/",
+            "displayed_link": "https://delusionalbubble.com \u203a 10-largest-francophone-...",
+            "date": "Sep 2, 2020",
+            "snippet": "1- Paris, France (12.2 million) ... Paris, the capital of France is the largest Francophone city in the world with more than 12.2 million people ...",
+            "about_this_result": {
+                "source": {
+                    "description": "delusionalbubble.com was first indexed by Google in July 2019",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c12787660dbd1326dc4ddf/images/5ab9ebca5e8e2501141aaf03b01addf996dc198dfcca9dd74a83995461d5bb3bb435c1a0a723c856fe1dae790123f525.jpeg"
+                },
+                "keywords": [
+                    "of",
+                    "francophone",
+                    "cities",
+                    "home",
+                    "most",
+                    "people"
+                ],
+                "related_keywords": [
+                    "city",
+                    "largest"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://delusionalbubble.com/10-largest-francophone-cities-in-the-world/&tbm=ilp&ilps=AOR-xxttvUzpwTZ--wl3By2tobUHpgX09A",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:reMGicidNgIJ:https://delusionalbubble.com/10-largest-francophone-cities-in-the-world/+&cd=12&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 2,
+            "title": "10 Countries & Their Largest French Speaking City",
+            "link": "https://www.masteryourfrench.com/france/french-speaking-cities/",
+            "displayed_link": "https://www.masteryourfrench.com \u203a france \u203a french-sp...",
+            "date": "Aug 6, 2021",
+            "snippet": "The Paris region has an estimated population of over 11,020,000 in 2021. La ville lumi\u00e8re is the second-largest francophone city on the planet.",
+            "about_this_result": {
+                "source": {
+                    "description": "masteryourfrench.com was first indexed by Google in May 2019",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c12787660dbd1326dc4ddf/images/5ab9ebca5e8e2501141aaf03b01addf98fe28256f8a7a54f445d855cbf5b058c829af77c7511b939aaff4950a069fbb8.png"
+                },
+                "keywords": [
+                    "of",
+                    "these",
+                    "francophone",
+                    "cities",
+                    "most"
+                ],
+                "related_keywords": [
+                    "french",
+                    "city",
+                    "largest",
+                    "population"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.masteryourfrench.com/france/french-speaking-cities/&tbm=ilp&ilps=AOR-xxuKwoo7bWUboB_DE0vzXWuhqSprxw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MyWtYp9ScWcJ:https://www.masteryourfrench.com/france/french-speaking-cities/+&cd=13&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "French language in the United States - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/French_language_in_the_United_States",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a French_language_in_t...",
+            "snippet": "In Florida, the city of Miami is home to a large Francophone community, consisting of French expatriates, Haitians (who may also speak Haitian Creole, a ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c12787660dbd1326dc4ddf/images/5ab9ebca5e8e2501141aaf03b01addf9efeab0863221bb27db05ae5cc0bf9d42e51d096196895f4f63ebd873fc1f0b4b.png"
+                },
+                "keywords": [
+                    "of",
+                    "these",
+                    "francophone",
+                    "cities",
+                    "home",
+                    "most",
+                    "people"
+                ],
+                "related_keywords": [
+                    "french"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/French_language_in_the_United_States&tbm=ilp&ilps=AOR-xxuKydBi8iChEkxa1_pEKjjhZtp7yA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mVlPz0tEDi0J:https://en.wikipedia.org/wiki/French_language_in_the_United_States+&cd=14&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/French_language_in_the_United_States+of+these+francophone+cities+which+is+home+to+the+most+people"
+        },
+        {
+            "position": 4,
+            "title": "French (language): What US cities have the highest number",
+            "link": "https://www.quora.com/French-language-What-US-cities-have-the-highest-number-of-Francophones-people-who-are-able-to-speak-it-passably-not-just-native-speakers",
+            "displayed_link": "https://www.quora.com \u203a French-language-What-US-cit...",
+            "snippet": "French (language): What US cities have the highest number of Francophones (people who are able to speak it passably, not just native speakers)?.",
+            "about_this_result": {
+                "source": {
+                    "description": "Quora is a social question-and-answer website based in Mountain View, California, United States. It was founded on June 25, 2009, and made available to the public on June 21, 2010. Users can collaborate by editing questions and commenting on answers that have been submitted by other users.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Quora",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c12787660dbd1326dc4ddf/images/5ab9ebca5e8e2501141aaf03b01addf9a760c276558a4a7af18bb201acc4eb734f2abf77584fb595590c9162a171cdab.png"
+                },
+                "keywords": [
+                    "of",
+                    "these",
+                    "francophone",
+                    "cities",
+                    "home",
+                    "most",
+                    "people"
+                ],
+                "related_keywords": [
+                    "francophones",
+                    "french",
+                    "highest"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.quora.com/French-language-What-US-cities-have-the-highest-number-of-Francophones-people-who-are-able-to-speak-it-passably-not-just-native-speakers&tbm=ilp&ilps=AOR-xxuYJ-C2vbzIlJSgceO711f9LvrRjw",
+            "cached_page_link": "/search?q=related:https://www.quora.com/French-language-What-US-cities-have-the-highest-number-of-Francophones-people-who-are-able-to-speak-it-passably-not-just-native-speakers+of+these+francophone+cities+which+is+home+to+the+most+people"
+        },
+        {
+            "position": 5,
+            "title": "Top French-Speaking Countries To Visit That Aren't France",
+            "link": "https://www.babbel.com/en/magazine/the-top-french-speaking-countries-to-visit-that-arent-france",
+            "displayed_link": "https://www.babbel.com \u203a magazine \u203a the-top-french-spea...",
+            "date": "Apr 27, 2018",
+            "snippet": "Half of all French speakers live in Africa, and the population growth ... of Belgium speaks French as a native language, though most of them ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Lesson Nine GmbH, operating as Babbel, is a German subscription-based language learning app and e-learning platform, available in various languages since January 2008.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Babbel",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c12787660dbd1326dc4ddf/images/5ab9ebca5e8e2501141aaf03b01addf953b6130548a8e359a88e3c7b3fa568e676cd81f3202966e1f992824ce9cb62e0.png"
+                },
+                "keywords": [
+                    "of",
+                    "these",
+                    "francophone",
+                    "home",
+                    "most",
+                    "people"
+                ],
+                "related_keywords": [
+                    "them",
+                    "french",
+                    "population"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.babbel.com/en/magazine/the-top-french-speaking-countries-to-visit-that-arent-france&tbm=ilp&ilps=AOR-xxuKz9LhMyFrtqBt0Qyven2VyHRAoA",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "How Many People Speak French, And Where Is It Spoken?",
+                    "link": "https://www.babbel.com/en/magazine/how-many-people-speak-french-and-where-is-french-spoken",
+                    "displayed_link": "https://www.babbel.com \u203a magazine \u203a how-many-peopl...",
+                    "date": "Sep 17, 2019",
+                    "snippet": "The French language is one of the most widespread in the world. ... Montreal is also the fourth largest Francophone city in the world.",
+                    "about_this_result": {
+                        "source": {
+                            "description": "Lesson Nine GmbH, operating as Babbel, is a German subscription-based language learning app and e-learning platform, available in various languages since January 2008.",
+                            "source_info_link": "https://en.wikipedia.org/wiki/Babbel",
+                            "security": "secure",
+                            "icon": "https://serpapi.com/searches/61c12787660dbd1326dc4ddf/images/5ab9ebca5e8e2501141aaf03b01addf9df3e61343aa421fae6da1349b920b3f921bcb4beb62abfff0bad67456b8a8db4816d5b50c009dede8bd190759ed488c83de84b33226b1652.png"
+                        },
+                        "keywords": [
+                            "of",
+                            "these",
+                            "francophone",
+                            "home",
+                            "most",
+                            "people"
+                        ],
+                        "related_keywords": [
+                            "french",
+                            "city",
+                            "largest"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://www.babbel.com/en/magazine/how-many-people-speak-french-and-where-is-french-spoken&tbm=ilp&ilps=AOR-xxu-WEkrF0Vc-raJ7BYt2lSSciG6nw",
+                    "cached_page_link": "/search?q=related:https://www.babbel.com/en/magazine/how-many-people-speak-french-and-where-is-french-spoken+of+these+francophone+cities+which+is+home+to+the+most+people"
+                }
+            ]
+        },
+        {
+            "position": 6,
+            "title": "International Reference Service",
+            "link": "https://books.google.com/books?id=441NAQAAMAAJ&pg=RA31-PA3&lpg=RA31-PA3&dq=of+these+francophone+cities+which+is+home+to+the+most+people&source=bl&ots=JiJ5q8tUPm&sig=ACfU3U1gMLIhIMm4mFoQxqmJG8mO1EmMxA&hl=en&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ6AF6BAgdEAM",
+            "displayed_link": "https://books.google.com \u203a books",
+            "snippet": "All of these schools offer instruction in French , and some also offer courses in Flemish . ... Swimming pools are also found in most population centers .",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "unknown": 1948
+                    },
+                    "extensions": [
+                        "1948",
+                        "\u200eUnited States"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "American Foodie: Taste, Art, and the Cultural Revolution",
+            "link": "https://books.google.com/books?id=c-Y8CwAAQBAJ&pg=PA18&lpg=PA18&dq=of+these+francophone+cities+which+is+home+to+the+most+people&source=bl&ots=As0SPCYX1b&sig=ACfU3U0RRO6e9pTf4iKHIMN1iOv_E-u94g&hl=en&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ6AF6BAgeEAM",
+            "displayed_link": "https://books.google.com \u203a books",
+            "snippet": "This independence that we seek through our home-life is of course an illusion, ... for most people throughout the majority of history, the illusion of this ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Dwight Furrow",
+                        "2016",
+                        "\u200ePhilosophy"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2016
+                    }
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "Coming Home? Vol. 2: Conflict and Postcolonial Return ...",
+            "link": "https://books.google.com/books?id=YjNHDAAAQBAJ&pg=PA115&lpg=PA115&dq=of+these+francophone+cities+which+is+home+to+the+most+people&source=bl&ots=D0zVDAMpDB&sig=ACfU3U33AhBhaRNQZ0uKBIvWAFZmKEsnxQ&hl=en&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ6AF6BAgfEAM",
+            "displayed_link": "https://books.google.com \u203a books",
+            "snippet": "Whilst a return home to France following an expulsion to a country which does ... of those deported due to the double peine law can be interpreted in a more ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Dr. Scott Soo",
+                        "2014",
+                        "\u200eHistory"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2014
+                    }
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "what is the largest french-speaking city after paris, france.",
+            "link": "https://www.google.com/search?q=what+is+the+largest+french-speaking+city+after+paris,+france.&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "largest french-speaking city outside france",
+            "link": "https://www.google.com/search?q=largest+french-speaking+city+outside+france&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "french-speaking countries",
+            "link": "https://www.google.com/search?q=French-speaking+countries&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "francophone cities in france",
+            "link": "https://www.google.com/search?q=Francophone+cities+in+France&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ1QJ6BAglEAE"
+        },
+        {
+            "query": "largest french-speaking countries",
+            "link": "https://www.google.com/search?q=Largest+French-speaking+countries&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ1QJ6BAgjEAE"
+        },
+        {
+            "query": "largest french-speaking cities in canada",
+            "link": "https://www.google.com/search?q=largest+french-speaking+cities+in+canada&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ1QJ6BAgiEAE"
+        },
+        {
+            "query": "largest french-speaking city in north america",
+            "link": "https://www.google.com/search?q=Largest+French-speaking+city+in+North+America&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ1QJ6BAghEAE"
+        },
+        {
+            "query": "what is the second largest french-speaking city in the world",
+            "link": "https://www.google.com/search?q=What+is+the+second+largest+French-speaking+city+in+the+world&sa=X&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ1QJ6BAggEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=of+these+francophone+cities+which+is+home+to+the+most+people&ei=hyfBYZXsBYSf_Qax4LjYBg&start=10&sa=N&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ8NMDegQIARBK",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=of+these+francophone+cities+which+is+home+to+the+most+people&ei=hyfBYZXsBYSf_Qax4LjYBg&start=10&sa=N&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ8tMDegQIARA4",
+            "3": "https://www.google.com/search?q=of+these+francophone+cities+which+is+home+to+the+most+people&ei=hyfBYZXsBYSf_Qax4LjYBg&start=20&sa=N&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ8tMDegQIARA6",
+            "4": "https://www.google.com/search?q=of+these+francophone+cities+which+is+home+to+the+most+people&ei=hyfBYZXsBYSf_Qax4LjYBg&start=30&sa=N&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ8tMDegQIARA8",
+            "5": "https://www.google.com/search?q=of+these+francophone+cities+which+is+home+to+the+most+people&ei=hyfBYZXsBYSf_Qax4LjYBg&start=40&sa=N&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ8tMDegQIARA-",
+            "6": "https://www.google.com/search?q=of+these+francophone+cities+which+is+home+to+the+most+people&ei=hyfBYZXsBYSf_Qax4LjYBg&start=50&sa=N&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ8tMDegQIARBA",
+            "7": "https://www.google.com/search?q=of+these+francophone+cities+which+is+home+to+the+most+people&ei=hyfBYZXsBYSf_Qax4LjYBg&start=60&sa=N&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ8tMDegQIARBC",
+            "8": "https://www.google.com/search?q=of+these+francophone+cities+which+is+home+to+the+most+people&ei=hyfBYZXsBYSf_Qax4LjYBg&start=70&sa=N&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ8tMDegQIARBE",
+            "9": "https://www.google.com/search?q=of+these+francophone+cities+which+is+home+to+the+most+people&ei=hyfBYZXsBYSf_Qax4LjYBg&start=80&sa=N&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ8tMDegQIARBG",
+            "10": "https://www.google.com/search?q=of+these+francophone+cities+which+is+home+to+the+most+people&ei=hyfBYZXsBYSf_Qax4LjYBg&start=90&sa=N&ved=2ahUKEwjVy5Tr2PP0AhWET98KHTEwDmsQ8tMDegQIARBI"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities+which+is+home+to+the+most+people&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities+which+is+home+to+the+most+people&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities+which+is+home+to+the+most+people&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities+which+is+home+to+the+most+people&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities+which+is+home+to+the+most+people&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities+which+is+home+to+the+most+people&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities+which+is+home+to+the+most+people&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities+which+is+home+to+the+most+people&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities+which+is+home+to+the+most+people&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities+which+is+home+to+the+most+people&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=of+these+francophone+cities+which+is+home+to+the+most+people&start=90"
+        }
+    }
+}

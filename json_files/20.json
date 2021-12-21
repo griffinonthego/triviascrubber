@@ -1,0 +1,498 @@
+{
+    "search_metadata": {
+        "id": "61c127aeaf5af1f7b1f224a1",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ad050b360aa16e9e/61c127aeaf5af1f7b1f224a1.json",
+        "created_at": "2021-12-21 01:02:38 UTC",
+        "processed_at": "2021-12-21 01:02:38 UTC",
+        "google_url": "https://www.google.com/search?q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&oq=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/ad050b360aa16e9e/61c127aeaf5af1f7b1f224a1.html",
+        "total_time_taken": 2.1
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "the title of william golding's most famous novel is considered a reference to what mythical figure?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "the title of william golding's most famous novel is considered a reference to what mythical figure?",
+        "total_results": 4430000,
+        "time_taken_displayed": 1.36
+    },
+    "inline_video_carousels": [
+        {
+            "position": 1,
+            "title": "William Golding - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/William_Golding",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a William_Golding"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "How does William Golding relate to Lord of the Flies?",
+            "snippet": "Golding's experience teaching unruly young boys would later serve as inspiration for his novel Lord of the Flies. Although passionate about teaching from day one, in 1940 Golding temporarily abandoned the profession to join the Royal Navy and fight in World War II.",
+            "title": "William Golding - Facts, Lord of the Flies & Life - Biography",
+            "link": "https://www.biography.com/writer/william-golding",
+            "displayed_link": "https://www.biography.com \u203a writer \u203a william-golding"
+        },
+        {
+            "question": "What was William Golding famous for?",
+            "snippet": "William Golding was born on September 19, 1911, in Cornwall, England and was educated at Brasenose College, Oxford University. Though he is best known for his novel Lord of the Flies (1954), he first published poetry before turning to novels and plays.",
+            "title": "William Golding | Poetry Foundation",
+            "link": "https://www.poetryfoundation.org/poets/william-golding",
+            "displayed_link": "https://www.poetryfoundation.org \u203a poets \u203a william-golding"
+        },
+        {
+            "question": "What allusions are in Lord of the Flies?",
+            "snippet": "An allusion is a reference to another work of literature or art. William Golding's Lord of the Flies directly and indirectly alludes to Shakespeare's 'King Lear,' the Bible, and other literary texts. The story's setting alludes to the Garden of Eden, and descriptions of a 'snake-thing' allude to the devil.Jul 17, 2017",
+            "title": "Allusion in Lord of the Flies - Video & Lesson Transcript | Study.com",
+            "link": "https://study.com/academy/lesson/allusion-in-lord-of-the-flies.html",
+            "displayed_link": "https://study.com \u203a academy \u203a allusion-in-lord-of-the-flies"
+        },
+        {
+            "question": "What is the significance of the title in Lord of the Flies?",
+            "snippet": "TITLE OF THE NOVEL Lord of the Flies refers to Beelzebub, another name for the devil. He is also called the Lord of Filth and Dung. Throughout the novel, the children grow dirtier and dirtier, an outward reflection of their inner state. As their savagery and evil increases, they seek a symbol, a god to worship.Oct 18, 2019",
+            "title": "Lord of the Flies by William Golding-MEANING OF THE TITLE ...",
+            "link": "http://pinkmonkey.com/booknotes/monkeynotes/pmLordFlies31.asp",
+            "displayed_link": "http://pinkmonkey.com \u203a booknotes \u203a monkeynotes \u203a pm..."
+        }
+    ],
+    "answer_box": {
+        "type": "organic_result",
+        "title": "Best known for his debut novel Lord of the Flies (1954), he published another twelve volumes of fiction in his lifetime. In 1980, he was awarded the Booker Prize for Rites of Passage, the first novel in what became his sea trilogy, To the Ends of the Earth....William Golding.",
+        "link": "https://en.wikipedia.org/wiki/William_Golding",
+        "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a William_Golding",
+        "contents": {
+            "table": [
+                [
+                    "Sir William Golding CBE, FRSL"
+                ],
+                [
+                    "Alma mater",
+                    "Oxford University"
+                ]
+            ],
+            "formatted": {
+                "sir_william_golding_cbe_frsl": {
+                    "alma_mater": "Oxford University"
+                }
+            }
+        }
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "What is the meaning of the title in Lord of the Flies? - eNotes ...",
+            "link": "https://www.enotes.com/homework-help/what-is-the-meaning-of-the-title-in-lord-of-the-360344",
+            "displayed_link": "https://www.enotes.com \u203a homework-help \u203a what-is-the-...",
+            "date": "Jan 13, 2021",
+            "snippet": "The title of William Golding's novel \"Lord of the Flies\" refers to the incident in chapter 8 when Simon has a vision while experiencing a ...",
+            "about_this_result": {
+                "source": {
+                    "description": "eNotes is a free student and teacher educational website founded in 1998 by Brad Satoris and Alexander Bloomingdale, that provides material to help students complete homework assignments and study for exams. Based in Seattle, Washington, eNotes specializes in lesson plans, study guides and literary criticisms.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/ENotes",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127aeaf5af1f7b1f224a1/images/66922f1e60cb80003fe5d34ae3621cbde3b7e242b7160bb20881bf7f0df43a529f69ed870928de40dbf31434f854732b.png"
+                },
+                "keywords": [
+                    "the",
+                    "title",
+                    "william",
+                    "golding's",
+                    "most",
+                    "novel",
+                    "reference",
+                    "figure"
+                ],
+                "related_keywords": [
+                    "goldings",
+                    "refers",
+                    "mythological"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.enotes.com/homework-help/what-is-the-meaning-of-the-title-in-lord-of-the-360344&tbm=ilp&ilps=AOR-xxs0j6APm6bpUA_k7K_-EBxK05fPpw"
+        },
+        {
+            "position": 2,
+            "title": "Allusions - Lord of the Flies - SparkNotes",
+            "link": "https://www.sparknotes.com/lit/flies/allusions/",
+            "displayed_link": "https://www.sparknotes.com \u203a lit \u203a flies \u203a allusions",
+            "snippet": "This is an allusion to popular adventure stories like The Coral Island, which Golding saw as unrealistic portrayals of what would happen if boys were stranded ...",
+            "about_this_result": {
+                "source": {
+                    "description": "SparkNotes, originally part of a website called The Spark, is a company started by Harvard students Sam Yagan, Max Krohn, Chris Coyne, and Eli Bolotin in 1999 that originally provided study guides for literature, poetry, history, film, and philosophy.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/SparkNotes",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127aeaf5af1f7b1f224a1/images/66922f1e60cb80003fe5d34ae3621cbdee269d7be8782388c5a4fe94eb755c613996d3ee11fdb830b0e3a88d0a9024f7.png"
+                },
+                "keywords": [
+                    "the",
+                    "title",
+                    "william",
+                    "golding's",
+                    "most",
+                    "figure"
+                ],
+                "related_keywords": [
+                    "golding",
+                    "world",
+                    "popular"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.sparknotes.com/lit/flies/allusions/&tbm=ilp&ilps=AOR-xxsK4FGVwo_Qy1Enh3Aj6qKH8iP1zA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hiBS6viScaMJ:https://www.sparknotes.com/lit/flies/allusions/+&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Sir William (gerald) Golding | Encyclopedia.com",
+            "link": "https://www.encyclopedia.com/people/literature-and-arts/english-literature-20th-cent-present-biographies/sir-william-gerald-golding",
+            "displayed_link": "https://www.encyclopedia.com \u203a literature-and-arts \u203a sir...",
+            "snippet": "Lord of the Flies is the Old Testament name for Beelzebub. Lord of the Flies is probably the most important novel to be published in this country in the 1950s.",
+            "about_this_result": {
+                "source": {
+                    "description": "Encyclopedia.com is an online encyclopedia. It aggregates information from other published dictionaries, encyclopedias and reference works including pictures and videos.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Encyclopedia.com",
+                    "security": "secure"
+                },
+                "keywords": [
+                    "the",
+                    "title",
+                    "william",
+                    "golding's",
+                    "most",
+                    "famous",
+                    "novel",
+                    "considered",
+                    "reference",
+                    "mythical",
+                    "figure"
+                ],
+                "related_keywords": [
+                    "golding",
+                    "popular",
+                    "literature"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.encyclopedia.com/people/literature-and-arts/english-literature-20th-cent-present-biographies/sir-william-gerald-golding&tbm=ilp&ilps=AOR-xxtV40Jaq1tbEV-0acZMZK6sc1TSUA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uGip-vA2ThAJ:https://www.encyclopedia.com/people/literature-and-arts/english-literature-20th-cent-present-biographies/sir-william-gerald-golding+&cd=15&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 4,
+            "title": "The Inheritors (Golding novel) - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/The_Inheritors_(Golding_novel)",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a The_Inheritors_(Goldi...",
+            "snippet": "The Inheritors is a work of prehistoric fiction and the second novel, published by Faber and Faber in 1955, by the British author William Golding, best ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127aeaf5af1f7b1f224a1/images/66922f1e60cb80003fe5d34ae3621cbd6e22a9d11b1b1fba24e1fd87fd683f4ae7072da4e509b9e097b7178c44c4829f.png"
+                },
+                "keywords": [
+                    "the",
+                    "william",
+                    "golding's",
+                    "most",
+                    "novel",
+                    "mythical"
+                ],
+                "related_keywords": [
+                    "golding",
+                    "fiction",
+                    "work"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/The_Inheritors_(Golding_novel)&tbm=ilp&ilps=AOR-xxsRUKXymaBL-5nE5MAeCVBcF9wcQA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LmAFxDleKigJ:https://en.wikipedia.org/wiki/The_Inheritors_(Golding_novel)+&cd=16&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/The_Inheritors_(Golding_novel)+the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F"
+        },
+        {
+            "position": 5,
+            "title": "William Golding - Facts, Lord of the Flies & Life - Biography",
+            "link": "https://www.biography.com/writer/william-golding",
+            "displayed_link": "https://www.biography.com \u203a writer \u203a william-golding",
+            "snippet": "British novelist William Golding wrote the critically acclaimed classic 'Lord of the Flies,' and was awarded the Nobel Prize for Literature in 1983.",
+            "about_this_result": {
+                "source": {
+                    "description": "biography.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127aeaf5af1f7b1f224a1/images/66922f1e60cb80003fe5d34ae3621cbd3c549555ab6ff722c12924fb08d077ad23448ad9cd2edacc5c0c7166a3534cd0.png"
+                },
+                "keywords": [
+                    "the",
+                    "william",
+                    "golding's",
+                    "most",
+                    "famous",
+                    "novel",
+                    "considered",
+                    "figure"
+                ],
+                "related_keywords": [
+                    "golding",
+                    "classic",
+                    "literature"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.biography.com/writer/william-golding&tbm=ilp&ilps=AOR-xxs8tELWVuZYvHvHMiX6WNP5psbc6w",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cQPm-GgUB_UJ:https://www.biography.com/writer/william-golding+&cd=17&hl=en&ct=clnk&gl=us",
+            "missing": [
+                "mythical"
+            ],
+            "must_include": {
+                "word": "mythical",
+                "link": "https://www.google.com/search?q=the+title+of+william+golding's+most+famous+novel+is+considered+a+reference+to+what+%22mythical%22+figure?&sa=X&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ5t4CegQINhAB"
+            }
+        },
+        {
+            "position": 6,
+            "title": "Lord of the Flies Study Guide | GradeSaver",
+            "link": "https://www.gradesaver.com/lord-of-the-flies",
+            "displayed_link": "https://www.gradesaver.com \u203a lord-of-the-flies",
+            "date": "4 days ago",
+            "snippet": "Sir William Golding composed Lord of the Flies shortly after the end ... of man and is considered a modern classic of speculative fiction.",
+            "about_this_result": {
+                "source": {
+                    "description": "gradesaver.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127aeaf5af1f7b1f224a1/images/66922f1e60cb80003fe5d34ae3621cbdd371652e0353bb162616bbbdb47fc1f86c006de6085636fdfc16032e252504a6.png"
+                },
+                "keywords": [
+                    "the",
+                    "title",
+                    "william",
+                    "golding's",
+                    "most",
+                    "novel",
+                    "considered",
+                    "reference"
+                ],
+                "related_keywords": [
+                    "golding",
+                    "classic",
+                    "fiction"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.gradesaver.com/lord-of-the-flies&tbm=ilp&ilps=AOR-xxtBkNN2903Xbp3xH8MWJK7Dm5icLA"
+        },
+        {
+            "position": 7,
+            "title": "William Golding's Lord of the Flies | NEH-Edsitement",
+            "link": "https://edsitement.neh.gov/curricula/william-goldings-lord-flies",
+            "displayed_link": "https://edsitement.neh.gov \u203a curricula \u203a william-golding...",
+            "snippet": "William Golding's Lord of the Flies is a novel that engages middle school students in thought-provoking discussion, and provides practice in literary ...",
+            "about_this_result": {
+                "source": {
+                    "description": "The National Endowment for the Humanities is an independent federal agency of the U.S. government, established by the National Foundation on the Arts and the Humanities Act of 1965, dedicated to supporting research, education, preservation, and public programs in the humanities.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/National_Endowment_for_the_Humanities",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127aeaf5af1f7b1f224a1/images/66922f1e60cb80003fe5d34ae3621cbd02b445528152c4419f87c0793e39a90891104c3e465d9df4dee743cfcf246e0f.png"
+                },
+                "keywords": [
+                    "the",
+                    "william",
+                    "golding's",
+                    "most",
+                    "novel",
+                    "considered"
+                ],
+                "related_keywords": [
+                    "goldings"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://edsitement.neh.gov/curricula/william-goldings-lord-flies&tbm=ilp&ilps=AOR-xxtgZAI9RZ6TGbFI75Yrh_llyLAtFQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:8EiZq5TqTHkJ:https://edsitement.neh.gov/curricula/william-goldings-lord-flies+&cd=19&hl=en&ct=clnk&gl=us",
+            "missing": [
+                "title"
+            ],
+            "must_include": {
+                "word": "title",
+                "link": "https://www.google.com/search?q=the+%22title%22+of+william+golding's+most+famous+novel+is+considered+a+reference+to+what+mythical+figure?&sa=X&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ5t4CegQIPRAB"
+            }
+        },
+        {
+            "position": 8,
+            "title": "In Lord of the Flies, what statement is William Golding making ...",
+            "link": "https://www.cliffsnotes.com/cliffsnotes/subjects/literature/in-lord-of-the-flies-what-statement-is-william-golding-making-about-evil",
+            "displayed_link": "https://www.cliffsnotes.com \u203a subjects \u203a literature \u203a in-l...",
+            "snippet": "Golding uses the boys' fear of a mythical beast to illustrate their assumption that evil arises from external forces rather than from themselves.",
+            "about_this_result": {
+                "source": {
+                    "description": "CliffsNotes are a series of student study guides. The guides present and create literary and other works in pamphlet form or online. Detractors of the study guides claim they let students bypass reading the assigned literature.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/CliffsNotes",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127aeaf5af1f7b1f224a1/images/66922f1e60cb80003fe5d34ae3621cbdb129a2de4b47355ccd5a61f9e9ddbb3c56351e7706d96c2c7e8f6a22471fa0c9.png"
+                },
+                "keywords": [
+                    "the",
+                    "title",
+                    "william",
+                    "golding's",
+                    "most",
+                    "famous",
+                    "novel",
+                    "considered",
+                    "reference",
+                    "mythical",
+                    "figure"
+                ],
+                "related_keywords": [
+                    "golding",
+                    "literature"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cliffsnotes.com/cliffsnotes/subjects/literature/in-lord-of-the-flies-what-statement-is-william-golding-making-about-evil&tbm=ilp&ilps=AOR-xxu3cvCZGkQHWarCWJdgywOhqp2SXw",
+            "cached_page_link": "/search?q=related:https://www.cliffsnotes.com/cliffsnotes/subjects/literature/in-lord-of-the-flies-what-statement-is-william-golding-making-about-evil+the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F"
+        },
+        {
+            "position": 9,
+            "title": "The Nobel Prize in Literature 1983 - NobelPrize.org",
+            "link": "https://www.nobelprize.org/prizes/literature/1983/summary/",
+            "displayed_link": "https://www.nobelprize.org \u203a literature \u203a summary",
+            "snippet": "The Nobel Prize in Literature 1983 was awarded to William Golding \"for his novels which, ... of myth, illuminate the human condition in the world of today.",
+            "about_this_result": {
+                "source": {
+                    "description": "The Nobel Prize are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to \"those who, during the preceding year, have conferred the greatest benefit to Mankind.\" Alfred Nobel was a Swedish chemist, engineer, and industrialist most famously known for the invention of dynamite.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Nobel_Prize",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127aeaf5af1f7b1f224a1/images/66922f1e60cb80003fe5d34ae3621cbdd448a488b01294b97f493ab0b036b8fcf56f5ed05d19e431f100d6fef650a94f.png"
+                },
+                "keywords": [
+                    "the",
+                    "title",
+                    "william",
+                    "golding's",
+                    "most",
+                    "novel"
+                ],
+                "related_keywords": [
+                    "golding",
+                    "world",
+                    "literature",
+                    "novels",
+                    "myth"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.nobelprize.org/prizes/literature/1983/summary/&tbm=ilp&ilps=AOR-xxtCacRUfBdzDdh_B_DveCBbX5v0MQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ZVfOPHwpjMIJ:https://www.nobelprize.org/prizes/literature/1983/summary/+&cd=21&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "william golding novels",
+            "link": "https://www.google.com/search?q=William+Golding+novels&sa=X&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ1QJ6BAgpEAE"
+        },
+        {
+            "query": "when was william golding considered a success as a writer",
+            "link": "https://www.google.com/search?q=When+was+William+Golding+considered+a+success+as+a+writer&sa=X&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "how many books did william golding write",
+            "link": "https://www.google.com/search?q=How+many+books+did+William+Golding+write&sa=X&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "william golding as a modern novelist",
+            "link": "https://www.google.com/search?q=William+Golding+as+a+modern+novelist&sa=X&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ1QJ6BAgmEAE"
+        },
+        {
+            "query": "significance of the title lord of the flies pdf",
+            "link": "https://www.google.com/search?q=Significance+of+the+title+Lord+of+the+Flies+PDF&sa=X&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ1QJ6BAglEAE"
+        },
+        {
+            "query": "william golding biography",
+            "link": "https://www.google.com/search?q=William+Golding+biography&sa=X&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ1QJ6BAgoEAE"
+        },
+        {
+            "query": "interesting facts about william golding",
+            "link": "https://www.google.com/search?q=Interesting+facts+about+William+Golding&sa=X&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ1QJ6BAgjEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&ei=rifBYcWIM8GQggfw16i4BA&start=10&sa=N&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ8NMDegQIARBJ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&ei=rifBYcWIM8GQggfw16i4BA&start=10&sa=N&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&ei=rifBYcWIM8GQggfw16i4BA&start=20&sa=N&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&ei=rifBYcWIM8GQggfw16i4BA&start=30&sa=N&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&ei=rifBYcWIM8GQggfw16i4BA&start=40&sa=N&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&ei=rifBYcWIM8GQggfw16i4BA&start=50&sa=N&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&ei=rifBYcWIM8GQggfw16i4BA&start=60&sa=N&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&ei=rifBYcWIM8GQggfw16i4BA&start=70&sa=N&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&ei=rifBYcWIM8GQggfw16i4BA&start=80&sa=N&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&ei=rifBYcWIM8GQggfw16i4BA&start=90&sa=N&ved=2ahUKEwjFl47-2PP0AhVBiOAKHfArCkcQ8tMDegQIARBH"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=the+title+of+william+golding%27s+most+famous+novel+is+considered+a+reference+to+what+mythical+figure%3F&start=90"
+        }
+    }
+}

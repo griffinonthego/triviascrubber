@@ -1,0 +1,524 @@
+{
+    "search_metadata": {
+        "id": "61c127c28e02e4c60b13ffdb",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/014cdbc5ced16962/61c127c28e02e4c60b13ffdb.json",
+        "created_at": "2021-12-21 01:02:58 UTC",
+        "processed_at": "2021-12-21 01:02:58 UTC",
+        "google_url": "https://www.google.com/search?q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&oq=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/014cdbc5ced16962/61c127c28e02e4c60b13ffdb.html",
+        "total_time_taken": 1.19
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "in addition to peter pan captain hook is also enemies with what kind of creature",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "in addition to peter pan captain hook is also enemies with what kind of creature",
+        "total_results": 10300000,
+        "time_taken_displayed": 0.99
+    },
+    "related_questions": [
+        {
+            "question": "Who is Captain Hook's enemy?",
+            "snippet": "The character is a pirate captain of the brig Jolly Roger. His two principal fears are the sight of his own blood (supposedly an unnatural colour) and the crocodile who pursues him after eating the hand cut off by Pan.",
+            "title": "Captain Hook - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Captain_Hook",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Captain_Hook"
+        },
+        {
+            "question": "Who is Peter Pan's piratical enemy?",
+            "title": "2016 Quiz",
+            "link": "https://www.classtools.net/QR/questions_list.php?fold=13&fname=SjLCK&diff=0",
+            "displayed_link": "https://www.classtools.net \u203a questions_list"
+        },
+        {
+            "question": "Why Captain Hook and Peter Pan are enemies?",
+            "snippet": "If Pan's screenplay is a lesson in anything, it's that most beloved stories don't require a whole cinematic universe to go along with them. Captain Hook is Peter Pan's enemy because he cut his hand off\u2014simple. ... With Pan, he has all the money in the world and too many ideas of what to do with it.Oct 9, 2015",
+            "title": "'Pan' Is the Terrible Peter Pan Prequel No One Asked For - The Atlantic",
+            "link": "https://www.theatlantic.com/entertainment/archive/2015/10/pan-is-the-peter-pan-prequel-no-one-asked-for/409906/",
+            "displayed_link": "https://www.theatlantic.com \u203a archive \u203a 2015/10 \u203a pan-is-..."
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Captain Hook - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Captain_Hook",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Captain_Hook",
+            "snippet": "In the animated film Peter Pan, Hook is a far more comical villain than the original character: he is seen as a vain coward with a childish temper who is prone ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127c28e02e4c60b13ffdb/images/cbcf4d2c91a426e796b304026650c696bb38b77926e9768d5889e5c375559dac365e498cb2f8c23cd80e8b4de7f3aae5.png"
+                },
+                "keywords": [
+                    "in",
+                    "addition",
+                    "peter",
+                    "pan",
+                    "captain",
+                    "hook",
+                    "also",
+                    "enemies"
+                ],
+                "related_keywords": [
+                    "hook's",
+                    "hooks",
+                    "form"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Captain_Hook&tbm=ilp&ilps=AOR-xxuZxdIUmKmhA6BZBBiDxRmlXBKPIg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YxMPUp6klroJ:https://en.wikipedia.org/wiki/Captain_Hook+&cd=1&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Captain_Hook+in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature",
+            "missing": [
+                "creature"
+            ],
+            "must_include": {
+                "word": "creature",
+                "link": "https://www.google.com/search?q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+%22creature%22&sa=X&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q5t4CegQIHxAB"
+            },
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "Characters of Peter Pan - Wikipedia",
+                    "link": "https://en.wikipedia.org/wiki/Characters_of_Peter_Pan",
+                    "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Characters_of_Peter_Pan",
+                    "snippet": "Captain Hook is a pirate and captain of the Jolly Roger. He is Peter Pan's archenemy and is determined to get revenge on Peter for cutting off his right ...",
+                    "about_this_result": {
+                        "source": {
+                            "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                            "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                            "security": "secure",
+                            "icon": "https://serpapi.com/searches/61c127c28e02e4c60b13ffdb/images/cbcf4d2c91a426e796b304026650c696248292df75b26883ebda7b9527f514e448366f14bcd53272e0216d043c71ecbc8212f6d2793e47c8c4cbe681c1dbb8707b08581b2607ae7f.png"
+                        },
+                        "keywords": [
+                            "in",
+                            "peter",
+                            "pan",
+                            "captain",
+                            "hook",
+                            "also",
+                            "kind",
+                            "creature"
+                        ],
+                        "related_keywords": [
+                            "hook's",
+                            "hooks",
+                            "enemy"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Characters_of_Peter_Pan&tbm=ilp&ilps=AOR-xxu8bWXNhUODpQfr0B7Haxd3OfavAg",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:C74Cr1yCrksJ:https://en.wikipedia.org/wiki/Characters_of_Peter_Pan+&cd=2&hl=en&ct=clnk&gl=us",
+                    "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Characters_of_Peter_Pan+in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature"
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "Captain Hook | Disney Wiki",
+            "link": "https://disney.fandom.com/wiki/Captain_Hook",
+            "displayed_link": "https://disney.fandom.com \u203a wiki \u203a Captain_Hook",
+            "snippet": "Captain Hook is the main antagonist of Disney's 1953 animated feature film, Peter Pan. He is a bloodthirsty pirate that commands The Jolly Roger, a brig ...",
+            "about_this_result": {
+                "source": {
+                    "description": "The Walt Disney Company, commonly just Disney, is an American multinational entertainment and media conglomerate headquartered at the Walt Disney Studios complex in Burbank, California.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/The_Walt_Disney_Company",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127c28e02e4c60b13ffdb/images/cbcf4d2c91a426e796b304026650c696f81d7ef536fd941bed14e9ed9e924c1722ee905cc7ad5b0e41776d17d4bf8b7f.png"
+                },
+                "keywords": [
+                    "in",
+                    "peter",
+                    "pan",
+                    "captain",
+                    "hook",
+                    "also",
+                    "enemies",
+                    "kind",
+                    "creature"
+                ],
+                "related_keywords": [
+                    "hook's",
+                    "hooks",
+                    "king"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://disney.fandom.com/wiki/Captain_Hook&tbm=ilp&ilps=AOR-xxtFYqagl8BC-sGheZ_ij-wpTURNSw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:3YZpHsQNN4gJ:https://disney.fandom.com/wiki/Captain_Hook+&cd=10&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Peter Pan | Plot, Analysis, Characters, & Facts | Britannica",
+            "link": "https://www.britannica.com/topic/Peter-Pan-play-by-Barrie",
+            "displayed_link": "https://www.britannica.com \u203a Literature \u203a Plays",
+            "date": "Dec 4, 2021",
+            "snippet": "The work added a new character to the mythology of the English-speaking ... villainous pirates led by Peter's sworn enemy, Captain Hook; a ...",
+            "about_this_result": {
+                "source": {
+                    "description": "britannica.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127c28e02e4c60b13ffdb/images/cbcf4d2c91a426e796b304026650c696f0c685c239b0648fe7c77076eecfb2e3adae93ee4cbc187e91d492508a744c1c.png"
+                },
+                "keywords": [
+                    "in",
+                    "addition",
+                    "peter",
+                    "pan",
+                    "captain",
+                    "hook",
+                    "also"
+                ],
+                "related_keywords": [
+                    "added",
+                    "peter's",
+                    "enemy"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.britannica.com/topic/Peter-Pan-play-by-Barrie&tbm=ilp&ilps=AOR-xxuaG1N41hjzHZdbIYi6LN6a_9lwGw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rihpyq3iS_kJ:https://www.britannica.com/topic/Peter-Pan-play-by-Barrie+&cd=11&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.britannica.com/topic/Peter-Pan-play-by-Barrie+in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature",
+            "missing": [
+                "creature"
+            ],
+            "must_include": {
+                "word": "creature",
+                "link": "https://www.google.com/search?q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+%22creature%22&sa=X&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q5t4CegQIDRAB"
+            }
+        },
+        {
+            "position": 4,
+            "title": "Why are Peter Pan & Captain Hook Enemies? - Blackpool ...",
+            "link": "https://www.blackpoolgrand.co.uk/peter-pan-captain-hook-enemies",
+            "displayed_link": "https://www.blackpoolgrand.co.uk \u203a peter-pan-captain-...",
+            "date": "Mar 23, 2019",
+            "snippet": "Peter Pan and Captain Hook are symbiotically linked adversaries - but why do they hate each other so much in their adventures?",
+            "sitelinks": {
+                "list": [
+                    {
+                        "date": "Snow White and the Seven ..."
+                    },
+                    {
+                        "date": "Snow White and the Seven ..."
+                    },
+                    {
+                        "date": "Snow White and the Seven ..."
+                    }
+                ]
+            },
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "tue_dec": null,
+                        "wed_dec": null,
+                        "thu_dec": null
+                    },
+                    "extensions": [
+                        "Tue, Dec 21",
+                        "Snow White and the Seven ...",
+                        "Wed, Dec 22",
+                        "Snow White and the Seven ...",
+                        "Thu, Dec 23",
+                        "Snow White and the Seven ..."
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Blackpool Grand Theatre is a theatre in Blackpool, Lancashire, England. Since 2006, it has also been known as the National Theatre of Variety. It is a Grade II* Listed Building.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Grand_Theatre,_Blackpool",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127c28e02e4c60b13ffdb/images/cbcf4d2c91a426e796b304026650c696de12c77736ca0eb69dce144af32032d7b6d093875cfcd68c504cc8e95864b8c1.png"
+                },
+                "keywords": [
+                    "in",
+                    "peter",
+                    "pan",
+                    "captain",
+                    "hook",
+                    "also",
+                    "enemies",
+                    "creature"
+                ],
+                "related_keywords": [
+                    "captain's"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.blackpoolgrand.co.uk/peter-pan-captain-hook-enemies&tbm=ilp&ilps=AOR-xxvrlYGPIBda42Dsru2JDgHbPdyYJg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Hetmm903puEJ:https://www.blackpoolgrand.co.uk/peter-pan-captain-hook-enemies+&cd=12&hl=en&ct=clnk&gl=us",
+            "missing": [
+                "addition"
+            ],
+            "must_include": {
+                "word": "addition",
+                "link": "https://www.google.com/search?q=in+%22addition%22+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&sa=X&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q5t4CegQIExAB"
+            }
+        },
+        {
+            "position": 5,
+            "title": "Captain Hook \u2013 Neverpedia, the Peter Pan wiki",
+            "link": "http://neverpedia.com/pan/Captain_Hook",
+            "displayed_link": "http://neverpedia.com \u203a pan \u203a Captain_Hook",
+            "date": "Apr 12, 2011",
+            "snippet": "In the film Hook, Captain James Hook is played by Dustin Hoffman. Hook kidnaps the children of a now adult Peter to lure his arch-enemy back. He ...",
+            "about_this_result": {
+                "source": {
+                    "description": "neverpedia.com was first indexed by Google more than 10 years ago",
+                    "security": "not secure",
+                    "icon": "https://serpapi.com/searches/61c127c28e02e4c60b13ffdb/images/cbcf4d2c91a426e796b304026650c696d8fb0cd7d2c873e50e5ca4548ef0bec43a5c1335acd5c3728cfa72c74e420444.png"
+                },
+                "keywords": [
+                    "in",
+                    "addition",
+                    "peter",
+                    "pan",
+                    "captain",
+                    "hook",
+                    "also",
+                    "enemies"
+                ],
+                "related_keywords": [
+                    "enemy"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+http://neverpedia.com/pan/Captain_Hook&tbm=ilp&ilps=AOR-xxv4zlrNM5HvJXe60yhf2ecHO1oATw",
+            "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:rGfJp_ZPeNUJ:neverpedia.com/pan/Captain_Hook+&cd=13&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:neverpedia.com/pan/Captain_Hook+in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature"
+        },
+        {
+            "position": 6,
+            "title": "Enemies - Tinker Bell - Comic Vine",
+            "link": "https://comicvine.gamespot.com/tinker-bell/4005-7868/enemies/",
+            "displayed_link": "https://comicvine.gamespot.com \u203a tinker-bell \u203a enemies",
+            "snippet": "Tinker Bell is a fictional character from J. M. Barrie's 1904 play and 1911 ... Captain Hook is a pirate and an enemy of Peter Pan, who fed his hand to a ...",
+            "about_this_result": {
+                "source": {
+                    "description": "GameSpot is an American video gaming website that provides news, reviews, previews, downloads, and other information on video games. The site was launched on May 1, 1996, created by Pete Deemer, Vince Broady and Jon Epstein. It was purchased by ZDNet, a brand which was later purchased by CNET Networks.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/GameSpot",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127c28e02e4c60b13ffdb/images/cbcf4d2c91a426e796b304026650c69619a8ae7e53bbf2e850e657291ea3429461b21f890d53e04e46f7894867a6255b.png"
+                },
+                "keywords": [
+                    "in",
+                    "peter",
+                    "pan",
+                    "captain",
+                    "hook",
+                    "enemies"
+                ],
+                "related_keywords": [
+                    "enemy"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://comicvine.gamespot.com/tinker-bell/4005-7868/enemies/&tbm=ilp&ilps=AOR-xxtuWuroZS9VB6RCjYWW9KcSHdbEUA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:cBXzsRVZSMcJ:https://comicvine.gamespot.com/tinker-bell/4005-7868/enemies/+&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "J.M. Barrie's Captain Hook, The Inspiration | Literary Traveler",
+            "link": "https://www.literarytraveler.com/articles/jm-barrie-england/",
+            "displayed_link": "https://www.literarytraveler.com \u203a Articles",
+            "date": "May 30, 2007",
+            "snippet": "Barrie's use of a crocodile in the story Peter Panis possibly based on Newport's presentation of this unusual, fierce animal to the king.",
+            "about_this_result": {
+                "source": {
+                    "description": "literarytraveler.com was first indexed by Google more than 10 years ago",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127c28e02e4c60b13ffdb/images/cbcf4d2c91a426e796b304026650c6969ef0f6f8d0d6931061b926acc298d9ca2f9381128a56a28e013390f514412d97.jpeg"
+                },
+                "keywords": [
+                    "in",
+                    "peter",
+                    "pan",
+                    "captain",
+                    "hook",
+                    "also",
+                    "enemies",
+                    "kind"
+                ],
+                "related_keywords": [
+                    "king",
+                    "animal"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.literarytraveler.com/articles/jm-barrie-england/&tbm=ilp&ilps=AOR-xxvlagqUwT2-ep0RhohxPMYVRDmG_g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5XU6eF5hF6IJ:https://www.literarytraveler.com/articles/jm-barrie-england/+&cd=15&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 8,
+            "title": "Barrie, Hook, and Peter Pan: Studies in Contemporary Myth; ...",
+            "link": "https://books.google.com/books?id=i6QwBwAAQBAJ&pg=PA73&lpg=PA73&dq=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&source=bl&ots=YMcotfxoI2&sig=ACfU3U0x9Ljb3-qDTUEayycZ-5nq32v5PQ&hl=en&sa=X&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q6AF6BAgiEAM",
+            "displayed_link": "https://books.google.com \u203a books",
+            "snippet": "The book, of which only two copies were printed, is in fact a series of thirty-six ... in his games with the boys and who is an ancestor of Captain Hook, ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Alfonso Mu\u00f1oz Corcuera, \u200eElisa T. Di Biase",
+                        "2012",
+                        "\u200eLiterary Criticism"
+                    ],
+                    "detected_extensions": {
+                        "unknown": 2012
+                    }
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "Disney: 10 Things That Don't Make Sense About Peter Pan",
+            "link": "https://screenrant.com/disney-peter-pan-makes-no-sense/",
+            "displayed_link": "https://screenrant.com \u203a Lists",
+            "date": "Apr 15, 2020",
+            "snippet": "Additionally, Peter's pretty mean to Tink, Wendy, and most of all, Captain Hook. 4 Why Does Tinkerbelle Tell Captain Hook Where Peter Pan Is ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Screen Rant is an online information news website which offers news in the fields of television, films, video games, and film theories. Screen Rant was launched by Vic Holtreman in 2003, and originally had its primary office in Ogden, Utah.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Screen_Rant",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c127c28e02e4c60b13ffdb/images/cbcf4d2c91a426e796b304026650c696b9967c9f5b2f9363ee027ee3bc3990ec8f5e2c3367700fc30207002b63d71782.png"
+                },
+                "keywords": [
+                    "in",
+                    "peter",
+                    "pan",
+                    "captain",
+                    "hook",
+                    "also"
+                ],
+                "related_keywords": [
+                    "additionally"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://screenrant.com/disney-peter-pan-makes-no-sense/&tbm=ilp&ilps=AOR-xxu9cpldzShDa4_4B02hnjJZsY6rtg",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:L_4ivN8jYuEJ:https://screenrant.com/disney-peter-pan-makes-no-sense/+&cd=17&hl=en&ct=clnk&gl=us",
+            "missing": [
+                "enemies",
+                "creature"
+            ]
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "why did peter pan cut off captain hook's hand",
+            "link": "https://www.google.com/search?q=Why+did+Peter+Pan+cut+off+Captain+Hook%27s+hand&sa=X&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q1QJ6BAgsEAE"
+        },
+        {
+            "query": "why are peter pan and captain hook enemies",
+            "link": "https://www.google.com/search?q=Why+are+Peter+Pan+and+Captain+Hook+enemies&sa=X&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q1QJ6BAgvEAE"
+        },
+        {
+            "query": "neverland peter pan",
+            "link": "https://www.google.com/search?q=Neverland+Peter+Pan&sa=X&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q1QJ6BAgtEAE"
+        },
+        {
+            "query": "peter pan characters",
+            "link": "https://www.google.com/search?q=Peter+Pan+characters&sa=X&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q1QJ6BAguEAE"
+        },
+        {
+            "query": "how old is captain hook in peter pan",
+            "link": "https://www.google.com/search?q=How+old+is+Captain+Hook+in+Peter+Pan&sa=X&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q1QJ6BAgqEAE"
+        },
+        {
+            "query": "peter pan cast",
+            "link": "https://www.google.com/search?q=Peter+Pan+cast&sa=X&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q1QJ6BAgpEAE"
+        },
+        {
+            "query": "captain hook characters",
+            "link": "https://www.google.com/search?q=Captain+Hook+Characters&sa=X&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q1QJ6BAglEAE"
+        },
+        {
+            "query": "jason isaacs captain hook",
+            "link": "https://www.google.com/search?q=Jason+Isaacs+Captain+Hook&sa=X&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q1QJ6BAgkEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&ei=wifBYfWuFNLn_Qb8nqHoDg&start=10&sa=N&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q8NMDegQIARBJ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&ei=wifBYfWuFNLn_Qb8nqHoDg&start=10&sa=N&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&ei=wifBYfWuFNLn_Qb8nqHoDg&start=20&sa=N&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&ei=wifBYfWuFNLn_Qb8nqHoDg&start=30&sa=N&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&ei=wifBYfWuFNLn_Qb8nqHoDg&start=40&sa=N&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&ei=wifBYfWuFNLn_Qb8nqHoDg&start=50&sa=N&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&ei=wifBYfWuFNLn_Qb8nqHoDg&start=60&sa=N&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&ei=wifBYfWuFNLn_Qb8nqHoDg&start=70&sa=N&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&ei=wifBYfWuFNLn_Qb8nqHoDg&start=80&sa=N&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&ei=wifBYfWuFNLn_Qb8nqHoDg&start=90&sa=N&ved=2ahUKEwj1l7SH2fP0AhXSc98KHXxPCO0Q8tMDegQIARBH"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=in+addition+to+peter+pan+captain+hook+is+also+enemies+with+what+kind+of+creature&start=90"
+        }
+    }
+}

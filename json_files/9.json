@@ -1,0 +1,649 @@
+{
+    "search_metadata": {
+        "id": "61c1251b2bc7d8b3e353f2df",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/35d613545ebd1266/61c1251b2bc7d8b3e353f2df.json",
+        "created_at": "2021-12-21 00:51:39 UTC",
+        "processed_at": "2021-12-21 00:51:39 UTC",
+        "google_url": "https://www.google.com/search?q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&oq=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/35d613545ebd1266/61c1251b2bc7d8b3e353f2df.html",
+        "total_time_taken": 9.2
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "which 'bond theme' was not originally performed by shirley bassey?",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "which 'bond theme' was not originally performed by shirley bassey?",
+        "total_results": 256000,
+        "time_taken_displayed": 0.73
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Quantum Of Solace ~ Shirley Bassey ( 007 Bond Theme )",
+            "link": "https://www.youtube.com/watch?v=KF9yGqGHD9c",
+            "thumbnail": "https://serpapi.com/searches/61c1251b2bc7d8b3e353f2df/images/dcdaebc806aedd08c99c248fc02063a5fd8bb40e8488c8d6658cc7b5392c3937.jpeg",
+            "channel": "Colin Collins - Top Videos",
+            "duration": "4:56",
+            "platform": "YouTube",
+            "date": "Nov 12, 2016"
+        },
+        {
+            "position": 2,
+            "title": "Anatomy of a James Bond Theme: From Shirley Bassey to ...",
+            "link": "https://www.youtube.com/watch?v=XGKQZKXSx-0",
+            "thumbnail": "https://serpapi.com/searches/61c1251b2bc7d8b3e353f2df/images/dcdaebc806aedd085802b8faaad7bd74d18f399a3ef7a97fe79f732b9b50a8b3.jpeg",
+            "channel": "Reverb",
+            "duration": "13:35",
+            "platform": "YouTube",
+            "date": "Dec 18, 2020"
+        }
+    ],
+    "inline_people_also_search_for": [
+        {
+            "title": "Shirley Bassey Bond songs",
+            "items": [
+                {
+                    "name": "Goldfinger",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrae8K9GN9qoPbN_pgKODV4GCV62sd1vJ-asSvMoA9wREXFyBDXvF&s=0",
+                    "link": "https://www.google.com/search?q=Shirley+Bassey+Goldfinger&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDYwLc_JMSkykizOyCzKSa1USEosLgZR-XkpCsX5eenFUfblGZnJGRCRkozU3FSF8sRihbz8EoX8osz0zLzEnJxKhYLUorT8otzUFIWkSgVUs04xolgF5RaaZiXlGaUnI2Szkw2L0hCyKVnplSWnGHlBXMNk49xyQ4v4wl-MksFQw50gDnWCO7SBhXERK7q0e35OSlpmXnpq0S02SYYbM7lMxefcl5b51rm0-OHfv32H3sk__JPpCwAFOU5FDwEAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAB6BAguEAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shirley+Bassey+Goldfinger&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDYwLc_JMSkykizOyCzKSa1USEosLgZR-XkpCsX5eenFUfblGZnJGRCRkozU3FSF8sRihbz8EoX8osz0zLzEnJxKhYLUorT8otzUFIWkSgVUs04xolgF5RaaZiXlGaUnI2Szkw2L0hCyKVnplSWnGHlBXMNk49xyQ4v4wl-MksFQw50gDnWCO7SBhXERK7q0e35OSlpmXnpq0S02SYYbM7lMxefcl5b51rm0-OHfv32H3sk__JPpCwAFOU5FDwEAAA"
+                },
+                {
+                    "name": "Moonraker",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzLzsPuh9c7-qgcHsHlDkuBFDu4psVFERWqoJAobxEOlJkkZqj8Td6&s=0",
+                    "link": "https://www.google.com/search?q=Shirley+Bassey+Moonraker&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNSsozSk82kizOyCzKSa1USEosLgZR-XkpCsX5eenFUfblGZnJGRCRkozU3FSF8sRihbz8EoX8osz0zLzEnJxKhYLUorT8otzUFIWkSgVUs04xgq0qNjAtz8kxKYJyYTYjZLOTDYvSELIpWemVJacYeUFcw2Tj3HJDi_jCX4ySwVDDnSAOdYI7tIGFcRGrBJq0b35-XlFidmrRLTZJhhszuUzF59yXlvnWubT44d-_fYfeyT_8k-kLAD1OIeUOAQAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAF6BAguEAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shirley+Bassey+Moonraker&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNSsozSk82kizOyCzKSa1USEosLgZR-XkpCsX5eenFUfblGZnJGRCRkozU3FSF8sRihbz8EoX8osz0zLzEnJxKhYLUorT8otzUFIWkSgVUs04xgq0qNjAtz8kxKYJyYTYjZLOTDYvSELIpWemVJacYeUFcw2Tj3HJDi_jCX4ySwVDDnSAOdYI7tIGFcRGrBJq0b35-XlFidmrRLTZJhhszuUzF59yXlvnWubT44d-_fYfeyT_8k-kLAD1OIeUOAQAA"
+                },
+                {
+                    "name": "No Good About Goodbye",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRfc5viY_NKuy0gzd0QAa9pnWb6O27yqo-qjST6VCgocOilMK8m_j_&s=0",
+                    "link": "https://www.google.com/search?q=Shirley+Bassey+No+Good+About+Goodbye&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDYwzU42LEozkizOyCzKSa1USEosLgZR-XkpCsX5eenFUfblGZnJGRCRkozU3FSF8sRihbz8EoX8osz0zLzEnJxKhYLUorT8otzUFIWkSgVUs04xwqwqz8kxKYJyC02zkvKM0pMRsmCHIGRTstIrS04x8oK4hsnGueWGFvGFvxglg6GGO0Ec6gR3aAML4yJWFTRpv3wF9_z8FAXHpPzSEjAzqTL1Fpskw42ZXKbic-5Ly3zrXFr88O_fvkPv5B_-yfQFAPwvJQcaAQAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAJ6BAguEAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shirley+Bassey+No+Good+About+Goodbye&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDYwzU42LEozkizOyCzKSa1USEosLgZR-XkpCsX5eenFUfblGZnJGRCRkozU3FSF8sRihbz8EoX8osz0zLzEnJxKhYLUorT8otzUFIWkSgVUs04xwqwqz8kxKYJyC02zkvKM0pMRsmCHIGRTstIrS04x8oK4hsnGueWGFvGFvxglg6GGO0Ec6gR3aAML4yJWFTRpv3wF9_z8FAXHpPzSEjAzqTL1Fpskw42ZXKbic-5Ly3zrXFr88O_fvkPv5B_-yfQFAPwvJQcaAQAA"
+                },
+                {
+                    "name": "Diamonds Are Forever",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtvU_jG7dzvLO2jtG4iw0bMq4V26GmIfrZxU0icbusi62rPTcWc-Zy&s=0",
+                    "link": "https://www.google.com/search?q=John+Barry+Diamonds+Are+Forever&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNSslKrywxkizOyCzKSa1USEosLgZR-XkpCsX5eenFUfblGZnJGRCRkozU3FSF8sRihbz8EoX8osz0zLzEnJxKhYLUorT8otzUFIWkSgVUs04xgq0qNjAtz8kxKYJygTYn5RmlJyNks5MNi9IQsmB3nWLkBXENk41zyw0t4gt_MUoGQw13gjjUCe7QBhbGRazyXvkZeUC5oqJKBZfMxFygbLGCY1Gqglt-UWpZatEtNkmGGzO5TMXn3JeW-da5tPjh3799h97JP_yT6QsAFzPEABUBAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAN6BAguEAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+Barry+Diamonds+Are+Forever&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNSslKrywxkizOyCzKSa1USEosLgZR-XkpCsX5eenFUfblGZnJGRCRkozU3FSF8sRihbz8EoX8osz0zLzEnJxKhYLUorT8otzUFIWkSgVUs04xgq0qNjAtz8kxKYJygTYn5RmlJyNks5MNi9IQsmB3nWLkBXENk41zyw0t4gt_MUoGQw13gjjUCe7QBhbGRazyXvkZeUC5oqJKBZfMxFygbLGCY1Gqglt-UWpZatEtNkmGGzO5TMXn3JeW-da5tPjh3799h97JP_yT6QsAFzPEABUBAAA"
+                },
+                {
+                    "name": "Goldfinger / Diamonds are Forever",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj4IfS6aw8j0r-5sav4S8Biix5gIymggcIeLq0kI4sSkm3if1Mku_A&s=0",
+                    "link": "https://www.google.com/search?q=Shirley+Bassey+Goldfinger+/+Diamonds+are+Forever&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw2zi03tIgvNJIszsgsykmtVEhKLC4GUfl5KQrF-XnpxVH25RmZyRkQkZKM1NxUhfLEYoW8_BKF_KLM9My8xJycSoWC1KK0_KLc1BSFpEoFVLNOMfKA7Co2MC3PyTEpgnILTbOS8ozSkxGy2cmGRWkI2ZSs9MqSU4yo7vzFKBkMNdwJ4lAnuEMbWBgXsRqgSbvn56SkZealpxYp6Cu4ZCbmApUXKyQWpSq45RellqUW3WKTZLgxk8tUfM59aZlvnUuLH_7923fonfzDP5m-AHFRs18nAQAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAR6BAguEAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shirley+Bassey+Goldfinger+%2F+Diamonds+are+Forever&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw2zi03tIgvNJIszsgsykmtVEhKLC4GUfl5KQrF-XnpxVH25RmZyRkQkZKM1NxUhfLEYoW8_BKF_KLM9My8xJycSoWC1KK0_KLc1BSFpEoFVLNOMfKA7Co2MC3PyTEpgnILTbOS8ozSkxGy2cmGRWkI2ZSs9MqSU4yo7vzFKBkMNdwJ4lAnuEMbWBgXsRqgSbvn56SkZealpxYp6Cu4ZCbmApUXKyQWpSq45RellqUW3WKTZLgxk8tUfM59aZlvnUuLH_7923fonfzDP5m-AHFRs18nAQAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?q=Shirley+Bassey+Bond+songs&stick=H4sIAAAAAAAAAOOQMZIszsgsykmtVEhKLC4GUfl5KQrF-XnpxVH25RmZyRkQkZKM1NxUhfLEYoW8_BKF_KLM9My8xJycSoWC1KK0_KLc1BSFpEoFVLNOMfLop-sbFhuYlufkmBRBuYWmWUl5RunJCNnsZMOiNIRsSlZ6ZckpRl4Q1zDZOLfc0CK-8BejZDDUcCeIQ53gDm1gYVzEilv6Fpskw42ZXKbic-5Ly3zrXFr88O_fvkPv5B_-yfQFAMuD9P0BAQAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ4qYDegQILhAI",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shirley+Bassey+Bond+songs&stick=H4sIAAAAAAAAAOOQMZIszsgsykmtVEhKLC4GUfl5KQrF-XnpxVH25RmZyRkQkZKM1NxUhfLEYoW8_BKF_KLM9My8xJycSoWC1KK0_KLc1BSFpEoFVLNOMfLop-sbFhuYlufkmBRBuYWmWUl5RunJCNnsZMOiNIRsSlZ6ZckpRl4Q1zDZOLfc0CK-8BejZDDUcCeIQ53gDm1gYVzEilv6Fpskw42ZXKbic-5Ly3zrXFr88O_fvkPv5B_-yfQFAMuD9P0BAQAA"
+        },
+        {
+            "title": "Bond singers",
+            "items": [
+                {
+                    "name": "Monty Norman",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEE1lp4jso7wgeHPyBPPZCknheOrGGSnHKmRS3GJakSXG6_fkaaesp&s=0",
+                    "link": "https://www.google.com/search?q=Monty+Norman&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCwyNq_MMeJJys9LUSjOzEtPLSqOsi_PyEzOUACLlWSk5qYqlCcWK-TllyjkF2WmZ-Yl5uRUKhSkFqXlF-WmpigkVSoUZ2QW5aRWKiQlFhenVp5iRDL7FCMHiGOWW2R2ipETLG5iXJ4DZRulG2Zl_GLkcUKyv4GFcRErj29-Xkmlgh_QisS8W2ySDDdmcpn2Cp33U1zn0ZsVyh_QUanGvvPgJCYAAD_46coAAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAB6BAg8EAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Monty+Norman&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCwyNq_MMeJJys9LUSjOzEtPLSqOsi_PyEzOUACLlWSk5qYqlCcWK-TllyjkF2WmZ-Yl5uRUKhSkFqXlF-WmpigkVSoUZ2QW5aRWKiQlFhenVp5iRDL7FCMHiGOWW2R2ipETLG5iXJ4DZRulG2Zl_GLkcUKyv4GFcRErj29-Xkmlgh_QisS8W2ySDDdmcpn2Cp33U1zn0ZsVyh_QUanGvvPgJCYAAD_46coAAAA"
+                },
+                {
+                    "name": "Sean Connery",
+                    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSrBhDWEpOEweyADxd0oYOU0MOm5hcseTy09gPC3CXdwNsPuNgksfWbxBbDA_bHmMspQJE&s=19",
+                    "link": "https://www.google.com/search?q=Sean+Connery&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMstMjPiScrPS1EozsxLTy0qjrIvz8hMzlAAi5VkpOamKpQnFivk5Zco5BdlpmfmJebkVCoUpBal5RflpqYoJFUqFGdkFuWkViokJRYXp1aeYuQCmWxYZGxemXOKEW7NKUZOsLiJcXkOlG2UbpiV8YuRxwnJ_gYWxkWsPMGpiXkKzvl5ealFlbfYJBluzOQy7RU676e4zqM3K5Q_oKNSjX3nwUlMAK2FvObIAAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAF6BAg8EAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sean+Connery&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMstMjPiScrPS1EozsxLTy0qjrIvz8hMzlAAi5VkpOamKpQnFivk5Zco5BdlpmfmJebkVCoUpBal5RflpqYoJFUqFGdkFuWkViokJRYXp1aeYuQCmWxYZGxemXOKEW7NKUZOsLiJcXkOlG2UbpiV8YuRxwnJ_gYWxkWsPMGpiXkKzvl5ealFlbfYJBluzOQy7RU676e4zqM3K5Q_oKNSjX3nwUlMAK2FvObIAAAA"
+                },
+                {
+                    "name": "Timothy Dalton",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHU550TF4WMoQ0x9Ml-lGUjUN7gtUH3YYQj3-hpPpIXvqonKMp_9SH&s=0",
+                    "link": "https://www.google.com/search?q=Timothy+Dalton&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDQxLs8x4knKz0tRKM7MS08tKo6yL8_ITM5QAIuVZKTmpiqUJxYr5OWXKOQXZaZn5iXm5FQqFKQWpeUX5aamKCRVKhRnZBblpFYqJCUWF6dWnmLkAhtdZGxemXOKkQPEMcstMjvFiLASyjZKN8zK-MXI44RkfwML4yJWvpDM3PySjEoFl8Sckvy8W2ySDDdmcpn2Cp33U1zn0ZsVyh_QUanGvvPgJCYAXTE1KMsAAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAJ6BAg8EAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Timothy+Dalton&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDQxLs8x4knKz0tRKM7MS08tKo6yL8_ITM5QAIuVZKTmpiqUJxYr5OWXKOQXZaZn5iXm5FQqFKQWpeUX5aamKCRVKhRnZBblpFYqJCUWF6dWnmLkAhtdZGxemXOKkQPEMcstMjvFiLASyjZKN8zK-MXI44RkfwML4yJWvpDM3PySjEoFl8Sckvy8W2ySDDdmcpn2Cp33U1zn0ZsVyh_QUanGvvPgJCYAXTE1KMsAAAA"
+                },
+                {
+                    "name": "David Arnold",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgkQpLnKuc01U4Eb-oqkBp2MarA-J2P_hj4b-ebkc12xXBBoYD5EQv&s=0",
+                    "link": "https://www.google.com/search?q=David+Arnold&stick=H4sIAAAAAAAAAOOQUeLUz9U3MEo3zMow4knKz0tRKM7MS08tKo6yL8_ITM5QAIuVZKTmpiqUJxYr5OWXKOQXZaZn5iXm5FQqFKQWpeUX5aamKCRVKhRnZBblpFYqJCUWF6dWnmLkAhltWGRsXplzipEDxDHLLTI7xQi20tDEuDwHygZb_4uRxwnJ_gYWxkWsPC6JZZkpCo5Fefk5KbfYJBluzOQy7RU676e4zqM3K5Q_oKNSjX3nwUlMAFrPfhXJAAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAN6BAg8EAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=David+Arnold&stick=H4sIAAAAAAAAAOOQUeLUz9U3MEo3zMow4knKz0tRKM7MS08tKo6yL8_ITM5QAIuVZKTmpiqUJxYr5OWXKOQXZaZn5iXm5FQqFKQWpeUX5aamKCRVKhRnZBblpFYqJCUWF6dWnmLkAhltWGRsXplzipEDxDHLLTI7xQi20tDEuDwHygZb_4uRxwnJ_gYWxkWsPC6JZZkpCo5Fefk5KbfYJBluzOQy7RU676e4zqM3K5Q_oKNSjX3nwUlMAFrPfhXJAAAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?q=Bond+singers&stick=H4sIAAAAAAAAAOOQMeJJys9LUSjOzEtPLSqOsi_PyEzOUACLlWSk5qYqlCcWK-TllyjkF2WmZ-Yl5uRUKhSkFqXlF-WmpigkVSoUZ2QW5aRWKiQlFhenVp5i5NLP1TcwLDI2r8w5xcgB4pjlFpmdYuQEi5sYl-dA2UbphlkZvxh5nJDsb2BhXMSKInKLTZLhxkwu016h836K6zx6s0L5Azoq1dh3HpzEBAC8jtSGvgAAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ4qYDegQIPBAH",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bond+singers&stick=H4sIAAAAAAAAAOOQMeJJys9LUSjOzEtPLSqOsi_PyEzOUACLlWSk5qYqlCcWK-TllyjkF2WmZ-Yl5uRUKhSkFqXlF-WmpigkVSoUZ2QW5aRWKiQlFhenVp5i5NLP1TcwLDI2r8w5xcgB4pjlFpmdYuQEi5sYl-dA2UbphlkZvxh5nJDsb2BhXMSKInKLTZLhxkwu016h836K6zx6s0L5Azoq1dh3HpzEBAC8jtSGvgAAAA"
+        },
+        {
+            "title": "James Bond theme songs in order of release",
+            "items": [
+                {
+                    "name": "The James Bond Theme",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAX6uKsiINXae3B4FxrGOJm4nrczbGgHJlYh5lGLhpUePSYdwGSgkn&s=0",
+                    "link": "https://www.google.com/search?q=John+Barry+The+James+Bond+Theme&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNys0ttEwz0spKzE0tVkjKz0tRKMlIzU1VKM7PSy9WyMxTyC9KSS1SyE9TKErNSU0sTo2yL8_ITM5AVlueWKyQl18CVJqZnpmXmJNTqVCQWpSWX5SbmqKQVKlQnJFZlJNaqZCUWFycWnmKEcVuKLfYwDQnOyunHMEtMS8oi0dwy8otcnMQeo3ScswLEbLFaUUpJr8YtbzA_nAiwh8NLIyLWOW98jPyFJwSi4oqFUIyUhWQtIeAtN9ik2S4MZPLNFJdY53alh3mHjOa973n9lxX8XtLMQDFjnIvRQEAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAB6BAgvEAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+Barry+The+James+Bond+Theme&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNys0ttEwz0spKzE0tVkjKz0tRKMlIzU1VKM7PSy9WyMxTyC9KSS1SyE9TKErNSU0sTo2yL8_ITM5AVlueWKyQl18CVJqZnpmXmJNTqVCQWpSWX5SbmqKQVKlQnJFZlJNaqZCUWFycWnmKEcVuKLfYwDQnOyunHMEtMS8oi0dwy8otcnMQeo3ScswLEbLFaUUpJr8YtbzA_nAiwh8NLIyLWOW98jPyFJwSi4oqFUIyUhWQtIeAtN9ik2S4MZPLNFJdY53alh3mHjOa973n9lxX8XtLMQDFjnIvRQEAAA"
+                },
+                {
+                    "name": "Tomorrow Never Dies",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFqygBVhV_RKy7_AwEndrYHyd-sQQr9y4teGN3V4bIPc3cp1GLOuCL&s=0",
+                    "link": "https://www.google.com/search?q=Sheryl+Crow+Tomorrow+Never+Dies&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDYwzcnOyik30spKzE0tVkjKz0tRKMlIzU1VKM7PSy9WyMxTyC9KSS1SyE9TKErNSU0sTo2yL8_ITM5AVlueWKyQl18CVJqZnpmXmJNTqVCQWpSWX5SbmqKQVKlQnJFZlJNaqZCUWFycWnmKEWx3oWlWbm6hZRqUC3MKgltiXlAWj-CWlVvk5iD0GqXlmBciZIvTilJMfjFqeYH94USEPxpYGBexygdnpBZV5ig4F-WXK4Tk5-YXgRh-qWVApS6ZqcW32CQZbszkMo1U11intmWHuceM5n3vuT3XVfzeUgwA65QO10UBAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAF6BAgvEAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Sheryl+Crow+Tomorrow+Never+Dies&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDYwzcnOyik30spKzE0tVkjKz0tRKMlIzU1VKM7PSy9WyMxTyC9KSS1SyE9TKErNSU0sTo2yL8_ITM5AVlueWKyQl18CVJqZnpmXmJNTqVCQWpSWX5SbmqKQVKlQnJFZlJNaqZCUWFycWnmKEWx3oWlWbm6hZRqUC3MKgltiXlAWj-CWlVvk5iD0GqXlmBciZIvTilJMfjFqeYH94USEPxpYGBexygdnpBZV5ig4F-WXK4Tk5-YXgRh-qWVApS6ZqcW32CQZbszkMo1U11intmWHuceM5n3vuT3XVfzeUgwA65QO10UBAAA"
+                },
+                {
+                    "name": "Nobody Does It Better",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHvvg-54lkJP0B3L2AE6C7cNUD-M2j0hERKPPIquUELKExUGkoWz3&s=0",
+                    "link": "https://www.google.com/search?q=Carly+Simon+Nobody+Does+It+Better&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDYwLTEvKIs30spKzE0tVkjKz0tRKMlIzU1VKM7PSy9WyMxTyC9KSS1SyE9TKErNSU0sTo2yL8_ITM5AVlueWKyQl18CVJqZnpmXmJNTqVCQWpSWX5SbmqKQVKlQnJFZlJNaqZCUWFycWnmKEWx3oWlWbm6hZRqUC3RKTnZWTjmCC3YZgltWbpGbg9BrlJZjXoiQLU4rSjH5xajlBfaHExH-aGBhXMSq6JxYBHRtcGZufp6CX35Sfkqlgks-0ATPEgWn1JKS1KJbbJIMN2ZymUaqa6xT27LD3GNG87733J7rKn5vKQYAvhchbUcBAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAJ6BAgvEAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Carly+Simon+Nobody+Does+It+Better&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDYwLTEvKIs30spKzE0tVkjKz0tRKMlIzU1VKM7PSy9WyMxTyC9KSS1SyE9TKErNSU0sTo2yL8_ITM5AVlueWKyQl18CVJqZnpmXmJNTqVCQWpSWX5SbmqKQVKlQnJFZlJNaqZCUWFycWnmKEWx3oWlWbm6hZRqUC3RKTnZWTjmCC3YZgltWbpGbg9BrlJZjXoiQLU4rSjH5xajlBfaHExH-aGBhXMSq6JxYBHRtcGZufp6CX35Sfkqlgks-0ATPEgWn1JKS1KJbbJIMN2ZymUaqa6xT27LD3GNG87733J7rKn5vKQYAvhchbUcBAAA"
+                },
+                {
+                    "name": "All Time High",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA1bRqb8K_LMXechAVIH9useISAHsWiQGbAByJb9vCCsuTEmnc6R32&s=0",
+                    "link": "https://www.google.com/search?q=Rita+Coolidge+All+Time+High&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDYwLSu3yM0x0spKzE0tVkjKz0tRKMlIzU1VKM7PSy9WyMxTyC9KSS1SyE9TKErNSU0sTo2yL8_ITM5AVlueWKyQl18CVJqZnpmXmJNTqVCQWpSWX5SbmqKQVKlQnJFZlJNaqZCUWFycWnmKEWx3oWlWbm6hZRqUC3RKTnZWTjmCW2JeUBaP4IIditBrlJZjXoiQLU4rSjH5xajlBfaHExH-aGBhXMQqHZRZkqjgnJ-fk5mSnqrgmJOjEJIJ1OWRmZ5xi02S4cZMLtNIdY11alt2mHvMaN73nttzXcXvLcUAu9nhbkEBAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAN6BAgvEAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rita+Coolidge+All+Time+High&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDYwLSu3yM0x0spKzE0tVkjKz0tRKMlIzU1VKM7PSy9WyMxTyC9KSS1SyE9TKErNSU0sTo2yL8_ITM5AVlueWKyQl18CVJqZnpmXmJNTqVCQWpSWX5SbmqKQVKlQnJFZlJNaqZCUWFycWnmKEWx3oWlWbm6hZRqUC3RKTnZWTjmCW2JeUBaP4IIditBrlJZjXoiQLU4rSjH5xajlBfaHExH-aGBhXMQqHZRZkqjgnJ-fk5mSnqrgmJOjEJIJ1OWRmZ5xi02S4cZMLtNIdY11alt2mHvMaN73nttzXcXvLcUAu9nhbkEBAAA"
+                },
+                {
+                    "name": "We Have All the Time in the World...",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfCPTSs4vuNBYAHFz7Sj1xJT0kLZgH1TlElOZG_KGPLFlWm5eDUUVh&s=0",
+                    "link": "https://www.google.com/search?q=John+Barry+We+Have+All+the+Time+in+the+World+/+James+Bond+Theme&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNMkrLMS800spKzE0tVkjKz0tRKMlIzU1VKM7PSy9WyMxTyC9KSS1SyE9TKErNSU0sTo2yL8_ITM5AVlueWKyQl18CVJqZnpmXmJNTqVCQWpSWX5SbmqKQVKlQnJFZlJNaqZCUWFycWnmKEWZ3bm6hZRqUW2xgmpOdlVOO4JaYF5TFI7hl5Ra5OQi9YHcjZIvTilJMfjFqeYH94USEPxpYGBex2nvlZ-QpOCUWFVUqhKcqeCSWpSo45uSA9CqEZAK1AzWC2OH5RTkpCvoKSMaHgIy_xSbJcGMml2mkusY6tS07zD1mNO97z-25ruL3lmIA88Ot1GUBAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAR6BAgvEAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+Barry+We+Have+All+the+Time+in+the+World+%2F+James+Bond+Theme&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNMkrLMS800spKzE0tVkjKz0tRKMlIzU1VKM7PSy9WyMxTyC9KSS1SyE9TKErNSU0sTo2yL8_ITM5AVlueWKyQl18CVJqZnpmXmJNTqVCQWpSWX5SbmqKQVKlQnJFZlJNaqZCUWFycWnmKEWZ3bm6hZRqUW2xgmpOdlVOO4JaYF5TFI7hl5Ra5OQi9YHcjZIvTilJMfjFqeYH94USEPxpYGBex2nvlZ-QpOCUWFVUqhKcqeCSWpSo45uSA9CqEZAK1AzWC2OH5RTkpCvoKSMaHgIy_xSbJcGMml2mkusY6tS07zD1mNO97z-25ruL3lmIA88Ot1GUBAAA"
+                },
+                {
+                    "name": "James Bond Theme",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1jvDG9tRpE0I1GTaR65g6k0nwHRFvZHLzsQug-aG8e9wIIrYKPAZp&s=0",
+                    "link": "https://www.google.com/search?q=Moby+James+Bond+Theme&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDYwLU4rSjEx0spKzE0tVkjKz0tRKMlIzU1VKM7PSy9WyMxTyC9KSS1SyE9TKErNSU0sTo2yL8_ITM5AVlueWKyQl18CVJqZnpmXmJNTqVCQWpSWX5SbmqKQVKlQnJFZlJNaqZCUWFycWnmKEWx3oWlWbm6hZRqUC3RKTnZWTjmCW2JeUBaP4JaVW-TmIPQapeWYFyJkwd74xajlBfaHExH-aGBhXMQq6psPdB-SphCQpltskgw3ZnKZRqprrFPbssPcY0bzvvfcnusqfm8pBgA4khECOwEAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAV6BAgvEAg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Moby+James+Bond+Theme&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDYwLU4rSjEx0spKzE0tVkjKz0tRKMlIzU1VKM7PSy9WyMxTyC9KSS1SyE9TKErNSU0sTo2yL8_ITM5AVlueWKyQl18CVJqZnpmXmJNTqVCQWpSWX5SbmqKQVKlQnJFZlJNaqZCUWFycWnmKEWx3oWlWbm6hZRqUC3RKTnZWTjmCW2JeUBaP4JaVW-TmIPQapeWYFyJkwd74xajlBfaHExH-aGBhXMQq6psPdB-SphCQpltskgw3ZnKZRqprrFPbssPcY0bzvvfcnusqfm8pBgA4khECOwEAAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?q=James+Bond+theme+songs+in+order+of+release&stick=H4sIAAAAAAAAAOOQMdLKSsxNLVZIys9LUSjJSM1NVSjOz0svVsjMU8gvSkktUshPUyhKzUlNLE6Nsi_PyEzOQFZbnliskJdfAlSamZ6Zl5iTU6lQkFqUll-Um5qikFSpUJyRWZSTWqmQlFhcnFp5ipFHP13fsNA0Kze30DINyi02MM3JzsopR3BLzAvK4hHcsnKL3ByEXqO0HPNChGxxWlGKyS9GLS-wP5yI8EcDC-MiVhLU32KTZLgxk8s0Ul1jndqWHeYeM5r3vef2XFfxe0sxAH9OmKxCAQAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ4qYDegQILxAJ",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=James+Bond+theme+songs+in+order+of+release&stick=H4sIAAAAAAAAAOOQMdLKSsxNLVZIys9LUSjJSM1NVSjOz0svVsjMU8gvSkktUshPUyhKzUlNLE6Nsi_PyEzOQFZbnliskJdfAlSamZ6Zl5iTU6lQkFqUll-Um5qikFSpUJyRWZSTWqmQlFhcnFp5ipFHP13fsNA0Kze30DINyi02MM3JzsopR3BLzAvK4hHcsnKL3ByEXqO0HPNChGxxWlGKyS9GLS-wP5yI8EcDC-MiVhLU32KTZLgxk8s0Ul1jndqWHeYeM5r3vef2XFfxe0sxAH9OmKxCAQAA"
+        },
+        {
+            "title": "Bond songs",
+            "items": [
+                {
+                    "name": "The World is Not Enough",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRGJ9PQdo7Z8MP68OMrToo8M9zWlf_d2wdzC-V_OKdSkOvyq-6uB-J&s=0",
+                    "link": "https://www.google.com/search?q=Garbage+The+World+is+Not+Enough&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDYwLUkySE434krKz0tRKM7PSy-Osi_PyEzOUACLlGSk5qYqlCcWK-TllyjkF2WmZ-Yl5uRUKhSkFqXlF-WmpigkVSoUZ2QW5aRWKiQlFhenVp5iBJtdaJqVm1tomQblwqxCyFYlVaQXnmLkBXEN04rTK8pKyosQ0qYVRiVFMOkki2TL5KQyJMNy0pNyTRDcojyzjIxfjFxOcH80sDAuYpV3TyxKSkxPVQjJSFUIzy_KSVHILFbwA_rFNS-_ND3jFpskw42ZXKZ8ly3bDvfu7BHYvpC3cKLaSYVLTzIAHn_iOCUBAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAB6BAg1EAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Garbage+The+World+is+Not+Enough&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDYwLUkySE434krKz0tRKM7PSy-Osi_PyEzOUACLlGSk5qYqlCcWK-TllyjkF2WmZ-Yl5uRUKhSkFqXlF-WmpigkVSoUZ2QW5aRWKiQlFhenVp5iBJtdaJqVm1tomQblwqxCyFYlVaQXnmLkBXEN04rTK8pKyosQ0qYVRiVFMOkki2TL5KQyJMNy0pNyTRDcojyzjIxfjFxOcH80sDAuYpV3TyxKSkxPVQjJSFUIzy_KSVHILFbwA_rFNS-_ND3jFpskw42ZXKZ8ly3bDvfu7BHYvpC3cKLaSYVLTzIAHn_iOCUBAAA"
+                },
+                {
+                    "name": "Die Another Day",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT356l24MTpHOOrZgASwpnR6gilVLzoWkIjHXm2oNyYsDd_1eLwplje&s=0",
+                    "link": "https://www.google.com/search?q=Madonna+Die+Another+Day&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNqkqqSC804krKz0tRKM7PSy-Osi_PyEzOUACLlGSk5qYqlCcWK-TllyjkF2WmZ-Yl5uRUKhSkFqXlF-WmpigkVSoUZ2QW5aRWKiQlFhenVp5ihJmdm1tomQblFhuYliQZJKcjZME2n2LkBXEN04rTK8pKyosQ0qYVRiVFMOkki2TL5KQyJMNy0pNyTRDcojyzjIxfjFxOcH80sDAuYhX3TUzJz8tLVHDJTFVwBPohI7VIwSWx8habJMONmVymfJct2w737uwR2L6Qt3Ci2kmFS08yAMBUksIdAQAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAF6BAg1EAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Madonna+Die+Another+Day&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNqkqqSC804krKz0tRKM7PSy-Osi_PyEzOUACLlGSk5qYqlCcWK-TllyjkF2WmZ-Yl5uRUKhSkFqXlF-WmpigkVSoUZ2QW5aRWKiQlFhenVp5ihJmdm1tomQblFhuYliQZJKcjZME2n2LkBXEN04rTK8pKyosQ0qYVRiVFMOkki2TL5KQyJMNy0pNyTRDcojyzjIxfjFxOcH80sDAuYhX3TUzJz8tLVHDJTFVwBPohI7VIwSWx8habJMONmVymfJct2w737uwR2L6Qt3Ci2kmFS08yAMBUksIdAQAA"
+                },
+                {
+                    "name": "No Time To Die",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdzLb23WkmDqBPHyKhnLKGGzo3PD8u6EitbNnh&s=0",
+                    "link": "https://www.google.com/search?q=Billie+Eilish+No+Time+To+Die&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwrTq8oKykvMuJKys9LUSjOz0svjrIvz8hMzlAAi5RkpOamKpQnFivk5Zco5BdlpmfmJebkVCoUpBal5RflpqYoJFUqFGdkFuWkViokJRYXp1aeYuQBGV5ompWbW2iZBuUWG5iWJBkkpyNkq5Iq0gtPMaK6BCFtWmFUUgSTTrJItkxOKkMyLCc9KdcEwS3KM8vI-MXI5QT3RwML4yJWGafMnJzMVAXXzJzM4gwFv3yFkEygh0LyFVwyU2-xSTLcmMllynfZsu1w784ege0LeQsnqp1UuPQkAwDmT7srIwEAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAJ6BAg1EAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Billie+Eilish+No+Time+To+Die&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwrTq8oKykvMuJKys9LUSjOz0svjrIvz8hMzlAAi5RkpOamKpQnFivk5Zco5BdlpmfmJebkVCoUpBal5RflpqYoJFUqFGdkFuWkViokJRYXp1aeYuQBGV5ompWbW2iZBuUWG5iWJBkkpyNkq5Iq0gtPMaK6BCFtWmFUUgSTTrJItkxOKkMyLCc9KdcEwS3KM8vI-MXI5QT3RwML4yJWGafMnJzMVAXXzJzM4gwFv3yFkEygh0LyFVwyU2-xSTLcmMllynfZsu1w784ege0LeQsnqp1UuPQkAwDmT7srIwEAAA"
+                },
+                {
+                    "name": "007",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZHQRCwBoUusIaKBeKKQwK1wi6ukivqCkKDzBVIXcIHOcZxxER8s0r&s=0",
+                    "link": "https://www.google.com/search?q=John+Barry+007&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNMq0wKiky4krKz0tRKM7PSy-Osi_PyEzOUACLlGSk5qYqlCcWK-TllyjkF2WmZ-Yl5uRUKhSkFqXlF-WmpigkVSoUZ2QW5aRWKiQlFhenVp5ihJmdm1tomQblFhuYliQZJKcjZKuSKtILTzHygriGacXpFWUl5UUIabDDYNJJFsmWyUllSIblpCflmiC4RXlmGRm_GLmc4P5oYGFcxMrnlZ-Rp-CUWFRUqWBgYH6LTZLhxkwuU77Llm2He3f2CGxfyFs4Ue2kwqUnGQBUgP8WFAEAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAN6BAg1EAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=John+Barry+007&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDTNMq0wKiky4krKz0tRKM7PSy-Osi_PyEzOUACLlGSk5qYqlCcWK-TllyjkF2WmZ-Yl5uRUKhSkFqXlF-WmpigkVSoUZ2QW5aRWKiQlFhenVp5ihJmdm1tomQblFhuYliQZJKcjZKuSKtILTzHygriGacXpFWUl5UUIabDDYNJJFsmWyUllSIblpCflmiC4RXlmGRm_GLmc4P5oYGFcxMrnlZ-Rp-CUWFRUqWBgYH6LTZLhxkwuU77Llm2He3f2CGxfyFs4Ue2kwqUnGQBUgP8WFAEAAA"
+                },
+                {
+                    "name": "Bad Sign, Good Sign",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfdC_GFrpA_Pxt__KMCEXHQUb0Qjov2M3kzb9PvQhwEo99y_fbEPTs&s=0",
+                    "link": "https://www.google.com/search?q=Monty+Norman+Bad+Sign,+Good+Sign&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEyySLZMTipLM-JKys9LUSjOz0svjrIvz8hMzlAAi5RkpOamKpQnFivk5Zco5BdlpmfmJebkVCoUpBal5RflpqYoJFUqFGdkFuWkViokJRYXp1aeYuQBGV5ompWbW2iZBuUWG5iWJBkkpyNkq5Iq0gtPMUJcklacXlFWUl6EkDatMCopgknDHIowLCc9KdcEwS3KM8vI-MXI5QT3RwML4yJWBd_8vJJKBT-gUxPzFJwSUxSCM9PzdBTc8_MhzFtskgw3ZnKZ8l22bDvcu7NHYPtC3sKJaicVLj3JAADOzfycJwEAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAR6BAg1EAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Monty+Norman+Bad+Sign%2C+Good+Sign&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEyySLZMTipLM-JKys9LUSjOz0svjrIvz8hMzlAAi5RkpOamKpQnFivk5Zco5BdlpmfmJebkVCoUpBal5RflpqYoJFUqFGdkFuWkViokJRYXp1aeYuQBGV5ompWbW2iZBuUWG5iWJBkkpyNkq5Iq0gtPMUJcklacXlFWUl6EkDatMCopgknDHIowLCc9KdcEwS3KM8vI-MXI5QT3RwML4yJWBd_8vJJKBT-gUxPzFJwSUxSCM9PzdBTc8_MhzFtskgw3ZnKZ8l22bDvcu7NHYPtC3sKJaicVLj3JAADOzfycJwEAAA"
+                },
+                {
+                    "name": "Goldeneye",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPSvzHqiVDAifYHhqN-FfGYQLdPMHJUG2sqUrvJNkU1cm6D5rQV_YM&s=0",
+                    "link": "https://www.google.com/search?q=Tina+Turner+Goldeneye&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDYwzUlPyjUx4krKz0tRKM7PSy-Osi_PyEzOUACLlGSk5qYqlCcWK-TllyjkF2WmZ-Yl5uRUKhSkFqXlF-WmpigkVSoUZ2QW5aRWKiQlFhenVp5iBJtdaJqVm1tomQblAq0qSTJITkfIViVVpBeeYuQFcQ3TitMrykrKixDSphVGJUUw6SSLZMvkpDIkw8DuRnCL8swyMn4xcjnB_dHAwriIVTQE6F6FkNKivNQiBff8nJTUvNTK1Ftskgw3ZnKZ8l22bDvcu7NHYPtC3sKJaicVLj3JAADZeKY_GwEAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQs9oBKAV6BAg1EAg",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Tina+Turner+Goldeneye&stick=H4sIAAAAAAAAAOOQUeLRT9c3LDYwzUlPyjUx4krKz0tRKM7PSy-Osi_PyEzOUACLlGSk5qYqlCcWK-TllyjkF2WmZ-Yl5uRUKhSkFqXlF-WmpigkVSoUZ2QW5aRWKiQlFhenVp5iBJtdaJqVm1tomQblAq0qSTJITkfIViVVpBeeYuQFcQ3TitMrykrKixDSphVGJUUw6SSLZMvkpDIkw8DuRnCL8swyMn4xcjnB_dHAwriIVTQE6F6FkNKivNQiBff8nJTUvNTK1Ftskgw3ZnKZ8l22bDvcu7NHYPtC3sKJaicVLj3JAADZeKY_GwEAAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?q=Bond+songs&stick=H4sIAAAAAAAAAOOQMeJKys9LUSjOz0svjrIvz8hMzlAAi5RkpOamKpQnFivk5Zco5BdlpmfmJebkVCoUpBal5RflpqYoJFUqFGdkFuWkViokJRYXp1aeYuTRT9c3LDTNys0ttEyDcosNTEuSDJLTEbJVSRXphacYeUFcw7Ti9IqykvIihLRphVFJEUw6ySLZMjmpDMmwnPSkXBMEtyjPLCPjFyOXE9wfDSyMi1iR-LfYJBluzOQy5bts2Xa4d2ePwPaFvIUT1U4qXHqSAQBjCSE2AgEAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ4qYDegQINRAJ",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Bond+songs&stick=H4sIAAAAAAAAAOOQMeJKys9LUSjOz0svjrIvz8hMzlAAi5RkpOamKpQnFivk5Zco5BdlpmfmJebkVCoUpBal5RflpqYoJFUqFGdkFuWkViokJRYXp1aeYuTRT9c3LDTNys0ttEyDcosNTEuSDJLTEbJVSRXphacYeUFcw7Ti9IqykvIihLRphVFJEUw6ySLZMjmpDMmwnPSkXBMEtyjPLCPjFyOXE9wfDSyMi1iR-LfYJBluzOQy5bts2Xa4d2ePwPaFvIUT1U4qXHqSAQBjCSE2AgEAAA"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "What Bond themes did Shirley Bassey?",
+            "snippet": "Welsh singer Shirley Bassey is the only singer to perform more than one Bond theme \u2013 she recorded the themes to Goldfinger, Diamonds Are Forever, and Moonraker.",
+            "title": "James Bond music - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/James_Bond_music",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a James_Bond_music"
+        },
+        {
+            "question": "How many James Bond themes did Shirley Bassey sing?",
+            "snippet": "A world-famous singer with a big voice and a glamorous reputation, Shirley Bassey has recorded numerous hits, including three James Bond theme songs.",
+            "title": "three James Bond theme songs",
+            "link": "https://www.biography.com/musician/shirley-bassey",
+            "displayed_link": "https://www.biography.com \u203a musician \u203a shirley-bassey"
+        },
+        {
+            "question": "Who sang the Thunderball theme?",
+            "snippet": "Thunderball/Artists",
+            "title": "John Barry",
+            "link": "https://www.google.com/search?q=John+Barry&stick=H4sIAAAAAAAAAONgVuLUz9U3MExOKjF-xGjCLfDyxz1hKe1Ja05eY1Tl4grOyC93zSvJLKkUEudig7J4pbi5ELp4FrFyeeVn5Ck4JRYVVQIABewNHVEAAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQzIcDKAB6BAgZEAE"
+        },
+        {
+            "question": "Who Sang The World Is Not Enough Bond theme?",
+            "snippet": "The World is Not Enough/Artists",
+            "title": "Garbage",
+            "link": "https://www.google.com/search?q=Garbage+(band)&stick=H4sIAAAAAAAAAONgVuLUz9U3MCxIKzJ-xGjCLfDyxz1hKe1Ja05eY1Tl4grOyC93zSvJLKkUEudig7J4pbi5ELp4FrHyuScWJSWmpypoJCXmpWgCABXAC0VVAAAA&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQzIcDKAB6BAgWEAE"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "James Bond music - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/James_Bond_music",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a James_Bond_music",
+            "snippet": "Kiss Kiss Bang Bang\" sung by Shirley Bassey was originally slated to be the theme song of Thunderball. It was re-recorded by Dionne Warwick, ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "Title themes \u2014"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1251b2bc7d8b3e353f2df/images/8727a3331d6d44d425ffd8584764215180b6f57fcb93700e621fbdc64ef91fdf0ed78e95f240a07b74f6b0bc3994923c.png"
+                },
+                "keywords": [
+                    "which",
+                    "bond",
+                    "theme",
+                    "not",
+                    "originally",
+                    "performed",
+                    "shirley",
+                    "bassey"
+                ],
+                "related_keywords": [
+                    "song",
+                    "recorded",
+                    "sung"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/James_Bond_music&tbm=ilp&ilps=AOR-xxsocnHV_r1z4Gv0kd8EVDIIBVkRvQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hn75fMLHjvIJ:https://en.wikipedia.org/wiki/James_Bond_music+&cd=12&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/James_Bond_music+which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "The World Is Not Enough (song) - Wikipedia",
+                    "link": "https://en.wikipedia.org/wiki/The_World_Is_Not_Enough_(song)",
+                    "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a The_World_Is_Not_E...",
+                    "snippet": "The World Is Not Enough\" is the theme song for the 1999 James Bond film The World Is Not Enough, performed by American rock band Garbage.",
+                    "about_this_result": {
+                        "source": {
+                            "description": "Wikipedia is a free content, multilingual online encyclopedia written and maintained by a community of volunteers through a model of open collaboration, using a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians.",
+                            "source_info_link": "https://en.wikipedia.org/wiki/Wikipedia",
+                            "security": "secure",
+                            "icon": "https://serpapi.com/searches/61c1251b2bc7d8b3e353f2df/images/8727a3331d6d44d425ffd8584764215151277111ce9179b7fff6ffdd9aa158749c30f3b31ed756ed02e92689af0f50ff86e486207e5ce4610db7606300b65bf72af6bffa8ca88699.png"
+                        },
+                        "keywords": [
+                            "which",
+                            "bond",
+                            "theme",
+                            "not",
+                            "originally",
+                            "performed",
+                            "shirley",
+                            "bassey"
+                        ],
+                        "related_keywords": [
+                            "song",
+                            "wrote"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/The_World_Is_Not_Enough_(song)&tbm=ilp&ilps=AOR-xxurLK7PYeUYnX21lcB-sgIdDGPBMQ",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1SPSGeP0SsUJ:https://en.wikipedia.org/wiki/The_World_Is_Not_Enough_(song)+&cd=13&hl=en&ct=clnk&gl=us",
+                    "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/The_World_Is_Not_Enough_(song)+which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F"
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "title": "James Bond: Every theme song from the film franchise's history",
+            "link": "https://www.radiotimes.com/movies/james-bond-every-theme-song/",
+            "displayed_link": "https://www.radiotimes.com \u203a Movies",
+            "date": "Sep 30, 2021",
+            "snippet": "Shirley Bassey \u2013 Goldfinger (1964). The first of Bassey's three Bond theme songs and arguably still the most iconic, this was Bassey's only song ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Radio Times is a British weekly listings magazine devoted to television and radio programme schedules, with other features such as interviews, film reviews and lifestyle items.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Radio_Times",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1251b2bc7d8b3e353f2df/images/8727a3331d6d44d425ffd8584764215184219744ee6a6876702e9ad7756d02673f85b078fc08754d1c3aa9eef75f1bff.png"
+                },
+                "keywords": [
+                    "which",
+                    "bond",
+                    "theme",
+                    "not",
+                    "performed",
+                    "shirley",
+                    "bassey"
+                ],
+                "related_keywords": [
+                    "song",
+                    "wrote",
+                    "recorded"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.radiotimes.com/movies/james-bond-every-theme-song/&tbm=ilp&ilps=AOR-xxtABEVP8yID83975_-rqBg0JAUT4Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WerLP1XBSVgJ:https://www.radiotimes.com/movies/james-bond-every-theme-song/+&cd=14&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "the rejected James Bond themes, from Blondie to Pet Shop Boys",
+            "link": "https://www.smoothradio.com/features/top-songs/james-bond-theme-tunes-rejected/",
+            "displayed_link": "https://www.smoothradio.com \u203a features \u203a top-songs \u203a j...",
+            "date": "Oct 1, 2021",
+            "snippet": "When there were concerns about Warwick's delivery, it was later re-recorded by Shirley Bassey. However, both versions were not released ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Smooth Radio is a network of local radio stations broadcasting on FM and MW stations in the United Kingdom. Smooth Radio features a Soft Adult Contemporary radio format. Launched in March 2014, it replaced the national Smooth Radio that had launched in 2010 on FM, and most outlets of Gold on MW.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Smooth_Radio_(2014)",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1251b2bc7d8b3e353f2df/images/8727a3331d6d44d425ffd85847642151a46387ae72d8c99a6b13130ecab687b17fe88dd78fe561ba73186f3b2e7bc521.png"
+                },
+                "keywords": [
+                    "bond",
+                    "theme",
+                    "not",
+                    "originally",
+                    "performed",
+                    "shirley",
+                    "bassey"
+                ],
+                "related_keywords": [
+                    "themes",
+                    "recorded"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.smoothradio.com/features/top-songs/james-bond-theme-tunes-rejected/&tbm=ilp&ilps=AOR-xxuedIjv3lH_586E31I7Xlel7o5g-g",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FiRypwF9a4wJ:https://www.smoothradio.com/features/top-songs/james-bond-theme-tunes-rejected/+&cd=15&hl=en&ct=clnk&gl=us",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "All 24 James Bond theme songs ranked from worst to best",
+                    "link": "https://www.smoothradio.com/features/top-songs/james-bond-theme-songs-list-ranked/",
+                    "displayed_link": "https://www.smoothradio.com \u203a features \u203a james-bond-t...",
+                    "date": "Sep 28, 2021",
+                    "snippet": "Shirley Bassey, Tina Turner and Adele have all sung James Bond themes. ... But it's just not a great Bond theme in comparison to the rest.",
+                    "about_this_result": {
+                        "source": {
+                            "description": "Smooth Radio is a network of local radio stations broadcasting on FM and MW stations in the United Kingdom. Smooth Radio features a Soft Adult Contemporary radio format. Launched in March 2014, it replaced the national Smooth Radio that had launched in 2010 on FM, and most outlets of Gold on MW.",
+                            "source_info_link": "https://en.wikipedia.org/wiki/Smooth_Radio_(2014)",
+                            "security": "secure",
+                            "icon": "https://serpapi.com/searches/61c1251b2bc7d8b3e353f2df/images/8727a3331d6d44d425ffd858476421512613a955403fadc8a5cc476fd3c47918714bc0b57aeda67e35da25f9eaf41aa4844e5d8679d13b39a62209db3b9411f01acdeed9de952ebb.png"
+                        },
+                        "keywords": [
+                            "which",
+                            "bond",
+                            "theme",
+                            "not",
+                            "shirley",
+                            "bassey"
+                        ],
+                        "related_keywords": [
+                            "themes",
+                            "sung"
+                        ],
+                        "languages": [
+                            "English"
+                        ],
+                        "regions": [
+                            "the United States"
+                        ]
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://www.smoothradio.com/features/top-songs/james-bond-theme-songs-list-ranked/&tbm=ilp&ilps=AOR-xxvJPJTtOi3JfeLkt56FHq1ZZoZKyA",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:oonyBu06jYAJ:https://www.smoothradio.com/features/top-songs/james-bond-theme-songs-list-ranked/+&cd=16&hl=en&ct=clnk&gl=us"
+                }
+            ]
+        },
+        {
+            "position": 4,
+            "title": "Shirley Bassey | James Bond Wiki",
+            "link": "https://jamesbond.fandom.com/wiki/Shirley_Bassey",
+            "displayed_link": "https://jamesbond.fandom.com \u203a wiki \u203a Shirley_Bassey",
+            "snippet": "James Bond Medley Performed Live. Bassey performing a James Bond medley, including the themes from Goldfinger, ...",
+            "rich_snippet": {
+                "top": {
+                    "extensions": [
+                        "James Bond Medley Performed Live \u2014"
+                    ]
+                }
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Fandom is an American wiki hosting service and domain operated by Fandom, Inc., a for-profit Delaware company founded in October 2004 by Jimmy Wales and Angela Beesley.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Fandom_(website)",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1251b2bc7d8b3e353f2df/images/8727a3331d6d44d425ffd85847642151221c5f6ff68f8586b31fcadd2d8deec106243531053d41755304b17d8ad3cb17.png"
+                },
+                "keywords": [
+                    "bond",
+                    "theme",
+                    "not",
+                    "performed",
+                    "shirley",
+                    "bassey"
+                ],
+                "related_keywords": [
+                    "themes",
+                    "performing"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://jamesbond.fandom.com/wiki/Shirley_Bassey&tbm=ilp&ilps=AOR-xxvU0WEIHPjj33NF-R9YSbJ663vskQ",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:bOKyvGWOJt4J:https://jamesbond.fandom.com/wiki/Shirley_Bassey+&cd=17&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Women Behind the Bond Theme Songs - ELYSIAN Magazine",
+            "link": "https://readelysian.com/bonds-divas/",
+            "displayed_link": "https://readelysian.com \u203a ... \u203a Performing Arts \u203a Music",
+            "date": "Oct 13, 2021",
+            "snippet": "Belted out by the great Shirley Bassey\u2014the only vocalist to sing ... sultry, emotion-laden tones in this, the first Bond theme not to be ...",
+            "about_this_result": {
+                "source": {
+                    "description": "readelysian.com was first indexed by Google in November 2015",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1251b2bc7d8b3e353f2df/images/8727a3331d6d44d425ffd858476421511fcdab912fb61fbb1b48af0a4b2ab52591bd50b0f72d16e5877c9e40cfe4a498.png"
+                },
+                "keywords": [
+                    "which",
+                    "bond",
+                    "theme",
+                    "not",
+                    "originally",
+                    "performed",
+                    "shirley",
+                    "bassey"
+                ],
+                "related_keywords": [
+                    "first",
+                    "sing"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://readelysian.com/bonds-divas/&tbm=ilp&ilps=AOR-xxtuYyMncCBbNw-ooyW31acQoNAI4Q",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:HVARRhBxWSsJ:https://readelysian.com/bonds-divas/+&cd=18&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 6,
+            "title": "Every James Bond Theme Songs, Ranked - Esquire",
+            "link": "https://www.esquire.com/entertainment/music/g26729930/james-bond-theme-songs-ranked/",
+            "displayed_link": "https://www.esquire.com \u203a entertainment \u203a music \u203a jam...",
+            "date": "Oct 4, 2021",
+            "snippet": "Coming off the heels of 1964's Goldfinger (which introduced the opening credits song, sung by Shirley Bassey), Thunderball put another Welsh ...",
+            "about_this_result": {
+                "source": {
+                    "description": "Esquire is an American men's magazine. Currently published in the United States by Hearst Communications, it also has more than 20 international editions.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Esquire_(magazine)",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1251b2bc7d8b3e353f2df/images/8727a3331d6d44d425ffd858476421512779ab895892d748c86e56eb8ccdcd363b1338abb9a525c4f03880536d69c593.png"
+                },
+                "keywords": [
+                    "which",
+                    "bond",
+                    "theme",
+                    "not",
+                    "originally",
+                    "shirley",
+                    "bassey"
+                ],
+                "related_keywords": [
+                    "song",
+                    "sung"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.esquire.com/entertainment/music/g26729930/james-bond-theme-songs-ranked/&tbm=ilp&ilps=AOR-xxuZ3lWrifYAiImCYUOyO2s03uZqIA",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zA-kkj_EOeYJ:https://www.esquire.com/entertainment/music/g26729930/james-bond-theme-songs-ranked/+&cd=19&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 7,
+            "title": "All 24 James Bond theme songs ranked from worst to best ...",
+            "link": "https://www.classicfm.com/discover-music/periods-genres/film-tv/james-bond-title-themes-ranked/",
+            "displayed_link": "https://www.classicfm.com \u203a periods-genres \u203a film-tv",
+            "date": "Sep 29, 2021",
+            "snippet": "It's perhaps no wonder that longtime Bond theme overlord John Barry ... when considered directly alongside Shirley Bassey's 'Goldfinger'.",
+            "about_this_result": {
+                "source": {
+                    "description": "Classic FM is one of the United Kingdom's three Independent National Radio stations and is owned and operated by Global. The station broadcasts classical music.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Classic_FM_(UK)",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/61c1251b2bc7d8b3e353f2df/images/8727a3331d6d44d425ffd85847642151dc49559e23bcac24efb804135fec5dd52688d8c1c914e8d7084d1bdc247f6d5a.png"
+                },
+                "keywords": [
+                    "which",
+                    "bond",
+                    "theme",
+                    "not",
+                    "performed",
+                    "shirley",
+                    "bassey"
+                ],
+                "related_keywords": [
+                    "themes",
+                    "bassey's"
+                ],
+                "languages": [
+                    "English"
+                ],
+                "regions": [
+                    "the United States"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.classicfm.com/discover-music/periods-genres/film-tv/james-bond-title-themes-ranked/&tbm=ilp&ilps=AOR-xxv3jhHPfjCvZkygnx0YlKEuiAJCzw",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:mFDkr8L51HYJ:https://www.classicfm.com/discover-music/periods-genres/film-tv/james-bond-title-themes-ranked/+&cd=20&hl=en&ct=clnk&gl=us"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "who sang the bond movie themes",
+            "link": "https://www.google.com/search?q=Who+sang+the+Bond+movie+themes&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ1QJ6BAg7EAE"
+        },
+        {
+            "query": "bond theme songs in order",
+            "link": "https://www.google.com/search?q=Bond+theme+songs+in+order&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ1QJ6BAg5EAE"
+        },
+        {
+            "query": "bond theme songs list",
+            "link": "https://www.google.com/search?q=Bond+theme+songs+list&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ1QJ6BAgmEAE"
+        },
+        {
+            "query": "james bond (original theme song)",
+            "link": "https://www.google.com/search?q=James+Bond+original+theme+song&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ1QJ6BAgsEAE"
+        },
+        {
+            "query": "best bond songs",
+            "link": "https://www.google.com/search?q=Best+Bond+songs&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ1QJ6BAgtEAE"
+        },
+        {
+            "query": "how many james bond theme songs are there",
+            "link": "https://www.google.com/search?q=How+many+James+Bond+theme+songs+are+there&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ1QJ6BAgnEAE"
+        },
+        {
+            "query": "top 10 james bond songs",
+            "link": "https://www.google.com/search?q=Top+10+James+Bond+songs&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ1QJ6BAgkEAE"
+        },
+        {
+            "query": "james bond theme songs - youtube",
+            "link": "https://www.google.com/search?q=james+bond+theme+songs+-+youtube&sa=X&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ1QJ6BAglEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&ei=IyXBYYirCt2x0PEP7dGSqAw&start=10&sa=N&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ8NMDegQIARBJ",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&ei=IyXBYYirCt2x0PEP7dGSqAw&start=10&sa=N&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ8tMDegQIARA3",
+            "3": "https://www.google.com/search?q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&ei=IyXBYYirCt2x0PEP7dGSqAw&start=20&sa=N&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ8tMDegQIARA5",
+            "4": "https://www.google.com/search?q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&ei=IyXBYYirCt2x0PEP7dGSqAw&start=30&sa=N&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ8tMDegQIARA7",
+            "5": "https://www.google.com/search?q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&ei=IyXBYYirCt2x0PEP7dGSqAw&start=40&sa=N&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ8tMDegQIARA9",
+            "6": "https://www.google.com/search?q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&ei=IyXBYYirCt2x0PEP7dGSqAw&start=50&sa=N&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ8tMDegQIARA_",
+            "7": "https://www.google.com/search?q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&ei=IyXBYYirCt2x0PEP7dGSqAw&start=60&sa=N&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ8tMDegQIARBB",
+            "8": "https://www.google.com/search?q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&ei=IyXBYYirCt2x0PEP7dGSqAw&start=70&sa=N&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ8tMDegQIARBD",
+            "9": "https://www.google.com/search?q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&ei=IyXBYYirCt2x0PEP7dGSqAw&start=80&sa=N&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ8tMDegQIARBF",
+            "10": "https://www.google.com/search?q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&ei=IyXBYYirCt2x0PEP7dGSqAw&start=90&sa=N&ved=2ahUKEwjIyK_H1vP0AhXdGDQIHe2oBMUQ8tMDegQIARBH"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=which+%27bond+theme%27+was+not+originally+performed+by+shirley+bassey%3F&start=90"
+        }
+    }
+}
