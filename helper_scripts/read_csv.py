@@ -20,6 +20,7 @@ def get_oneword():
                 fails = fails + 1
         if (fails == 0):
             results.append(x)
+    results = [x + 1 for x in results]
     return results
 
 def local(filter):

@@ -4,7 +4,6 @@ from datetime import datetime
 log_file = 'csv_files/logs.csv'
 
 def save_run(run_time, num_correct, num_runs):
-    print(str(num_correct) + "/" + str(num_runs))
     append = open(log_file, 'a')
 
     now = datetime.now()
