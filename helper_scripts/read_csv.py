@@ -9,6 +9,7 @@ def open_csv():
     return rows
 
 def get_oneword():
+    print("\nGetting 1WANS...")
     rows = open_csv()
 
     results = []
@@ -21,12 +22,12 @@ def get_oneword():
         if (fails == 0):
             results.append(x)
     results = [x + 1 for x in results]
+    print("\t> Results: " + str(results))
     return results
 
 def local(filter):
-    print("\nReading CSV...\n\t> Filename: " + questions_csv)
+    # print("\nReading CSV...", end="")
     rows = open_csv()
-    print("\t> Filter: Q" + str(filter))
     question = rows[filter-1][0]
     answers = [rows[filter-1][1], rows[filter-1][2], rows[filter-1][3]]
     return question, answers
