@@ -25,6 +25,14 @@ def get_oneword():
     print(" > " + str(results))
     return results
 
+def get_all():
+    print("Get ALL", end = "")
+    rows = open_csv()
+    results = [*range(2,len(rows)+1)]
+
+    print(" > " + str(results))
+    return results
+
 def local(filter):
     # print("\nReading CSV...", end="")
     rows = open_csv()
