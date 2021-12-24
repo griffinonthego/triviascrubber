@@ -2,9 +2,9 @@ import time
 from helper_scripts import ocrify, imaging, search_sites, load_json, read_csv, process_text, logging_tool
 
 #SETUP (1WANS -> [3, 4, 5, 6, 10, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22])
-question_source = ["CSV", range(16,17)] # ["OCR"] OR ["CSV", *question_number* OR "1WANS"]]
+question_source = ["CSV", range(15,16)] # ["OCR"] OR ["CSV", *question_number* OR "1WANS"]]
 ocr_type = "LOCAL" #LOCAL or ONLINE API
-sites_ct = 0 #Range 1-7 or 0=max
+sites_ct = 0 #Range 1-7/8 or 0=max
 tic_start = time.perf_counter()
 filenames = imaging.take_images()
 num_correct = 0
@@ -53,6 +53,7 @@ for question_number in question_source[1]:
     if (question_source[0] == "CSV"):
         correct_ans = read_csv.get_correct_ans(question_number)
         correct_ans = process_text.process(correct_ans)
+
         if (correct_ans == top_pick):
             print(" > Correct", end = "")
         else:

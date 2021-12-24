@@ -6,10 +6,10 @@ from string import punctuation
 import time
 import sys
 import threading
-import multiprocessing
 
 tot_huntpeck = [0, 0, 0]
 tot_wordrank = [0, 0, 0]
+link_num = 0
 
 def increment(add_huntpeck, add_wordrank):
     global tot_huntpeck
@@ -18,14 +18,24 @@ def increment(add_huntpeck, add_wordrank):
     tot_huntpeck = np.add(tot_huntpeck, add_huntpeck)
     tot_wordrank = np.add(tot_wordrank, add_wordrank)
 
+def update_console(answers, q_num):
+    global link_num
+    link_num = link_num + 1
+    sys.stdout.write("\rQ" + str(q_num) + " > Pick (%i): %s" % (link_num, answers[get_max()]))
+
 def get_max():
     max_index = np.argmax(tot_wordrank)
     return max_index
 
 def load_page(site):
-    r = requests.get(site)
-    soup = BeautifulSoup(r.content, features="html.parser")
-    return soup
+    try:
+        r = requests.get(site)
+        soup = BeautifulSoup(r.content, features="html.parser")
+        success = 1
+    except:
+        success = 0
+
+    return soup, success
 
 def do_search_wordrank(soup, answers):
     text_p = (''.join(s.findAll(text=True)) for s in soup.findAll('p'))
@@ -41,8 +51,7 @@ def do_search_wordrank(soup, answers):
     return totals
 
 def do_search_huntpeck(soup, answers):
-    #Currently not working
-
+    #currently not really working
     ct = 0
     totals = [0, 0, 0]
     for x in answers:
@@ -54,14 +63,26 @@ def do_search_huntpeck(soup, answers):
 def clear_globals():
     global tot_wordrank
     global tot_huntpeck
+    global link_num
 
     tot_huntpeck = [0, 0, 0]
     tot_wordrank = [0, 0, 0]
+    link_num = 0
 
-def run(site, answers, lock):
+def filter_bad_sites(site_links):
+    site_links = [x for x in site_links if len(x) >= 3] #Removes links with less than 3 characters
+    return site_links
 
+def show_tallies(answers):
+    ct = 0
+    for i in answers:
+        print("\n\t\t> " + str(i) + ": " + str(tot_huntpeck[ct]) + "," + str(tot_wordrank[ct]), end="\t")
+        ct = ct + 1
+
+def run(site, answers, q_num, lock):
     global tot_wordrank
     global tot_huntpeck
+    global link_num
 
     soup = load_page(site)
 
@@ -70,22 +91,20 @@ def run(site, answers, lock):
 
     lock.acquire()
     increment(add_huntpeck, add_wordrank)
+    update_console(answers, q_num)
     lock.release()
 
-    ct = 0
-    for i in answers:
-        # print("\n\t> " + str(i) + ": " + str(tot_huntpeck[ct]) + "," + str(tot_wordrank[ct]), end="\t")
-        ct = ct + 1
+    show_tallies(answers)
 
 def search_multi(site_links, answers, q_num):
     clear_globals()
+    site_links = filter_bad_sites(site_links)
 
-    site_links = [x for x in site_links if len(x) >= 3]
     lock = threading.Lock()
     threads = []
 
     for x in range(len(site_links)):
-        t = threading.Thread(target=run, args=(site_links[x],answers,lock))
+        t = threading.Thread(target=run, args=(site_links[x],answers,q_num,lock))
         t.start()
         threads.append(t)
 
@@ -95,23 +114,23 @@ def search_multi(site_links, answers, q_num):
     print("Q" + str(q_num) + " > Pick: " + (answers[get_max()]), end ="")
 
 def search_lin(site_links, answers, q_num):
-    site_links = [x for x in site_links if len(x) >= 3] #only get links that are more than a few characters long
-    tot_huntpeck = [0, 0, 0]
-    tot_wordrank = [0, 0, 0]
+    clear_globals()
+    global tot_wordrank
+    global tot_huntpeck
+    site_links = filter_bad_sites(site_links)
+
     ct = 0
+    failures = 0
     for site in site_links:
-        soup = load_page(site)
-        tot_huntpeck = np.add(tot_huntpeck, do_search_huntpeck(soup, answers))
-        tot_wordrank = np.add(tot_wordrank, do_search_wordrank(soup, answers))
+        soup, success = load_page(site)
+        if (success == 1):
+            increment(do_search_huntpeck(soup, answers), do_search_wordrank(soup, answers),)
+        elif(success == 0):
+            failures = failures + 1
+
         max_index = np.argmax(tot_wordrank)
-
-        sys.stdout.write("\rQ" + str(q_num) + " > Pick (%i): %s" % (ct+1, answers[max_index]))
+        sys.stdout.write("\rQ" + str(q_num) + " > Pick (%i): %s (%i failures)" % (ct + 1, answers[max_index], failures))
         ct = ct + 1
 
-    ct = 0
-    for i in answers:
-        # print("\n\t> " + str(i) + ": " + str(tot_huntpeck[ct]) + "," + str(tot_wordrank[ct]), end ="\t")
-        ct = ct + 1
-    print("\n")
-    max_index = np.argmax(tot_wordrank)
+    show_tallies(answers)
     return(answers[max_index])
