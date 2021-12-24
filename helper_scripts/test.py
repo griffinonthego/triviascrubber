@@ -4,7 +4,9 @@ from bs4 import BeautifulSoup
 from collections import Counter
 from string import punctuation
 import time
+import sys
 import threading
+import multiprocessing
 
 tot_huntpeck = [0, 0, 0]
 tot_wordrank = [0, 0, 0]
@@ -16,12 +18,13 @@ def increment(add_huntpeck, add_wordrank):
     tot_huntpeck = np.add(tot_huntpeck, add_huntpeck)
     tot_wordrank = np.add(tot_wordrank, add_wordrank)
 
+def get_max():
+    max_index = np.argmax(tot_wordrank)
+    return max_index
+
 def load_page(site):
-    start_load = time.perf_counter()
     r = requests.get(site)
     soup = BeautifulSoup(r.content, features="html.parser")
-    end_load = time.perf_counter()
-    # print("\t(" + str(round((end_load - start_load), 2)) + " sec)", end ="")
     return soup
 
 def do_search_wordrank(soup, answers):
@@ -48,7 +51,14 @@ def do_search_huntpeck(soup, answers):
             ct = ct + 1
     return totals
 
-def search(site, answers, lock):
+def clear_globals():
+    global tot_wordrank
+    global tot_huntpeck
+
+    tot_huntpeck = [0, 0, 0]
+    tot_wordrank = [0, 0, 0]
+
+def run(site, answers, lock):
 
     global tot_wordrank
     global tot_huntpeck
@@ -67,36 +77,39 @@ def search(site, answers, lock):
         # print("\n\t> " + str(i) + ": " + str(tot_huntpeck[ct]) + "," + str(tot_wordrank[ct]), end="\t")
         ct = ct + 1
 
-def search_multi(site_links, answers):
-    print("Running multi search", end=" >")
+def search_multi(site_links, answers, q_num):
+    clear_globals()
 
+    site_links = [x for x in site_links if len(x) >= 3]
     lock = threading.Lock()
+    threads = []
 
-    t0 = threading.Thread(target=search, args=(site_links[0],answers,lock))
-    t1 = threading.Thread(target=search, args=(site_links[1],answers,lock))
-    t2 = threading.Thread(target=search, args=(site_links[2],answers,lock))
-    t3 = threading.Thread(target=search, args=(site_links[3],answers,lock))
-    t4 = threading.Thread(target=search, args=(site_links[4],answers,lock))
-    t5 = threading.Thread(target=search, args=(site_links[5],answers,lock))
+    for x in range(len(site_links)):
+        t = threading.Thread(target=run, args=(site_links[x],answers,lock))
+        t.start()
+        threads.append(t)
 
-    t0.start()
-    t1.start()
-    t2.start()
-    t3.start()
-    t4.start()
-    t5.start()
+    for x in threads:
+        x.join()
 
-    t0.join()
-    t1.join()
-    t2.join()
-    t3.join()
-    t4.join()
-    t5.join()
+def search_lin(site_links, answers, q_num):
+    site_links = [x for x in site_links if len(x) >= 3] #only get links that are more than a few characters long
+    tot_huntpeck = [0, 0, 0]
+    tot_wordrank = [0, 0, 0]
+    ct = 0
+    for site in site_links:
+        soup = load_page(site)
+        tot_huntpeck = np.add(tot_huntpeck, do_search_huntpeck(soup, answers))
+        tot_wordrank = np.add(tot_wordrank, do_search_wordrank(soup, answers))
+        max_index = np.argmax(tot_wordrank)
 
-start = time.perf_counter()
-answers = ['blush','primer', 'cerulean']
-site_links = ['https://quizlet.com/22064307/chapter-20-makeup-quiz-flash-cards/', 'https://www.makeupartistessentials.com/an-introduction-to-makeup-types-of-makeup/', 'https://en.wikipedia.org/wiki/Cosmetics', 'https://revolutioninkgallery.com/lgojnd/what-is-pigment-used-for-in-makeup.html', 'https://www.medicalnewstoday.com/articles/327318', 'https://books.google.com/books?id=hcEKAAAAQBAJ&pg=PT606&lpg=PT606&dq=which+of+these+is+both+a+color+and+a+common+kind+of+makeup?&source=bl&ots=NPdbQlY3eP&sig=ACfU3U28db_jnbunl-jVOy1vzv0JWoxkbA&hl=en&sa=X&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ6AF6BAglEAM', 'https://books.google.com/books?id=jmYPEAAAQBAJ&pg=PA85&lpg=PA85&dq=which+of+these+is+both+a+color+and+a+common+kind+of+makeup?&source=bl&ots=xM9lSzZqXn&sig=ACfU3U27nfgSNIdMyv_enxO7V_2pKS4iyg&hl=en&sa=X&ved=2ahUKEwjx8tzb2PP0AhWHVN8KHSWMDDwQ6AF6BAgjEAM']
-search_multi(site_links, answers)
-end = time.perf_counter()
+        sys.stdout.write("\rQ" + str(q_num) + " > Pick (%i): %s" % (ct+1, answers[max_index]))
+        ct = ct + 1
 
-print("\n(" + str(round((end - start), 2)) + " sec)", end ="")
+    ct = 0
+    for i in answers:
+        print("\n\t> " + str(i) + ": " + str(tot_huntpeck[ct]) + "," + str(tot_wordrank[ct]), end ="\t")
+        ct = ct + 1
+    print("\n")
+    max_index = np.argmax(tot_wordrank)
+    return(answers[max_index])
