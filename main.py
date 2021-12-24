@@ -1,12 +1,12 @@
 import numpy as np
 import time
 import sys
-from helper_scripts import ocrify, imaging, search_sites, load_json, read_csv, process_text, logging
+from helper_scripts import ocrify, imaging, search_sites, load_json, read_csv, process_text, logging_tool
 
 #SETUP (1WANS -> [3, 4, 5, 6, 10, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22])
-question_source = ["CSV", range(15,22)] # ["OCR"] OR ["CSV", *question_number* OR "1WANS"]]
+question_source = ["CSV", range(3,4)] # ["OCR"] OR ["CSV", *question_number* OR "1WANS"]]
 ocr_type = "LOCAL" #LOCAL or ONLINE API
-sites_ct = 0 #Range 1-7 or 0=max
+sites_ct = 2 #Range 1-7 or 0=max
 tic_start = time.perf_counter()
 filenames = imaging.take_images()
 num_correct = 0
@@ -44,7 +44,10 @@ for question_number in question_source[1]:
     #SEARCH EACH SITE
     if (sites_ct > 0):
         del site_links[sites_ct:]
+
     top_pick = search_sites.search(site_links, answers, question_number)
+
+
     Search_time = time.perf_counter()
     # print("\t(" + str(round((Search_time - JSON_time), 2)) + " sec)")
 
@@ -67,4 +70,4 @@ for question_number in question_source[1]:
 
 final_toc = time.perf_counter()
 total_time = str(round((final_toc-tic_start), 2))
-logging.save_run(total_time, num_correct, len(question_source[1]))
+logging_tool.save_run(total_time, num_correct, len(question_source[1]))

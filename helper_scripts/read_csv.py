@@ -9,7 +9,7 @@ def open_csv():
     return rows
 
 def get_oneword():
-    print("\nGetting 1WANS...")
+    print("\nGet 1WANS ", end = "")
     rows = open_csv()
 
     results = []
@@ -22,7 +22,7 @@ def get_oneword():
         if (fails == 0):
             results.append(x)
     results = [x + 1 for x in results]
-    print("\t> Results: " + str(results))
+    print(" > Results: " + str(results))
     return results
 
 def local(filter):

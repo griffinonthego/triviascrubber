@@ -56,3 +56,27 @@ def search(site_links, answers, q_num):
     max_index = np.argmax(tot_wordrank)
     return(answers[max_index])
 
+
+def search_multi(site_links, answers, q_num, output):
+
+    site_links = [x for x in site_links if len(x) >= 3]
+    tot_huntpeck = [0, 0, 0]
+    tot_wordrank = [0, 0, 0]
+    ct = 0
+    for site in site_links:
+        tot_huntpeck = np.add(tot_huntpeck, do_search_huntpeck(site, answers))
+        tot_wordrank = np.add(tot_wordrank, do_search_wordrank(site, answers))
+        max_index = np.argmax(tot_wordrank)
+
+        sys.stdout.write("\rQ" + str(q_num) + " > Pick (%i): %s" % (ct+1, answers[max_index]))
+        ct = ct + 1
+
+    # print("\n\t> Search Method: HUNTPECK")
+    # print("\t> Search Method: WORDRANK")
+    ct = 0
+    for i in answers:
+        # print("\n\t> " + str(i) + ": " + str(tot_huntpeck[ct]) + "," + str(tot_wordrank[ct]), end ="\t")
+        ct = ct + 1
+
+    max_index = np.argmax(tot_wordrank)
+    return(answers[max_index])
