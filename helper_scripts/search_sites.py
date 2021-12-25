@@ -135,5 +135,4 @@ def search_lin(site_links, answers, q_num):
         max_index = np.argmax(tot_wordrank)
         update_console(answers, q_num)
 
-    show_tallies(answers)
-    return(answers[max_index])
+    # show_tallies(answers)

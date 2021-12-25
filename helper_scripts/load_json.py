@@ -10,7 +10,6 @@ def jprint(obj):
     print(text)
 
 def load(question):
-    # print("Loading JSON ", end = "")
     serp_apikey = "e9a833d86a8647422dcbd09780978d45a25a67ebabed42d02a416ea18b5b981c"
     search_engine = "google"
 
@@ -21,6 +20,7 @@ def load(question):
 
     if (json_exists == False):
         print("\t> JSON not found, performing new search...", end = "")
+
         response = requests.get("https://serpapi.com/search", data)
         data = response.json()
         save_json(data, json_path)
@@ -28,7 +28,11 @@ def load(question):
         # print("> JSON found locally...", end ="")
         data = json.load(open(json_path))
 
-    site_links = get_links(data)
+    try:
+        site_links = get_links(data)
+    except:
+        site_links = []
+
     return site_links
 #
 def save_json(data, json_path):

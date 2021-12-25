@@ -5,6 +5,7 @@ from helper_scripts import ocrify, imaging, search_sites, load_json, read_csv, p
 #SETUP (1WANS -> [3, 4, 5, 6, 10, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22])
 question_source = ["CSV", "ALL"] # ["OCR"] OR ["CSV", *question_number* OR "1WANS" OR "ALL"]]
 ocr_type = "LOCAL" #LOCAL or ONLINE API
+search_type = "LIN" #MULTI = Multithreaded, LIN = Linear
 sites_ct = 0 #Range 1-7/8 or 0=max
 tic_start = time.perf_counter()
 filenames = imaging.take_images()
@@ -34,20 +35,26 @@ for question_number in question_source[1]:
     #PROCESS TEXT
     question = process_text.process(question)
     answers = process_text.process(answers)
-
     Process_time = time.perf_counter()
-    # print("\t(" + str(round((Process_time - OCR_time), 2)) + " sec)")
 
     #LOAD JSON
     site_links = load_json.load(question)
+    if (site_links == []):
+        print("Q" + str(question_number) + " > (Load JSON Failed) ", end = "")
+
     JSON_time = time.perf_counter()
-    # print("\t(" + str(round((JSON_time - OCR_time), 2)) + " sec)")
 
     #SEARCH EACH SITE
     if (sites_ct > 0):
         del site_links[sites_ct:]
 
-    search_sites.search_multi(site_links, answers, question_number)
+    if (search_type == "MULTI"):
+        search_sites.search_multi(site_links, answers, question_number)
+    elif (search_type == "LIN"):
+        search_sites.search_lin(site_links, answers, question_number)
+    else:
+        print("INVALID SEARCH METHOD")
+
     top_pick = answers[search_sites.get_max()]
 
     Search_time = time.perf_counter()
@@ -72,4 +79,4 @@ for question_number in question_source[1]:
 
 final_toc = time.perf_counter()
 total_time = str(round((final_toc-tic_start), 2))
-logging_tool.save_run(total_time, num_correct, len(question_source[1]))
+logging_tool.save_run(total_time, num_correct, len(question_source[1]), search_type)

@@ -3,13 +3,13 @@ from datetime import datetime
 
 log_file = 'csv_files/logs.csv'
 
-def save_run(run_time, num_correct, num_runs):
+def save_run(run_time, num_correct, num_runs, search_type):
     append = open(log_file, 'a')
 
     now = datetime.now()
     dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
 
-    row = [dt_string, run_time, num_correct, num_runs]
+    row = [dt_string, run_time, num_correct, num_runs, search_type]
     write = csv.writer(append)
     write.writerow(row)
     append.close()
