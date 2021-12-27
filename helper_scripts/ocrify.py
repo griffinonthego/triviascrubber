@@ -4,8 +4,7 @@ import time
 import pytesseract
 import PIL.Image
 import sys
-import process_text
-import read_csv
+from helper_scripts import read_csv
 
 def jprint(obj):
     text = json.dumps(obj, sort_keys=True, indent=4)

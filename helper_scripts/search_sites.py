@@ -43,29 +43,28 @@ def get_max():
 
 def load_page(site):
 
-    #if (site_exists(site) == 1):
-        #print("loca webarchive found, reading...")
-        #do local loading stuff...
-            #What is the format of get requests?
-
-            #try:
-                #load da shit
-                #make it a BeautifulSoup object
-            #except:
-                #soup = 0
-
-    #elif (site_exists(site) == 0):
-        #print("No local webarchive found, loading...")
-        #do online loading stuff...
+    # if (site_exists(site) == 1):
+    #     print("loca webarchive found, reading...")
+    #     do local loading stuff...
+    #         What is the format of get requests?
+    #
+    #         try:
+    #             load da shit
+    #             make it a BeautifulSoup object
+    #         except:
+    #             soup = 0
+    #
+    # elif (site_exists(site) == 0):
+    #     print("No local webarchive found, loading...")
+    #     do online loading stuff...
 
     #online stuff
     try:
         r = requests.get(site)
         soup = BeautifulSoup(r.content, features="html.parser")
-        save_site(site,soup) #might want to swap soup for r
+        # save_site(site,soup) #might want to swap soup for r
     except:
         soup = 0
-
     return soup
 
 def do_search_wordrank(soup, answers):
