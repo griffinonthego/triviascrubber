@@ -29,11 +29,40 @@ def get_max():
     max_index = np.argmax(tot_wordrank)
     return max_index
 
+def save_site(site, soup):
+    #Save the soup data (might need to switch
+    #   to .get format) to file called [site name]
+    #
+
+def site_exists(site):
+    #Get site name, check the website_archives folder
+    #   to see if it exists already
+
+    #If the site does exists, return 1
+    #If the site does not exist, return 0
+
 def load_page(site):
-    soup = 0
+
+    #if (site_exists(site) == 1):
+        #print("loca webarchive found, reading...")
+        #do local loading stuff...
+            #What is the format of get requests?
+
+            #try:
+                #load da shit
+                #make it a BeautifulSoup object
+            #except:
+                #soup = 0
+
+    #elif (site_exists(site) == 0):
+        #print("No local webarchive found, loading...")
+        #do online loading stuff...
+
+    #online stuff
     try:
         r = requests.get(site)
         soup = BeautifulSoup(r.content, features="html.parser")
+        save_site(site,soup) #might want to swap soup for r
     except:
         soup = 0
 
@@ -53,7 +82,6 @@ def do_search_wordrank(soup, answers):
     return totals
 
 def do_search_huntpeck(soup, answers):
-    #currently not really working
     ct = 0
     totals = [0, 0, 0]
     for x in answers:
@@ -132,7 +160,6 @@ def search_lin(site_links, answers, q_num):
         elif(type(soup) == int):
             failures = failures + 1
 
-        max_index = np.argmax(tot_wordrank)
         update_console(answers, q_num)
 
     # show_tallies(answers)
