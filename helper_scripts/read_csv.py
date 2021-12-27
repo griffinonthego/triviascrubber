@@ -1,6 +1,7 @@
 import csv
 from helper_scripts import process_text
 questions_csv = 'csv_files/questions.csv'
+ocr_destination = 'csv_files/OCR_dump.csv'
 
 def open_csv():
     file = open(questions_csv)
@@ -54,6 +55,6 @@ def get_question_number(question):
     return -1
 
 def add_q_and_as(question, answers):
-    append = open(questions_csv, 'a')
-    row = [question, answers[0], answers[1], answers[2], answers[3]]
+    append = open(ocr_destination, 'a')
+    row = question + "," + answers[0] + "," + answers[1] + "," + answers[2] +"\n"
     append.write(row)

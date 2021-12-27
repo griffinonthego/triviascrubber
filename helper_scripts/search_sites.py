@@ -29,17 +29,17 @@ def get_max():
     max_index = np.argmax(tot_wordrank)
     return max_index
 
-def save_site(site, soup):
-    #Save the soup data (might need to switch
-    #   to .get format) to file called [site name]
-    #
-
-def site_exists(site):
-    #Get site name, check the website_archives folder
-    #   to see if it exists already
-
-    #If the site does exists, return 1
-    #If the site does not exist, return 0
+# def save_site(site, soup):
+#     #Save the soup data (might need to switch
+#     #   to .get format) to file called [site name]
+#     #
+#
+# def site_exists(site):
+#     #Get site name, check the website_archives folder
+#     #   to see if it exists already
+#
+#     #If the site does exists, return 1
+#     #If the site does not exist, return 0
 
 def load_page(site):
 
