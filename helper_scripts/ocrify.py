@@ -31,7 +31,7 @@ def read_images_to_csv():
         }
 
         print("Running read_from_files OCR")
-        dir = 'test_images/additional_questions/uncropped/'
+        dir = 'archives/test_images/additional_questions/uncropped/'
         img_start_num = str(image_number)
         img_prefix = "IMG_"
         img_suffix = ".PNG"
@@ -70,7 +70,7 @@ def online(image):
     method = "IMAGE"
     print("\t> Source: " + method)
     if (method == "JSON"):
-        data = json.load(open('../json_files/test_json.json'))
+        data = json.load(open('../archives/json/test_json.json'))
         time.sleep(1)
     elif (method == "IMAGE"):
         print("\t\t> Sending POST Request...")

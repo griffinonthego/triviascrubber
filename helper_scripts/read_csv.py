@@ -1,7 +1,7 @@
 import csv
 from helper_scripts import process_text
-questions_csv = 'csv_files/questions.csv'
-ocr_destination = 'csv_files/OCR_dump.csv'
+questions_csv = 'archives/csv/questions.csv'
+ocr_destination = 'archives/csv/OCR_dump.csv'
 
 def open_csv():
     file = open(questions_csv)

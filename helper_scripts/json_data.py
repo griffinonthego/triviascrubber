@@ -15,7 +15,7 @@ def load(question):
 
     data = {"engine":search_engine, "apikey": serp_apikey, "q": question}
     csv_number = read_csv.get_question_number(question)
-    json_path = 'json_files/' + str(csv_number + 1) + '.json'
+    json_path = 'archives/json/' + str(csv_number + 1) + '.json'
     json_exists = exists(json_path)
 
     if (json_exists == False):

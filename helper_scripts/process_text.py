@@ -20,3 +20,6 @@ def process(text):
             ct = ct + 1
         # print("\t> Processed Text: " + str(answers) + "")
         return answers
+
+def link_to_foldername(site):
+

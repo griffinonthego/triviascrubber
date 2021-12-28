@@ -3,7 +3,7 @@ import sys
 from helper_scripts import ocrify, imaging, search_sites, json_data, read_csv, process_text, logging_tool
 
 #SETUP (1WANS -> [3, 4, 5, 6, 10, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22])
-question_source = ["CSV", "ALL"] # ["OCR"] OR ["CSV", *question_number* OR "1WANS" OR "ALL"]]
+question_source = ["CSV", range(2,3)] # ["OCR"] OR ["CSV", *question_number* OR "1WANS" OR "ALL"]]
 ocr_source = "LOCAL"
 ocr_type = "ONLINE API" #LOCAL or ONLINE API
 search_type = "MULTI" #MULTI = Multithreaded, LIN = Linear
@@ -40,6 +40,7 @@ for question_number in question_source[1]:
 
     #LOAD JSON
     site_links = json_data.load(question)
+    print(site_links)
     if (site_links == []):
         print("Q" + str(question_number) + " > (Load JSON Failed) ", end = "")
     JSON_time = time.perf_counter()

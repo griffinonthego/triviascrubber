@@ -1,7 +1,7 @@
 import csv
 from datetime import datetime
 
-log_file = 'csv_files/logs.csv'
+log_file = 'archives/csv/logs.csv'
 
 def save_run(run_time, num_correct, num_runs, search_type):
     append = open(log_file, 'a')

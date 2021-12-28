@@ -7,11 +7,15 @@ from string import punctuation
 import time
 import sys
 import threading
+import os.path
+from os import path
+from hashlib import sha256
 
 tot_huntpeck = [0, 0, 0]
 tot_wordrank = [0, 0, 0]
 link_num = 0
 failures = 0
+sites_dir = 'archives/websites/'
 
 def increment(add_huntpeck, add_wordrank):
     global tot_huntpeck
@@ -29,43 +33,54 @@ def get_max():
     max_index = np.argmax(tot_wordrank)
     return max_index
 
-# def save_site(site, soup):
-#     #Save the soup data (might need to switch
-#     #   to .get format) to file called [site name]
-#     #
-#
-# def site_exists(site):
-#     #Get site name, check the website_archives folder
-#     #   to see if it exists already
-#
-#     #If the site does exists, return 1
-#     #If the site does not exist, return 0
+def save_site(site, q_num, soup):
+    print("\t> Saving site...")
+    p = sites_dir + str(q_num) + "/"
+    hash = sha256(site.encode()).hexdigest()[:13]
+    filename = f'{hash}.html'
+    # filename = p + filename
+    print(filename)
+    with open(filename, 'w+') as f:
+        f.write(str(soup))
+    # print(os.getxattr(filename, 'user.url').decode())
+    print("done")
 
-def load_page(site):
 
-    # if (site_exists(site) == 1):
-    #     print("loca webarchive found, reading...")
-    #     do local loading stuff...
-    #         What is the format of get requests?
-    #
-    #         try:
-    #             load da shit
-    #             make it a BeautifulSoup object
-    #         except:
-    #             soup = 0
-    #
-    # elif (site_exists(site) == 0):
-    #     print("No local webarchive found, loading...")
-    #     do online loading stuff...
+def site_exists(site, q_num):
+    print("Checking if folder for Q" + str(q_num) + " exists...")
+    
+    if (path.exists(sites_dir + str(q_num)) is not True):
+        print("Directory not found, creatig path")
+        os.mkdir(sites_dir + str(q_num))
+    elif (path.exists(sites_dir + str(q_num)) is True):
+        print("Directory found, reading")
 
-    #online stuff
-    try:
-        r = requests.get(site)
-        soup = BeautifulSoup(r.content, features="html.parser")
-        # save_site(site,soup) #might want to swap soup for r
-    except:
-        soup = 0
-    return soup
+    print("Checking if link in Q" + str(q_num) + " exists...")
+
+    if (path.exists(sites_dir + str(q_num) + "/" + site) is not True):
+        return -1
+    elif (path.exists(sites_dir + str(q_num) + "/" + site) is True):
+        p = sites_dir + str(q_num) + "/" + site
+        return p
+
+
+def load_page(site, q_num):
+    p = site_exists(site, q_num)
+    if (p != -1):
+        print("\t> Local webarchive found, reading...")
+        # try:
+        #
+        # except:
+        #     soup = 0
+    elif (p == -1):
+        print("\t> Local webarchive NOT found, loading...")
+        try:
+            r = requests.get(site)
+            soup = BeautifulSoup(r.content, features="html.parser")
+            save_site(site, q_num,soup)
+        except:
+            soup = 0
+        return soup
 
 def do_search_wordrank(soup, answers):
     text_p = (''.join(s.findAll(text=True)) for s in soup.findAll('p'))
@@ -116,7 +131,7 @@ def run(site, answers, q_num, lock):
     global link_num
     global failures
 
-    soup = load_page(site)
+    soup = load_page(site, q_num)
 
     if (type(soup) == bs4.BeautifulSoup):
         add_huntpeck = do_search_huntpeck(soup, answers)
@@ -153,7 +168,7 @@ def search_lin(site_links, answers, q_num):
     site_links = filter_bad_sites(site_links)
 
     for site in site_links:
-        soup = load_page(site)
+        soup = load_page(site, q_num)
         if (type(soup) == bs4.BeautifulSoup):
             increment(do_search_huntpeck(soup, answers), do_search_wordrank(soup, answers),)
         elif(type(soup) == int):
