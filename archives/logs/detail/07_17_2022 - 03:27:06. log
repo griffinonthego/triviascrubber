@@ -1,0 +1,6 @@
+<module>            Running main script...
+<module>            Parameters:
+                    	question_source: ['CSV', '1WANS']
+                    	search_type: MULTI
+get_oneword         
+Getting list of 1 word answers...

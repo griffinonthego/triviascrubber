@@ -1,3 +1,5 @@
+import logging
+indent = '    '
 
 def modify_text(ocr_text):
     ocr_text = ocr_text.strip()
@@ -8,9 +10,11 @@ def modify_text(ocr_text):
     return ocr_text
 
 def process(text):
+    logger = logging.getLogger(__name__)
+
     if (isinstance(text, str)):
         text = modify_text(text)
-        # print("\t> Processed Question: " + text + "")
+        logger.info(2*indent + "Q: " + text)
         return text
     elif (isinstance(text, list)):
         ct = 0
@@ -18,8 +22,6 @@ def process(text):
         for i in text:
             answers[ct] = modify_text(i)
             ct = ct + 1
-        # print("\t> Processed Text: " + str(answers) + "")
+        logger.info(2*indent + "A: " + str(answers))
         return answers
-
-def link_to_foldername(site):
 

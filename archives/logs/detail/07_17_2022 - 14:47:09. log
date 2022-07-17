@@ -1,0 +1,33 @@
+Running main script...                                      main.py:<module>:24
+    Getting questions, answers from Q2 on local csv...      read_csv.py:read_saved_qa:40
+        Q: Which of these objects is the smallest?          read_csv.py:read_saved_qa:46
+        A: ['Aircraft Carrier', 'Blue Whale', 'Electron']   read_csv.py:read_saved_qa:47
+        Section time:0.0                                    main.py:<module>:45
+    Processing text...                                      main.py:<module>:48
+        Q: which of these objects is the smallest?          process_text.py:process:17
+        A: ['aircraft carrier', 'blue whale', 'electron']   process_text.py:process:25
+        Section time:0.0                                    main.py:<module>:53
+    Checking for local JSON...                              json_data.py:local_load:17
+        Local JSON found.                                   json_data.py:local_load:23
+
+        https://en.wikipedia.org/wiki/List_of_dried_foods  json_data.py:local_load:27
+
+        https://www.britannica.com/science/fruit-plant-reproductive-bodyjson_data.py:local_load:27
+
+        https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152536/json_data.py:local_load:27
+
+        https://www.fao.org/3/v5030e/V5030E08.HTM          json_data.py:local_load:27
+
+        https://www.hsph.harvard.edu/nutritionsource/processed-foods/json_data.py:local_load:27
+
+        https://extension.umn.edu/preserving-and-preparing/science-freezing-foodsjson_data.py:local_load:27
+
+        https://books.google.co.id/books?id=V2MMAAAAYAAJ&pg=PA187&lpg=PA187&dq=what+fruit+does+not+typically+undergo+a+name+change+when+dried?&source=bl&ots=WqbulwLCT1&sig=ACfU3U15WexEw1khGWaN4eAADgGW9rcfKA&hl=en&sa=X&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ6AF6BAgeEAMjson_data.py:local_load:27
+
+        https://www.healthline.com/health/food-safety-fruits-vegetablesjson_data.py:local_load:27
+
+        https://books.google.co.id/books?id=jWcFAAAAQAAJ&pg=PA619&lpg=PA619&dq=what+fruit+does+not+typically+undergo+a+name+change+when+dried?&source=bl&ots=CZ4W-1Opp0&sig=ACfU3U3A3VSMK2FpptyfGnXlP3ca7Ss-Mg&hl=en&sa=X&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ6AF6BAgcEAMjson_data.py:local_load:27
+
+        https://books.google.co.id/books?id=aZQ4AQAAMAAJ&pg=PA824&lpg=PA824&dq=what+fruit+does+not+typically+undergo+a+name+change+when+dried?&source=bl&ots=ov3K9cgUv8&sig=ACfU3U2YvWTa8148hE7CYWFFIz1o_p6MzQ&hl=en&sa=X&ved=2ahUKEwjij6DNsvP0AhVRnOAKHaHWBVUQ6AF6BAgdEAMjson_data.py:local_load:27
+Saving results to summary file...                           logging_tool.py:save_run:40
+Finished                                                    logging_tool.py:save_run:51

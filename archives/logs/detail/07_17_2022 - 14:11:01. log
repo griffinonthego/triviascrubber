@@ -1,0 +1,9 @@
+Running main script...                                      main.py:<module>:24
+    Getting questions, answers from Q2 on local csv...      read_csv.py:read_saved_qa:40
+        Q: Which of these objects is the smallest?          read_csv.py:read_saved_qa:46
+        A: ['Aircraft Carrier', 'Blue Whale', 'Electron']   read_csv.py:read_saved_qa:47
+    Processing text...                                      main.py:<module>:47
+        Q: which of these objects is the smallest?          process_text.py:process:17
+        A: ['aircraft carrier', 'blue whale', 'electron']   process_text.py:process:25
+Saving results to summary file...                           logging_tool.py:save_run:40
+Finished                                                    logging_tool.py:save_run:51

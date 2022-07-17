@@ -6,10 +6,11 @@ from collections import Counter
 from string import punctuation
 import time
 import sys
+import logging
 import threading
 import os.path
 from os import path
-from hashlib import sha256
+indent = '    '
 
 tot_huntpeck = [0, 0, 0]
 tot_wordrank = [0, 0, 0]
@@ -36,21 +37,16 @@ def get_max():
 def save_site(site, q_num, soup):
     print("\t> Saving site...")
     p = sites_dir + str(q_num) + "/"
-    hash = sha256(site.encode()).hexdigest()[:13]
-    filename = f'{hash}.html'
-    # filename = p + filename
-    print(filename)
-    with open(filename, 'w+') as f:
+    #STUCK HERE - > GOTTA FIGURE OUT HOW TO SAVE THE URL IN THE FILENAME
+    with open(p, 'w+') as f:
         f.write(str(soup))
-    # print(os.getxattr(filename, 'user.url').decode())
     print("done")
-
 
 def site_exists(site, q_num):
     print("Checking if folder for Q" + str(q_num) + " exists...")
     
     if (path.exists(sites_dir + str(q_num)) is not True):
-        print("Directory not found, creatig path")
+        print("Directory not found, creating path")
         os.mkdir(sites_dir + str(q_num))
     elif (path.exists(sites_dir + str(q_num)) is True):
         print("Directory found, reading")
@@ -63,24 +59,25 @@ def site_exists(site, q_num):
         p = sites_dir + str(q_num) + "/" + site
         return p
 
-
 def load_page(site, q_num):
-    p = site_exists(site, q_num)
+    logger = logging.getLogger(__name__)
+    method =''
+
+    # p = site_exists(site, q_num)
+    p = -1
     if (p != -1):
-        print("\t> Local webarchive found, reading...")
-        # try:
-        #
-        # except:
-        #     soup = 0
+        method = 'local'
+        logger.error("Local webarchive system not yet implemented")
+        quit()
     elif (p == -1):
-        print("\t> Local webarchive NOT found, loading...")
+        method = 'web'
         try:
             r = requests.get(site)
             soup = BeautifulSoup(r.content, features="html.parser")
-            save_site(site, q_num,soup)
+            # save_site(site, q_num,soup)
         except:
             soup = 0
-        return soup
+        return soup, method
 
 def do_search_wordrank(soup, answers):
     text_p = (''.join(s.findAll(text=True)) for s in soup.findAll('p'))
@@ -91,7 +88,6 @@ def do_search_wordrank(soup, answers):
     results = c_div + c_p
 
     totals = [results[answers[0]], results[answers[1]], results[answers[2]]]
-    end_totals = time.perf_counter()
 
     return totals
 
@@ -102,6 +98,7 @@ def do_search_huntpeck(soup, answers):
             if (soup.find(text = x) is not None):
                     totals[ct] = totals[ct] + 1
             ct = ct + 1
+
     return totals
 
 def clear_globals():
@@ -125,13 +122,14 @@ def show_tallies(answers):
         ct = ct + 1
     print("\n")
 
-def run(site, answers, q_num, lock):
+def run_search(site, answers, q_num, lock):
+    logger = logging.getLogger(__name__)
     global tot_wordrank
     global tot_huntpeck
     global link_num
     global failures
 
-    soup = load_page(site, q_num)
+    soup, method = load_page(site, q_num)
 
     if (type(soup) == bs4.BeautifulSoup):
         add_huntpeck = do_search_huntpeck(soup, answers)
@@ -140,20 +138,19 @@ def run(site, answers, q_num, lock):
         increment(add_huntpeck, add_wordrank)
         lock.release()
     if (type(soup) == int):
+        logger.warning(indent*3 + "failed link ")
         failures = failures + 1
 
-    update_console(answers, q_num)
-    # show_tallies(answers)
+    logger.info(indent * 2 + "" + site[8:30] + " - [" + method + "] [" + "]")
+
 
 def search_multi(site_links, answers, q_num):
     clear_globals()
-    site_links = filter_bad_sites(site_links)
-
     lock = threading.Lock()
     threads = []
 
     for x in range(len(site_links)):
-        t = threading.Thread(target=run, args=(site_links[x],answers,q_num,lock))
+        t = threading.Thread(target=run_search, args=(site_links[x], answers, q_num, lock))
         t.start()
         threads.append(t)
 
@@ -165,7 +162,6 @@ def search_lin(site_links, answers, q_num):
     global tot_wordrank
     global tot_huntpeck
     global failures
-    site_links = filter_bad_sites(site_links)
 
     for site in site_links:
         soup = load_page(site, q_num)

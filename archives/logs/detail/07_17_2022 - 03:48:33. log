@@ -1,0 +1,4 @@
+Running main script...                                      main.py:<module>
+Getting questions, answers from local csv...                read_csv.py:local
+Saving results to summary file...                           logging_tool.py:save_run
+Finished                                                    main.py:<module>

@@ -1,0 +1,6 @@
+Running main script...                                      main.py:<module>:26
+    Getting questions, answers from local csv...            read_csv.py:read_saved_qa:40
+        Which of these objects is the smallest?
+        ['Aircraft Carrier', 'Blue Whale', 'Electron']read_csv.py:read_saved_qa:46
+Saving results to summary file...                           logging_tool.py:save_run:38
+Finished                                                    main.py:<module>:98
