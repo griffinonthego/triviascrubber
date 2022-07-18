@@ -26,39 +26,39 @@ Running main script...                                      INFO-main.py:<module
         quizlet.com/22064307/chapter-20-makeup-qui (web)
             Wordrank - blush:0 primer:0 primer:0 
             Huntpeck - blush:0 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
+                                                  INFO-search_sites.py:run_search:146
         revolutioninkgallery.com/lgojnd/what-is-pi (web)
             Wordrank - blush:0 primer:0 primer:0 
             Huntpeck - blush:0 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
+                                                  INFO-search_sites.py:run_search:146
         www.medicalnewstoday.com/articles/327318 (web)
             Wordrank - blush:0 primer:0 primer:0 
             Huntpeck - blush:0 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
+                                                  INFO-search_sites.py:run_search:146
         en.wikipedia.org/wiki/Cosmetics (web)
             Wordrank - blush:44 primer:6 primer:0 
             Huntpeck - blush:1 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
-        www.makeupartistessentials.com/an-introduc (web)
-            Wordrank - blush:89 primer:248 primer:0 
-            Huntpeck - blush:0 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
-        books.google.com/books?id=jmYPEAAAQBAJ&pg= (web)
-            Wordrank - blush:0 primer:0 primer:0 
-            Huntpeck - blush:0 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
-        books.google.com/books?id=aUsSAQAAMAAJ&pg= (web)
-            Wordrank - blush:0 primer:0 primer:0 
-            Huntpeck - blush:0 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
-        books.google.com/books?id=JID0HK9TmGoC&pg= (web)
-            Wordrank - blush:0 primer:0 primer:0 
-            Huntpeck - blush:0 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
+                                                  INFO-search_sites.py:run_search:146
         books.google.com/books?id=hcEKAAAAQBAJ&pg= (web)
             Wordrank - blush:3 primer:0 primer:0 
             Huntpeck - blush:0 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
-        Section time:0.59                                   INFO-main.py:<module>:87
+                                                  INFO-search_sites.py:run_search:146
+        www.makeupartistessentials.com/an-introduc (web)
+            Wordrank - blush:89 primer:248 primer:0 
+            Huntpeck - blush:0 primer:0 primer:0
+                                                  INFO-search_sites.py:run_search:146
+        books.google.com/books?id=aUsSAQAAMAAJ&pg= (web)
+            Wordrank - blush:0 primer:0 primer:0 
+            Huntpeck - blush:0 primer:0 primer:0
+                                                  INFO-search_sites.py:run_search:146
+        books.google.com/books?id=jmYPEAAAQBAJ&pg= (web)
+            Wordrank - blush:0 primer:0 primer:0 
+            Huntpeck - blush:0 primer:0 primer:0
+                                                  INFO-search_sites.py:run_search:146
+        books.google.com/books?id=JID0HK9TmGoC&pg= (web)
+            Wordrank - blush:0 primer:0 primer:0 
+            Huntpeck - blush:0 primer:0 primer:0
+                                                  INFO-search_sites.py:run_search:146
+        Section time:0.65                                   INFO-main.py:<module>:87
 Saving results to summary file...                           INFO-logging_tool.py:save_run:40
 Finished                                                    INFO-logging_tool.py:save_run:51

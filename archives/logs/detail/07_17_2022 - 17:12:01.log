@@ -39,26 +39,26 @@ Running main script...                                      INFO-main.py:<module
             Wordrank - blush:44 primer:6 primer:0 
             Huntpeck - blush:1 primer:0 primer:0
                                                             INFO-search_sites.py:run_search:146
-        www.makeupartistessentials.com/an-introduc (web)
-            Wordrank - blush:89 primer:248 primer:0 
+        books.google.com/books?id=aUsSAQAAMAAJ&pg= (web)
+            Wordrank - blush:0 primer:0 primer:0 
             Huntpeck - blush:0 primer:0 primer:0
                                                             INFO-search_sites.py:run_search:146
         books.google.com/books?id=jmYPEAAAQBAJ&pg= (web)
             Wordrank - blush:0 primer:0 primer:0 
             Huntpeck - blush:0 primer:0 primer:0
                                                             INFO-search_sites.py:run_search:146
-        books.google.com/books?id=aUsSAQAAMAAJ&pg= (web)
-            Wordrank - blush:0 primer:0 primer:0 
-            Huntpeck - blush:0 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
-        books.google.com/books?id=JID0HK9TmGoC&pg= (web)
-            Wordrank - blush:0 primer:0 primer:0 
+        www.makeupartistessentials.com/an-introduc (web)
+            Wordrank - blush:89 primer:248 primer:0 
             Huntpeck - blush:0 primer:0 primer:0
                                                             INFO-search_sites.py:run_search:146
         books.google.com/books?id=hcEKAAAAQBAJ&pg= (web)
             Wordrank - blush:3 primer:0 primer:0 
             Huntpeck - blush:0 primer:0 primer:0
                                                             INFO-search_sites.py:run_search:146
-        Section time:0.59                                   INFO-main.py:<module>:87
+        books.google.com/books?id=JID0HK9TmGoC&pg= (web)
+            Wordrank - blush:0 primer:0 primer:0 
+            Huntpeck - blush:0 primer:0 primer:0
+                                                            INFO-search_sites.py:run_search:146
+        Section time:0.61                                   INFO-main.py:<module>:87
 Saving results to summary file...                           INFO-logging_tool.py:save_run:40
 Finished                                                    INFO-logging_tool.py:save_run:51

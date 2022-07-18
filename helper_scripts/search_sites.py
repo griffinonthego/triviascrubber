@@ -88,17 +88,16 @@ def do_search_wordrank(soup, answers):
     results = c_div + c_p
 
     totals = [results[answers[0]], results[answers[1]], results[answers[2]]]
-
     return totals
 
 def do_search_huntpeck(soup, answers):
+
     ct = 0
     totals = [0, 0, 0]
     for x in answers:
             if (soup.find(text = x) is not None):
                     totals[ct] = totals[ct] + 1
             ct = ct + 1
-
     return totals
 
 def clear_globals():
@@ -141,8 +140,18 @@ def run_search(site, answers, q_num, lock):
         logger.warning(indent*3 + "failed link ")
         failures = failures + 1
 
-    logger.info(indent * 2 + "" + site[8:30] + " - [" + method + "] [" + "]")
+    print(add_wordrank)
+    print(site)
 
+    logger.info(indent * 2 + "" + site[8:50] + " (" + method + ")\n"
+                + indent * 3 + "Wordrank - "
+                + answers[0] + ":" + str(add_wordrank[0]) + " "
+                + answers[1] + ":" + str(add_wordrank[1]) + " "
+                + answers[1] + ":" + str(add_wordrank[2])+ " \n"
+                + indent * 3 + "Huntpeck - "
+                + answers[0] + ":" + str(add_huntpeck[0]) + " "
+                + answers[1] + ":" + str(add_huntpeck[1]) + " "
+                + answers[1] + ":" + str(add_huntpeck[2]) + "\n" + " "*60)
 
 def search_multi(site_links, answers, q_num):
     clear_globals()

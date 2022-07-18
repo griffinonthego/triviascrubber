@@ -5,6 +5,7 @@ import pytesseract
 import PIL.Image
 import sys
 from helper_scripts import read_csv
+import threading
 
 def jprint(obj):
     text = json.dumps(obj, sort_keys=True, indent=4)
@@ -22,9 +23,9 @@ def read_images_to_csv():
         pdir = 'app_images/'
         filenames = {
             'question_image': pdir + 'q.png',
-            'processed_question_image': pdir + 'pq.png',
-            'answer_image': pdir + 'a.png',
-            'processed_answer_image': pdir + 'a.png',
+            # 'processed_question_image': pdir + 'pq.png',
+            # 'answer_image': pdir + 'a.png',
+            # 'processed_answer_image': pdir + 'a.png',
             'answer1_image': pdir + 'a1.png',
             'answer2_image': pdir + 'a2.png',
             'answer3_image': pdir + 'a3.png',
@@ -97,6 +98,47 @@ def run(ocr_type, filenames):
         answer1 = online(filenames['answer1_image'])
         answer2 = online(filenames['answer2_image'])
         answer3 = online(filenames['answer3_image'])
+    elif ocr_type == "LOCAL":
+        question = local(filenames['question_image'])
+        answer1 = local(filenames['answer1_image'])
+        answer2 = local(filenames['answer2_image'])
+        answer3 = local(filenames['answer3_image'])
+    else:
+        print("\t> INVALID SEARCH METHOD")
+        sys.exit(0)
+    answers = [answer1, answer2, answer3]
+    return question, answers
+
+def run_multi(ocr_type, filenames):
+    print("\nPerfoming OCR... \n\t> Processing Method: " + ocr_type)
+    if ocr_type == "ONLINE API":
+        lock = threading.Lock()
+        threads = []
+
+        images = [filenames['question_image'], filenames['answer1_image'],filenames['answer2_image'],filenames['answer3_image']]
+
+        print(type(images[0]))
+        print(len(images[0]))
+        # quit()
+
+        for x in range(len(images)):
+            t = threading.Thread(target=online, args=(images[x]))
+            t.start()
+            threads.append(t)
+
+        for x in threads:
+            x.join()
+
+        quit()
+
+        # question = online(filenames['question_image'])
+        # answer1 = online(filenames['answer1_image'])
+        # answer2 = online(filenames['answer2_image'])
+        # answer3 = online(filenames['answer3_image'])
+        #
+        #
+
+
     elif ocr_type == "LOCAL":
         question = local(filenames['question_image'])
         answer1 = local(filenames['answer1_image'])

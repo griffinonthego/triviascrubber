@@ -14,7 +14,7 @@ def process(text):
 
     if (isinstance(text, str)):
         text = modify_text(text)
-        logger.info(2*indent + "Q: " + text)
+        logger.info(2*indent + "Q: " + text[0:40])
         return text
     elif (isinstance(text, list)):
         ct = 0

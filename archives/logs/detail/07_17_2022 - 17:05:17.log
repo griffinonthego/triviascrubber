@@ -23,42 +23,24 @@ Running main script...                                      INFO-main.py:<module
     Filtering bad links...                                  INFO-main.py:<module>:66
         Section time:0.0                                    INFO-main.py:<module>:72
     Running website load/search (multithreaded)...          INFO-main.py:<module>:76
-        quizlet.com/22064307/chapter-20-makeup-qui (web)
-            Wordrank - blush:0 primer:0 primer:0 
-            Huntpeck - blush:0 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
-        revolutioninkgallery.com/lgojnd/what-is-pi (web)
-            Wordrank - blush:0 primer:0 primer:0 
-            Huntpeck - blush:0 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
-        www.medicalnewstoday.com/articles/327318 (web)
-            Wordrank - blush:0 primer:0 primer:0 
-            Huntpeck - blush:0 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
-        en.wikipedia.org/wiki/Cosmetics (web)
-            Wordrank - blush:44 primer:6 primer:0 
-            Huntpeck - blush:1 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
-        www.makeupartistessentials.com/an-introduc (web)
-            Wordrank - blush:89 primer:248 primer:0 
-            Huntpeck - blush:0 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
-        books.google.com/books?id=jmYPEAAAQBAJ&pg= (web)
-            Wordrank - blush:0 primer:0 primer:0 
-            Huntpeck - blush:0 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
-        books.google.com/books?id=aUsSAQAAMAAJ&pg= (web)
-            Wordrank - blush:0 primer:0 primer:0 
-            Huntpeck - blush:0 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
-        books.google.com/books?id=JID0HK9TmGoC&pg= (web)
-            Wordrank - blush:0 primer:0 primer:0 
-            Huntpeck - blush:0 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
-        books.google.com/books?id=hcEKAAAAQBAJ&pg= (web)
-            Wordrank - blush:3 primer:0 primer:0 
-            Huntpeck - blush:0 primer:0 primer:0
-                                                            INFO-search_sites.py:run_search:146
-        Section time:0.59                                   INFO-main.py:<module>:87
+        quizlet.com/22064307/chapter-20-makeup-qui (web)    INFO-search_sites.py:run_search:146
+            Wordrank - blush: 0                             INFO-search_sites.py:run_search:147
+        revolutioninkgallery.com/lgojnd/what-is-pi (web)    INFO-search_sites.py:run_search:146
+            Wordrank - blush: 0                             INFO-search_sites.py:run_search:147
+        www.medicalnewstoday.com/articles/327318 (web)      INFO-search_sites.py:run_search:146
+            Wordrank - blush: 0                             INFO-search_sites.py:run_search:147
+        en.wikipedia.org/wiki/Cosmetics (web)               INFO-search_sites.py:run_search:146
+            Wordrank - blush: 44                            INFO-search_sites.py:run_search:147
+        books.google.com/books?id=JID0HK9TmGoC&pg= (web)    INFO-search_sites.py:run_search:146
+            Wordrank - blush: 0                             INFO-search_sites.py:run_search:147
+        books.google.com/books?id=aUsSAQAAMAAJ&pg= (web)    INFO-search_sites.py:run_search:146
+        www.makeupartistessentials.com/an-introduc (web)    INFO-search_sites.py:run_search:146
+            Wordrank - blush: 0                             INFO-search_sites.py:run_search:147
+        books.google.com/books?id=hcEKAAAAQBAJ&pg= (web)    INFO-search_sites.py:run_search:146
+            Wordrank - blush: 89                            INFO-search_sites.py:run_search:147
+            Wordrank - blush: 3                             INFO-search_sites.py:run_search:147
+        books.google.com/books?id=jmYPEAAAQBAJ&pg= (web)    INFO-search_sites.py:run_search:146
+            Wordrank - blush: 0                             INFO-search_sites.py:run_search:147
+        Section time:0.66                                   INFO-main.py:<module>:87
 Saving results to summary file...                           INFO-logging_tool.py:save_run:40
 Finished                                                    INFO-logging_tool.py:save_run:51

@@ -1,0 +1,38 @@
+Running main script...                                      INFO-main.py:<module>:24
+    Getting questions, answers from Q4 on local csv...      INFO-read_csv.py:read_saved_qa:40
+        Q: What country’s tourism board is “reclaim         INFO-read_csv.py:read_saved_qa:46
+        A: ['Austria', 'Denmark', 'Sweden']                 INFO-read_csv.py:read_saved_qa:47
+        Section time:0.0                                    INFO-main.py:<module>:45
+    Processing text...                                      INFO-main.py:<module>:49
+        Q: what country’s tourism board is “reclaim         INFO-process_text.py:process:17
+        A: ['austria', 'denmark', 'sweden']                 INFO-process_text.py:process:25
+        Section time:0.0                                    INFO-main.py:<module>:54
+    Gathering website links...                              INFO-main.py:<module>:58
+        Local JSON found...                                 INFO-json_data.py:local_load:22
+            https://muscatinejournal.com/lifestyles/        INFO-json_data.py:local_load:26
+            https://madison.com/lifestyles/sweden-is        INFO-json_data.py:local_load:26
+            https://www.wfmz.com/lifestyles/sweden-i        INFO-json_data.py:local_load:26
+            https://nonpareilonline.com/lifestyles/s        INFO-json_data.py:local_load:26
+            https://the-message.ca/2021/12/13/what-i        INFO-json_data.py:local_load:26
+            https://www.msn.com/en-us/news/technolog        INFO-json_data.py:local_load:26
+            https://twitter.com/visitsweden?lang=en         INFO-json_data.py:local_load:26
+            https://www.forbes.com/sites/brandonschu        INFO-json_data.py:local_load:26
+            https://worldcrunch.com/in-the-news/assa        INFO-json_data.py:local_load:26
+            https://swiftheadline.com/dear-ikea-swed        INFO-json_data.py:local_load:26
+        Section time:0.0                                    INFO-main.py:<module>:62
+    Filtering bad links...                                  INFO-main.py:<module>:66
+        Section time:0.0                                    INFO-main.py:<module>:72
+    Running website load/search (multithreaded)...          INFO-main.py:<module>:76
+        www.forbes.com/sites/b - [web] []                   INFO-search_sites.py:run_search:153
+        the-message.ca/2021/12 - [web] []                   INFO-search_sites.py:run_search:153
+        worldcrunch.com/in-the - [web] []                   INFO-search_sites.py:run_search:153
+        www.msn.com/en-us/news - [web] []                   INFO-search_sites.py:run_search:153
+        www.wfmz.com/lifestyle - [web] []                   INFO-search_sites.py:run_search:153
+        nonpareilonline.com/li - [web] []                   INFO-search_sites.py:run_search:153
+        madison.com/lifestyles - [web] []                   INFO-search_sites.py:run_search:153
+        swiftheadline.com/dear - [web] []                   INFO-search_sites.py:run_search:153
+        muscatinejournal.com/l - [web] []                   INFO-search_sites.py:run_search:153
+        twitter.com/visitswede - [web] []                   INFO-search_sites.py:run_search:153
+        Section time:1.16                                   INFO-main.py:<module>:87
+Saving results to summary file...                           INFO-logging_tool.py:save_run:40
+Finished                                                    INFO-logging_tool.py:save_run:51

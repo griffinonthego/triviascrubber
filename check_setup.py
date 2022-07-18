@@ -2,7 +2,7 @@ import numpy as np
 import mss.tools
 import cv2
 
-q_bb = {'top': 230, 'left': 30, 'width': 300, 'height': 175}
+q_bb = {'top': 218, 'left': 30, 'width': 300, 'height': 175}
 a1_bb = {'top': 450, 'left': 80, 'width': 200, 'height': 50}
 a2_bb = {'top': 520, 'left': 80, 'width': 200, 'height': 50}
 a3_bb = {'top': 590, 'left': 80, 'width': 200, 'height': 50}

@@ -1,0 +1,37 @@
+Running main script...                                      INFO-main.py:<module>:24
+    Getting questions, answers from Q2 on local csv...      INFO-read_csv.py:read_saved_qa:40
+        Q: Which of these objects is the smallest?          INFO-read_csv.py:read_saved_qa:46
+        A: ['Aircraft Carrier', 'Blue Whale', 'Electron']   INFO-read_csv.py:read_saved_qa:47
+        Section time:0.0                                    INFO-main.py:<module>:45
+    Processing text...                                      INFO-main.py:<module>:49
+        Q: which of these objects is the smallest?          INFO-process_text.py:process:17
+        A: ['aircraft carrier', 'blue whale', 'electron']   INFO-process_text.py:process:25
+        Section time:0.0                                    INFO-main.py:<module>:54
+    Gathering website links...                              INFO-main.py:<module>:58
+        Local JSON found...                                 INFO-json_data.py:local_load:22
+            https://quizlet.com/251802743/astronomy-        INFO-json_data.py:local_load:26
+            https://www.space.com/7714-smallest-obje        INFO-json_data.py:local_load:26
+            https://en.wikipedia.org/wiki/List_of_So        INFO-json_data.py:local_load:26
+            https://www.snoqap.com/posts/2020/8/11/t        INFO-json_data.py:local_load:26
+            https://socratic.org/questions/what-is-t        INFO-json_data.py:local_load:26
+            https://brainly.com/question/20750191           INFO-json_data.py:local_load:26
+            https://science.nasa.gov/solar-system/fo        INFO-json_data.py:local_load:26
+            https://brainly.in/question/22347990            INFO-json_data.py:local_load:26
+            https://courses.lumenlearning.com/atd-fs        INFO-json_data.py:local_load:26
+                                                            INFO-json_data.py:local_load:26
+        Section time:0.0                                    INFO-main.py:<module>:62
+    Filtering bad links...                                  INFO-main.py:<module>:66
+        Section time:0.0                                    INFO-main.py:<module>:72
+    Running website load/search (multithreaded)...          INFO-main.py:<module>:76
+        quizlet.com/251802743/ - [web] []                   INFO-search_sites.py:run_search:153
+        brainly.com/question/2 - [web] []                   INFO-search_sites.py:run_search:153
+        brainly.in/question/22 - [web] []                   INFO-search_sites.py:run_search:153
+        science.nasa.gov/solar - [web] []                   INFO-search_sites.py:run_search:153
+        www.space.com/7714-sma - [web] []                   INFO-search_sites.py:run_search:153
+        www.snoqap.com/posts/2 - [web] []                   INFO-search_sites.py:run_search:153
+        courses.lumenlearning. - [web] []                   INFO-search_sites.py:run_search:153
+        socratic.org/questions - [web] []                   INFO-search_sites.py:run_search:153
+        en.wikipedia.org/wiki/ - [web] []                   INFO-search_sites.py:run_search:153
+        Section time:1.68                                   INFO-main.py:<module>:87
+Saving results to summary file...                           INFO-logging_tool.py:save_run:40
+Finished                                                    INFO-logging_tool.py:save_run:51

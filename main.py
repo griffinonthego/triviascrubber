@@ -8,7 +8,7 @@ logging_tool.configure_logger()
 logger = logging.getLogger(__name__)
 
 #SETUP (1WANS -> [3, 4, 5, 6, 10, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22])
-question_source = ["CSV", range(2,3)] # ["OCR"] OR ["CSV", *question_number* OR "1WANS" OR "ALL"]]
+question_source = ["CSV", range(14,15)] # ["OCR"] OR ["CSV", *question_number* OR "1WANS" OR "ALL"]]
 ocr_source = "LOCAL"
 ocr_type = "ONLINE API" #LOCAL or ONLINE API
 search_type = "multithreaded" #multithreaded OR linear

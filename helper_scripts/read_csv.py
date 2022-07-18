@@ -43,7 +43,7 @@ def read_saved_qa(filter):
     question = rows[filter-1][0]
     answers = [rows[filter-1][1], rows[filter-1][2], rows[filter-1][3]]
 
-    logger.info(2*indent + "Q: " + str(question))
+    logger.info(2*indent + "Q: " + str(question)[0:40])
     logger.info(2*indent + "A: " + str(answers))
 
     return question, answers

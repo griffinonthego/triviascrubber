@@ -1,5 +1,0 @@
-Running main script...
-Parameters
-	question_source: ['CSV', range(2, 3)]
-	search_type: MULTI
-

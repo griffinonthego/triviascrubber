@@ -14,7 +14,7 @@ def configure_logger():
 
     now = datetime.now()
     dt_string = now.strftime("%m_%d_%Y - %H:%M:%S")
-    detail_name = detail_folder + dt_string + ". log"
+    detail_name = detail_folder + dt_string + ".log"
     latest_name = detail_folder + "latest.log"
 
     bulk_handler = logging.FileHandler(detail_name)

@@ -15,7 +15,7 @@ def print(obj):
 def local_load(question_number):
     logger = logging.getLogger(__name__)
 
-    json_path = 'archives/json/' + str(question_number + 1) + '.json'
+    json_path = 'archives/json/' + str(question_number) + '.json'
     json_exists = exists(json_path)
 
     if(json_exists):

@@ -1,5 +1,0 @@
-Running main script...                            [main.py:<module>:8]
-Parameters
-	question_source: ['CSV', range(2, 3)]
-	search_type: MULTI
-[main.py:<module>:20]
